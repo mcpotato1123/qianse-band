@@ -1,0 +1,128 @@
+s		这之后，天地间只剩下我踏雪的吱吱声。
+s		这里是世界的尽头，
+s		也正因为是世界的尽头，所以这条路无法通往目的地以外的任何地方。
+s		我的世界因为与小姐的感情而停止了运转，
+s		也因为需要享受与小姐在一起的每一天而再度迈出脚步。
+c	DLC
+b	black
+s	宁桐雨	呼，小鑫，好累啊...
+s	余晓鑫	明明才刚刚开始呐~
+s	余晓鑫	既然已经答应了我，可不好半途而废哦？
+s	宁桐雨	喂，那里！
+s	余晓鑫	诶？喜欢这样的感觉，
+s	宁桐雨	哪，哪有啦，
+s	宁桐雨	讨厌死你了...
+s		没错，明明是不被允许的，
+s		可在体育馆关门了之后，我们俩还是偷偷溜了进去。
+s		而在这个闭馆营造出的二人世界里，我们在...
+b	dlc_ping_pong_table
+p	n	c	ss3	-	-	cloth:scs3
+p	n	l	ss3	-	-	cloth:scs3
+p	x	r	sf4	-	-	cloth:scf2
+s		练习乒乓球技巧。
+s		小鑫似乎特别擅长打出各种刁钻的吊球，每次让我来不及应对时还用那种欠揍的语调来嘲弄我。
+s		唔...这个人，果然还是没改掉原来那种恶劣的性格。
+p	n	l	ss3	-	-	cloth:scs3
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	再下两盘，小宁就要输了哦？
+s	余晓鑫	输的人今晚在下面！
+p	n	l	ss5	-	-	cloth:scs3
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	我可没记得跟你打过这种赌！
+p	n	l	ss5	-	-	cloth:scs3
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss5	-	-	cloth:scs3
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	嘿，我临时加的。
+p	n	l	ss5	-	-	cloth:scs3
+p	x	r	sf5	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf3
+p	x	r	sf5	-	-	cloth:scf2
+s		我还没来得及回嘴，猛烈的发球就朝我扑了过来，
+s		或许是因为被她的话激怒的我毫无防备的原因，这一次回球居然下网了。
+p	n	l	sf6	-	-	cloth:scf3
+p	x	r	sf5	-	-	cloth:scf2
+s		明明我记得刚才她的发球不带旋来着的...
+p	n	l	sf6	-	-	cloth:scf3
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	嘿嘿，只差最后一分了哦？别做无谓的挣扎啦~
+s	余晓鑫	乖乖接受惩罚吧，小宁，
+p	n	l	sf8	-	-	cloth:scf3
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	急什么？明明还有最后一局决胜局呢？
+p	n	l	sf8	-	-	cloth:scf3
+p	x	r	sf8	-	-	cloth:scf2
+s		说着，我抖了抖被汗水浸湿的衬衫，再度把注意力投到了球桌上。
+h	n
+h	x
+b	dour1_c
+p	x	c	ss21	-	-	cloth:scs3
+s	余晓鑫	唔嗯，大腿，蹭蹭...
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf3	-	-	cloth:scf5
+s	宁桐雨	喂，很痒的啦...
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf3	-	-	cloth:scf5
+s	余晓鑫	抱歉呐，小宁，这就是所谓的胜者奖励呐~
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf3	-	-	cloth:scf5
+s	余晓鑫	乖乖忍受哦~
+s	宁桐雨	切，本，本来就没什么难受的好嘛，真的是...
+h	x
+h	n
+b	black
+b	dlc_ping_pong_table
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf3
+s		虽然明明早就讲好了胜利的奖励，可到了决胜盘她又突然反悔了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf3
+s	余晓鑫	话说，咱不是一直在上面吗？那这个奖励又有什么用呢？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf3
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs3
+s	宁桐雨	说什么呢你，真的是，整天把这种事挂在嘴边。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs3
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs3
+s	余晓鑫	不对吧，小宁，我要改条件了，
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+s	余晓鑫	这样，如果我赢了的话今晚就给我半小时的膝枕哦~
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	你是袋鼠宝宝嘛！半个小时，对我们俩都是折磨好吧...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	我可不这么认为哦，呼呼~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf3
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf3
+s	宁桐雨	多说无益，看招！
+s		结果到最后，还是输给了她。
+h	x
+p	n	c	sf8	-	-	cloth:scf3
+h	n
+p	x	c	ss21	-	-	cloth:scs2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf3
+s	余晓鑫	愿赌服输哦，小宁？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf3
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs3
+s	宁桐雨	行，行吧，可真是服了你这个长不大的孩子了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3

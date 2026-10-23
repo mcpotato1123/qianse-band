@@ -1,0 +1,128 @@
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	嗯，
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	唔...
+s		不知不觉间，我撇起了嘴。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	小宁可真是喜欢杨老师呐~
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	喜欢什么的...也没有这种事啦。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	顶多是因为我小时候自动把她当作憧憬的对象了吧...
+p	n	l	ss12	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	哈哈，很奇怪吧？明明是那么不争气的女人...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+s		可我却没有回应她的打趣。
+s		跟我聊天的时候，小宁正踩在凳子上规整着放在柜子顶的旅行包。
+s		可就在刚说话的时候，她甚至连头都没回一下...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	明明我也是小宁的青梅竹马...
+s		越想越气的我最终把心头的想法全盘托出了。
+s		如果这是一部电视剧的话，我的外号肯定要叫“柠檬精”吧...
+s		听到这话的她诧异地回过了头来，连手也离开了柜子的把手。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	误会啦，那是说...
+s		她本想进一步解释这一切，可在这之前就因为重心不稳向后面倾斜过去。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	小鑫！
+h	n
+h	x
+b	black
+s		在听到她的呼救之前我就赶到了她的身后，从身后接住了掉落的她。
+s		啪嗒！
+s		椅子倒到了一旁，发出了巨大的噪音。
+s		巨大的压力从手腕处传来，我一边用力维持着平衡一边把她缓缓地往下放。
+s		这个过程像抱着一个小女孩，
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁，你好轻啊~
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	尤其是胸门口，连一点肉都没有...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	宁桐雨	好，好烦啦...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	宁桐雨	不过，还是谢谢了，不然我要是真摔了，都不知道能不能看见明天的太阳了...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	余晓鑫	有我在呐。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	宁桐雨	有一个身手矫健的女友可真是件好事啊~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	余晓鑫	行李归好了吗？要我帮你拿下来吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	宁桐雨	不用了啦，剩下那一点留到明天也行，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	余晓鑫	嗯...
+s		突然间，我不知道该怎么开口了...
+s		小宁似乎并不在乎之前我说的话，该不该跟她...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	余晓鑫	那个，之前的话，我很对不起...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	没事啦，毕竟小鑫一直都很喜欢吃醋啦，就算是毫无来源的嫉妒心也很正常。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	那...杨老师...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	我只是把她当作亲人来看待的啦，咱们是表姐妹啦，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	这样...
+h	x
+h	n
+b	dour1_c
+p	n	c	sf14	-	-	cloth:scf2
+s	宁桐雨	好啦，少女哟，夜晚还很漫长呐，不上床再聊吗？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	小宁，你是从哪里学到的这酒吧女侍一样的口气...
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	还不是你在闹别扭嘛，咱就想着今天主动一点罢了。
+p	n	l	sf13	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	还是说，你今晚没兴趣了？
+p	n	l	sf13	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	没，没有，绝对没有。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	那就好。
+h	n
+h	x
+b	black
+s		我也不知道那个晚上我是几点钟才睡着的，毕竟跟小宁办完事了之后，时间意识总是格外地淡薄。
+b	dour1_m
+s		因此，当我迷糊着睁开眼睛的时候，巨大的困意还是让我花了将近一刻钟的功夫才从床上下来。
+s		小宁已经出去了。
+s		她早早地晾好了衣服，把热水壶里的开水也换新了一遍，
+s		或许是考虑到我今天可能会晚起，她没有帮我准备早餐。

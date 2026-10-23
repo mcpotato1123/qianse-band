@@ -1,0 +1,128 @@
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf24	-	-	cloth:scf1
+s	杨老师	小鑫...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf24	-	-	cloth:scf1
+s	杨老师	我记得是在天台上吧。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	谢谢！先失陪了！
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf1
+s	杨老师	诶？小宁，明明在这里多坐一会也可以...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf1
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	下次我会和她一起来做客的啦~
+h	y
+p	n	c	ss1	-	-	cloth:scs1
+s		可这句话，最终也没有回过头去对她说出来。
+s		因为我已经先一步转过身去奔向了心理办公室的门口。
+h	n
+b	stai_m
+s		老姐她，真的对我抱有那种感情吗？
+s		这到最后也成了我心头的一个谜。
+s		不过，就算真的如此，我在过去就已经做出了选择。
+s		我不会去改变，也不会去刻意疏远，
+s		维持现状已经是我能做出的最好选择了。
+b	staris
+s		不知不觉间，八楼的铁门已经近在咫尺了。
+b	rot_m
+s		我用尽全身的力气推开了那扇门，暖风迎面扑来，我赶忙整了整稍有些凌乱的刘海。
+s		天台上确实站着一个人，
+p	l	c	ss5	-	-	cloth:default
+s		凌，我仍然记得她的名字。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf4	-	-	cloth:scf1
+s	宁桐雨	这次的车什么时候来？
+p	l	l	ss15	-	-	cloth:default
+p	n	r	sf4	-	-	cloth:scf1
+s	凌	不会来了。
+p	l	l	ss15	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	宁桐雨	为什么？
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	凌	因为这或许是你最后一个梦了。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	最后一个？
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	我跟你说过的吧，所谓梦的来源，就是你对现实的焦虑，
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	而现在，这种焦虑已经要消失了。
+s	宁桐雨	为什么会消失？
+s	凌	因为你自愿选择了一条她给你指出的道路。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	一条，最为纯粹，也是最为极端的道路。
+s	凌	看起来，这个世界里除了你父母、我和你的表姐之外，没有人能够注意到你了。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	这就是我自己选择的路？
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	对，你选择了这样的未来。
+s	凌	所以，你今后也不再会做梦，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	除非，再发生什么让你焦虑的事情吧。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	不过到那个时候，你或许也不会再把学校当做梦境的载体了，毕竟，就算是现在的你，对中学时代的记忆已经显得有些模糊了。
+s	凌	或者说，你不会再做这些无所谓的梦了。
+s	凌	忧愁的内容也从过去的记忆或者是不曾存在过的世界过度到日常的琐事中。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	那听起来不错。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	凌	而我们俩，或许再也不会相遇了。
+s		听到凌的话，我沉默了。
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	凌	怎么了？你不会想说，你舍不得我吧？
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	凌	像我这样无聊且恶趣味的神明可不值得你留念哦~
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	我一直想对你说一句话，
+s		说着，我深吸了一口气，
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	谢谢你，真的，
+s	凌	这句话应该我对你们俩说才对，感谢你们，让我观赏到了这么一出好戏啊...
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	还有一件事能拜托你吗？
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	凌	嗯？说吧，我看情况。
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	小鑫对这一切一无所知，是吗？
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	你是说？
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	就是你指引我们两个避免了那个结局的经历...
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	凌	她当然不会知道，现实中的你也永远不会记得。
+s	凌	只有在这现实与虚无的分界线处你才会想起来。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我想拜托你把这一切告诉她，或者说，在梦里告诉她。
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1

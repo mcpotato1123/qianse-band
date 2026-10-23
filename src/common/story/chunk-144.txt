@@ -1,0 +1,128 @@
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+s	宁桐雨	好啦，先不贫啦，跟你扯皮就是在降低我的智商。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+s		她一如既往地露出了无可奈何的表情
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+s	宁桐雨	话说回来啊，小鑫为什么还没回家呢？我印象里你好像不是值日生...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	那个...就是啊，我母亲没来接我，她说她突然出差了，没空来接我，让我自己回家。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	这...小鑫家远吗？
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	不远...
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	不，呸，其实是...挺远的啦。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	到底是远还是不远啊？
+p	n	l	ss7	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss7	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	就是挺远的啦！
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	可是，我好像记得...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	哎呀，最近因为妈妈的工作原因搬远啦~
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s		为了达到我想要的结果，到最后我不得不编了一个借口。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	那...要不...让我爸爸送你一下吧？
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	额，其实，其实...我连家里钥匙也没带，一切都发生得太突然了。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	诶？那外公外婆家呢？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我记得你说最近他们还搬到这里来看小鑫的妈妈来着的...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s		小宁接连的发问让我有些着急，毕竟我的目的只是到小宁的家里过一晚上而已。
+s		对我来说，这可是一个千载难逢的好机会，若是任由它逃跑了，我准得后悔一个月的！
+s		不！大概是一整年吧！
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	我外公外婆身体不好啦，不好意思再给他们添麻烦了啦！
+s		于是我这样搪塞了过去。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	那...
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s		说到这里她露出了些许为难的表情，被我搂着的身体也稍许有些颤抖。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	那...不嫌弃的话，就先去我们家过一晚上吧？我爸妈肯定会很高兴的。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	诶？真的可以吗？
+p	n	l	sf23	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	没事的啦，只要你不嫌弃就好。
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	真的太感谢啦~
+h	n
+h	x
+b	black
+g	cg23
+s		说着我们俩抱得更紧了。
+s		由于小宁比我要矮上一些，所以看上去就好像姐姐抱着妹妹一样。
+s	宁桐雨	喂，热情过头啦。快放开我啦。
+s	余晓鑫	欸，明明我们已经确定关系了。
+s	宁桐雨	在大街上这么做总是不太好吧...
+b	stro_a
+p	n	c	ss3	-	-	cloth:scs1
+s		接着，或许是注意到我脸上的表情显得有些失落，她又轻轻地补充道。
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	牵个手，就可以了吧。
+h	n
+s		说罢，她把手缓缓伸了过来。
+s		而我，自然将其紧紧地握住了。
+s		就这样，我们一边牵着手一边朝着马路的另一侧走去。
+b	liv_e
+s		到了小宁的家之后，不出所料地被叔叔阿姨热情地招待了。
+b	dinner
+s		而在饭桌上，小宁糊弄过去了我来留宿的真实原因。
+s		尽管她也只是编了个很普通的理由，说是因为我想来她家里借一些小说和漫画。
+s		对此，小宁的父母似乎没有任何怀疑，除了...
+b	liv_e
+p	n	c	sf12	-	-	cloth:scf1
+s	小宁的妈妈	真的是，我说桐雨你啊，可别把别人教坏了。
+s	小宁的妈妈	我可听同学们说了哦，晓鑫她啊，学习可用功了。
+s	小宁的妈妈	你啊~就是缺那一股冲劲，好像什么都差不多就行了。
+s	小宁的妈妈	少看点闲书，多把功夫给花在学习上一点。
+p	n	c	sf10	-	-	cloth:scf1
+s	宁桐雨	唔...明白啦，明白啦。
+p	n	c	ss3	-	-	cloth:scs1
+s		我看向她的脸时，发现她正一脸怨恨地瞪着我。
+s		我装作什么都不明白的样子，用微笑回应着她。
+h	n
+s	小宁的妈妈	诶，对了，我们要不要给你家长打声招呼啊？
+s		阿姨突然一转话题，把问题抛向我。
+p	x	c	sf11	-	-	cloth:scf1

@@ -1,0 +1,128 @@
+s	余晓鑫	说起来，今天我妈妈出差了呢，好过分，都没跟我事前打过招呼。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	确...确实呢，应该先打个招呼的。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	唉，现在搞得我必须走好一段路才能回去了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	诶？小鑫家我记得不就在...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	忘了说了嘛，最近工作原因，妈妈在远处又租了个房，把我接到那里照顾。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	所以我现在连原来公寓的钥匙都没有。
+s		我边回忆着梦里发生的事，一边这么说着。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	这...这样啊...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		这一次，她同样露出了为难的神色。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	宁桐雨	这样子的话...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	那...我能暂且去小宁的家里，过夜吗？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s		在她想出下一条解决办法前，我就强行打断了她的话。
+s		当然，这也是从梦里得到的经验，
+s		貌似让她这么把解决方法一条条列举下去的话会没完没了的，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	要...要去我家吗？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	嗯，毕竟我只跟小宁比较熟嘛...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	那那些亲戚家里呢？
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	我跟他们不熟啦，再说，我根本没有他们的联系方式。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf10	-	-	cloth:scf1
+s	宁桐雨	好...好吧，也行吧。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	不过我可要打个预防针...菜什么的，可能不大合口味...
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	没事啦，只要能去...能找到地方过夜就好了！
+h	n
+p	x	c	sf11	-	-	cloth:scf1
+s		欢呼声差点就从嘴里脱口而出了。
+s		接下来就是怎么成功kiss了。
+s		我在心里这么盘算着。
+h	x
+b	n_bedroom
+s		接下来的事情都和梦境里大同小异。
+s		在饭桌上，我特地按照原来的行为方式，成功地复刻了所有场景。
+s		接着，小宁把我带回了她的房间。
+s		一切似乎都在向好的方向发展着。
+p	n	c	sf2	-	-	cloth:scf1
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	比如说ki...kiss之类的...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	kiss，吗？
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		她这一次却露出了为难的表情。
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	很...很讨厌这样的吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	不是，我就是觉得...可能....这样子不太好吧，
+p	n	l	ss7	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	咱们俩，还是慢慢来比较...比较好。
+h	n
+p	x	c	sf4	-	-	cloth:scf1
+s		脑袋嗡嗡地响着，撞钟一样的声音在里面不断地回响着，感觉像是要炸裂了一般。
+h	x
+b	black
+s		这之后，整个世界都在向下陷落。
+s		而在坠落的感觉中，我苏醒了过来。
+b	ceilgn
+s		醒来之后，面对的是陌生的天花板。
+s		回过神来的我才发觉，原来刚才的那一切才是梦。
+s		半夜的寒意袭来。
+s		仔细看的时候才发现，原来是紧闭的纱窗上漏了一条缝。
+b	c_bedroom
+s		我蹑手蹑脚地爬起来，轻轻合上窗边的缝隙，顺带着瞟了一眼墙上的时钟。
+s		离我入睡只不过过了一个小时而已。
+s		这个夜晚仍旧漫长。
+p	n	c	sf11	-	-	cloth:scf1
+s	宁桐雨	怎么了？睡不着吗？
+p	n	c	sf11	-	-	cloth:scf1
+s		刚准备回被窝的我却被小宁叫住了。
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	刚才做了个噩梦。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		我这么回答道。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	话说，小宁你还没睡吗？
+p	n	l	ss7	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	刚刚不是被你吵醒了吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	对...对不起，真的很抱歉...
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1

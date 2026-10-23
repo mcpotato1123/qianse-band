@@ -1,0 +1,128 @@
+b	rainyski
+s		窗外正不停地下着雨，天空中密布着漫天的乌云。
+s		耳畔不时还有海浪拍击沙滩的声音传来，除此之外便是死一般地寂静。
+s		头脑中出奇地平静，丝毫没有对刚才发生的一切感任何异样。
+s		百无聊赖的我把视线投向天的最远方，想借云朵的运动来排解心头的无趣。
+b	memory
+s		可我却突然发现，天空中有许多类似玻璃碎片的物质在不停地旋转，
+s		从不同的玻璃碎块上，我都能瞥见过去的一段回忆，
+s		有些玻璃碎片中倒映着穿着初中校服的我，有些玻璃碎片中倒映着小学春游时我们去过的游乐园。
+s		但这些零碎的记忆都有一个共同点，
+s		那些碎片映射出的影像里，我的身边总是跟着一个女孩，
+s		一个在我目前记忆中有些许偏差的女孩，
+s		突然间，一种奇特的想法突然涌上了我的心头。
+s		这里并不是我的梦，
+s		相反，过去的一切只是我从梦中苏醒了过来。
+b	black
+s		想到这里，这里的一切似乎就能解释得通了，
+s		那些破碎的记忆都是我用来编造梦境的素材，
+s		然后，这里...
+s		可这里，却显然不是现实啊...
+s		到这里，推理出现了漏洞，
+s		我在身上仔细找了找手机，却毫无结果。
+s		我看向墙上的钟表，可与现在时间有联系的一切事物在我眼前都像蒙着一层薄雾一样，
+s		事实便是，我无法辨认在这里的任何事物。
+s		这感觉...
+s		像极了梦。
+s		也就是说，我现在仍然处于梦里嘛...
+s		可是，我却清晰地记得发生过的一切，包括全部两个不同世界的存在，以及上大学后发生的一切，
+s		除了...
+s		对，除了高三那一年发生的事情。
+s		我隐约地感受到，这一切发生在我身上的不合理事件，根源都来自于那一年，
+s		然而，无论怎么努力地回想，我始终无法找出哪怕一丝有关那一年的回忆。
+s		只模糊地记得些许有关毕业典礼有关的信息。
+s	？？？	人有些时候真的很奇怪啊，明明之前拼命想要忘掉的事情，到如今却又因为忘却得太过彻底而感到焦虑了。
+s	？？？	你说呢？
+s		这时，远处的门突然打开了。
+s		凌走了进来。
+b	prerom
+p	l	c	ss6	-	-	cloth:default
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	宁桐雨	凌？
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	呼，原来你到准备室里来了啊...
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	我在舞台那边找了你好久都没找着。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	那边不是已经塌掉了吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	现在早就被我给修好了，
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	毕竟你也能想象得到的吧，在这里塌得也快，修得也快。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s		我并没有追问，因为我明白在这个地方什么事情都有可能发生。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf3
+s	宁桐雨	你刚才说这里是准备室？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf3
+s	凌	嗯，是这样，
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf3
+s	凌	演员在这里候场，道具也在这里做好上台的准备，
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	可为什么舞台会突然坍塌？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs3
+s	凌	因为你拒绝了你自己的另一个内心，不是么？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	宁桐雨	另一个....内心？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	看起来你忘记了很多重要的事情呢...
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	无妨，就让我帮你回想一下吧。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s		说着她长叹了一声，然后从口袋里掏出了一本破旧的本子。
+s		那本本子长得简直和小鑫给我的那本一模一样。
+s		唯一不同的是，当凌翻阅起这本本子的时候，我清楚地看见这本本子的中间几页上完全没有涂痕。
+s		可正当我准备从她手中夺过那本本子时，凌却又把它收进了口袋里。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	有些事情我总会让你知道，所以没必要硬抢。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	事情很长，请你耐心听完。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	...
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	好吧，那咱们就先从毕业典礼开始回忆吧...
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+c	第六章
+g	title_chapter6
+h	l
+h	n
+b	banquet
+s		灯光，气球，奶油蛋糕
+s		这些与平常的高中生活毫不相干的东西，现在却理所当然地呈现在大家的面前。
+s		在巨大的“祝贺毕业”的横幅下，同学们满带着笑容各自入座。
+s		仿佛往日的压抑与苦闷都是这一天的前奏曲。
+s		可唯一美中不足的是，那一天我却来晚了。
+s		当我坐在一个空座位上时，旁边的同学平静地跟我说道：
+s		“这个位子已经有人了。”
+s		她的嘴中说出了我一个我不太熟悉的女生的名字，原来她们早就把座位安排在一起了。
+s		看着排得异常整齐的同学们，我感觉十分扫兴。

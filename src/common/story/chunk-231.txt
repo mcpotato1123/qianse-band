@@ -1,0 +1,128 @@
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	表姐明年就要从咱们的高中调走了，许多文件就留了下来，她想让我领一些回去当纪念啦...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	这样，那确实还挺辛苦的呢...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	虽然大多数都是些没啥用的玩意，不过我找到了一张当时毕业旅行的计划表，
+s	宁桐雨	我记得你向我表白的那天是倒数第三天吧？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	嗯，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	那今天就算是四周年纪念日了，唉，明明之前甚至都不知道这个日子来着。
+h	x
+h	n
+b	ex_cookie
+s		说着，她从包里拿出来一包密封包装袋的曲奇饼干，
+s		从它们那略微有些变形的外貌我就可以看出，这或许不是从店里买的。
+s		下午刚刚烤出来的。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	小宁亲手做的？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	面料是我叫老姐发的，毕竟我想教她如何喂饱自己来着...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	事出匆忙，我没带模子，就徒手捏的，
+s	宁桐雨	本来除了爱心之外还想捏点星星来着，不过最后也放弃了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	我算是理解了这种残念的造型了...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	唉，对不起啦。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	没事，我会好好珍视这件礼物的！
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	求求你把它吃掉，这是对食物最好的尊重方式...
+s	余晓鑫	放心啦，我当明天的早饭了。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	说起来，咱们还没点菜呢？小宁要点什么？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	奶油面跟薯饼吧。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	可真是节省啊~
+s	宁桐雨	这一顿也抵的上学校里两顿了吧，真要省钱也不至于出来吃饭。
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	那，那也是...
+h	x
+h	n
+b	restaurnt_n
+s		到最后，我也点了跟小宁一样的菜，只不过，我把薯饼换成了花蛤，
+s		毕竟刚才沙拉里的土豆已经放得够多了。
+p	x	c	sf1	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	交往纪念日啊...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	嗯，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	对我来说算是很重要的日子哦...
+s	宁桐雨	小鑫不这么觉得嘛？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	已经过去整整四年了啊...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	才只是四年而已，还有十年，二十年，四十年呢。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	为什么没有三十年？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	只是图个顺口而已。
+h	x
+h	n
+b	ex_bridge2
+s		吃饱喝足的我们准备步行回到学校，毕竟这里离学校的南门一共也只有半刻钟的路程。
+s		前方就是连接运河两岸的大桥，护栏旁，金灿灿的路灯把道路照得灯火通明。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	上次咱们俩一起出来的时候，我们身上还都披着羽绒服，
+h	x
+p	x	c	sf4	-	-	cloth:scf2
+p	x	c	sf3	-	-	cloth:scf2
+s	余晓鑫	时间可过的真快啊...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	难道你想说，好像跟我表白也只是昨天刚刚发生的事情？
+h	n
+p	x	c	sf3	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	嘛，一开始确实想这么说来着，可话到了嘴边还是收了回去...
+s	余晓鑫	总感觉这么说还是太俗气了...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		我转过脸去，看向一旁微笑着的她，也看着运河上行驶的轮船。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	天越来越热了呢...

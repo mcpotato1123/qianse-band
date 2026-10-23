@@ -1,0 +1,128 @@
+s	凌	想起来了吗？那一个个遥远的梦里发生的一切？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	什么梦？
+s		我困惑地问道，可凌只是轻轻摆了摆手。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	凌	无妨，那些已经成了不曾发生过的往事。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	可我已经不太做梦了，更别提把现实里的记忆带到梦里来了，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	请你回答我，这里究竟是怎么一回事？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	这样嘛，可遗憾的是，我不是你在现实中遇见过的人，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	我，同样，是你在梦里遇到的人，
+s		她的话一时让我陷入了混乱，但很快我就从凌乱感中挣脱了出来。
+s		因为，我想见的，并不是她，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	怎么从这里出去呢？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf16	-	-	cloth:scf1
+s	凌	你是说，从梦里离开？
+s	宁桐雨	嗯。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf16	-	-	cloth:scf1
+s	凌	为什么要这么着急离开呢？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf16	-	-	cloth:scf1
+s	凌	这里远离烦恼，你也不需要多想，应该无限逼近你理想中生活的样子。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf16	-	-	cloth:scf1
+s	凌	你完全可以在这里把学校消除，然后...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf16	-	-	cloth:scf1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	我只记得有个女孩在等我，而且，而且她是对我来说很重要的人...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	尽管我忘记了她的名字，但一定是我跟她约好了。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf25	-	-	cloth:scf1
+s	凌	那就去乘车吧。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf25	-	-	cloth:scf1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	车？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	火车，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	在哪里？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	天台上，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	哪里的天台？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	喏，你看。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s		随着她手指的方向，一个小小的亮点正在不断地变大，
+s		直到到了近前，我才发现，那是一列漂浮在空中的轻轨。
+s		毕竟是梦嘛，
+s		我这么安慰着自己。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+h	l
+h	n
+b	me_m
+s		就如同正常的轻轨到站一般，车门打开，我和凌就这样上了车。
+s		车内空荡荡的，一个人也没有。
+s		拜其所赐，我们俩挑了个靠中间的位置坐了下来。
+s		我打量了一下车内的站牌和广告，却发现那上面写的全是我不认识的文字。
+s		于是，我放弃了辨认，准备暂且闭目养神一会，
+s		毕竟按照凌的说法，很快我们便会回到现实。
+p	l	c	ss6	-	-	cloth:default
+s	凌	来这里的路上，你有遇到过什么吗？
+p	l	c	ss6	-	-	cloth:default
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我遇到了一些想象里的同学。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	她们对你说了什么吗？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	或许对我来说，是一些很过分的话，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	呵，你可是这个世界的神啊，怎么还能让你的造物骂你的。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf1
+s	宁桐雨	或许下次再来的时候，我至少得把高中的考试和作业给消除了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf1
+s	凌	我有一个想法，或许这是因为你就从来没想过这种事...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	宁桐雨	哪种事情？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	凌	在学校里很受欢迎那种事。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	凌	或许，在你的潜意识里，大家都不在乎你，不重视你。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	好吧，事实可能真是这样的。
+s		可在承认了这一现实之后，我却感到有些违和。

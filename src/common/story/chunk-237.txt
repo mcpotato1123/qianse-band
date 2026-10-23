@@ -1,0 +1,128 @@
+s	路边的老奶奶	你看吧，果然你这孩子又开始了。
+s	路边的老奶奶	有什么事情为什么不当面和你家小姐说呢？我看你们关系挺好的啊~
+p	n	c	ss3	-	-	cloth:scs8
+s	女仆	关系...诶？好是挺好的啦，
+p	n	c	ss3	-	-	cloth:scs8
+s		尽管阿婆或许也无法想象咱们之间的关系究竟有多“好”吧...
+s	路边的老奶奶	那就快点回去吧？我相信你家小姐肯定会给个合理的解释啦。
+p	n	c	ss3	-	-	cloth:scs8
+s	女仆	嗯。
+p	n	c	sf24	-	-	cloth:scf8
+s	女仆	那，待会见，阿婆。
+p	n	c	sf24	-	-	cloth:scf8
+p	n	c	sf24	-	-	cloth:scf8
+s	路边的老奶奶	嗯，赶紧回去吧，太阳落山了之后路就不好走了哦。
+h	n
+b	ex_mansion_door
+s		结果，最后我还是遵从了阿婆的指示，在天黑之前回到了家门口。
+s		夕阳的最后一抹余晖即将淹没在地平线之下，我也总算松了一口气。
+s		我被小姐禁止在夜晚外出，小姐她自己也从来没在晚上出去过。
+s		尽管我们一直都磨到很晚才上床睡觉，可家里的窗户从没开过。
+s		因此，夜晚的世界对我来说一直是一个谜。
+s		尽管我一直在向小姐询问着其中的原因，可她从来没有正面回答过我。
+b	black
+b	ex_mansion_bedroom_night
+p	xj	c	amazed	-	-	cloth:default
+s	主人	外面会有可怕的大灰狼哦~
+p	xj	c	normal	-	-	cloth:default
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	主人，我已经不是小孩子了...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	真的是，我都跟女仆酱这么说了，你就先这么相信着不就好了吗？
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	行，行吧...
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+h	n
+b	ex_mansion_hallway
+s		每次对话都会以这样的形式结束呢...
+s		我深吸了一口气，把不必要的烦恼从脑袋里尽数排除。
+s		算啦，这也不算是什么大事情。
+s		毕竟跟小姐在一起的每一天就让我足够幸福了。
+s		不用为生计发愁，附近的邻居也和我们相处得很融洽，更重要的是，还有恋人陪伴在我的身边。
+s		如果还想要了解更多的事情的话，就显得有些过于贪心了吧...
+s		而且，说不定结果也不一定能令我满意。
+p	n	c	sf24	-	-	cloth:scf8
+s	女仆	主人，我回来啦~
+h	n
+b	ex_mansion_bedroom_dusk
+s		暂且抛下脑海中的纠结之后，我推开了屋子的大门。
+s		主人就坐在餐桌边一页一页地翻着书，她那长长的金发散落在书本上，就像是流淌着的黄金一般。
+p	xj	c	speechless	-	-	cloth:default
+s	主人	好慢。
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	女仆	对不起啦，跟路边的阿婆多聊了一会。
+s	女仆	但是，今天我给小姐你带了最喜欢的青果哦？
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+p	xj	l	close_eye	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	主人	这样，那我原谅你啦。
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	主人	快来吃晚饭吧。
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s		我向小姐鞠了一躬，跟着她的脚步进了厨房。
+h	xj
+h	n
+b	ex_mansion_restaurant_dusk
+s		我刻意地表现出自然的样子，不让内心的情绪表露到脸上。
+s		阿婆的话仍然在我的心头徘徊。
+s		是不是当面问一下小姐比较好吗？
+p	xj	c	normal	-	-	cloth:default
+s	主人	女仆酱，你有什么心事吗？
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	诶？没有...
+h	n
+p	xj	c	normal	-	-	cloth:default
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	主人	我看你走路走得也很慢，话聊得也没昨天多...
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	那个，小姐...
+s	女仆	为什么，要请人修围墙呢？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s		主人的脚步停下了。
+s	主人	你在路过果林的时候看见了？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	嗯，
+s	主人	...
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	为什么要沉默呢？明明这种事情小姐和我商量一下比较好吧？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	这和女仆酱没有关系，是我自己的私事，所以，不要再来问了。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	小姐不是已经和我交往了吗？这之后咱俩怎么能说是没有关系呢？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	更何况...
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s		突然间，小姐转过了身来，迈步向我的方向逼近着。
+s		我心头一惊，连刚到嘴边的话也被打断了。
+s	主人	站在原地别动，这是命令。
+s	主人	命令...
+s	主人	主人对女仆的命令，你不是跟我说过了吗，你不想放弃我们俩之间的主仆关系。
+p	xj	l	anger	-	-	cloth:default

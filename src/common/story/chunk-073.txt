@@ -1,0 +1,128 @@
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	在你心里，我像是如此不给面子的女人吗？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	难道不是吗？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	那好，今天就宅在家里写论文吧。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	这样对你我都好。
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	sf28	-	-	cloth:scf5
+s	余晓鑫	欸，别嘛，开玩笑的啦，可真是，咱俩之间连最基础的默契感都没有吗？
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	sf28	-	-	cloth:scf5
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	sf6	-	-	cloth:scf5
+s	宁桐雨	跟你说话总是像在降低我的智商一样。
+s		我用手扶住额头，无可奈何地说道。
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	总感觉小时候的你和大学后的你是两个截然不同的生物。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	余晓鑫	都是小宁的功劳吧？
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	恋爱，如果能让好学生变成地痞流氓的话，还是早点放弃掉为妙。
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	说谁地痞流氓呢？要我真是的话，小宁也得算是个共犯！
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss9	-	-	cloth:scs5
+s	宁桐雨	好好好，共犯也辛苦了！早点收拾东西吧。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss9	-	-	cloth:scs5
+s		听了这话，她脸上的不爽的表情立马收了起来。
+s		果然已经是死猪不怕开水烫了嘛...
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	别玩到太晚了，不然回来的时候赶上下班高峰期，得堵死在高架桥上。
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	好~的~
+h	x
+h	n
+b	busstr
+s		尽管说着轻松，可从家走到地铁站就花了整整一刻钟，
+s		再算上等车，排队过安检的功夫，等到了目的地时，时间已经过去了一个小时了。
+s		逛了会街，买了两杯柠檬茶，之后又去到城中公园里看了会金鱼。
+s		在一路上我一直在张望着小鑫所说的那个街头表演的踪迹，
+s		可别说是街头表演了，原本人山人海的市中心大街上，现在只剩下偶尔几个路过的撑着阳伞的路人。
+s		原因自然是可想而知的。
+s		毕竟是夏天嘛，天气又这么闷这么热。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	唔...我可能是记错了。
+h	x
+b	shoppingmal
+s		最后，在某个购物广场前，我们停下了脚步。
+s		在那里，我们终于找到了活动将要举办的场地。
+s		不过，那个舞台目前仍然在搭建中...
+s		可店门口的牌子已经把活动举办的日期写的很清楚了，是下周的这个时候。
+s		还没等我发难呢，身边的她就不打自招了。
+p	x	c	sf6	-	-	cloth:scf2
+s	余晓鑫	那个...既来之则安之嘛，小宁...
+p	x	c	ss2	-	-	cloth:scs2
+s	余晓鑫	所以...
+p	x	c	ss1	-	-	cloth:scs2
+s	余晓鑫	现在咱们还是去广场上歇一会吧？
+s		说着，她自然而然地握紧了我的手。
+h	x
+b	cofout
+s		到了市中心的广场上，找了顶遮阳椅坐下，到售货处买了份鸽子食。
+s		四周的鸽子渐渐地聚拢了过来，她像一个小孩子一样幸福地笑着，还一边叫我帮她拍些照片。
+p	n	c	sf6	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf3
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	sf6	-	-	cloth:scf3
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	你啊，真是个长不大的孩子。
+p	n	l	sf6	-	-	cloth:scf3
+p	x	r	ss1	-	-	cloth:scs2
+s		听了这话，她脸上的笑容却更灿烂了。
+p	n	l	sf6	-	-	cloth:scf3
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	毕竟嘛，以前从来没经历过这样的时光嘛。
+p	n	l	sf6	-	-	cloth:scf3
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	凡事都是第一次最享受，不是吗？
+s		然而，她却这么回答着我。
+h	n
+h	x
+b	cofout
+s		听了这话，我也收起了原先的抱怨，开始和她一起享受起这段悠闲的时光来。
+s		渐渐地，手上的饲料越来越少了，可聚来的鸽子却在不断地增加。
+s		最后，我们把目光聚焦在小鑫带来当点心的小面包上。
+p	n	c	sf12	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf3
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf3
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	唔...总感觉...
+p	n	l	sf12	-	-	cloth:scf3
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	比起这些饲料，它们更喜欢吃我带的面包。
+p	n	l	sf14	-	-	cloth:scf3
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	请把“感觉”这两个字给去掉。
+p	n	l	sf16	-	-	cloth:scf3
+p	x	r	sf6	-	-	cloth:scf2
+s		以上便是两位当事人的事后总结。
+h	n
+h	x
+b	black
+b	cof_m
+s		下午去了附近的一家咖啡厅，或者说，用书店来形容它更加合适。
+s		当然，这是我的提议，因为我只想找个地方静一会。
+s		顺便吹会空调。
+s		毕竟整个上午都暴露在太阳底下实在是太折磨人了。
+p	x	c	sf4	-	-	cloth:scf2

@@ -1,0 +1,128 @@
+s	余晓鑫	小宁你还记得的吧？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	你为什么这么熟练啊？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	嘛，写的多了就是这样嘛，毕竟熟练只是我唯一的优势了...
+s		嘴上这么扯着皮，我还是顺着原来的思路这么写了下去，
+s		每写几步步骤，我都会停下来跟小宁讲解两句。
+s		我们俩之间的传道进展得很顺利，很快小宁就把这道导数题学会了。
+s		这或许也是因为咱俩在一起磨合了很长时间，彼此之间早就心有灵犀了。
+s		当然，以上只是我内心的愿望而已。
+s		然而，当我再度看向考卷上长长的步骤，我皱起了眉。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	其实这道题还有个更简单的方法的，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	不过，那个方法不是我想出来的啦，但它确实是针对这道题的特解...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	没事，我就听听小鑫的方法就好了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	诶？可是这一种...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	我脑子笨，听不懂啦。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	好吧，
+s		虽然嘴上不情不愿，可内心却感到了一阵暗爽。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	不行啊，余晓鑫，你可要想起来邹忌讽齐王纳谏纳谏的事儿啊！
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	吾妻之美我者...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	你是不是在想我是不是在偏爱你什么的...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	小宁原来会读心术的吗？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	没办法，毕竟你就是这么好懂呐~
+p	n	l	ss11	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	还是像以往那样自恋，那么臭美，总觉得世界上所有人都该偏袒你似的...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	那实际上...
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	那怎么可能呐，哪有人会有好的方法不学，去学笨办法呐~
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+s	余晓鑫	唔额...我的心...好像被小宁的话给扎了个洞...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+s	宁桐雨	好啦，原因真的很简单，只是因为，我也是像你一样的普通人而已啊？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+s	宁桐雨	相同段位的人在一起，才会讲得更通透嘛！
+s		接着，她给出了一个看似很合理的解释。
+s		她冲我笑了笑，然后熟练地弹了下我的脑壳。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+s	宁桐雨	别偷懒，给我继续讲题。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	是，遵命...
+h	n
+h	x
+b	black
+b	lib_m
+s		就这样，当我们把整张试卷都讲完了之后，午休的铃声也打响了。
+s		这也提醒了我们一件事，教室里的同学们已经在午睡了。
+s		现在回去势必会吵到大家，于是我们就自然而然地留在了阅览室里。
+b	lib_m
+p	n	c	sf1	-	-	cloth:scf1
+s	余晓鑫	说起来这周的要求还没提呐？
+p	n	c	sf12	-	-	cloth:scf1
+s	宁桐雨	哈？这周你有取得啥进步吗？
+p	n	c	sf12	-	-	cloth:scf1
+s	余晓鑫	好过分！我明明周三的化学和物理小测验都拿了第一名的，
+p	n	c	ss12	-	-	cloth:scs1
+s	宁桐雨	我又不是你妈妈，哪会整天盯着你的成绩看。
+p	n	c	ss4	-	-	cloth:scs1
+s	余晓鑫	所以啊，现在就得由我自己来找小宁邀功行赏的嘛~
+p	n	c	ss12	-	-	cloth:scs1
+s	宁桐雨	嗐，你这人...
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	好的不学，强词夺理的手段倒学得这么精明...
+p	n	c	ss4	-	-	cloth:scs1
+s		说着她无奈地叹了口气，用右手撑起了额头，陷入了沉思。
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	感觉我们啥事都已经做过了吧？
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	还有什么要求可以提的吗？
+p	n	c	ss3	-	-	cloth:scs1
+s	余晓鑫	除了那个。
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	哪个？
+p	n	c	ss1	-	-	cloth:scs1
+s	余晓鑫	那个，
+s		说着我一只手做出了OK的手势，再把另一只手的食指与中指并到了一起，
+s		然后将两只手慢慢地靠近...
+p	n	c	sf16	-	-	cloth:scf1
+h	n
+b	black
+b	lib_m
+p	n	c	ss2	-	-	cloth:scs1

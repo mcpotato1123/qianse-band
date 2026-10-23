@@ -1,0 +1,128 @@
+s	余晓鑫	那没办法嘛，谁叫我妈妈从来都没给过我膝枕呐？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf3
+s	宁桐雨	嗐，好吧。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	今天洗完澡，你边躺着我边帮你吹下头发吧？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+s	宁桐雨	不然单纯地躺着可太蠢了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+s	余晓鑫	嗯，小宁可真细致啊~
+h	x
+p	n	c	ss5	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	哪，哪有啦，分明是你以往太不注重仪表了...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	对了，我听说啊，动物经常是要帮首领梳理毛发的，那岂不是...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	我觉得没有一个正常人会自比猴王吧...
+h	n
+h	x
+b	black
+b	dour1_c
+s		总而言之，在经历那一系列的事情之后，我还是如约定那般给了她膝枕。
+s		可不同于以往的是，这一次，小鑫的头发披散了开来，
+s		细碎的发丝披散在大腿上，再加上她的脑袋还一直滚动着，痒痒的触感始终无法消散。
+p	x	c	sf8	-	-	cloth:scf3
+s	余晓鑫	小宁身上有一股淡淡的香气。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf3	-	-	cloth:scf5
+s	宁桐雨	我又没有喷香水啦...
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf3	-	-	cloth:scf5
+s	余晓鑫	柔顺剂的香味。
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf13	-	-	cloth:scf5
+s	宁桐雨	诶？你也觉得这种味道很好闻吗？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf13	-	-	cloth:scf5
+s	余晓鑫	不，只是...基本小宁所有的衣服上都有这个气味，久而久之，就对这个气味爱屋及乌了...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	这样...
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	这种味道，对小宁来说有什么特别的含义吗？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	我妈妈留给我的习惯，洗衣服最后一遍焯水的时候放一把桂花。
+s	余晓鑫	花的香味？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf5
+s	宁桐雨	嗯，干花，
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf2	-	-	cloth:scf5
+s	余晓鑫	下次我如果要离开小宁好一段时间的话，看起来就得带一把桂花呢...
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	根本用不着好吧...
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	余晓鑫	诶？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	你的衣服全是我洗的，味道不也全都是一样的吗？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf3	-	-	cloth:scf5
+s	宁桐雨	更别提你还老是穿错我的内衣。
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf3	-	-	cloth:scf5
+s	余晓鑫	嘛，毕竟款式都差不多啦。
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	明明大小差得蛮多的，你别看颜色差不多就乱穿啊...
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	唔...一想到小宁那贫瘠的胸口，我的心就传来一阵绞痛...
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	呀，别，别捏后颈啦，真的很痛的~
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf1	-	-	cloth:scf5
+s	宁桐雨	有话快说，有屁快放，还有十分钟。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf1	-	-	cloth:scf5
+s	余晓鑫	话说啊，大一咱们回去的时候，我第一次和小宁的妈妈一起聊了一下午呐。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf5
+s	宁桐雨	一下午啊...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf5
+s	余晓鑫	嗯，主要我看你们母女俩真的长得蛮像的。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf5
+s	余晓鑫	尤其是胸的大小。
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf5
+s	余晓鑫	唔，别打了，别打了...我认错，我认错，
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss2	-	-	cloth:scs5
+s	宁桐雨	你这家伙的本性真是渗透到骨子里了，已经没救了...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss2	-	-	cloth:scs5
+s	余晓鑫	说错了啦，我想说的其实是，你们俩的性格也很像啦。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf5
+s	宁桐雨	诶？真的吗？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf5
+s	余晓鑫	嗯，千真万确。
+p	x	l	sf1	-	-	cloth:scf3

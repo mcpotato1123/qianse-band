@@ -1,0 +1,128 @@
+s	宁桐雨	明早我们就要乘车回家了哦~
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+h	n
+h	x
+b	black
+b	dour_c
+s		小鑫那不冷不热的状态一直持续到吃完晚饭也没能结束，就算我帮她吹完了头发她还是一直背靠着我。
+s		说到底，那只是一件小事而已，至于这么在乎嘛...
+s		以往咱俩之间闹过比这个还大的矛盾，然而都是她主动来向我示好的，可这次...
+s		我拉了拉宽大的睡衣，睡到了她的身边，把手掌叠到了她的手背上。
+s		她的手还是如以往那般温暖。
+p	n	c	sf6	-	-	cloth:scf5
+s	宁桐雨	对不起啦，别生气了好吗？
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	没生气。
+s	宁桐雨	没生气就睡觉吧？
+s	余晓鑫	我还不困。
+s	宁桐雨	瞎说什么话呢，已经快十二点了，明早还要赶七点的火车呐。
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	那我要补偿。
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	我说，你把目的藏得久一点好吧，这露馅的也太快了...
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	余晓鑫	唔...亲我。
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	诶？我来嘛？
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf10	-	-	cloth:scf3
+s	余晓鑫	当然。
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf10	-	-	cloth:scf3
+s	宁桐雨	回想起来，我主动亲上去的只有去到小鑫家里的那一次而已。
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf10	-	-	cloth:scf3
+s	宁桐雨	嗯...都忘记该怎么做了...
+s		可对面的她已经把眼睛闭上，等在原地了。
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf10	-	-	cloth:scf3
+s	宁桐雨	好吧，
+s		我回想着先前小鑫的动作，一点一点地把嘴唇凑过去，
+s		熟悉的感觉如期而至，舌尖缠绵了大概几秒之后，我就抽开了身子。
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	余晓鑫	不够，
+p	n	l	sf28	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	行吧行吧，真受不了你。
+s		就这样，我又被迫耽搁了将近半刻钟的功夫，直到我嘴唇已经快没有知觉了，我才抽开了身，
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	好了，补偿够了，该睡觉了。
+s		可我的裙角却被她给拉住了。
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	小宁，已经做到这一步了，不能回头了。
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	啊？
+s		昨天只做了一次，今天还要继续。
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	我才不要，我困了，要睡觉。
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	补偿还没有结束呢。
+s	宁桐雨	在我眼里就是结束了。
+s		我无视她的话，仍然固执地朝着自己的床铺走去。
+s		突然间，小鑫从身后抱住了我的腰，牙齿冲着我的肩膀轻轻地咬了下去。
+s		痛觉立马传遍了全身，我可以肯定，那里绝对留下了牙印。
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	宁桐雨	痛...
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	这是惩罚哦，小宁？
+p	n	l	sf19	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	放开我，
+s	余晓鑫	哼哼，这可不由你说了算。
+s		她说的话很有道理，单论体力来说，我无论如何也不是她的对手。
+h	n
+h	x
+b	black
+s		尽管我也反抗了一会，可最后的结果还是被她像一只小猫一样抱起，扔到了床上。
+s		还没等我反应过来，她就压到了我的身上，接着拉过了被子。
+p	x	c	sf8	-	-	cloth:scf3
+s	余晓鑫	小宁，你知道吗？
+s	余晓鑫	受的反抗只是徒增趣味的调味剂罢了。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf29	-	-	cloth:scf5
+s	宁桐雨	唔...耳朵...
+s	余晓鑫	耳朵和脖子，哪里更喜欢？
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf29	-	-	cloth:scf5
+s	宁桐雨	哪个也不...唔...别咬啦...
+s	余晓鑫	小宁，我要让你明白，在晚上，小宁是属于我的东西...
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf3	-	-	cloth:scf5
+s	宁桐雨	啊？喂，等下...
+s		就这样，高中最后一次旅行的最后一夜，以一种最特别的形式永远留在了我的记忆里。
+s		也就是在那之后，那一夜的记忆连同她手指的形状也永远印刻到了我的脑海。
+s		尽管我永远也不会承认，但我从那之后就喜欢上了...
+s		咳咳，这种事情还是不要再多提了...
+h	x
+h	n
+b	black
+b	dour1_m
+s		明明是周末的一天，
+s		可小鑫却不在家里。
+s		研究生毕业之后，我们一起搬到了城郊的一个老小区里。
+s		虽然离市中心有一大段距离，但却离我们工作的公司很近。
+s		况且我们俩人又都是没什么夜生活的人，因此这样倒也好。
+s		而自从搬进公寓以来，她就成了一个超级大宅女。
+s		原本热衷于逛街吃烧烤的她一反常态地做到了公司家庭两直线。
+s		至于原因嘛...
+b	black
+p	x	c	sf6	-	-	cloth:scf2
+s	余晓鑫	因为我看每次拉着小宁去的时候，你都不情不愿的，
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	所以嘛，干脆就待在家里好了。
+p	x	c	sf12	-	-	cloth:scf2
+s	余晓鑫	反正电影在家里的电视上也能看，吃的也可以叫小宁帮我做嘛。

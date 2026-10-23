@@ -1,0 +1,128 @@
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	小宁最后一个月的努力程度我可都是看在眼里的哦？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	唔...其实我...总感觉，好...好紧张，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s		说着她把手叠放在了我的手背上，
+s		凉凉的感觉随着肢体的接触向我传递了过来。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	不用担心啦，一定没问题的，好吗？
+s		接着，我也点了一杯咖啡，在一片寂静中，我们慢慢等待着，
+h	n
+h	x
+b	dawnsky
+s		等到手里的咖啡喝完了之后，时间也快到了。
+b	cof_a
+p	n	c	sf6	-	-	cloth:scf1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	准备好了吗？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	嗯...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	果然，听起来还是有点紧张的吧？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	那...那当然是有点的啦~
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	好了，到六点啦，预备，三，二，一...
+h	n
+h	x
+b	black
+s		我深吸了一口气，按下了手机屏幕。
+s		然后，与小宁一起报出了自己的分数...
+b	cof_a
+p	n	c	sf12	-	-	cloth:scf1
+s		然后，我们惊讶地发现，我们报出的分数只在个位数有所差别。
+s		那一刻，我的心安定了下来。
+s		结果还真是和我预想的一模一样呢，唉，
+s		这样就好，这样就好，
+s		这样的话，就能名正言顺地和小宁去同一所学校了。
+s		这样的话，绝对就是最好的结局了。
+s		对，没错，这就是最好的结局...
+s		不知不觉间，我伸出手去，捂紧了胸口。
+p	n	c	sf12	-	-	cloth:scf1
+h	n
+b	cof_a
+s		泪水不知不觉间从眼角滑落了...
+b	black
+s		果然，到最后也没有发挥好。
+s		尽管我花了那么多时间，这十二年的功夫，最终也还是...
+s		白费了。
+b	cof_a
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	哭了吗？
+p	n	c	ss1	-	-	cloth:scs1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	没有，是我太激动啦~毕竟这样...这样子，就可以...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	这样子就可以跟小宁在一起了...我...我应该感到高兴才对的，我应该感到高兴...
+s		可泪水仍然不断地往外涌着，从来不曾停歇。
+s		她的手轻轻划过了我的后背，我自然而然地靠向了她的肩。
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	小鑫，有什么想说的就跟我说吧。
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	我知道的，所以，没必要藏着...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	对我说吧，好吗？
+h	n
+h	x
+b	black
+s	余晓鑫	我...我好不甘心...
+s	余晓鑫	好不甘心就这样...
+s	余晓鑫	就这样输了...
+s		她的手轻轻抚过我的后脑勺，
+s		像小时候母亲对我那样抚摸着我，
+s	宁桐雨	好啦，不都说过了吗？小鑫只需要注视着我就行了，
+s	宁桐雨	不是已经答应我了吗？
+s	余晓鑫	那...能再答应我一个要求吗...
+s		那一刻，我们俩之间又再度陷入了长久的沉默。
+s		我能真切地听到她略显急促的呼气声，
+s		同时，我也能感到我的心脏正跳个不停。
+s	余晓鑫	能对我说，“你是这个世界上最棒的小孩”吗？
+s		那是我压在心底的愿望，
+s		是一直渴望着爱的我最可悲的奢望...
+s		从来没有被任何人所爱过的我如同沙漠中行走的旅人一般，不断地寻找着远在天边的水源。
+s		而当荒漠中唯一的一片绿洲出现时，我只会将它视作唯一的倚靠。
+s		正当我在后悔着把那句话说出了口的时候，身旁的她却打破了沉默。
+p	n	c	sf22	-	-	cloth:scf1
+s	宁桐雨	你就是我眼中最棒的女孩啊，毫无疑问。
+p	n	c	sf1	-	-	cloth:scf1
+s	宁桐雨	这种要求根本不用提嘛，毕竟这就是现实嘛！
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	可是，我一直觉得我是最差的人，
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	每到关键时刻就掉链子，所有做成的事也都成了无用功，
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	甚至还对自己最喜欢的人发火，让她在门外面等了我半个钟头...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	但是，那都已经过去了不是吗？那都是高中的事情，初中的事情，甚至是小学的事情，不对吗？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	现在还远没到终点呐，你完全可以告诉自己，现在的自己已经和以前不一样了。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	可是，上了大学也会有考试，我也会为了一些无所谓的东西...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	那样的话，咱们一起去改变它们就好，
+p	n	l	ss1	-	-	cloth:scs1

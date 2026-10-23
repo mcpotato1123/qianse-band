@@ -1,0 +1,128 @@
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	所、以、说，接下来我们每个礼拜都会来老姐你这儿做客的，
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss5	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	到时候就请您按我们家的标准把自己家打扫得干干净净的，好吗？
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	杨老师	呜...小鑫，你到时候一定会来救姐姐我的，对吧？
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	嗯，小宁也会一起来帮忙得啦~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	我想她只是想让表姐的生活变得更有规律一点而已啦，也不至于这么排斥...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	杨老师	嗯？没想到你这丫头过了半年已经这么懂事了，明明刚毕业的时候还是个楞姑娘来着。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	杨老师	难道是被社会狠狠毒打了？
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	哪有嘛，就是变现实了嘛~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	毕竟，我和小宁现在已经正式独立了，再像以前那样整天胡闹的话，确实有点不像话了...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	ss23	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s		说着，她朝我眨了眨眼睛。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss10	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	杨老师	唔，少在我面前秀恩爱啦，姐姐我都要酸死了...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	杨老师	小鑫，把小宁借给我一天好不好啊...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	老姐，请你自重...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss11	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	杨老师	嗨，咱只是开个玩笑的啦，开个玩笑。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	杨老师	咱们三个人都是家人啦，哪有分的这么开的，来，干杯~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	请您别喝这么多，明天下午还要开车呢...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss11	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	杨老师	哎呀，都是明天下午的事儿啦，难得这么热闹，没点酒怎么行呐~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	小宁，都快过年了，就喝点吧~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s		就连一旁的她也这么劝着我，我也实在不好再推脱了。
+p	n	l	sf22	-	-	cloth:scf2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	行吧，今天就陪你们俩喝一点吧...
+p	n	l	sf14	-	-	cloth:scf2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	但我可事先说好，我酒量不行，所以只能沾点。
+p	n	l	sf14	-	-	cloth:scf2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s	杨老师	唉，怕什么嘛，反正明天早上又没事啦~
+p	n	l	sf14	-	-	cloth:scf2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s		看着一脸无所谓的老姐，我暗暗地戳了戳小鑫的胳膊。
+p	n	l	sf14	-	-	cloth:scf2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	嗯？
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	你离着老姐近，你给我看好了她的酒杯，
+p	n	l	ss1	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	别让她一下子喝太多了。
+p	n	l	ss1	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	ss12	-	-	cloth:scs2
+s	余晓鑫	明白啦，我会看好她的。
+p	n	l	ss1	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	话说回来啊，小宁可真是关心姐姐啊~

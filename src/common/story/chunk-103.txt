@@ -1,0 +1,128 @@
+p	x	r	sf1	-	-	cloth:scf2
+s	杨老师	她哥哥一抱她，她就哭，诶，只有我，哈哈~
+p	y	l	ss1	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+p	y	l	ss11	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	杨老师	不知道的还以为我是她亲姐姐呐~
+p	y	l	ss1	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s		一进家门他们俩就仿佛是老相识一般，对有关我的话题滔滔不绝了起来。
+s		可明明我本人就在旁边呐...当众处刑未免有些过于残忍了。
+p	y	l	ss2	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	杨老师	啊，说起来啊，有一个东西你准会感兴趣的，
+p	y	l	ss2	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	杨老师	小鑫你是小学的时候遇见小宁的吧，你准没见过幼儿园时候的她~
+s		说这话的时候老姐脸上满是坏笑。
+p	y	l	ss6	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	诶？那是什么样的？
+p	y	l	ss6	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+p	y	l	ss2	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	杨老师	那时候的小宁还扎的是双马尾呢，
+p	y	l	ss11	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	杨老师	也就是那时候我可喜欢她了，周末整天就专门去小宁家里看她。
+p	y	l	ss8	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	杨老师	可现在这孩子啥发型都不搞了，整天就把头发给披散着，
+p	y	l	ss1	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	杨老师	果然，还是双马尾可爱点呐~
+p	y	l	ss1	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+p	y	l	ss1	-	-	cloth:sc1
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	同感！
+p	y	l	ss1	-	-	cloth:sc1
+p	x	r	sf8	-	-	cloth:scf2
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	喂！你们两个不要随意决定我的发型啊！
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	小宁，就扎个双马尾嘛...
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf1	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我才不要，那和我的人设一点都不搭...
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	别在乎什么人设不人设的啦~
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	分明那样更可爱不是嘛~
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	我分明记得你和我说过你是直发控来着的。
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss10	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	诶？那个...
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss2	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss2	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	说到底，就是老姐她想看双马尾而已，你别被她给骗了...
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss2	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	整天就知道跟着她瞎起哄...
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss19	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	好，好吧，其实我是要更喜欢长直发一点。
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss12	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	y	l	ss2	-	-	cloth:sc1
+p	x	c	ss12	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	杨老师	小鑫，你怎么突然...
+p	y	l	ss2	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	y	l	ss8	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	我说老姐，你一个老大不小的人了，这么还整天跟她一起搞小孩子气呢...
+p	y	l	ss2	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	杨老师	诶？这不是跟你女朋友找到共同爱好了吗，怎么能说小孩子呢...
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	这算哪门子的共同爱好啊...
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	我又不是个任你们装扮的洋娃娃。
+p	y	l	ss7	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2

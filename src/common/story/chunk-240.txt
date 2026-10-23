@@ -1,0 +1,128 @@
+s		包括那个不曾发生过的，孤独的梦。
+s	宁桐雨	我的名字...是宁桐雨。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	凌	很好，你回想起来了吗？
+h	l
+p	n	c	sf12	-	-	cloth:scf8
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	宁桐雨	差不多。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	凌	那就好。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf8
+s	宁桐雨	所以说，这里是小鑫的梦吗？
+p	l	l	ss13	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf8
+s	凌	我已经解释过一遍了。
+p	l	l	ss13	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf8
+s	宁桐雨	那，为什么我在她的梦里？还有，为什么我是她的女仆？
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf8
+s	凌	前一个问题比较复杂，至于后一个嘛，我觉得你梦醒之后亲自去问问她比较好。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf8
+s	凌	我只能说，梦是人意志的体现。
+s	凌	或许在她心中，你平时照顾得她太多了，所以她把你默认成了佣人。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf8
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf8
+s	宁桐雨	唉，她可真是...
+s	凌	但是，实际上你也影响了这个梦境。
+p	l	l	ss9	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf8
+s	凌	比如说，你在做爱的时候应该一直是受，可在这个梦境里...
+p	l	l	ss9	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	宁桐雨	停停停！暂，暂且打住先。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	凌	唔，确实啊，时间也快到了，你也早点回去睡觉比较好。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+s	宁桐雨	诶？回哪里睡觉？
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+s	凌	回你家“小姐”身边啊？
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	宁桐雨	求你别说这个词了...
+s	宁桐雨	光是听到了就觉得尴尬...
+p	l	l	ss11	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	凌	也没事啦，当你睡着的时候，你就会从这个梦里醒过来，回到现实中。
+s	凌	下次你再进到这里来的时候就会忘记方才发生的一切。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+s	宁桐雨	那你来见我又有什么意义？
+s	凌	我想要提醒你去注意，毕竟这个梦里的小鑫很异常，不是么？
+s	宁桐雨	异常？
+s		她说到这里，我突然回想了起来。
+s		这里的小鑫全然没有外界那股活泼开朗的样子。
+s		相反，她表现得异常粘人，异常地软弱。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+s	凌	而在梦境的你的记忆里，你的主人原本是一个和现实中很像的人。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+s	凌	所以，我想请你到现实中找出这一切的原因。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	宁桐雨	然后呢？
+s	凌	然后就要回到你先前问我的第一个问题了，我让你的意识进到她的梦里，就是为了让现实中的余晓鑫解开心结。
+s	宁桐雨	心结？
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	凌	是这样，最近的她，或许你没意识到，她也没有表现在表面上，
+s	凌	但是，她的心情已经持续低落了好几个礼拜了。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	凌	而在梦境中，最能悄无声息地影响一个人的内心。
+s	凌	至于我为什么要做这一切嘛...
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	凌	就当是你们俩让我欣赏了一个美好故事的回报吧。
+s		说着，凌向我摆了摆手，一阵狂风吹来，我伸手出去挡了挡迎面扑来的风。
+h	n
+h	l
+b	nightroad
+s		可当我重新看向窗外时，凌已经消失了。
+s		夜晚的庭院空荡荡的，一个人也没有。
+b	ex_mansion_bedroom_dark
+s		我踮起脚尖，就这样原路返回到了房间内。
+s		小姐仍然躺在床上，我看着她的身子规律地一起一伏，完全没有醒来的迹象。
+s		我小心翼翼地把被子掀开了一角，重新躺了进去。
+p	xj	c	frown	-	-	cloth:default
+s	主人	女仆酱？你出去了吗？
+s		我被小姐的声音吓得一激灵，顿时间不知道该怎么回答。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	女仆	只是去检查一下窗子有没有关好。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	小姐还没睡着吗？
+p	xj	l	close_eye	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	抱紧我。
+p	xj	l	close_eye	-	-	cloth:default
+p	n	r	sf3	-	-	cloth:scf8
+s	女仆	诶？
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf3	-	-	cloth:scf8
+s	主人	照做嘛~
+s		她重复了一遍命令之后我才如梦方醒。
+s		我从身后轻轻地抱住了她。
+s		小姐的身体软绵绵的，就像一团棉花一般。
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	是被我吵醒了吗？

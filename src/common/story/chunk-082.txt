@@ -1,0 +1,128 @@
+s	余晓鑫	那...那就稍微抄点捷径怎么样？
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	你看，咱们就走来的时候那条没什么人的小路回去吧，
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	怎么样？是不是很有趣的样子呢？
+p	x	c	sf8	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf3
+s	宁桐雨	行...行吧，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf3
+s		尽管对她的真实意图还是一头雾水，不过最终我还是勉强答应了。
+h	x
+h	n
+b	nightroad
+s		她拉着我的手拐进了我们来时的那条小路，
+s		已经到了八点了，原先那条稍显的有些昏暗道路早就被街灯照得灯火通明了。
+s		可小鑫选的这条小路里却意外路灯极其稀少。
+s		原先本应被街灯照的通明的林荫道顿时暗淡了下来，就连远处汽车的轰鸣声都略显遥远了。
+s		从小时候开始，我就很怕黑，于是我跟她靠的更紧了。
+s		况且，刚刚经历了那件事，我对黑暗便又多了一分胆怯。
+s		在手心处，我能感受到她与我牵着的手在微微颤抖着。
+p	x	c	sf1	-	-	cloth:scf2
+s	宁桐雨	你确定这条路能回宿舍吗？
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	没问题的啦，只要一路向南走，总会到的。
+p	x	c	sf6	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	还真是一如既往的乐观笨蛋呐~你这个人...
+p	x	l	ss13	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	乐观嘛...嘛，
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	在小宁的眼里，确实是这样吧...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	那算什么话？中二发言吗可以认为是？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	哪有啦~我只是喜欢让小宁看到我的这一面而已...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	而且，对大家，也是这样...
+s		四周静极了，只能听见隐约的蝉鸣声，
+p	x	l	ss5	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	其实嘛，就算这几天再怎么抱怨，我还是觉得在这里的生活比高中要好得多...
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	不用再为了成绩的一点点波动去担惊受怕，也不用强迫自己去跟别人搞好关系...
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	最重要的是...
+h	x
+h	n
+b	nightroad
+s		突然间，她把脸凑了过来，
+s		我从没这么近距离地看过她的眼睛。
+s		直到我们俩的脸将要撞上的时候，她仍然没停下靠近的动作。
+s		这时，我才明白她的意图。
+s		于是，我立马闭上了双眼，在原地静静地等待着。
+b	black
+b	black
+g	cg11_3
+s		湿润润的感觉...
+s		但那触感仅仅持续了一瞬间。
+b	black
+b	nightroad
+s		当我重新睁开眼睛的时候，她就已经把脸撇过去了，
+s		我们的手仍然紧紧地牵在一起，
+s		四周空无一人，只能偶尔听见几声虫鸣。
+s		我的初...
+s		唔...简直要不能思考了...
+s		不知不觉间，脸颊也滚烫了起来。
+p	x	c	sf17	-	-	cloth:scf2
+s	余晓鑫	对我来说最重要的事情就是，能和你在一起...
+p	x	c	sf16	-	-	cloth:scf2
+s		可就在这时，她说完了那句刚才还没来得及说完的话。
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	sf15	-	-	cloth:scf3
+s	宁桐雨	别...别这么说啦，我只是你人生中的一部分而已，用不着你这么去重视，
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf3
+s	宁桐雨	与其把这么多精力放在讨好我上，我更希望小鑫你能多对自己上点心...
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	像是干家务和烧饭什么的也都得学起来...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	那个当然是一方面啦，不过这些跟我刚才的话也不冲突的。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	我只是想让小宁意识到我的心意啦~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	小傻瓜，就算是再爱你的人，在听了几万遍的表白之后也会腻味的吧？
+p	x	l	sf17	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	那...
+p	x	l	ss13	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	那只是因为，除了你，我也没有其他人可以去爱了...
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf3
+s	宁桐雨	诶？别...别这么说啦...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf3
+s	余晓鑫	这句话是千真万确的实话哦...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf3
+s		从她的语气中，我体会不出任何开玩笑的意味。
+h	x
+h	n
+b	nightroad
+s		以往自称最懂她的我，此刻也沉默了。
+s		那句话，显然是针对目前处在她身边的另一个人的。
+s		然而，我却害怕迈出那一步，
+s		我也害怕在她面前提起那个名字，更不敢对这个话题有过多的深入。
+s		我害怕迈出的那一步会让我们间花十几年建立起的感情瞬间崩溃。
+s		我害怕触碰到她心头那块最柔软的地方...
+b	black
+s		只可惜，只可惜那时的我还没认识到那对于她来说到底意味着什么。

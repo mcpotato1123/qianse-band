@@ -1,117 +1,370 @@
 {
  "bg": [
   "album",
+  "alpha_a",
+  "alphastr",
   "alpsndmn",
+  "b_script1",
+  "banquet",
+  "bdr",
+  "birdycd",
+  "birdycdalp",
   "black",
+  "blood",
   "boksh",
+  "broken_theater",
+  "brokn",
   "bsins",
   "bsktg",
   "bswat",
+  "budroa",
+  "busaf",
   "busmn",
+  "busscho",
   "busstop",
+  "busstr",
+  "c_bedroom",
+  "caki",
+  "camp",
+  "carwindow",
+  "carwindow_n",
   "ceilgl",
+  "ceilgn",
   "chairpla",
   "chat1",
   "chat2",
   "chat3",
+  "chat4",
+  "chat5",
+  "chat6",
+  "chat7",
   "choice",
   "cinmst",
   "classroom1",
   "classroom2",
+  "cof_a",
+  "cof_m",
+  "cof_n",
+  "cofout",
+  "cor_l",
+  "cor_m",
   "dawnsky",
+  "dimmy_offdor",
   "dinh_m",
+  "dinner",
+  "dkspotlight",
+  "dkstairs",
+  "dlc_aquarium_corridor",
+  "dlc_aquarium_corridor2",
+  "dlc_aquarium_entrance",
+  "dlc_cave2",
+  "dlc_cave3",
+  "dlc_cave4",
+  "dlc_cg6",
+  "dlc_jellyfish",
+  "dlc_ping_pong_table",
+  "dlc_prayer_card",
+  "dlc_railway",
+  "dlc_rain",
+  "dlc_square",
+  "dlc_station",
+  "dlc_street",
+  "dlc_table_tennis",
+  "dlc_window",
   "dorbch",
+  "dormdor",
+  "dormitrdor",
   "dormr",
   "dormt",
   "dour1_a",
   "dour1_c",
   "dour1_m",
   "dour1_n",
+  "dour_c",
+  "dour_l",
+  "dour_m",
+  "dour_n",
+  "elevator",
   "emptyclassroom",
   "equr",
+  "ex_bridge",
+  "ex_bridge2",
+  "ex_carriage",
+  "ex_chat1",
+  "ex_chat10",
+  "ex_chat11",
+  "ex_chat12",
+  "ex_chat13",
+  "ex_chat14",
+  "ex_chat15",
+  "ex_chat16",
+  "ex_chat17",
+  "ex_chat18",
+  "ex_chat19",
+  "ex_chat2",
+  "ex_chat3",
+  "ex_chat4",
+  "ex_chat5",
+  "ex_chat6",
+  "ex_chat7",
+  "ex_chat8",
+  "ex_chat9",
+  "ex_cinema_ticket_office",
+  "ex_classroom",
+  "ex_closed_safety",
+  "ex_cof",
+  "ex_cookie",
+  "ex_garden",
+  "ex_mall2",
+  "ex_mansion_bedroom_dark",
+  "ex_mansion_bedroom_dusk",
+  "ex_mansion_bedroom_morning",
+  "ex_mansion_bedroom_night",
+  "ex_mansion_door",
+  "ex_mansion_hallway",
+  "ex_mansion_hallway2_dark",
+  "ex_mansion_hallway2_night",
+  "ex_mansion_hallway_morning",
+  "ex_mansion_hallway_night",
+  "ex_mansion_restaurant_dusk",
+  "ex_mansion_restaurant_morning",
+  "ex_mansion_restaurant_night",
+  "ex_mansion_window_dark",
+  "ex_note",
+  "ex_open_safety",
+  "ex_park",
+  "ex_rice_fields",
+  "ex_royal_bedroom",
+  "ex_royal_room",
+  "ex_screen",
+  "ex_skimn_bird",
+  "ex_snow",
+  "ex_street2",
+  "ex_university_classrooms",
+  "ex_vchat_2_1",
+  "ex_vchat_2_10",
+  "ex_vchat_2_11",
+  "ex_vchat_2_12",
+  "ex_vchat_2_13",
+  "ex_vchat_2_2",
+  "ex_vchat_2_3",
+  "ex_vchat_2_4",
+  "ex_vchat_2_5",
+  "ex_vchat_2_6",
+  "ex_vchat_2_7",
+  "ex_vchat_2_8",
+  "ex_vchat_2_9",
+  "ex_veranda_night",
+  "ex_wall",
+  "ex_water_fireworks",
+  "ex_water_fountains",
+  "fire",
+  "foreroad",
   "gymns",
+  "hall",
+  "hotel",
   "infmr",
+  "jncla",
   "jncls",
   "jnclsr",
   "kiga",
   "kigd",
   "kigt",
+  "labcorridor",
+  "labgate_m",
+  "labgate_n",
+  "laboffi",
+  "labor",
+  "lib_a",
   "lib_m",
+  "ligout",
   "liv_a",
+  "liv_e",
   "liv_m",
+  "liv_n",
   "m_bedroom",
+  "m_bedrooma",
   "manga",
+  "me_m",
+  "me_n",
+  "memory",
+  "metro",
   "mobile",
+  "motop",
+  "mtroarr",
+  "mus_a",
+  "mus_m",
+  "n_bedroom",
+  "nightgate",
+  "nightroad",
   "nigrd",
+  "notbk",
   "notbokblue",
   "notebok",
   "off_m",
   "offdor",
+  "officelab",
+  "pakm",
+  "pakn",
+  "papers",
+  "piansc",
   "plygrd",
+  "potterymuseum",
+  "prerom",
   "r1",
+  "rainyski",
   "readng",
+  "restaurnt_n",
   "rnning",
+  "rod_n",
+  "ros_c",
+  "ros_m",
   "rot_m",
+  "rot_n",
   "runnig",
+  "sbcd",
   "schoolstorage",
   "scoexia",
+  "scoexil",
   "scoexim",
   "scor_a",
+  "scor_d",
   "scor_m",
+  "scoroa_n",
+  "script3",
+  "seashell",
+  "seaside",
+  "shoppingmal",
+  "showerwall",
   "skidk",
   "skimn",
+  "skisn",
   "skyngt",
   "sndmn",
+  "sparklers_1",
+  "sparklers_2",
   "spotlight",
   "sta",
+  "stacht",
+  "stacht2",
+  "stacht3",
   "stagr",
   "stagst",
+  "stai_l",
   "stai_m",
+  "stai_n",
   "staris",
   "staski",
   "str_e",
   "strc_a",
+  "strc_m",
+  "strc_n",
+  "strdor_m",
+  "strdor_n",
+  "stro_a",
+  "stro_m",
+  "stro_n",
   "studyroom",
+  "supmkt",
+  "t",
   "tabte",
   "thtre",
+  "thtre_dome",
   "thtrst",
+  "trak",
+  "trdwn",
+  "trepah_a",
+  "trepah_e",
+  "tstpapr",
+  "tvtow",
+  "unigate",
+  "unilibrary",
+  "univse",
   "vlabch",
   "white",
   "window"
  ],
  "cg": [
+  "cg102",
   "cg103",
+  "cg10_1",
+  "cg10_2",
+  "cg11_3",
+  "cg12_1",
+  "cg12_2",
+  "cg13_2",
+  "cg13_3",
+  "cg13_4",
+  "cg13_6",
+  "cg13_7",
+  "cg13_8",
+  "cg14_1",
+  "cg14_13",
+  "cg14_6",
+  "cg14_7",
+  "cg14_9",
   "cg17",
   "cg171",
   "cg172",
+  "cg182",
   "cg19",
   "cg1_1",
   "cg1_2",
   "cg1_3",
   "cg1_4",
   "cg1_5",
+  "cg21",
+  "cg23",
+  "cg234",
+  "cg29",
+  "cg37",
   "cg3_1",
   "cg3_2",
+  "cg3_3",
   "cg4",
+  "cg41",
+  "cg51",
+  "cg54",
+  "cg56_1",
+  "cg56_3",
+  "cg56_4",
+  "cg56_5",
   "cg5_2",
   "cg5_3",
   "cg5_4",
   "cg5_5",
   "cg5_6",
+  "cg6",
+  "cg67",
   "cg6_1",
   "cg7_1",
   "cg7_3",
   "cg7_4",
   "cg7_5",
   "cg81",
+  "cg87",
   "cg92",
   "cg93",
-  "cg94"
+  "cg94",
+  "cg97"
  ],
  "title": [
   "chapter0",
   "chapter1",
-  "chapter2"
+  "chapter2",
+  "chapter3",
+  "chapter4",
+  "chapter5",
+  "chapter6",
+  "chapter7",
+  "chapter8",
+  "chapter9",
+  "chaptera",
+  "chapterb",
+  "chapterc",
+  "chapterd",
+  "chaptere",
+  "te"
  ],
  "sprites": {
   "l": [
@@ -120,11 +373,27 @@
     "default"
    ],
    [
+    "ss10",
+    "default"
+   ],
+   [
+    "ss11",
+    "default"
+   ],
+   [
     "ss12",
     "default"
    ],
    [
+    "ss13",
+    "default"
+   ],
+   [
     "ss14",
+    "default"
+   ],
+   [
+    "ss15",
     "default"
    ],
    [
@@ -133,6 +402,10 @@
    ],
    [
     "ss3",
+    "default"
+   ],
+   [
+    "ss4",
     "default"
    ],
    [
@@ -146,9 +419,21 @@
    [
     "ss7",
     "default"
+   ],
+   [
+    "ss8",
+    "default"
+   ],
+   [
+    "ss9",
+    "default"
    ]
   ],
   "n": [
+   [
+    "base",
+    "default"
+   ],
    [
     "s1",
     "cs2"
@@ -170,6 +455,10 @@
     "scf5"
    ],
    [
+    "sf1",
+    "scf8"
+   ],
+   [
     "sf10",
     "scf1"
    ],
@@ -194,6 +483,14 @@
     "scf2"
    ],
    [
+    "sf11",
+    "scf5"
+   ],
+   [
+    "sf12",
+    "cf5"
+   ],
+   [
     "sf12",
     "scf1"
    ],
@@ -208,12 +505,32 @@
    [
     "sf12",
     "scf5"
+   ],
+   [
+    "sf12",
+    "scf6"
+   ],
+   [
+    "sf12",
+    "scf8"
    ],
    [
     "sf13",
     "scf1"
    ],
    [
+    "sf13",
+    "scf2"
+   ],
+   [
+    "sf13",
+    "scf5"
+   ],
+   [
+    "sf13",
+    "scf8"
+   ],
+   [
     "sf14",
     "scf1"
    ],
@@ -223,7 +540,19 @@
    ],
    [
     "sf14",
+    "scf3"
+   ],
+   [
+    "sf14",
     "scf5"
+   ],
+   [
+    "sf14",
+    "scf6"
+   ],
+   [
+    "sf14",
+    "scf8"
    ],
    [
     "sf15",
@@ -231,6 +560,14 @@
    ],
    [
     "sf15",
+    "scf2"
+   ],
+   [
+    "sf15",
+    "scf3"
+   ],
+   [
+    "sf15",
     "scf5"
    ],
    [
@@ -243,6 +580,10 @@
    ],
    [
     "sf16",
+    "scf3"
+   ],
+   [
+    "sf16",
     "scf5"
    ],
    [
@@ -255,23 +596,111 @@
    ],
    [
     "sf17",
+    "scf3"
+   ],
+   [
+    "sf17",
     "scf5"
+   ],
+   [
+    "sf18",
+    "scf1"
+   ],
+   [
+    "sf18",
+    "scf2"
+   ],
+   [
+    "sf18",
+    "scf5"
+   ],
+   [
+    "sf18",
+    "scf6"
+   ],
+   [
+    "sf18",
+    "scf7"
+   ],
+   [
+    "sf18",
+    "scf8"
    ],
    [
     "sf19",
     "scf2"
    ],
    [
+    "sf19",
+    "scf3"
+   ],
+   [
+    "sf19",
+    "scf5"
+   ],
+   [
+    "sf2",
+    "cf5"
+   ],
+   [
+    "sf2",
+    "default"
+   ],
+   [
     "sf2",
     "scf1"
+   ],
+   [
+    "sf2",
+    "scf2"
+   ],
+   [
+    "sf2",
+    "scf3"
+   ],
+   [
+    "sf2",
+    "scf5"
+   ],
+   [
+    "sf2",
+    "scf6"
+   ],
+   [
+    "sf2",
+    "scf7"
+   ],
+   [
+    "sf2",
+    "scf8"
    ],
    [
     "sf20",
     "scf1"
    ],
    [
+    "sf20",
+    "scf5"
+   ],
+   [
     "sf21",
     "scf1"
+   ],
+   [
+    "sf21",
+    "scf2"
+   ],
+   [
+    "sf21",
+    "scf3"
+   ],
+   [
+    "sf21",
+    "scf5"
+   ],
+   [
+    "sf21",
+    "scf6"
    ],
    [
     "sf22",
@@ -283,13 +712,53 @@
    ],
    [
     "sf22",
+    "scf3"
+   ],
+   [
+    "sf22",
     "scf5"
+   ],
+   [
+    "sf22",
+    "scf6"
+   ],
+   [
+    "sf22",
+    "scf8"
+   ],
+   [
+    "sf23",
+    "scf1"
+   ],
+   [
+    "sf23",
+    "scf2"
    ],
    [
     "sf24",
     "scf1"
    ],
    [
+    "sf24",
+    "scf2"
+   ],
+   [
+    "sf24",
+    "scf3"
+   ],
+   [
+    "sf24",
+    "scf5"
+   ],
+   [
+    "sf24",
+    "scf6"
+   ],
+   [
+    "sf24",
+    "scf8"
+   ],
+   [
     "sf25",
     "scf1"
    ],
@@ -299,7 +768,19 @@
    ],
    [
     "sf25",
+    "scf3"
+   ],
+   [
+    "sf25",
     "scf5"
+   ],
+   [
+    "sf26",
+    "scf2"
+   ],
+   [
+    "sf27",
+    "scf2"
    ],
    [
     "sf28",
@@ -311,7 +792,55 @@
    ],
    [
     "sf28",
+    "scf3"
+   ],
+   [
+    "sf28",
     "scf5"
+   ],
+   [
+    "sf28",
+    "scf6"
+   ],
+   [
+    "sf28",
+    "scf8"
+   ],
+   [
+    "sf29",
+    "scf2"
+   ],
+   [
+    "sf29",
+    "scf5"
+   ],
+   [
+    "sf3",
+    "scf2"
+   ],
+   [
+    "sf3",
+    "scf5"
+   ],
+   [
+    "sf3",
+    "scf6"
+   ],
+   [
+    "sf3",
+    "scf8"
+   ],
+   [
+    "sf31",
+    "scf2"
+   ],
+   [
+    "sf31",
+    "scf5"
+   ],
+   [
+    "sf31",
+    "scf6"
    ],
    [
     "sf32",
@@ -322,8 +851,20 @@
     "scf1"
    ],
    [
+    "sf4",
+    "scf2"
+   ],
+   [
+    "sf5",
+    "cf5"
+   ],
+   [
     "sf5",
     "scf1"
+   ],
+   [
+    "sf5",
+    "scf2"
    ],
    [
     "sf5",
@@ -342,22 +883,62 @@
     "scf3"
    ],
    [
+    "sf6",
+    "scf5"
+   ],
+   [
+    "sf6",
+    "scf6"
+   ],
+   [
+    "sf6",
+    "scf7"
+   ],
+   [
+    "sf6",
+    "scf8"
+   ],
+   [
     "sf7",
     "scf1"
    ],
    [
+    "sf7",
+    "scf2"
+   ],
+   [
     "sf8",
     "scf1"
+   ],
+   [
+    "sf8",
+    "scf2"
+   ],
+   [
+    "sf8",
+    "scf3"
    ],
    [
     "sf8",
     "scf5"
    ],
    [
+    "sf8",
+    "scf6"
+   ],
+   [
+    "sf8",
+    "scf8"
+   ],
+   [
     "sf9",
     "scf1"
    ],
    [
+    "sf9",
+    "scf2"
+   ],
+   [
     "ss1",
     "scs1"
    ],
@@ -372,6 +953,22 @@
    [
     "ss1",
     "scs5"
+   ],
+   [
+    "ss1",
+    "scs6"
+   ],
+   [
+    "ss1",
+    "scs8"
+   ],
+   [
+    "ss10",
+    "scs1"
+   ],
+   [
+    "ss10",
+    "scs2"
    ],
    [
     "ss11",
@@ -407,6 +1004,10 @@
    ],
    [
     "ss2",
+    "scs2"
+   ],
+   [
+    "ss2",
     "scs3"
    ],
    [
@@ -414,6 +1015,18 @@
     "scs5"
    ],
    [
+    "ss2",
+    "scs6"
+   ],
+   [
+    "ss3",
+    "default"
+   ],
+   [
+    "ss3",
+    "scf2"
+   ],
+   [
     "ss3",
     "scs1"
    ],
@@ -428,6 +1041,18 @@
    [
     "ss3",
     "scs5"
+   ],
+   [
+    "ss3",
+    "scs6"
+   ],
+   [
+    "ss3",
+    "scs7"
+   ],
+   [
+    "ss3",
+    "scs8"
    ],
    [
     "ss4",
@@ -451,7 +1076,27 @@
    ],
    [
     "ss5",
+    "scs2"
+   ],
+   [
+    "ss5",
+    "scs3"
+   ],
+   [
+    "ss5",
     "scs5"
+   ],
+   [
+    "ss5",
+    "scs6"
+   ],
+   [
+    "ss5",
+    "scs7"
+   ],
+   [
+    "ss5",
+    "scs8"
    ],
    [
     "ss6",
@@ -496,6 +1141,10 @@
   ],
   "x": [
    [
+    "base",
+    "default"
+   ],
+   [
     "sf1",
     "scf1"
    ],
@@ -508,6 +1157,10 @@
     "scf3"
    ],
    [
+    "sf1",
+    "scf5"
+   ],
+   [
     "sf10",
     "scf1"
    ],
@@ -516,31 +1169,95 @@
     "scf2"
    ],
    [
+    "sf10",
+    "scf3"
+   ],
+   [
+    "sf11",
+    "default"
+   ],
+   [
     "sf11",
     "scf1"
    ],
    [
     "sf11",
     "scf2"
+   ],
+   [
+    "sf11",
+    "scf3"
+   ],
+   [
+    "sf11",
+    "scf5"
    ],
    [
     "sf12",
     "scf1"
+   ],
+   [
+    "sf12",
+    "scf2"
    ],
    [
     "sf12",
     "scf3"
    ],
    [
+    "sf12",
+    "scf5"
+   ],
+   [
+    "sf13",
+    "scf2"
+   ],
+   [
+    "sf14",
+    "scf2"
+   ],
+   [
+    "sf14",
+    "scf5"
+   ],
+   [
+    "sf15",
+    "scf2"
+   ],
+   [
+    "sf15",
+    "scf3"
+   ],
+   [
+    "sf15",
+    "scf5"
+   ],
+   [
     "sf16",
     "scf1"
    ],
    [
     "sf16",
+    "scf2"
+   ],
+   [
+    "sf16",
+    "scf3"
+   ],
+   [
+    "sf17",
+    "scf1"
+   ],
+   [
+    "sf17",
     "scf2"
    ],
    [
     "sf17",
+    "scf3"
+   ],
+   [
+    "sf2",
     "scf1"
    ],
    [
@@ -553,7 +1270,15 @@
    ],
    [
     "sf3",
+    "scf2"
+   ],
+   [
+    "sf3",
     "scf3"
+   ],
+   [
+    "sf4",
+    "default"
    ],
    [
     "sf4",
@@ -566,6 +1291,10 @@
    [
     "sf4",
     "scf3"
+   ],
+   [
+    "sf4",
+    "scf5"
    ],
    [
     "sf5",
@@ -576,6 +1305,10 @@
     "scf2"
    ],
    [
+    "sf5",
+    "scf3"
+   ],
+   [
     "sf6",
     "scf1"
    ],
@@ -588,6 +1321,18 @@
     "scf3"
    ],
    [
+    "sf6",
+    "scf5"
+   ],
+   [
+    "sf7",
+    "scf1"
+   ],
+   [
+    "sf8",
+    "default"
+   ],
+   [
     "sf8",
     "scf1"
    ],
@@ -598,6 +1343,10 @@
    [
     "sf8",
     "scf3"
+   ],
+   [
+    "sf8",
+    "scf5"
    ],
    [
     "sf9",
@@ -618,6 +1367,10 @@
    [
     "ss1",
     "scs3"
+   ],
+   [
+    "ss1",
+    "scs5"
    ],
    [
     "ss10",
@@ -650,10 +1403,18 @@
    [
     "ss12",
     "scs3"
+   ],
+   [
+    "ss12",
+    "scs5"
    ],
    [
     "ss13",
     "scs1"
+   ],
+   [
+    "ss13",
+    "scs2"
    ],
    [
     "ss14",
@@ -670,6 +1431,10 @@
    [
     "ss17",
     "scs1"
+   ],
+   [
+    "ss17",
+    "scs2"
    ],
    [
     "ss17",
@@ -700,6 +1465,14 @@
     "scs3"
    ],
    [
+    "ss2",
+    "scs5"
+   ],
+   [
+    "ss20",
+    "scs2"
+   ],
+   [
     "ss21",
     "scs1"
    ],
@@ -712,12 +1485,24 @@
     "scs3"
    ],
    [
+    "ss21",
+    "scs5"
+   ],
+   [
+    "ss22",
+    "scs2"
+   ],
+   [
     "ss22",
     "scs3"
    ],
    [
     "ss23",
     "scs1"
+   ],
+   [
+    "ss23",
+    "scs2"
    ],
    [
     "ss3",
@@ -736,8 +1521,20 @@
     "scs1"
    ],
    [
+    "ss4",
+    "scs2"
+   ],
+   [
     "ss5",
     "scs1"
+   ],
+   [
+    "ss5",
+    "scs2"
+   ],
+   [
+    "ss5",
+    "scs3"
    ],
    [
     "ss7",
@@ -746,6 +1543,10 @@
    [
     "ss8",
     "scs1"
+   ],
+   [
+    "ss8",
+    "scs2"
    ],
    [
     "ss8",
@@ -792,6 +1593,44 @@
    [
     "ss8",
     "sc1"
+   ],
+   [
+    "ss9",
+    "sc1"
+   ]
+  ],
+  "xj": [
+   [
+    "amazed",
+    "default"
+   ],
+   [
+    "anger",
+    "default"
+   ],
+   [
+    "close_eye",
+    "default"
+   ],
+   [
+    "frown",
+    "default"
+   ],
+   [
+    "normal",
+    "default"
+   ],
+   [
+    "shy",
+    "default"
+   ],
+   [
+    "smile",
+    "default"
+   ],
+   [
+    "speechless",
+    "default"
    ]
   ]
  }

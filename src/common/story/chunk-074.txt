@@ -1,0 +1,128 @@
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	诶？为什么嘛，书店里有啥啊？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	书啊？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	你的脑袋是不是还在上高中啊？
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf3
+s	宁桐雨	真是奇了怪了，难道研究生就不能读书了吗？
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf3
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf3
+s	余晓鑫	在pad上也行啊？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	你啊，真的是，我都不好意思直接说出来。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	我是再也不想回那个菜市场一样的破广场上，陪着一群只会拉屎的鸟虚度光阴。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	我承认上午的目的地确实不太好啦，毕竟小宁一直都喜欢安静的地方，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	可要看书的话，找家餐厅也好过这里啊？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	可好不容易回到家里，你总不至于还和学校里过得一样吧？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs3
+s	宁桐雨	能不能不要太明显，你不就是想找个地方再白嫖我一顿饭钱。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf3
+s	宁桐雨	说中了？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf3
+p	x	l	ss5	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf3
+s	余晓鑫	咱们俩之间的事情，咋能叫白嫖呐！你乐意的话，我当小宁你的小狗也行...
+p	x	l	ss5	-	-	cloth:scs2
+p	n	r	sf19	-	-	cloth:scf3
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf19	-	-	cloth:scf3
+s	宁桐雨	然后我就可以名正言顺地包养你了是吧？
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf19	-	-	cloth:scf3
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	那这样，你再想一个地方呗，要是能想出来的话，咱们就去那个地方吧？
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	诶？那个...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+h	x
+h	n
+b	cof_m
+s		结果，到最后，她还是接受了我的提议。
+b	cof_a
+s		乖乖在书店里待了一下午之后，她居然把我硬塞给她的一本漫画给看完了。
+s		虽然她之后也从来没跟我讨论过有关读后感的话题...
+b	busscho
+s		经过这一番折腾，我们又成功地在晚高峰的高架上堵了将近半个小时。
+s		不出我所料，一上车，身边的她就又开始抱怨了起来。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	都怪小宁，原本只去市中心公园的话咱们就能坐地铁回来了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	说的好像让你来决定的话咱们下午就不会乱跑了似的。
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	那可就不一样了好吧...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	我至少会去一个靠着地铁站的咖啡馆里待一下午，而不是在一个鸟不拉屎的地方虚度光阴。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	湖边的风景才好嘛，像你说的那种地方怎么让人静得下心来呢？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	哦呼呼，希望小宁在抢不到位子被迫站了一路的时候也是这么想的~
+s		听了这话，她又露出了贱兮兮的表情，嘴上这么嘲讽了起来。
+s		而我也不甘示弱，立马予以回击。
+h	x
+h	n
+b	strc_a
+s		就这样，我们一边互相埋怨着，一边走着公交站到家的最后一小段路。
+b	liv_e
+s		到家的时候，已经七点了。
+s		看着守着我们俩的爸妈，我心里充满了愧疚。
+s		于是，我主动提出要帮忙一起干会家务。
+b	dinner
+s		我们把菜热了热，之后一家人围坐在一起，吃了顿晚饭。
+b	n_bedroom
+s		洗过澡，铺了床，收起衣服后，离下一天的到来只剩下不到两个小时了。
+s		看着整洁如初的床单，我还没来得及欣赏片刻呢，身边那个讨厌的家伙就仰面躺了上去。
+s		瞬间，原本平整完好的被子就被她压出了一层层褶皱。
+p	x	c	sf6	-	-	cloth:scf3
+s	余晓鑫	总感觉我们今天好像干了好多事，又好像啥也没干。

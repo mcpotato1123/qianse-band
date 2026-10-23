@@ -1,0 +1,128 @@
+s		周围人来人往，小宁还一直低着头看手机，似乎丝毫没有发现我的身影。
+s		于是我混在人群中，绕到了她身后。
+s		手机又叮叮地响了起来，没有得到回复的她又开始用起消息轰炸来了，
+s		而早已把手机静音的我自然不予以理会，
+s		毕竟现在还有更重要的事情要办，
+s		我加入到人行道中的行人里，慢慢地向她身边走去，
+s		然后...
+b	black
+g	cg23
+s	宁桐雨	呜哇！！！
+s		她...还是像以往一样胆小。
+b	stro_n
+p	n	c	ss3	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	宁桐雨	心脏病都要被你吓出来了！！！
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	我干这种事情差不多有个七八年了吧，小宁还没练出抗性来啊？
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	你好像还很自豪似的...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	小宁也应该反思一下，既然我每次都能吓到你，那大概有两种可能，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	一个是我特别有当间谍的潜质，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	另一个就是小宁太神经大条了。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	鉴于实际情况，第二种可能性更大一些。
+p	n	l	ss2	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	宁桐雨	信不信我锤死你！
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	能被小宁这样的美少女打，是我此生莫大的享受~
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	好恶...
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	突然就下不了手了...
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	牙白，面对如此可爱的美少女，就算是狠心如小宁下不去手了吧？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	ss12	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	...
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	嗐，那我先回去了...你慢慢逛...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	别，我错了，对不起...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	我可是多希望下回这种无聊的环节占比能短一些，但从结果来看...
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	很难说你到底有没有长大过...
+h	n
+h	x
+b	black
+g	cg97
+s		就这样，经过了一如既往的废话扯皮环节，我们在街头闲逛了起来。
+s		大街上游人如织，街道两旁甚至留着没被撤下的圣诞树。
+s		商场的玻璃幕墙上，一张张明亮的广告屏将漆黑的街道照的灯火通明。
+s		就连万里无云的夜空也看不到星星的存在，
+s		在一条岔路口，小宁勾住了我的小指，
+s	宁桐雨	别老待在人堆里了，咱们不是说好了要去旁边的那座公园里的吗？
+s	余晓鑫	可以是可以啦，
+s	余晓鑫	不过我其实也有在为你考虑的，毕竟那里可是很冷的哦？
+s	宁桐雨	总比挤在人堆里好。
+s		她只是这么默默地回答着我。
+s		她的耳廓有些红润，嘴里也一直呼着白气，
+s	余晓鑫	可小宁明显是冷到了，
+s	宁桐雨	别闹了，要是冷的话我会靠过来的，
+s	余晓鑫	所以别逞强啦，喏，手先插到兜里吧？
+s		我拉过她原本与我牵在一起的手，揣进了羽绒服口袋里，
+s		她的手指还是一如既往的冷，就像被热水袋包裹的冰块一般，
+s	余晓鑫	怎么样？
+s	宁桐雨	谢...谢谢。
+s	余晓鑫	不用这么害羞也可以的啦？瞧瞧你，脸都红成这样了。
+s	宁桐雨	这只是冻的而已，根本不...
+s	余晓鑫	好啦好啦，我明白啦，不用再向我解释什么了哦？
+s	余晓鑫	我心里清楚得很呐~
+s	宁桐雨	唔...可真是，你个宗桑就从来没变过。
+s		尽管看起来还是气鼓鼓的，但最后她还是把话给咽了下去。
+b	pakn
+s		于是，我们就保持着这种别扭的姿势，晃悠着晃悠着到了附近的城中公园里。
+s		由于今天是元旦，人们都往热闹的城中心去了，所以这里显得十分冷清。
+s		原本人来人往的市中公园，现在感觉起来却像是城郊一般寂静。
+s		平日里一直挤满行人的林荫道上，如今只有几盏孤灯在闪烁着。
+s		往前走着走着，就感觉自己仿佛来到了另一个世界。
+s		一个只存在于童话里的世界。
+s		或者说，是小宁一直跟我说的，她梦想中的世界。
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	你记得咱们俩以前一起看过一部电影吗？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	唔，你半点提示都不给，鬼才知道你讲的是哪一部呐？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	就是那一部...唉，具体名字的话想不起来了，大概的剧情就是突然间世界上所有的人都消失了...

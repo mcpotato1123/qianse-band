@@ -1,0 +1,128 @@
+s		小姐这么说着，嘴也撅了起来。
+p	n	l	sf22	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	噗...
+h	n
+p	xj	c	anger	-	-	cloth:default
+p	n	l	sf22	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf22	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	主人	干嘛突然间笑我啊...
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	女仆	我只是觉得，小姐前后的反差实在是太大了，
+s	女仆	站在马车上挥手的和现在在我面前的，简直都不像是同一个人了。
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	还不是你害的嘛...
+h	xj
+p	n	c	sf24	-	-	cloth:scf8
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	诶？这个也要怪罪我吗？
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	当然咯，谁叫你大老远地就朝我挥手，我一开门你却还没从房间里出来嘛，
+h	xj
+p	n	c	sf12	-	-	cloth:scf8
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	真是浪费我的感情！
+h	xj
+p	n	c	sf12	-	-	cloth:scf8
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	对不住啦，在走廊里摔了一跤，耽误了点时间。
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	平地上也能摔跤，你也是真够没本事了！
+h	xj
+p	n	c	sf24	-	-	cloth:scf8
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	对不起啦，都怪我太笨拙了...
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	别说那么多对不起，我可不想听你的道歉！
+h	xj
+p	n	c	sf2	-	-	cloth:scf8
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	对不起。
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	主人	噗...
+s		突然间，小姐像是被我的举动逗乐了一般，摆了摆手跳过了这一话题。
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	主人	好啦，先来说正事吧，
+s	主人	我让女仆酱考虑的那件事情...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	amazed	-	-	cloth:default
+s	主人	结果怎么样？
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s		一聊到这个话题，小姐的语气突然就变得局促了起来，
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	女仆	这个嘛...
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	主人	...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	女仆	其实...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	amazed	-	-	cloth:default
+s	主人	其实？
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	女仆	那个...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	amazed	-	-	cloth:default
+s	主人	那个？
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	amazed	-	-	cloth:default
+s	女仆	就是...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	amazed	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	别卖关子啦，可真是！
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	你再这样我可要生气了，
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	好啦，不逗你了，
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default

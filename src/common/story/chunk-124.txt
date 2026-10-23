@@ -1,0 +1,128 @@
+s		“我想那孩子也是有自己的苦衷吧...”
+s		“嗯，我明白了。”
+b	liv_m
+s		我将钥匙插进孔中，旋转了一圈，
+s		那扇老旧的防盗门被推向了一边，
+s		嘎吱的声音传到了耳边。
+s		就和父母家那扇老旧的门一样。
+p	y	c	ss6	-	-	cloth:sc1
+s	杨老师	来啦，小宁你稍等一下哦，我帮你找一下拖鞋~
+p	y	c	ss6	-	-	cloth:sc1
+s		听到声音的她迈着急促的脚步从房间里跑了出来。
+s		看到我之后，她的脸上的忧愁立马一扫而空了。
+s		我也顺势对她笑了起来，总感觉和我们高中时的角色完全反过来了啊...
+p	y	c	ss8	-	-	cloth:sc1
+s	杨老师	小宁，怎么有空来我们家赏脸啦？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	说的什么话嘛，像是把我当外人一样。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	这不是后天就要回学校看老师，先来跟您通个气嘛~
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	杨老师	不错，衣锦还乡了嘛小宁。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	嗐，这么说我就实在不好意思啦~
+s		表姐对我的态度还是一如既往地殷切，
+h	y
+h	n
+b	black
+s		但同样不变的也有她对那件事情的态度。
+b	liv_m
+p	y	c	ss6	-	-	cloth:sc1
+s	杨老师	不过啊，小宁还真的考上了那所大学呢~
+p	y	c	ss6	-	-	cloth:sc1
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	老姐觉得我本来不行的？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	哪里哪里，我只是在夸你罢了，
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	有这么个学霸表妹，就算是我自己也觉得很骄傲呐~
+s		说着她把喝了一小口的咖啡放到了一边。
+s		接着，我们两人之间又陷入了长久的沉默。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	明天回学校肯定是要去见班主任的吧？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss6	-	-	cloth:scs2
+s	宁桐雨	嗯，怎么了？
+p	y	l	ss9	-	-	cloth:sc1
+p	n	r	ss6	-	-	cloth:scs2
+s	杨老师	果然，小宁不会是为了什么混志愿时长才愿意回母校的吧？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss6	-	-	cloth:scs2
+s	杨老师	我好几次喊你来学校里做做客你都不乐意...
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	考虑嘛肯定有这一层的啦，不过...
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf2
+s	杨老师	还是在意那件事情？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf2
+s		表姐的话突然间把我问的哑口无言了。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	啊，不是的，我已经...已经好久没做过那种梦了。
+s		拙劣的谎言，
+s		可是...我又不得不这么和老姐交代。
+s		然而，片刻之后，我的小伎俩就被识破了。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	杨老师	小宁在说谎，不是么？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s		就算我自认为装得如何自然，但结果还是一眼便被老姐给发现了。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	果然...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+s	杨老师	小宁晚上还是会梦见那件事情吗？
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	偶尔啦，跟那个时候相比的话已经不算严重了。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	我大学同学今天考了职业证，要不我帮你...
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	我觉得啦，我的情况还没到那种程度...
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	总，总之，也没必要您多费心了。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	那让姐姐给你一个建议吧？就一个，这下总该好好听了吧？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	嗯，说，说吧？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	杨老师	小宁现在跟大学同学关系怎么样？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	嗯...一般吧，走在路上能点点头的程度。
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf2
+s	杨老师	找到喜欢的人了吗？
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	怎么可能啦，真的是，

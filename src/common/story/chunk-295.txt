@@ -1,0 +1,128 @@
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s		小鑫洪亮的嗓门差点把我的手机都吓掉了。
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	那个，小鑫你冷静一点，听我...
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	事到如今，你还有什么自信叫我去相信你？
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	我讨厌小宁在我不知道的地方和我不认识的人在一起！我讨厌小宁有什么事情瞒着我！
+s	余晓鑫	我讨厌小宁总是不事先告诉我，明明我才是小宁身边最重要的人，明明我才是小宁的恋人，
+s	余晓鑫	明明我才是和小宁睡同一张床的人，可为什么别的女孩子却能享受我所从来不知道的与小宁两人的回忆，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	为什么小宁你不跟我打电话，为什么直到这个时候我打给你的时候你才回应我？我是小宁的恋人，女朋友，不对吗？
+s	余晓鑫	高中的时候我们就约好了吧？我每时每刻都在想着，这个地方要是跟小宁一起来，这道菜要小宁烧一下绝对很好吃，
+s	余晓鑫	我很害怕，难道小宁，小宁你就从来没这么想过吗？
+s	余晓鑫	喂？小宁你还在听吗，回答我好不好，我到底是不是小宁心里最重要的人？我一直都是这么想的，我平时也一直都是这么做的，
+s	余晓鑫	求求你，不要沉默了好吗？我只是想要成为小宁你的...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	好麻烦啊...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s		无意识间，我居然自然而然地把那句台词说出了口。
+s	余晓鑫	小...小宁，这...这就是你的回答吗？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	我知道了。
+h	x
+h	n
+b	dour1_m
+p	n	c	sf12	-	-	cloth:scf2
+s		这时，门口突然传来了急促的敲门声。
+s		然后，是钥匙转动的声音。
+s		还没等我来的及反应过来时，小鑫已经从门口冲了进来。
+s		她的眼神里已没了高光。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	我讨厌不听话的人。
+s	余晓鑫	所以说，你知道该怎么做了吧？
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	亲爱的，宁桐雨。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s		不知不觉间，我往后退了两三步。
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	你是在什么时候...
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s		但是，小鑫却不回答我的问题，
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s		相反，她向我靠了过来，按住了我的双手，
+h	n
+h	x
+b	black
+s		就这样把我推到在了地板的毯子上。
+p	x	c	sf5	-	-	cloth:scf2
+s	余晓鑫	小宁是我的东西，我绝对不会让给其他人的。
+p	x	c	sf5	-	-	cloth:scf2
+s		她的眼神直直地盯着我的双眸。
+s		那是我从未见过的表情。
+p	x	c	sf5	-	-	cloth:scf2
+s	余晓鑫	不听话的小猫咪，一定要受到惩罚才行。
+s		说完，她便再度吻了上来。
+h	x
+b	dour1_m
+p	x	c	ss21	-	-	cloth:scs2
+s	余晓鑫	什么的，开个玩笑啦~
+p	x	c	ss21	-	-	cloth:scs2
+s		然后，转眼间又变回了原来的她。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	感觉...不像是演的。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	哈哈，大概是半真心半开玩笑的吧？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	所以，真的会有柴刀结局吗？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	那是绝对不会有的啦，
+s	余晓鑫	毕竟，我的最终目的是小宁而已。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	顶多也就是监禁结局吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s		这时，我感觉我的脸都要被吓白了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s		说到这儿，她笑了笑缓解了下尴尬的气氛。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	当然，刚才的话也是开玩笑的啦。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	真的是，好沉重的爱啊...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	不过，这样的事情永远都不会发生就是了。

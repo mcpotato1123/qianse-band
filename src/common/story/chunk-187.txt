@@ -1,0 +1,128 @@
+s		好在，最后也只是虚惊一场。
+h	x
+b	lib_m
+p	n	c	sf10	-	-	cloth:scf1
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	刚才老师就跟我说了这么多。
+s		回到七楼的心理教室，在阅览室的那张桌子边，我遇到了等待多时的她。
+s		预料到她肯定会问及方才的谈话，于是我就先一步向她坦白了刚才的经过。
+s		而这其中也自然包含了方才班主任讲的这些话。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	嗐，老师说的很对啊，
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	本来就该这样啊，小鑫就不该像这个学期刚开始那样过分透支自己的。
+p	n	l	ss12	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	所以说...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	好啦，我刚刚啊，已经决定啦，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	所以说，亲·爱·的·小·宁？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	不要在我刚刚下定决心的时候就来打击我好吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	也就剩下了三个月了，就让我试一把，不行吗？
+p	n	l	ss12	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s		很明显，这番话让小宁的态度产生了动摇。
+s		不仅原先那副训人时才有的神情收敛了起来，就连漫画书也放回到了书堆里。
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	行吧，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	毕竟...谁叫小鑫你总跟我犟呢，现在想要劝你回头已经不大可能了。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	嗐，既然我改变不了你的想法，那就只有一条路可以选了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s		说着，她回过头来，在与我对上视线的那一刻，对我浅浅地笑了笑。
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	只能给予你最大的支持咯。
+h	n
+p	x	c	ss10	-	-	cloth:scs1
+s		最后，她半是无奈半是欣慰地这么道出了结论。
+h	x
+b	black
+b	lib_m
+s		于是，到了第二天的中午，我们仍然是去心理办公室度过，
+s		不过摊在我们面前的不是作业，而是一摞子考卷。
+s		其中原因也是显然的。
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	既然已经在班主任面前夸下了海口，那学习会自然还是要照常办起来的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	学...学习会...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s		小宁诧异地看着堆叠在桌面上的考卷，眼神里满是抗拒。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	什...什么学习会？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	诶？咱们现在能在这里的原因不就是因为咱们是一个学习小组吗？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	那...那不是糊弄老师的借口嘛...
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	除了老姐那种人没有人会信的...
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	可我就是这么跟班主任说的哦~
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	诶？说的什么？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	咱们在这里开学习会啊？做做错题，互相教教特长学科什么的...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	你不会想告诉我，你把我揪到这里来居然是为了给我讲考卷吧？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	对啊？不然呢？
+h	x
+h	n
+b	tstpapr
+s		在这堆卷子的正中央，是周三刚考过的数学试卷。
+s		而卷子上早就涂得祖国江山一片红了。
+b	lib_m
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	没有，只是...
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	只是你突然这么正经，让我有点不太习惯...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	先不说这个了，我们继续来看这道题吧~
+h	n
+h	x
+b	skidk
+s		没错，今天午休的时候，机智的我便想到了给小宁讲解考卷的学习方法。
+s		没记错的话，这应该是叫费曼学习法吧，
+s		把会的题目讲给其他同学听，同时也能让自己的记忆更加牢固。
+s		而对象是小宁的话，我更是乐意至极了。
+b	lib_m
+p	n	c	sf1	-	-	cloth:scf1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	最后一道导数题，要用到均值不等式...
+s		边说着，我在试卷上娴熟地写下了公式。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1

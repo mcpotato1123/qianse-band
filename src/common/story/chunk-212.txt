@@ -1,0 +1,128 @@
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	ss2	-	-	cloth:scs2
+s	余晓鑫	那一天的小宁性格好像有些不太一样。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	或者说是开朗，随和了一些。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	那一天，你跟我说，以后的我可能会忘记一些细节，所以得找个知情人记下来才行。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	然后，你就说了许多过去发生的事儿。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	那个人是不是...
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s		本来我都要想起来了，可到了嘴边，却总是无法把她的名字给说出口。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	怎么了？又是谁？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	其实说回来，我倒希望你还可以写写以后我们之间发生的事儿。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	我记得我答应过一个朋友，她一直挂念着咱，很想看看我的日记本之类的，特别是未来的事情。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	那是谁？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s		小鑫嘟起了嘴，似乎在吃某个不存在的人的醋。
+s		对啊，要去给谁看呢？
+s		我只记得，那是一个我连名字都忘却的人。
+s		而这样美好的未来，就是她一直所期望的。
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	我也不太记得了。
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s		最后，我还是这么含糊地回答道。
+s		不过，为了安慰小鑫，我还是试着自圆其说。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	或许，那只是一个存在于梦中的人。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	不过，那些事情都无所谓啦。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	毕竟都已经被我忘记的事情，说到底也没什么大不了的。
+h	n
+h	x
+b	m_bedroom
+s		我嘴上这么说着，合上了那本笔记本。
+b	black
+s		这时我才发现，那本书的封面上还题了一行小字。
+s		似乎是这本书的名字。
+s		上面写着，《茜色》
+b	black
+c	结局 1
+s		视野之内尽是虚无，感官也尽皆丧失。
+s		在这样空白的世界中，我静静地等待着。
+s		和我过去做过的许许多多的梦一样，只有当我把心思放空，将纷扰抛却之后，梦境才开始逐渐成型。
+s		渐渐地，教室的轮廓逐渐出现在了我的视线尽头，
+s		紧接而来的是窗外洒下的夕阳。
+b	classroom1
+s		放学的时刻终于要到了
+s		盼望着回家的同学们早就失了继续自习的耐心，不时抬头瞥向时钟。
+s		眼看着分针离十二已经越来越近了...
+s		终于，漫长的等待有了结果，清脆的铃声响起，静谧的教室里顿时炸开了锅。
+s		拎起书包的同学们三三两两地走出教室，奔向校门口。
+p	x	c	sf8	-	-	cloth:scf1
+s		早就归好了东西的小鑫走到我身边，用一脸不耐烦的表情瞅着我。
+s		就算她还没开口我也懂她是什么意思。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	好了，马上就好，别像奔着投胎一样地盯着我啦~
+s		以防她唠叨，我先给她打个预防针。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	好慢。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s		结果她还是说出来了。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	我又不像你，自习课上没心相，老早就把书包归好了。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	怎么，放学也不至于像赶着投胎一样吧？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	哼，真的是...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	有点想说，像你这样守规矩的好学生还真是辛苦啊~什么的，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s		她轻佻地这么说着，在教室后面兜起了圈。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	但是，我们俩的形象在别人眼里是恰好相反的吧，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	你说呢，我们的“优等生大人”？
+s		于是，我把话调侃了回去。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	好了，咱们走吧。
+h	x
+h	n
+b	scor_a
+s		教室门口，夕阳的光斑在地面上闪烁着，在略显漆黑的背景中，那一丝光芒显得格外的耀眼。
+s		同学们的谈笑声已经渐渐淡去了。
+s		教学楼第一层的大厅里静悄悄的，我们俩的脚步声显得格外地响，格外地清脆。
+s		简直就像踏步在云母做成的道路之上。
+b	scoexia
+s		走出教学楼，

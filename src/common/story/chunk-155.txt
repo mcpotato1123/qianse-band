@@ -1,0 +1,128 @@
+s		由于才刚下课，出来闲逛的学生并不算多，走廊上空空荡荡的，十分冷清。
+s		因此，我不必担心旁人偷听到我们俩间的谈话。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	嗐，我要说多少遍你才会放心呢？我从来没有觉得小鑫麻烦还是什么其他的事儿哦？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	我也想那么去相信的，只不过，我一直都...都
+s		说到这儿我深吸了一口气。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	没法打心底里信服...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	怎么会？小鑫不相信我说的吗？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	不是不相信，只是...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	说到底，我们都是一类人啦。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	我平时本来就很孤单，所以说，有了小鑫这个朋...女朋友，我真的很开心哦？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	不对...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	什么...什么不对？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	我和小宁根本就不是一样的人...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	小宁没有了我，还有爱你的爸爸和妈妈，在学校里也有疼你的表姐。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	而我，
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	而我什么也没有...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	我可是...除了小宁就什么都没有的人啊...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	怎么会呢？小鑫不是还有那个...妈妈吗...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		她边说着边瞟着我的眼神，显得有些谨慎。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	呵，那个女人，她每天看我的眼神，就跟一个陌生人一样。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	已经不想再回去了...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	只有在你身边的时候，心情才会稍微平静一些。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	冷静一点，小鑫...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	宁桐雨	我大概可以猜到的...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	最近，妈妈给了你很大的压力吧...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	所以，冷静一点，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	我想她的本意也是为你好的...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	回家去多跟她聊聊吧...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+h	x
+h	n
+b	black
+s	？？？	我一直都是为了你好！
+b	cor_m
+p	n	c	ss1	-	-	cloth:scs1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf2	-	-	cloth:scf1
+s	余晓鑫	为什么小宁你又能面不改色地说出那么“正确”的话...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf2	-	-	cloth:scf1
+s	宁桐雨	诶？对...对不起...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf2	-	-	cloth:scf1
+h	n
+h	x
+b	black
+s	余晓鑫	你又没有经历过那样的事情，你又怎么会清楚！
+s	余晓鑫	凭什么来自高而下地安慰我！
+s	余晓鑫	小宁真的觉得这样子是为我好吗？
+s	余晓鑫	那种人，就算没有她，我也能活得好好的！
+s	余晓鑫	能不能不要再提起她了啊！
+s	余晓鑫	小宁只要...只要看着我一个人就好了...
+b	black
+g	cg234
+s		我...我到底在说什么...
+s		为什么刚刚我要把这些话说出来...
+s		为什么我的语气那么得激动，那么得不容置辩...
+s		为什么，我要把小宁当作发泄自己情绪的垃圾桶...
+s		所有的一切都只是我受到的委屈，跟小宁毫无关系。
+s		是我一厢情愿地向她倾诉着一切，又一厢情愿地希望得到我想要的那个答案。
+s		她只是怀着一片好心来劝慰我，而我却用怒吼回应她。
+s		甚至还在内心深处恶意地揣测过她的感情...
+s		但所有看似不合理的这一切，一旦套到了我的身上，结论就十分显然了。
+s		因为，这些问题的答案我都早已知晓...
+s		如果她只是让我去谅解班主任，甚至是去跟爱管闲事的隔壁班老师道歉，我都不会对她发火。
+s		可偏偏这个对象是“母亲”。
+s		那是我内心中最敏感脆弱的部分。
+s		而在内心淤积的污水，在此刻喷发了。
+s		我看着对面的她。
+s		那是我从未见过的表情。
+s		那是苍白而呆滞的表情，

@@ -1,0 +1,128 @@
+p	x	r	sf4	-	-	cloth:scf2
+s	同学们	不跟咱们一起乘车回学校吗？
+s	同学们	错过了这班之后地铁就要停运了哦？
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	不，不啦...
+s	宁桐雨	其实咱俩这之后还要去其他地方逛逛，就先失陪啦~
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	同学们	这样，
+s		听了小宁的解释，烫了卷发的学姐从头到脚打量了一遍我们俩，
+s	同学们	桐雨，你们俩还牵着手呢？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	诶...那个，只是我体寒罢了。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	同学们	话说，你们俩不会是一对吧？
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	其实...
+p	n	l	sf15	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf15	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s		我本想说些什么，可就在这时，小宁狠狠地掐了一下我的手指，
+p	n	l	sf15	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s		我瞬间明白了她的意思，于是便保持了沉默。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	其实就是咱俩认识的时间比较长，互相比较熟罢了，
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	肯定不是那种关系啦~
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	同学们	好吧，
+s		学姐只是困惑地看了我们俩一眼，接着便没再说什么。
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s		等到她们的身影消失在了视野中后，小宁像一滩液体一样倒在了我的身上。
+h	n
+h	x
+b	black
+s		我立马扶住了她，她的身体比以往任何时候都要柔弱。
+p	n	c	sf28	-	-	cloth:scf2
+s	宁桐雨	呼...好累啊...
+p	n	c	sf28	-	-	cloth:scf2
+s		一边这么说着，她还一边往外呼着白气，
+p	n	c	sf28	-	-	cloth:scf2
+s	宁桐雨	现在几点了？
+p	n	c	sf28	-	-	cloth:scf2
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	十点半，
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	回到学校就要半夜了...
+s	宁桐雨	突然间就不想回去了...
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	那...
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	找间小旅馆住一晚上吧...就路对面那家，
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	嗯，好。
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+h	n
+h	x
+b	black
+b	showerwall
+s		我扶着她进了旅馆，定了房，简单安置了随身的物品之后，我们俩便进了浴室。
+s		自从高三毕业那次尝试过两人一起洗澡之后，这便成了我们俩之间的习惯。
+s		这间旅馆的水很小，我不得不先披上毛巾把仅剩的热水给小宁用，
+p	n	c	ss3	-	-	cloth:default
+s	宁桐雨	小心着凉...
+p	n	l	ss3	-	-	cloth:default
+p	x	r	sf11	-	-	cloth:default
+s	余晓鑫	你还是先关心关心自己吧，宁妈妈~
+s	宁桐雨	身上先擦擦干，灯也都打开来，
+p	n	l	ss3	-	-	cloth:default
+p	x	r	sf8	-	-	cloth:default
+s	余晓鑫	明白啦，明白啦。
+s		这一次，先把她送出了浴室后，我再一个人简单地冲洗了一下。
+s		忙到最后，时间也快要到第二天了。
+h	n
+h	x
+b	black
+b	black
+g	cg3_2
+s		我轻轻拉开被子，躺到了她的身边。
+b	black
+g	cg3_3
+s		出乎我意料的是，她翻了个身，把脸朝向了我，
+s		她的眼睛已经困得睁不开了，呼吸也接近于睡眠时的那种平稳感。
+s		我立马停下了拉被子的动作，生怕发出的噪音再度打扰到她。
+p	n	c	sf2	-	-	cloth:scf5
+s	宁桐雨	小鑫，我睡不着...
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	余晓鑫	现在睡不着的话，明天可要起不来的哦？
+s	宁桐雨	旅馆已经订到明天下午了吧...
+s	余晓鑫	但是小宁已经很困了，不是吗？
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	与其说困，倒不如说很恼火，
+s	宁桐雨	我加入心理部不过是因为感兴趣罢了，可不是给学姐她们去当苦力的...
+p	n	l	sf8	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	无论什么时候都对我的行为指手画脚，好像我就必须顺她们心思一样，
+s	宁桐雨	在学校里也是，就从来没有人在乎过我的感受，把我招呼来招呼去的，
+s	宁桐雨	就仗着她们前辈的身份...

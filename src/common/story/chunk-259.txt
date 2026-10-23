@@ -1,0 +1,128 @@
+s	宁桐雨	诶诶诶？妈妈，你，你，你说什么呐？
+p	n	c	sf3	-	-	cloth:scf2
+s	小宁的妈妈	直觉，一般女儿说这种话的时候，就是准备要跟着别人家孩子跑了哦？
+s	小宁的妈妈	所以啊，才会对父母有愧疚感。
+p	n	c	sf3	-	-	cloth:scf2
+s	宁桐雨	差...差不多吧？
+p	n	c	sf3	-	-	cloth:scf2
+s	小宁的妈妈	嘿，我就知道啦~
+s		说着，妈妈把我像小时候一样搂到了怀里，
+s		因为现在我已经比她还要高了，她的动作也因此显得有些勉强与吃力。
+s	小宁的妈妈	快跟妈妈说说，你喜欢的是哪个孩子啊？
+p	n	c	sf3	-	-	cloth:scf2
+s	宁桐雨	...
+s	小宁的妈妈	说嘛，妈不会怪你的，
+p	n	c	sf3	-	-	cloth:scf2
+s	宁桐雨	是...是晓鑫。
+p	n	c	sf3	-	-	cloth:scf2
+s		顷刻间，我感觉整个世界都失去了声音。
+s		无论是妈妈的心跳声，我的呼吸声，窗外的风声，都在这一刻冻结了。
+s		这种感觉我只在一年前哪个晓鑫对我表白的夜晚短暂体验过。
+s	小宁的妈妈	这样，嘛...
+s		妈妈若有所思地这么说道。
+s		我很害怕她突然松开搂着我的手，我更害怕她突然间发起火来，把父亲和兄长一起叫进来，当着面教训我痛骂我。
+s		但这一切都没发生。
+s	小宁的妈妈	桐雨你一直都喜欢女孩子吗？不是只喜欢小鑫一个人吧？
+p	n	c	sf3	-	-	cloth:scf2
+s	宁桐雨	是的...我...我从一开始就只喜欢女孩子...
+s	宁桐雨	喜欢上她...也是以她是女孩子为前提的...
+s	小宁的妈妈	说起来啊，妈妈我偷偷看过你床头的漫画，里面除了有两个男孩子接吻的画面，还有两个女孩子的...
+p	n	c	sf3	-	-	cloth:scf2
+s	宁桐雨	那，那个就不要在本人面前提啦！
+s	小宁的妈妈	我还当你只是当消遣看看的，没想到你还真的...
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	对，对不起！
+s	小宁的妈妈	道歉倒是无所谓，不过我以前还以为这种事情是遗传的来着。
+s	小宁的妈妈	毕竟我从来都没有过那种倾向。
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	妈妈，果然感觉这种事情...很，很恶心吗？
+s	小宁的妈妈	不，既然桐雨选择了这条道的话，咱也不好意思说啥嘛，
+s	小宁的妈妈	咱们家一直都提倡的自由恋爱，不都跟你说过多少遍了。
+s	小宁的妈妈	我想我会喜欢上你爸爸，你会喜欢上那个丫头，原理并没有什么不一样的啦...
+s	小宁的妈妈	只是嘛...
+p	n	c	sf12	-	-	cloth:scf2
+s	宁桐雨	只是？
+s	小宁的妈妈	你今年过年的时候记得带着小鑫一起回来，咱要看看，她到底配不配当桐雨的女朋友啊？
+s		说这话的时候，妈妈露出了和老姐很像的表情。
+s		那种诡计得逞的表情。
+h	n
+b	black
+b	dlc_aquarium_entrance
+p	x	c	sf10	-	-	cloth:scf2
+s	余晓鑫	到达女孩们的约会第一圣地，水族馆！
+p	x	c	sf10	-	-	cloth:scf2
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	今天咋不说女同性恋了？
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	因为小宁你看，这里也有好多男女情侣嘛~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我看最多的还是带着小孩子的父母吧...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	别打岔嘛，真的是...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	说到这里啊，我突然想到，咱们或许也可以算到这里面去。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	毕竟你叽叽喳喳的，就跟个小孩子一模一样~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	切，在别人看来，绝对是姐姐带着妹妹一起来玩吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	小宁待会要不要去试试儿童票啊？说不准能便宜不少的~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	你回敬我也得依据点事实好不好？
+s	宁桐雨	我就算站在售票口都已经比那条优惠线高了一个头好吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	可这也改变不了小宁矮我一个头的事实啊？
+s		她这么贱笑着，手掌搭到了我的肩膀上。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	矮一点又没事，天塌下来你帮我顶着。
+s	宁桐雨	现在赶紧进去吧...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s		我们俩的手自然而然地拉到了一起，就这么跟在了排队人群的最末尾。
+s		至于为什么我们如今会在这里嘛，也是有原因的...
+h	x
+h	n
+b	black
+b	dlc_street
+p	x	c	sf1	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	啊，糟糕...已经六点半了，
+s	余晓鑫	小宁，别买烧烤啦，咱们回旅馆去吧...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	什么叫已经六点半了...
+s	宁桐雨	平常咱们这个时候已经在上晚自习了啊，所以应该说已经是晚上了啊？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	你瞅瞅，太阳还没落山呢，就晚上晚上，
+s	宁桐雨	再说，你昨天晚上不是熬到半夜一点才回的旅馆？还倒头就睡，害得所有活都落到我头上了。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	对不起啦，我承认昨天是我的不对，总行了吧？
+p	x	l	sf6	-	-	cloth:scf2

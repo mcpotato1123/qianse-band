@@ -1,0 +1,128 @@
+p	n	r	sf1	-	-	cloth:scf2
+s	凌	不过你在这里问我并没有什么太大的意义，毕竟很快就会忘掉的。
+s		我点了点头。
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	所以，照你这么说，现在的时间就是纯粹的浪费生命吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	也可以这么认为吧，不过现在可不是在浪费时间，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	如果说，原来你的大脑执行的是有章法的程序的话，现在大概就是在运行各种乱七八糟的代码吧。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	虽然我们现在做的事情都毫无意义，但现实中的你大概现在也是在发呆的，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	所以说，从某种程度上，我们反倒算是利用起了这段时间，很有意思是不是？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	现在知道的所有事情，醒来的时候都会忘记吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	几乎吧，我只能说，所以，我建议你尽量少问一些问题，以便于醒来后有更大机会能记住重点。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	当然，我说的也只是更大机会而已，不保证你真的能记得什么。
+p	l	l	ss10	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	或许这是你一生中最后一次记起有关我的事，记得你的生活中有些事情曾发生了改变
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	而今天你记住的某些记忆的碎块是否会和你脑中的“现实”相矛盾呢...
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	说实话，我对这种事情也没什么经验。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	所以说，顺其自然就好了。
+s		听罢凌的话，我开始思考起来。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	我最想知道的是，这一切到底是现实与梦境的交叉，还是梦中之梦的情况？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	你所经历的一切，在做出选择之后就成为了现实，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	所以，你可以抛却所有的顾虑，你所在的地方就是现实本身。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	是你造成了这一切？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	准确的来说，是我作为神，有能力去改变这一切。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	为什么你要为我们俩做那么多？
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	那大概只是因为，
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s		说着她用手扶了下额头。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	我比较喜欢美满的结局吧~
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	或者说，既然你们俩已经让我欣赏了这么一出好戏，我自然得报答报答你们的啊~
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	不然的话，咱们的脸面可不就要被我丢光了嘛~
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	我可不喜欢被人骂成冷酷无情，忘恩负义什么的神明啊...想想就很窝火。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	嘛，当然，刚才也只是开开玩笑罢了。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	时间也差不多了，你还有什么问题的话就快点问吧？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	我想，差不多只剩最后一个的时间了吧？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	如果说，我们真的活在一个类似游戏的世界的话，这个世界的神明又会是什么样的人呢？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	这个嘛，我就实在回答不了了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	就算神明也不知道自己是不是被人创造出来的？
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	我想如果有人能把我创造出来的话，也有能力不让我知道事情的真相吧？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	不过这都已经算是个哲学问题啦，和你我的生活都没什么大关系~
+s		就这样，凌递给我一个微笑，结束了我们之间的交谈。
+s		在这时，视线开始逐渐变亮了。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	时间快到了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	还能再说一句话吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	尽管说吧。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	你会消失吗？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	客观来说，你不会记得在现实中有这样一个人了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default

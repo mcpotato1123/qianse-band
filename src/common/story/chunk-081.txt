@@ -1,0 +1,128 @@
+s		或许是看我目光有些呆滞，小鑫把脸凑了过来。
+h	x
+b	trepah_a
+s		我好像记得，刚刚在这里，是发生过了什么...
+s		我遇到了某个人...
+s		可那个人的长相...
+s		不对，最重要的是...
+s		小鑫没有跟在我的身边...
+p	x	c	sf4	-	-	cloth:scf2
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	嘿诶？怎么了？
+p	x	c	sf6	-	-	cloth:scf2
+s	余晓鑫	是哪里不舒服吗？
+p	x	c	ss3	-	-	cloth:scs2
+s	余晓鑫	小宁，如果不舒服的话我们就回去吧...
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	喂，小宁...
+p	x	c	sf4	-	-	cloth:scf2
+h	x
+b	trepah_a
+s		然而，我却抱紧了她。
+p	x	c	sf17	-	-	cloth:scf2
+s	余晓鑫	诶？突然间到底是怎么了？
+p	x	c	sf17	-	-	cloth:scf2
+p	x	l	sf17	-	-	cloth:scf2
+p	n	r	sf17	-	-	cloth:scf3
+s	宁桐雨	我爱你，
+p	x	l	sf17	-	-	cloth:scf2
+p	n	r	sf17	-	-	cloth:scf3
+s	宁桐雨	所以，不要走开行吗...
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	sf17	-	-	cloth:scf3
+s	余晓鑫	嗯，
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf3
+s	宁桐雨	小鑫，你刚才哪里也没去吧...就一直待在我身边，对吗？
+p	x	l	ss23	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf3
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf3
+s	余晓鑫	放心啦，我不会丢下你一个人的啦...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf3
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf21	-	-	cloth:scf3
+s	宁桐雨	呼...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf3
+s		还好，那只是幻觉...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	好了，咱们还是继续赶路吧？天再晚一些的话就来不及了哦？
+p	x	l	ss5	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	诶？小宁？所以刚才的事情...
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf16	-	-	cloth:scf3
+s	宁桐雨	别问这些没必要的事情。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf3
+s	余晓鑫	嘿诶？可是刚才的小宁太反常了...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf3
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	我也是少女嘛！就不允许我有这一面吗？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	余晓鑫	啧啧啧，怎么就持续了短短十几秒，又变回以往的小宁了...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	本来就没变过好吧...
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s	余晓鑫	行行行，你说的都对，总行了吧？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs3
+s		就这样，这件事最终还是被略过了。
+h	x
+h	n
+b	nightroad
+s		等到赶到天文台前时，我们俩已经满头大汗了。
+b	nightgate
+s		满怀着期待与释然感，我们摸着黑凑到栅栏门前，轻轻敲了两下，
+s		可门对面的小房子里却毫无反应...
+p	x	c	ss3	-	-	cloth:scs2
+s	余晓鑫	不像是有人的样子啊？
+p	x	c	ss3	-	-	cloth:scs2
+s		凑到一边的小缝里张望着的她回来向我这么汇报道。
+h	x
+b	nightgate
+s		当我抱着忐忑的心态再次敲下门时，回应我的依旧是咚咚的回响声。
+s		除此之外，天地之间只剩下若有若无的蝉鸣声。
+s		完了，这下不会真的是...
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁小宁，你快看呐~
+p	x	c	sf6	-	-	cloth:scf2
+s		这时，小鑫掏出了手机，屏幕的亮光照亮了挂在门口的告示牌。
+p	x	c	ss5	-	-	cloth:scs2
+s	余晓鑫	这上面说整个七月都停止运营...
+p	x	c	ss3	-	-	cloth:scs2
+s		听到这儿，我的脸上再也挂不住了，
+s		好想挖个洞现在逃走啊...呜...
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁啊，这下咱们算扯清了吧？
+p	x	c	sf10	-	-	cloth:scf2
+s	余晓鑫	从此就两不相欠哦~
+p	x	c	sf1	-	-	cloth:scf2
+s		真是难得的完全无法反驳她的时候啊...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	那...那现在咱们还是回去吧？
+h	x
+h	n
+b	nightroad
+s		扫兴的我这么说着便转过了身去，
+s		然而，手臂却被她牢牢扯住了。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	等...等等嘛~
+p	x	c	ss1	-	-	cloth:scs2
+s	余晓鑫	一样来都来了，不如在这山道上再走一会也好...
+p	x	c	ss3	-	-	cloth:scs2
+s	宁桐雨	天很热呐，我还想回去吹会空调...
+p	x	c	sf4	-	-	cloth:scf2

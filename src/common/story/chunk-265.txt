@@ -1,0 +1,128 @@
+s	宁桐雨	真的是，整天就知道耍这些小聪明...
+p	n	c	sf21	-	-	cloth:scf2
+p	n	l	sf21	-	-	cloth:scf2
+p	x	r	ss21	-	-	cloth:scs2
+s	余晓鑫	不然小宁肯定不会同意的啦~
+p	n	l	sf21	-	-	cloth:scf2
+p	x	r	ss21	-	-	cloth:scs2
+p	n	l	sf19	-	-	cloth:scf2
+p	x	r	ss21	-	-	cloth:scs2
+s	宁桐雨	谁说我不会同意的，咱俩可都交往了将近一年了...
+p	n	l	sf19	-	-	cloth:scf2
+p	x	r	ss21	-	-	cloth:scs2
+p	n	l	sf19	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	诶？那...
+p	n	l	sf19	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	先来看看效果好不好吧...
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	这可跟我预想中的不一样？
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s		她突然这么打断了我的话。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	在我的想象中，小宁应该慌慌张张的才对，怎么现在反倒像没反应一样...
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	对我们俩来说，不是已经什么事情都做过了吗？
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	说到底，这只是你的青梅竹马该有的余地而已啦~
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	不过怎么平常的时候小宁就这么抵触亲昵的接触呢？
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	废话，那是在别人面前啦~会招致不必要的误会的...
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	所以，还是小宁怕麻烦咯？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	嗯，对啊。
+h	n
+p	x	c	sf3	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s		我检查完了照片，把手机也再度交还给她。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	怎么，脸色看上去怎么这么差？
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	哪有，
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	照片我看过了哦，拍的很好。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	ss21	-	-	cloth:scs2
+s	余晓鑫	那我当成锁屏了。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	ss21	-	-	cloth:scs2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	ss21	-	-	cloth:scs2
+s	宁桐雨	诶？别嘛，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	ss21	-	-	cloth:scs2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	怎么了？
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	这样子...不太好吧...
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	很麻烦？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	嗯，会引到很多麻烦的事情。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s		她没再多说话，只是悻悻地熄了屏，跟在我身后出了海洋馆。
+h	x
+h	n
+b	sbcd
+s		夕阳再度照到了我们头上，习惯了海洋馆内黑暗的我眯起了眼睛。
+s		她的手再度与我拉到了一块，那暖暖的感觉和户外的温度像极了。
+p	n	c	sf24	-	-	cloth:scf2
+s	宁桐雨	别郁闷啦，今天晚上去吃海鲜吧？顺带咱们再拍一张不那么明显的照片就好啦~
+p	n	c	sf24	-	-	cloth:scf2
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	好，好吧。
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s		尽管她嘴上这么答应了，可我总感觉她不满的情绪丝毫没有消减。
+s		果然，小鑫还是像以前那样喜欢闹别扭啊...
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	该睡觉啦，小公主哟，

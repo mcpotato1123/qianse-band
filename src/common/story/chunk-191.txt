@@ -1,0 +1,128 @@
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	不得不说，你的幽默细胞不赖，希望以后也能保持...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	明明就是现实啦，你不信的话就试试呗？
+h	n
+h	x
+b	scoexil
+s		可从那之后，无论我怎么在她耳边聒噪，她都像当我不存在一般了。
+s		直到最后，哪怕是我自己也泄了气，停下了对她的口腔体操。
+b	black
+b	labgate_n
+s		走着走着，不知不觉间我们已经来到了学校的正门口。
+s		我们所上的高中地处城郊，正对着门口便是一条宽阔的马路，
+s		除了来往频繁的车辆之外，只有遍布四周的高耸楼房。
+s		没有小摊的吆喝，也没有便利店门口排起的长队，一切都让人感觉身处于某处的高速路边。
+s		这样的布局固然有它的好处，毕竟根据老师们的理论，学校周围本来就是要冷清一些才好。
+s		过度的嘈杂与商业只会分散学生们的注意力。
+s		然而，四周冷清到连一家超市、甚至连锁小吃店也没有，
+s		这不免让人有了矫枉过正的感觉。
+s		所幸的是，出校门的路上，我们也并不会感到独行夜路的孤单。
+s		因为每到放学的时候，马路两边总是停满了车。
+s		那一盏盏耀眼的车灯与街边的路灯一起，把宽阔的马路照的灯火通明。
+s		小宁疲倦得打了个哈欠，垂着脑袋跟在排队出校的队伍后面。
+p	n	c	sf16	-	-	cloth:scf1
+s	宁桐雨	我绝对不会忘记你的大缺大德的...
+p	n	c	sf16	-	-	cloth:scf1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	还在想那张考卷的事情？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	不然呢？呼...可真是，上了你的大当啊...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	那么到二模，再跟小宁一决胜负吧？
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	那时候也快到小宁的成年礼了，顺带我就可以...
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	等暑假再说！
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s		突然间，她的语气变得不由分说了起来，手指也压到了我的鼻梁上。
+s		在短暂的恐惧过后，留在我心头的是窃喜感。
+s		毕竟，小宁理解了我的意思，甚至还默许了...
+s		这也就意味着...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	好的，我明白了~唔...
+s		不过不知不觉间，我的语气还是低声下气了起来。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	还要忍这么久吗...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	好想现在就和...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	真的是...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	跟你这样的虫豸在一起，怎么能搞得好成绩呢？
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	亏我曾经还这么信任你来着...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	我知道啦，但是，我需要...承诺...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	有那个必要吗？这种事情就算是暑假里不做以后也肯定要做的吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	不是说以后无论我跑到哪里也要死皮赖脸地和我住一块吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	不是啦，我不是不相信小宁的意思...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	只是...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	只是我一直以来都没什么目标...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	我现在感觉，能支撑我继续努力下去的东西也太少了...
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	不过吧，我觉得把和女朋友干这种事情当做人生目标的人真的很悲哀耶...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	那，那是，那是完全、完全没有的事！
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	说实话，只是我觉得这种东西才最能激励...那个激励我嘛...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	小宁你也...你也懂的吧，就是...就是那种看得见，摸得着的...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	不对，这么形容也不大恰当...应该说...
+s		我尴尬地看着身旁的她，脑海中紧张地搜索着一切可用的词汇来弥补方才的失言。
+s		可面对着有些手足无措的我，小宁却只是一如既往地叹了口气。
+s		白色的雾气飘散在空中，我们也即将走到队伍的尽头了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	也行吧~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	不过嘛，我到现在还是坚持我原来的看法。
+s		说着，她再一次用手指指向了我的鼻梁处。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	你啊，果然还是立一个更正经的目标比较好...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1

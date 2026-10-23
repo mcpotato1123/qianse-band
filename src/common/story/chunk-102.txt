@@ -1,0 +1,128 @@
+s		不知不觉间，队伍已经轮到我们两人了。
+s	陌生人	这两位女士，别聊天啦，你没看见后面的顾客都等了将近半分钟了吗？
+s		服务员的话把我从刚才稍有些梦幻的感觉中惊醒，我的思绪终于又飘回了现实。
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	对...对不起，
+p	n	c	ss2	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+s		我狠狠地掐了掐小鑫的手指，接着以最快的速度结完了账。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+s	宁桐雨	回去我再好好地收拾你。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+s	余晓鑫	呵，小宁啊，谁收拾谁还说不准呐~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+h	n
+h	x
+b	strdor_m
+s		略有些老旧的楼道，油漆都快脱落干净的护栏，
+s		一扇窄小的防盗门...
+s		与我老家的那扇有些相似。
+s		我从腰间的小包里掏出了一串钥匙，仔细地翻找了起来。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	诶？小宁~怎么找得这么慢啊？
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	你不会没带钥匙吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	你先别急...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	要不就先敲个门呗，老姐准在家的。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	别人不要午睡啊？整天去吵醒人家。
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf2
+s	余晓鑫	可你进门也会吵醒她啊？
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	切，哪会，
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	退一万步讲，要是她真被吵醒了的话咱们先去帮她做点菜就得了。
+s		终于，我从一堆钥匙中找出了那看起来最老的一把，
+s		我把它插进去拧了几圈之后，防盗门总算开了。
+h	x
+h	n
+b	liv_m
+p	y	c	ss6	-	-	cloth:sc1
+p	y	l	ss6	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	杨老师	来啦~
+p	y	l	ss1	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s		听见门外的响声，里屋里就传来了脚步声。
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	你看，要是你刚才砸门的话可不就把人家吓了一跳嘛！
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	唔...好吧。
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	你们俩怎么还老是拌嘴啊？可真的是...
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	我可明明记得你们都同居了半年了。
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss11	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	小宁、小鑫	都是她的错。
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss11	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	得，你们俩啊，果然还是没变。
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	快进屋子里来吧。
+h	y
+h	x
+h	n
+b	liv_m
+s		现在是腊月深冬，明天咱们俩就要和表姐一块去爸妈家里过年了。
+s		于是，利用放的这一天假，我们便顺道来老姐家坐一坐。
+s		当然，究其原因还是表姐的邀请...
+s		这个女人直到现在还是孤身一人...
+s		明明除了自理能力就基本毫无缺陷了来着...
+b	skidk
+s	杨老师	小宁，姐姐一个人在家太孤单了，跟小鑫一起来陪陪我呗。
+s		昨天晚间突然收到了她发的这么一条消息...
+s		怎么感觉颇有一番别的风味...
+s		抱歉，我已经是有妇之妇了...
+s		本想这么回答她的来着...
+b	liv_m
+p	y	c	ss6	-	-	cloth:sc1
+p	y	l	ss6	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+p	y	l	ss8	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	杨老师	小宁嘛，她本来就是这样的啦...
+p	y	l	ss8	-	-	cloth:sc1
+p	x	r	sf11	-	-	cloth:scf2
+p	y	l	ss8	-	-	cloth:sc1
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	嗯，我懂我懂~
+p	y	l	ss8	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	杨老师	不是我吹什么啊，小宁百日宴上就是我抱着她的，
+p	y	l	ss11	-	-	cloth:sc1

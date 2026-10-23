@@ -1,0 +1,128 @@
+s	主人	唔，哪有，只是需要一点适应的时间罢了。
+s		她撇过头去，拉开了窗帘。
+s		温暖的风儿穿过马车的车厢，将春意送到我们的脸上。
+s		她柔软的发梢随着风儿轻轻地摇动，像极了河边的柳枝。
+s		随着窗外的景色再度转入郊野，两旁的建筑也越发稀疏了起来。
+s		花园映入了眼帘，五彩斑斓的颜色一时间让我应接不暇。
+s		而在花海之中，郡主的屋子已经近在咫尺了。
+h	n
+h	xj
+b	ex_vchat_2_1
+s		下午第四节课刚结束，我就收到了小鑫发来的消息。
+b	ex_vchat_2_2
+b	ex_vchat_2_3
+b	ex_vchat_2_4
+b	ex_vchat_2_5
+b	ex_vchat_2_6
+b	ex_vchat_2_7
+b	ex_vchat_2_8
+b	ex_vchat_2_9
+b	ex_vchat_2_10
+b	ex_vchat_2_11
+b	ex_vchat_2_12
+b	ex_vchat_2_13
+b	ex_university_classrooms
+s		我熄了屏，踏上了回宿舍的小路。
+b	black
+b	ex_street2
+s		转眼间，时间又已经临近寒假了。
+s		再加上期中考试已经结束，原本熙攘的大街上此刻却空无一人。
+s		尽管红灯笼早就挑了起来，可校园里还是没有丝毫年味。
+s		江南的冬天是最无趣的，
+s		街边的行道树永远也不会落叶，天气再冷也不会下雪，还夹杂着湿冷的气息。
+s		除此之外，没有她的话，我的生活也是无趣的。
+s		因此，我加快了脚步。
+b	black
+b	ex_park
+s		下了车，过了桥，正对门就是运河公园的大门。
+s		门口冷清清的，除了一个穿着夹克衫的女士外空无一人。
+s		在人群中，她那米黄色的头发就显得额外显眼，更别提现在四周如此空旷的情况了。
+s		我快步迎上前去，准备吓她一跳。
+s		可这招很快被她识破了，或许是因为我今天穿的是皮鞋。
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	让你久等了？
+h	n
+p	n	c	sf6	-	-	cloth:scf2
+p	n	c	sf6	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	也没有，
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	胡说，别老是想着安慰我啦，明明我都耽搁了将近一个小时了。
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	ss19	-	-	cloth:scs2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	ss19	-	-	cloth:scs2
+s	余晓鑫	也不算太久辣。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s	宁桐雨	在我记忆里，你可没这么好的耐心，
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	那，士别三日当刮目相待？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	得，我们俩昨晚还睡一块呢，可别说“别三日”了。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s		我自认为接话接得还算不错，可她的脸上还是带着一如既往地苦笑。
+h	n
+h	x
+b	pakm
+s		我们俩牵起了手，就这样晃晃悠悠地沿着河道走了起来。
+p	x	c	ss21	-	-	cloth:scs2
+s	余晓鑫	小宁，你今天穿的衣服很好看，
+p	x	c	sf12	-	-	cloth:scf2
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	是吗？说起来我确实好久没穿过这件了，
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+s	宁桐雨	这顶帽子还是你送给我的呐，
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	嗯，
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	所以说，这就是所谓的定情信物吗？就像我头上的发卡一样？
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+s	宁桐雨	你乐意这么想的话，我倒是无所谓啦。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s		不知为何，她跟我紧握着的手显得有些颤抖，
+s		一边走着，她也一边向外呼着白气。
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	哈，好期待晚上啊~
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	感情你喊我出来就是为了找我开房？
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	咱们不是已经好久没做了吗？隔壁宿舍还在准备考试啦，所以我总觉得...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	还有小鑫的态度啊，最近一直像有什么心事一样的，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s		我试探性地问道，一边用余光扫着她的表情，
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	是啊，所以我才想跟小宁一起出来散心啊~
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	或许，只有在跟你独处的时候，我才有勇气说出这件事吧...

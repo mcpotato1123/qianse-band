@@ -1,0 +1,128 @@
+s		毕竟我记得她在早读的时候一直坐在讲台上领读的来着。
+s		不过，就算我搞清楚她的具体身份也不会让我感到有什么成就感就是了。
+s		直到快要高考的时候，她突然跟我熟络了起来。
+s		在此之前，她在我眼中只是与一般人毫无区别的陌生人。
+s		在别人眼中，她性格十分孤僻。
+s		除了我以外，她甚至没和同班同学说过什么闲话。
+s		对她而言，跟同学的对话只剩下奉公办事了。
+s		但是她面对我时却能很轻松地聊起来，甚至还会开一些没轻没重的玩笑，这让我感到十分的困惑。
+s		后来我总结原因，大概是因为我本身也是个不擅长交际的人。
+s		或许她正是瞄准了这一点，认为我是她的同类，同为社恐所以能理解社恐的苦衷...
+s		以前的我一直是这么认为的。
+h	n
+b	black
+s		至少和小鑫在一起的时候，我还是个能开得起玩笑的人。
+b	metro
+s	同学	最近是有什么好事情发生了吗，看你比以前开心了许多。
+s		聊着聊着，她突然就把话题转到了一个毫不相干的方向上。
+p	n	c	sf12	-	-	cloth:scf1
+s	宁桐雨	开心？我倒是觉得我最近有些苦恼，毕竟要和好朋友分开了。
+s	同学	我倒是觉得无论什么事情都可以用时间搪塞过去的。
+s	同学	我是说，无论。
+s	同学	不然的话，我想没有人能有继续活下去的勇气吧？
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	但愿如此吧。
+s		最后，我也只是用这么模糊至极的话搪塞着。
+h	n
+b	cof_n
+p	x	c	sf4	-	-	cloth:scf2
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	怎么了，小宁？
+p	x	c	sf6	-	-	cloth:scf2
+s		听到小鑫的声音时，我方才从坠落感中醒来。
+p	x	c	ss1	-	-	cloth:scs2
+s	余晓鑫	刚才是怎么了？看起来好像很不舒服的样子...
+p	x	c	ss12	-	-	cloth:scs2
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我...我做了个噩梦，梦见一个剧院坍塌了，然后我从剧院里掉进了虚空里...
+s		我喘了口气，看了看杯中深褐色的咖啡，恍惚中，我在其中看出了凌的倒影。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	诶？这么短的时间也能做梦？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	明明你就走神了几秒钟而已...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		我诧异地看着她的眼神，那里看不出有任何开玩笑的意味...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	到底怎么了？
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	没，没事啦...
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	就是开个玩笑罢了，你不是还经常打趣的嘛...
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	嗯？小宁怎么突然想起开玩笑来了？平时一直是个死面瘫...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	就是想起了毕业晚会上那天的事，说起来也真的是，我那天晚上不也是不在状态嘛...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	好像还胡言乱语来着的...
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	就是啊就是啊，那天的啤酒哈哈哈，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	小宁从来没喝过酒，第一次喝的时候甚至吐了，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	不行了，一想起来就，啊哈哈哈哈哈...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	好啦，别笑了...
+s		看着她傻笑的样子，我再度安下了心。
+s		刚才的事情...果然只是幻觉吧...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	怎么了？觉得这件事很丢人？
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	没，只是...自从那件事之后我就明白了。
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我是个完全不能喝酒的人，从这一点上来看，它还是给我提供了一个很好的试错机会的。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	得，你还是这样，能把啥事儿都搪塞过去。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s		咖啡店的敞篷桌旁人来人往，他们都面朝着前方，鲜有人会回头看向这里。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	最近看你总是有些憔悴...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		她突然露出了忧心忡忡的表情，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	是最近我有吵到你了吗？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	没有，完全没问题的。
+p	x	l	ss13	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	那就好，不然我要自责死的...
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+h	x
+h	n
+b	black
+s		死...
+b	cof_n
+s		视野突然晃动了一下。
+s		就像是放置在颠簸的公交车上的摄像头画面一样。
+p	x	c	sf1	-	-	cloth:scf2

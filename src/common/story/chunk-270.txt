@@ -1,0 +1,128 @@
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf14	-	-	cloth:scf5
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf5
+s	余晓鑫	那不正显得我看青嘛！
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf5
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf5
+s	宁桐雨	看青也是指的外貌啊，可不是指心理年龄低下。
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf5
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+s	余晓鑫	总之，小宁一块儿来陪我玩一会吧？
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+s		到最后我还是拗不过她，乖乖地替她付了钱。
+s		我们两个大人在一众小孩子之间显得格格不入，
+s		但我也习惯了这样的事了。
+s		看着一只只圆滚滚的锦鲤聚过来时，我居然也对这一幼稚的游戏来了兴趣，
+s		果然，每个人心中都有一个长不大的孩子啊...
+p	n	l	sf12	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+s	宁桐雨	这些鱼好胖啊？
+p	n	l	sf12	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+p	n	l	sf12	-	-	cloth:scf6
+p	x	r	sf1	-	-	cloth:scf5
+s	余晓鑫	它们平时本来就什么都不用干吧？
+s	余晓鑫	胖一点也是很正常的。
+p	n	l	sf12	-	-	cloth:scf6
+p	x	r	sf1	-	-	cloth:scf5
+p	n	l	ss3	-	-	cloth:scs6
+p	x	r	sf1	-	-	cloth:scf5
+s	宁桐雨	小鑫再这样废柴下去也要跟她们一样胖了...有点担心...
+p	n	l	ss3	-	-	cloth:scs6
+p	x	r	sf1	-	-	cloth:scf5
+p	n	l	ss3	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf5
+s	余晓鑫	你说啥？
+p	n	l	ss3	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf5
+s		她转过头来，一脸不屑地看着我。
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf5
+s	宁桐雨	这是事实...
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf5
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf5
+s	余晓鑫	但晚上咱俩不是经常做运动吗？
+s	余晓鑫	就是小宁你不怎么爱动罢了。
+s	余晓鑫	所以我觉得我还算是经常锻炼的了。
+p	n	l	sf31	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf5
+s	宁桐雨	蠢货，大庭广众之下...
+p	n	l	sf31	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf5
+p	n	l	sf31	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+s	余晓鑫	哦，总算是明白敲脑门了。
+s	余晓鑫	有进步了哦？
+p	n	l	sf31	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+p	n	l	sf21	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+s	宁桐雨	赶紧快点喂你的破鱼吧？
+p	n	l	sf21	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+p	n	l	sf21	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs5
+s	余晓鑫	再坦率一点明明也可以的说~
+h	n
+h	x
+b	black
+b	ros_m
+s		好热啊...
+s		明明才刚到初夏，房间里还打着空调，
+s		可我仍感觉像是身处室外的骄阳之下。
+s		而造成这一状况的原因也很显然。
+p	n	c	sf14	-	-	cloth:scf8
+s		我低头看向我身上穿着的衣服。
+s		那是一件西洋式的女仆装。
+s		长长的裙摆几乎要脱到地上，
+s		走起路来都差点被裙子给绊倒。
+s		至于为什么我要打扮成这样...
+s		一切都还要从三天前开始说起...
+h	n
+b	black
+b	dlc_table_tennis
+s		由于“某人”的临时起意，我们去了附近的一家茶馆旁打桌球。
+p	n	c	sf2	-	-	cloth:scf7
+p	n	l	sf2	-	-	cloth:scf7
+p	x	r	sf8	-	-	cloth:scf5
+s	余晓鑫	总是这么玩好没意思嘛...
+p	n	l	sf2	-	-	cloth:scf7
+p	x	r	sf8	-	-	cloth:scf5
+s		练了两个小时后，对面的她突然这么抱怨道。
+p	n	l	sf2	-	-	cloth:scf7
+p	x	r	sf15	-	-	cloth:scf5
+s	余晓鑫	要不咱俩来打比赛吧？
+p	n	l	sf2	-	-	cloth:scf7
+p	x	r	sf15	-	-	cloth:scf5
+p	n	l	ss3	-	-	cloth:scs7
+p	x	r	sf15	-	-	cloth:scf5
+p	n	l	ss3	-	-	cloth:scs7
+p	x	r	sf15	-	-	cloth:scf5
+s	宁桐雨	喂？这不公平吧？小鑫你大学里可是练过的？
+p	n	l	ss3	-	-	cloth:scs7
+p	x	r	sf15	-	-	cloth:scf5
+p	n	l	ss3	-	-	cloth:scs7
+p	x	r	sf8	-	-	cloth:scf5
+s	余晓鑫	输的人要答应赢的人一个条件哦？
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	sf8	-	-	cloth:scf5
+s	宁桐雨	我可从来没说过要和你比...
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	sf8	-	-	cloth:scf5
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	ss21	-	-	cloth:scs5
+s	余晓鑫	开始啦，开始啦，喏，球杆拿好呐。
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	ss21	-	-	cloth:scs5
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	ss21	-	-	cloth:scs5
+s		就这样，我半被迫地被卷入了这场纷争之中。
+h	n

@@ -1,0 +1,128 @@
+s	余晓鑫	但是啊，如果目标定成：要和小宁考同一所大学的话，我就更没动力了啊？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	毕竟啊，我可能还得退步一点才行...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	嗷！好疼...我知错了...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	看不懂空气的话就少说点话，我刚才明明好不容易有点感动的说...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	明白啦~
+h	n
+h	x
+b	stro_n
+s		片刻之后，我们刷过卡，出了校门。
+s		母亲的车已经停在门口了。
+s		我转过身去，挥手向她告别。
+s		尽管重新获得了努力的动力，可我心头的焦虑却并未消减。
+s		或者说，那份不确定感从来没有消失过。
+b	carwindow_n
+s		高考我到底能不能发挥得好呢？能和小宁去同一所大学呢...
+s		我用一个又一个约定构筑起一张约束着未来的网，
+s		高考之后，要去海边旅行，
+s		暑假的时候，要和小宁干那样的事，
+s		我一直试图让我自己相信未来是美好的，只要忍过了这一段时间，一切都能好起来的...
+s		可是，为什么只有我这么急切，这么焦躁？
+s		或许，我也是明白的。
+s		因为一直以来，我的生活中除了小宁之外，就只有学习。
+s		当赌徒的手上只剩下最后的筹码时，便容易风声鹤唳，草木皆兵。
+s		而这时的我，只能用一个又一个愿望继续支撑起自己。
+s		只要熬过这最后的两个月...
+s		只要...
+s	宁桐雨	哦，哦一...
+b	classroom2
+s		肩膀被轻轻地晃动着，
+s		轻微的震动感让我睁开了眼睛。
+s		映入眼帘的是小宁略有些担忧的脸。
+p	x	c	sf1	-	-	cloth:scf1
+s	余晓鑫	我...我刚才是怎么了？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	在自习课上睡了将近十分钟...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	对不起...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	对我道歉有什么用嘛，你更应该对自己的身体道歉才对...
+s		她说着转过头去看了看结着伴走出教室的同学们，紧接着又拉过了我的手。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	一起出去走走吧？老地方？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	嗯，好的。
+h	x
+h	n
+b	skyngt
+s		门外集结着大批出来散步的同学，本就狭窄的走廊此刻更是被挤得水泄不通。
+s		然而，跨过走廊之后，小宁却并没像往常一样拐向长廊那里，反倒是拐角处随着楼梯下了楼。
+b	stai_n
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	不是说去老地方吗？
+p	x	c	sf1	-	-	cloth:scf1
+s	余晓鑫	怎么下楼了？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	下面肯定要空气点嘛，而且啊，
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s		说到这儿她突然回过了头来，
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	你有没有发现啊，最近的长廊那里人越来越多了？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	哈？有吗？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	有啊，分明很明显的。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss10	-	-	cloth:scs1
+s	宁桐雨	因为大家都闷得慌嘛，所以总是想借着晚上出来逛逛嘛。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	而且，一楼也空气些，凉风吹得人很舒服啦~
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	可现在都已经是五月份了，江南早就是暖风了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	一切以现实为转移好吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	今天昼夜温差比较大，所以是冷风。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+h	x
+h	n
+b	scoroa_n
+s		走出楼梯口，绕着回字形的走廊饶了片刻，就到了教学楼的侧门口，
+s		打开门，果不其然，一阵冷风迎面扑来。
+s		教学楼外漆黑一片，只有教学楼的灯光在远处点缀。
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	他们为什么不多装几盏灯呢？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	或许他们觉得这样更有氛围感？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1

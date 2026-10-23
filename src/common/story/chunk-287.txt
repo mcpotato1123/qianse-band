@@ -1,0 +1,128 @@
+h	x
+h	n
+b	black
+b	dlc_cg6
+s		在夏天的尾巴，借着攒下的假期，我们又去了另一座附近的海滨城市。
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s		这一次，我们没了一开始那种兴奋的劲头。
+s		一方面是因为这次时间不够，另一方面是因为长大的我俩再难像高中毕业时候那样，毫无顾忌地挥洒青春了。
+s		生活逐渐变得平稳，激情远去了，随着海浪褪去之后，面对的仍是每天的柴米油盐。
+s		在海滩边，我们并没有脱下鞋子，只是站在沿海的小路上，从远处眺望着大海。
+s		夕阳拖着长长的彩霞，在地平线的尽头闪耀着，
+s		只是那束光太过于柔和，已经不会再使我们的眼睛感到耀眼了。
+s		就这样站在她的身边，不停地看着，看着。
+s		风儿吹过，人们的欢笑声从耳边传过，远处小摊贩们的叫卖声也传到了我们身边。
+s		夕阳已经要淹没在地平线之下了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s		我扯了扯她的衣襟，示意她已经到了回旅社的时间了。
+s		明天早上还要赶火车，再修整半天之后，后天就要回去上班了。
+s		一想到这里，我就全然无法欣赏眼前的美景。
+s		然而，身边的她却不为所动。
+s		我转过头去看向她的脸庞，却与她的视线对撞了。
+s		她的脸上也带着夕阳的色彩。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	小宁，我感觉你和我很像天空和大海。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s		突然间，她这么说道。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	天空包容着大海，大海映照着天空。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	而且，
+s		看着她凑过来的脸，我闭上了双眼，
+h	x
+h	n
+b	black
+b	black
+g	cg4
+p	x	c	sf17	-	-	cloth:scf2
+s	余晓鑫	天空亲吻着大海，
+s	余晓鑫	在地平线的那一头。
+p	x	c	sf16	-	-	cloth:scf2
+s	余晓鑫	直到，世界的尽头。
+h	x
+b	black
+b	dlc_cg6
+s		睁开眼睛的我面对的是她通红的脸，
+s		不过，此刻我的脸也一定是与她一样的。
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	余晓鑫	呼~
+p	x	l	sf15	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	余晓鑫	怎么样，是不是很浪漫？
+h	x
+p	n	c	sf3	-	-	cloth:scf2
+p	x	l	sf15	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+p	x	l	sf15	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s	宁桐雨	嗯...这一次勉强算你及格了吧？
+h	n
+p	x	c	sf15	-	-	cloth:scf2
+p	x	l	sf15	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+p	x	l	sf15	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s	余晓鑫	诶？才刚及格吗？小宁你的要求到底是有多高啊？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s	宁桐雨	也没有啦，只是听你念叨了七八年，早就腻味了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf31	-	-	cloth:scf2
+s	宁桐雨	却也始终没敢迈出那一步。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf31	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf31	-	-	cloth:scf2
+s	余晓鑫	嗯？
+s		她不解地看着我。
+s		我清了清嗓子，接着说道。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf26	-	-	cloth:scf2
+s	宁桐雨	无论贫穷还是富有，疾病还是健康，青春亦或是衰老，我都会陪伴在你的身边，注视着你，支持着你，同时爱着你，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf7	-	-	cloth:scf2
+s	宁桐雨	小鑫，我的青梅竹马，恋人，家人，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s	宁桐雨	你愿意嫁给我吗？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s		说着，我伸出了手。
+p	x	l	sf17	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s		诧异的神情只在她的脸上存在了一刹那，
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s		下一刻，她就手放到了我伸出的手上。
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s	余晓鑫	我愿意。
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s		说着，她脸上绽开了灿烂的笑容。
+h	x
+h	n
+b	black
+b	dour_n
+s		回到了旅馆之后，洗过澡，梳完头发之后，我们俩便关了灯，一同躺到了床上。
+s		我耐心地等待着她，心里感到无比地放松。
+s		然而，无论过了多久，回应我的也只有窗外的虫鸣。
+s		我转过头去，在昏暗中，我看到她正与我对视着。
+p	n	c	sf13	-	-	cloth:scf5
+s	宁桐雨	怎么还不睡？
+p	n	l	sf13	-	-	cloth:scf5

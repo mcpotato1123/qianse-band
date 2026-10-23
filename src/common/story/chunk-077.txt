@@ -1,0 +1,128 @@
+s		我心中这么打着算盘。
+h	n
+b	classroom1
+s		然而，当我走进教室时，我却发现座位上堆着一叠厚厚的本子。
+p	x	c	sf1	-	-	cloth:scf1
+s		守在我座位旁边的小鑫正满面笑容地跟我打着招呼，
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	呀吼~小宁，假期快乐啊~
+p	x	c	sf1	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	这...这是什么？
+s		这回，我却完全没心情和她拌嘴，只是指着桌上叠着那堆本子胆战心惊地问了这么一句。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那还用说嘛！
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		她的表情看上去还蛮趾高气扬的。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	当然是咱的暑假作业咯！
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	唔，疼~
+p	x	l	ss5	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	小宁你也真的是，打我干嘛...
+p	x	l	ss3	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss3	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	对不起，看你这副样子实在是忍不住了...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	又不是我的错，你要怪也去怪班主任嘛...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	把你女朋友聪明的脑袋瓜敲坏了...
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	疼，好了，我不说了...所以别敲啦...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	我看你的脑袋已经够糟糕了，怕是除了题目啥都不剩下了...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	还装着小宁哦~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+h	x
+h	n
+b	classroom1
+s		我无奈地叹了口气，不想再和她在这个话题上继续深入了。
+s		毕竟那完全就是在浪费时间而已。
+s		就在这时，德育处的一个老师却突然站到了门口。
+s		教室内瞬间安静了下来，所有的学生都不约而同地拿出本子，装作在做着正经的事儿。
+s	德育老师	······，余晓鑫，宁桐雨，······这五位同学出来一下！
+s		我和小鑫面面相觑，对接下来将要发生的事儿一无所知。
+s		没办法，既然都直接点了我们的名字了，我们只好乖乖跟着。
+b	scor_m
+b	offdor
+s		就这样，我们怀揣着各种各样的胡思乱想一直跟着走到了班主任办公室门口，
+b	off_m
+s		推开门，那里的班主任脸上收起往常的严肃面孔，
+s		换句话说，现在的她看起来更像学校门口告示栏里的那个。
+s		那是一种一般只能在宣传片里见到的表情。
+s	班主任	首先，我要祝贺你们这五位同学在刚刚过去的期末考试里取得了优异的成绩，
+s	班主任	你们是我们学校的骄傲~
+s	班主任	然后...
+s		她像是为了卖关子一般，停顿了好一会。
+s		接着，她从书架上抽出了那本蓝色封皮的本子，翻开到最后一页。
+s		上面的字迹十分潦草，但我还是依稀辨认出了我和小鑫的名字。
+s		班主任清了清嗓子，转过身来对我们说道，
+s	班主任	请问大家有没有兴趣参加学校组织的夏令营呢？
+b	busscho
+s		所以，事情到底为什么会变成这样...
+s		心中满是这样想法的我已经欲哭无泪了。
+s		现在，我正坐在一辆前往位于省会的某所大学的大巴上。
+s		而在这一看似前景一片光明的夏令营之行背后，是血淋淋的现实...
+s		其他人用三周来完成的暑假作业，留给我的只剩下短短的十天。
+s		从来没自力更生的我，要在这十天之内从头学会骑车和做家务。
+s		不然等待我的就只会是灰暗的夏令营时光...
+s		以及，地狱般的补作业周了...
+s		而这一切的罪魁祸首...
+b	off_m
+s	班主任	那大家说说自己的意见吧？
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	我愿意，我觉得这是一个开拓眼界的机会。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	班主任	好，
+s	班主任	那宁桐雨，你呢？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	我...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s		可正当我在犹豫不绝的时候，温暖的感觉涌上了我的手心。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	对，对啊，既然...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+s	宁桐雨	行...行吧。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+h	x
+h	n
+b	busscho
+s		于是，一时间头脑发热的我居然想都没想得把这件事给答应下来了。
+s		真的是，这个人怎么答应得这么快啊，就不能好好地问问具体情况嘛...
+s		她一说要来，我又怎么好推辞呢...
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	嘛，既来之则安之，不要整天这么愁眉苦脸啦，小宁~
+p	x	c	ss11	-	-	cloth:scs1
+s	余晓鑫	现在我们还是好好想想如何享受这个难得的假期吧？
+p	x	c	sf8	-	-	cloth:scf1
+s	余晓鑫	毕竟接下来一年都是高三了嘛，可没有这样的时光了哦？
+s		一旁导致这一切的罪魁祸首却好像毫不在意这一切，把这趟夏令营当成了暑假的一部分。

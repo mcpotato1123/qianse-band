@@ -1,0 +1,128 @@
+s	余晓鑫	不带这么欺负人的嘛！我自己数的明明白白得呢！
+s		总是在我这么再三催促下，她长叹一口气，将漫画书放到了一边，然后坐定到了座位上。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	好吧，好吧，真是受不了你...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		她脸上的表情依旧是那么不耐烦的样子。
+s		可就在我们这么如同对峙一般地等待了半分钟后，却没有一个人站起身来，
+s		我的心情也由一开始的紧张转变为焦躁，
+s		实在是按捺不住心头渴望的我率先挑明了心意，
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	小宁，不是说，每五遍...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	嗯，对啊，
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s		她一边这么回答着我，嘴里居然顺带着嚼起了随身带着的水果糖，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	那为什么...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	每次不都是你主动的嘛...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	可我还要弹琴呢，不方便...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	没病就走两步啦~
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	小宁，就勉为其难主动一次嘛，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	明明咱都这么努力了已经...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	你努没努力我是不知道，可我现在懒得站起来，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	没病就走两步啦~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	小宁，求你啦~
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	好吧，好吧，真是拿你没办法啊...
+h	x
+h	n
+b	black
+s		说着，她缓缓地站起身，走到了我的身旁，
+s		我就这么看着她撩起了耳边的刘海，脸颊上也渐渐地起了红晕，
+s		我闭上了眼睛，可接下来嘴唇触碰到的却是干燥的固体，
+s		那与记忆中的感觉完全不像，
+b	mus_m
+s		我睁开眼睛，诧异地看向前方，原来小宁伸过来的是她的食指，
+s		看见我错愕的表情，她调皮地笑了笑，似乎在戏耍着我之前的紧张感，
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	怎么样？我还当你这个木头意识不到呢？
+p	n	c	ss1	-	-	cloth:scs1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	唔...别捉弄我啦...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	明明我对小宁可是一心一意的...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	难道小宁就...
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	好啦，只是跟你开个小玩笑罢了啦~
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	开这种玩笑可不像你一贯的作风...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	凭什么嘛，我也是会改变的好嘛？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	改的话也要先把面瘫脸给改掉...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	就只是被你烦的不行了而已，至于对我这么持续地口诛笔伐嘛...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	好啦好啦，闭上眼睛，这次我要来真的了啦，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	保证？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	我用我的下次数学考试成绩担保总行吧？
+p	n	l	ss12	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	如果这次我还耍你的话多选题少选必漏，三选必错好不好？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	这种誓算是够毒辣了吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+h	n
+h	x
+b	black
+s		听了这话的我总算是安下了心，于是再度闭上了双眼，
+b	black
+g	cg41
+s		润湿的感觉如触电一般涌上了我的唇部，那股酥麻的暖流几乎让我向后栽倒，
+s		我用手撑住皮椅的一角，稳住了自己的身体，
+s		就这样，我们就以这么别扭的姿势共享着彼此的呼吸，
+s		小宁拜托了杨老师帮我们把风，虽然理由她另找了一个，
+s		安心感也同时为我带来了背德感，
+s		现在的我们俩，是校规的共犯，
+s		小宁并没有用麻烦之类的言辞推脱掉我，而是默默地接受着这一切，

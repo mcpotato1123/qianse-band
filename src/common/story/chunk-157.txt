@@ -1,0 +1,128 @@
+s	余晓鑫	回？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	...嗯，好，好的。
+s		虽然不明所以，但是出于对小宁的信任，我还是口头答应了下来。
+s		母亲还是用一如既往的冷淡的表情，默默地目送着小宁进到了我的房间。
+h	n
+h	x
+b	c_bedroom
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	我说，你突然在搞什么啦？怎么突然跑到我家来了？
+s		一关上门，我就按捺不住责备道，无论怎么说，我当时都被吓了一大跳。
+s		毕竟我还在苦恼着怎么向小宁道歉才好...
+s		然而，她却并不想回答我。
+s		她只是迅速地凑上前来，把我慢慢地逼向床边。
+h	n
+p	x	c	sf4	-	-	cloth:scf1
+h	x
+b	black
+s		我本能地向后退了一步，却被脚底的一本教科书绊倒了，
+s		向后摔倒的我后背撞到了床单上，幸而床单很软，缓冲力让我感觉不到疼痛。
+s		而小宁也顺势坐了下来，两膝着地，两手撑在身前，接着一点一点地向我坐着的地方靠近，
+s		她的脸颊有些泛红，呼吸也有些急促，
+s		我呆呆地愣在原地，面对这种突如其来的展开，脑袋里只剩下了一片空白
+s		在我们的双眼距离不到十公分的时候，她闭上了眼睛，
+s		我也赶忙闭上了双眼。
+b	black
+g	cg21
+s		接着，嘴唇上传来了熟悉的触感。
+s		仅仅是那一瞬间，我所有的担忧都消失了。
+s		这一次持续的时间比上一次要长的多。
+s		在kiss的过程中，我们都在享受着彼此带来的快感，
+s		后悔的情感，焦躁的情感，炽热的情感，全都融化在了舌尖，
+s		化为爱意，化为最纯粹的索求，
+s		化为一种生物本能的冲动，
+s		平日里那些细碎敏感的心思在此刻的幸福感面前显得不值一提，
+s		我的生活中仿佛只有甜蜜，也只会存在甜蜜，
+s		也不知道过了多久，
+s		也不知道舌尖交织在一起已经多少次了，
+s		直到确认那触感已经完全消失了之后，我才缓缓睁开了双眼。
+b	n_bedroom
+p	n	c	sf17	-	-	cloth:scf1
+s		小宁已经先一步打开了天花板上的吊灯，原先房间内阴沉的氛围转瞬间便被一扫而空了。
+s		可此刻，映入我眼帘的却是低着脑袋的她。
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	...
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	喂，快...快点说...说些什么吧？
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s		她这么催促着我，脸颊的颜色的简直和傍晚的夕阳一模一样。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	小鑫不是平时最...最能扯淡了嘛，这个时候，不说点什么吗？
+p	n	l	ss7	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	不然的话，不然的话...就真的...
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	尴尬死了...
+s		我该说什么呢...
+s		这时我的心头一直也在犹豫，
+s		我该说类似于“我最喜欢你”之类的话吗，那未免显得有些肉麻，反倒破坏了原本的氛围
+s		还是说，我该把原来想好的那一套道歉的话说出来吗...
+s		可刚才的一切已经让我明白，她需要的并不是我口头上空洞的话语...
+s		不知不觉间，泪水就从眼角滑落了。
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	为什么，小宁会特地跑来，跑来安慰我这样的人...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	明明是我的错，是我...
+p	n	l	ss12	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	嗐，你个小蠢货，忘记今天是什么日子啦？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	诶？今天...
+s		我诧异地看着她的脸，大脑一片空白。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	我...我记不起来了，抱歉...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	唔~真的是...
+s		她似乎对我的反应颇有微词。
+s		那一瞬间，她甚至露出了有些不耐烦的表情。
+s		但紧接着，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	生日快乐！余晓鑫！
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		她说着，脸上绽开了笑容。
+s		我的表情却僵住了。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	不会吧，小鑫真的...不记得自己的生日了？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s		看我一脸茫然的样子，她的脸上也显得略有些扫兴。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	今天你把我喊出来的时候我可慌极了，我当你要问我今天是什么日子呐！
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	当时呢...我都想好了，要不要就装傻说不知道，
+p	n	l	ss7	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	要么就放弃这个打算，
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	结果倒是出乎我的意料...
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		后面的那句话她没说出口，不过，我已经猜到了。
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	对不起！是我辜负了小宁的一片好心...
+p	n	l	sf2	-	-	cloth:scf1

@@ -1,0 +1,128 @@
+p	n	r	sf22	-	-	cloth:scf1
+s	余晓鑫	你...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	现在是不是感觉清醒过来了？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s		然而，我却不由得向后退了两步。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	你是谁？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	你根本不是小宁！
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	我的小宁绝对不会这么主动！你到底...
+p	x	l	sf12	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf12	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	呜~疼~
+p	x	l	sf7	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf7	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	这下知道我是正版的了吧？
+p	x	l	sf7	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	脑壳上的力度确实是一样的，不过还是不太敢相信。
+p	x	l	sf7	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	在你的心里，我居然是这样的人？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	我一直觉得小宁是不太会表达感情的人。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	就是...怎么说呢...面瘫吧？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	因为我想嘛，要是想一个最能刺激到你的方法，果然还是得这样啊~
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	哪有，明明直接对我...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	额，算了，那样的话也太不像小宁的作风了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	所以是像你的作风对吗？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	现在到底是谁脑子里装满黄色废料已经很明显了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	好歹我只是在脑子里想想，你倒是直接上手了啊？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	哦呀哦呀，那到底是谁先开的头呢？
+s		这时上课铃突然打响了，
+s		而距离回到教室的死线只剩下最后三分钟了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	都怪小宁，害得我都没心思专心复习了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	人心静自然清，心里有邪念，谁都救不了你。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	真的是，好心帮了倒忙，下次再也不做了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s		跟在我身后的她一边走着，一边这么嘀咕着。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	那个请允许我驳回！
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	诶？不是影响你复习吗？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	但它让我清醒起来了也是现实嘛，
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	权衡了一下...嗯，果然还是后者比较重要！
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	我说，你那一点小心思就摆到桌面上好不好？
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	你还当真有人读不懂你似的。
+s		她在说什么呢...
+s		我...我可一点也听不懂！
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	明天考试加油哦，可别辜负了我的巨大牺牲哦？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	余晓鑫	知道啦，与其关心我，小宁你最好下节课再去把错题做几遍，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	余晓鑫	别又像上次一样，数学刚一考完就来找我诉苦。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	咱俩也彼此彼此啦~语文考完也别找我来对选择题答案哦？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s		就这样，在就要回到教室的时候，我们俩之间的话题总算是再次被拉回了正轨。
+h	x
+h	n
+b	skidk
+s		对一次考试记忆最深刻的是哪一个瞬间呢？
+s		是开考前煎熬的两分钟？
+s		遇到难题时苦思冥想的那一段段度日如年的时光？
+s		收卷之前四处检查，生怕在细节处遗漏了什么的最后三十秒钟？
+s		不过，这一切最后都没能在我的心头留下哪怕一丝一毫的印迹。
+b	black
+s		在我的前十八年中，我最为熟悉的事便是坐在考卷之前，
+s		把透明笔袋里装着的中性笔和尺子摆在一边，静静等待着铃声的响起。
+s		那是纯粹的，机械的重复。
+s		毫无意义，毫无趣味。

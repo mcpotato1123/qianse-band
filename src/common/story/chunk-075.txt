@@ -1,0 +1,128 @@
+p	x	c	sf1	-	-	cloth:scf3
+s		以上便是当事人对最后一个暑假中的第一天的总结。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	你可算是有点自知之明了。
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	说实话，之后的日子里，我也不太想出去了。
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s		她说到这儿语气突然变得颓废了起来。
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	你今天是怎么了？
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	嗯？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	现在的你，跟以往那个精力过剩的你简直判若两人好吧？
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	没有什么啦，只是我觉得，小宁大概不太会喜欢这样的生活吧...
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	说实话，我也不太喜欢。
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	其实我都是看别的人这么做，才会...
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	嗐，我也不知道怎么说才好，
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	总之，感觉这样的生活还是不太适合咱们...
+s		看着一反常态又显得如此笨拙的她，我不由得笑出了声。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	宁桐雨	那你觉得暑假该怎么过呢？
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	sf6	-	-	cloth:scf5
+s	余晓鑫	唔...
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	余晓鑫	我觉得前几年咱们在学校里那种过法就挺不错的。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	余晓鑫	打打游戏，看看漫画书之类的。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	那不就成啃老的尼特族了嘛！
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	你对两个研究生就读的学生喊什么尼特族呐。
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	咱们明年就要开始独立了的说。
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	明年嘛...
+s		突然间才想起来，明年的这个时候，我们俩就要正式毕业了。
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	不知道以后还有没有这样清闲的功夫了啊~
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf28	-	-	cloth:scf5
+s		我不禁这么随口感叹了一句。
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	余晓鑫	没事啦，只要跟小宁在一块，无论有没有清闲的功夫都无所谓啦。
+p	x	l	sf10	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	余晓鑫	毕竟，生活的意义说到根本上，就是跟你一起玩儿嘛。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	那你的生活也真的够可悲的...
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	小宁不也是吗？
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	你啊，可别太自恋了。
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	呜...小宁你难道不爱我了吗？
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	你跟我曾经立下的誓言...那些，难道都是骗人的吗？
+s		转眼之间已经快要哭出来了...
+s		对此我只有一句评价，
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	好恶心...
+p	x	l	sf17	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	好过分！
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	我...我可是绝对不会相信的！
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s		她突然自言自语了起来。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf5
+s	宁桐雨	怎么了...呜哇！
+h	x
+h	n
+b	black
+g	cg10_1
+s		就像往常一样，她把我按到了床上。
+s		床单昨天刚刚洗过，上面还残留着一股淡淡的香气。
+s		她看向我的脸已经通红一片了。
+b	black
+g	cg10_2
+s	余晓鑫	既然小宁这么不坦率的话，我就用行动来让你承认吧！
+s	宁桐雨	喂，等等...
+s	余晓鑫	挣扎和反抗都是没用的啦。
+s	宁桐雨	我是说，妈妈她...
+s	余晓鑫	昨天阿姨也没说什么吧。
+s	宁桐雨	不是，我是说衣服...
+s	余晓鑫	衣服怎么了？
+b	black

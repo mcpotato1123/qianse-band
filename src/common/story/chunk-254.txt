@@ -1,0 +1,128 @@
+s	女仆	我愿意跟小姐你在这里度过一辈子。
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	主人	...
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	女仆	怎么突然间不讲话了？
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+s	主人	没有，就是我突然觉得，在讲出来的那一刻，突然间一切都没意思了，
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+s	女仆	诶？
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	主人	或者说，是女仆酱你讲的太不庄重了，
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	女仆	什...什么意思？
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	这可是托付终身的话题好吗，怎么说都得讲的庄重，讲的有诚意一点嘛...
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	可这又不是求婚...
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	主人	唔...
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	女仆	好啦好啦我明白了啦，那小姐你想要我怎么说呢？
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+s	主人	嗯...就语气放慢一点就好，
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+s	女仆	就，就这样就可以了吗？
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+s	主人	嗯，就...就这样...
+h	xj
+p	n	c	sf12	-	-	cloth:scf8
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+s	女仆	那...小星，
+s	女仆	我愿意将我的一生都托付给你，
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+s	女仆	这样，就满意了吗？
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	如果没有最后一句话的话，我肯定会更满意的...
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	好啦，今天已经不早了，赶快去睡觉吧？
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	主人	唔...
+h	n
+h	xj
+b	black
+s		到最后，小姐还是默默地点了点头，接着被我推搡着进了澡堂。
+b	ex_snow
+s		大雪浸没了田野。
+s		我用手心捧起一抹雪花，轻轻地一吹，
+s		预料之中雪花纷飞的场面并没有出现，
+s		相反，那些早已凝结成块的雪花却渐渐地开始融化。
+p	n	c	sf6	-	-	cloth:scf8
+s		冬天到了。
+s		我默默地对自己说道。
+s		天空一片惨淡的苍白，干净得就像我刚刚擦过的窗子一样。
+p	n	c	sf24	-	-	cloth:scf8
+s		若是让小姐来擦的话，她定是做不到这番田地的吧？
+s		抱着这样可有可无的念想，我在雪地边上转起了圈。
+p	n	c	sf2	-	-	cloth:scf8
+s		距离围墙彻底关闭已经过去了整整一年，
+s		一年的时间说长不长，说短可也真的不短，
+s		田里的水稻换了小麦，路边的月季谢了又开，
+s		可小姐和我的生活却从来没什么变化。
+s		或许自从我决定和她在此终老之后，事情就永远不会有什么变化。
+p	n	c	ss3	-	-	cloth:scs8
+s		日月春风等闲度吗...
+p	n	c	ss3	-	-	cloth:scs8
+s		说起来，现在的我已然不觉得这句话有什么刺耳的了。
+s		虚度便虚度吧，毕竟本身我这一生都以及交付给她了。
+p	n	c	sf2	-	-	cloth:scf8
+s		想到这里，我顿时觉得雪地里的散步也没了趣味。
+h	n
+s		我转过身，望向原来的小路，
+s		那里遍布着我的脚印，而当印迹连接成片时便构成了一条雪地中的小径。
+s		我正准备迈出第一步，可天空中的一个白影却吸引了我的注意。
+b	ex_skimn_bird
+s		那是一只落单的鸥鸟。
+s		大海想必离这里还有不小的距离吧，它是怎么来到这里的呢？
+s		或许这个时间点已经不足以让它回到原先的家了。
+s		可那只鸥鸟还是义无反顾地朝着天穹的那一端飞着，
+s		就像是履行着什么使命一般。
+b	skimn
+s		而我就这么站在原地，默默地注视着它缓缓地飞向远方，最后消失在高墙的尽头。
+s		如果没有高墙的话，我或许就能见证它在天边的最后一抹影子了。
+s		这么说或许有些太过于矫情，不过现实也确实如此，
+s		如果那堵高墙不曾存在的话，不久之后小姐和我便会去造访镇上的灯会与集市。
+s		如果那堵高墙不曾存在的话，我或许会经常去到镇上，去实现我当初与同为女仆的玩伴们的诺言。
+s		或许一开始的我还会疑惑这一切是否值得，但现在我只能选择去接受了。
+s		我爱与我生活在一起的她，就算放弃与其他人的一切关系也无妨。
+s		就算，她因为需要享受现实的安逸，时不时地装傻也没关系。
+s		这种道理，或许我早就该想通了。
+b	ex_snow
+s		于是，我不再去看遥远的天空，而是把目光再度投向脚下的雪地。
+s		那只飞鸟已经越过围墙，消失在远方弥漫的风雪之中。

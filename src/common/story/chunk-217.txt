@@ -1,0 +1,128 @@
+s	同学们	这位是？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	我的朋友啦，她也比较喜欢这种类型的电影，就一块带她过来了。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	学姐们好，我叫余晓鑫，今年刚升大三~
+h	x
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	同学们	嗯，好漂亮的头发，是在哪儿染得？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss21	-	-	cloth:scs2
+s	余晓鑫	天生的啦~我祖父是外国人。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	同学们	诶？混血儿？那你英语一定超好。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	也就一般般啦~
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	同学们	那你肯定每年还去外国探亲的吧？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s		我的表情顿时显得有些尴尬，眼神也不自主地转了过去，
+s		小宁的脸上也显得有些难堪，当我用余光看向她的时候，她似乎正在犹豫着如何解释才好。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	其实...其实我父亲小时候就跟我母亲离异了，我一直都是在跟母亲生活的。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	同学们	哦，对，对不起...我们不是故意问这个事情...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	没事啦，毕竟我也因为发色的问题被好多人给追着问了，早就习惯了，哈哈...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s		说着，我从脸上挤出了一个笑容，
+s		两位学姐也只是冲我笑了笑，接着便结着伴进了电影院。
+h	n
+h	x
+b	ex_cinema_ticket_office
+s		很自然地，我和小宁拉着手，跟在她们身后。
+s		这时，小宁的手已经不再像之前那么冷了。
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	对不起，果然不该带小鑫一起...
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	这...这完全不是小宁的问题啦，单纯是我自己还没迈过那道坎儿罢了。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	宁桐雨	嗯...
+h	n
+p	x	c	sf11	-	-	cloth:scf2
+h	x
+s		一直到进场之前，我们俩都和两位学姐保持着一步远的距离。
+s		她们聊天的声音很大，话题也很宽广，那中间还穿插着大量我不认识的人名。
+s		好几次她们回过头来问小宁对学校里某个男生的看法，小宁都怀着厌恶的神情糊弄了过去。
+s		虽然我在心头无比同情我的青梅竹马，可在行动上我却无能为力，
+s	同学们	诶？桐雨你还没打算找对象吗？还是说名花有主了？
+p	n	c	sf25	-	-	cloth:scf2
+s	宁桐雨	嘛，我不太喜欢谈论这种话题啦...
+h	n
+b	ex_screen
+s		直到坐上了座位，身边的她长出了一口气。
+p	n	c	ss12	-	-	cloth:scs2
+s	宁桐雨	幸亏买票的时候没买到到学姐的旁边...
+p	n	l	ss12	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	小声点，会被她们听到的啦...
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	听到就听到吧，反正下个学期我也不准备再干下去了...
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	跟她们的缘分，大概到今天也就结束了吧...
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	这么薄情的嘛...
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	小鑫你不也是么，除了我之外，你也从没和别人有过来往...
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	那是因为我对小宁一心一意啊~
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	嗐，讨好我的话就省省吧...听腻了已经。
+s		这时，电影的荧幕闪动了起来，
+s		在忽明忽暗的灯光下，她的脸颊上闪现出了一丝红晕。
+s		尽管随即她就把脸给撇开了。
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁，电影已经开始放了哦，别老是盯着逃生通道看了啦~
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	你真的好烦...我看着哪里根本不关你的事...
+s		我只是笑了笑，便不再说话了。
+s		电影的内容无聊极了，全篇都在讲一个女人的励志经历，
+s		好歹也是心理部的学姐们推荐的吧，我也不该过分怀疑别人的品味...
+s		于是我强忍着心头的抵触看了下去，期待中间会出现什么惊人的反转，
+h	n
+h	x
+b	ex_screen
+s		一直看到女主通过一个礼拜的逆袭考上理想学校之时，我还是无奈地撇过了脑袋去，
+s		最终，我把视线定格在了不远处的逃生通道上，
+s		嗐，我最终还是跟小宁走上了殊途同归的道路...
+b	ex_mall2
+p	n	c	sf2	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s		看完了电影，在商场的门口，我们俩便和学姐们告别了。
+h	n
+p	x	c	sf4	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+h	x
+p	n	c	sf2	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2

@@ -1,0 +1,128 @@
+p	n	r	sf1	-	-	cloth:scf1
+s	余晓鑫	而且，大家也不一定爱听...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	但...但是我很想听来着的，
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+h	x
+h	n
+b	black
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	但是我很想听...
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	我很想听...
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	想听...
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	想...
+h	n
+b	lib_m
+p	n	c	ss3	-	-	cloth:scs1
+s		刚才她的话语，不停地在脑海中打转。
+s		喂，稍等一下，余晓鑫，千万别被那只狐狸精的话给迷惑了。
+s		无论怎么说，毫无准备的现在，就这么决定去表演绝对是一个极度鲁莽的决定吧...
+s		不仅缺乏表演的经验，学校里也没有练习的场地。
+s		更何况，更何况啊...小宁...她刚才可能也只是随口说说而已...
+s		对对，要冷静，要理性，要客观地分析...
+s		个锤子啊！
+s		果然，还是无法拒绝！
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	如果只是小宁想要听的话，倒也无所谓...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	诶？难道单纯地只是为了我吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	不然呢？我说你也有点自觉好不好？
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	唔...好沉重的爱...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	不要就这么颠覆我好不容易下定的决心嘛！
+h	n
+h	x
+b	lib_m
+s		不过，最后我还是打下了注意。
+p	x	c	ss1	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf1	-	-	cloth:scf1
+s	余晓鑫	所以说，练习场地什么的该怎么办呢...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf10	-	-	cloth:scf1
+s	宁桐雨	我记得心理办公室旁边是有台钢琴的。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf2	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf2	-	-	cloth:scf1
+s	余晓鑫	心理办公室难道是杂物堆放处吗？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf2	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	嘛，我们学校又没有心理课...
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf16	-	-	cloth:scf1
+s	余晓鑫	那为什么会有心理老师呢？
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss5	-	-	cloth:scs1
+s	宁桐雨	嘘，表面功夫还是要做好的...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s		小宁压低了声音这么说道。
+s		我顿时对杨老师充满了敬佩。
+h	x
+h	n
+b	mus_m
+s		于是，两个礼拜间的午休二十分钟，我们都会借用心理办公室旁的杂物处理处，
+s		哦不对，是音乐室，练一会琴。
+s		经过一个礼拜的康复训练，我总算是通过重复的练习找回了一些手感。
+s		不过嘛，比较难的曲子是肯定弹不了的，
+s		最后的选曲大概也就是抒情类型的歌了。
+p	n	c	ss1	-	-	cloth:scs1
+p	n	c	ss9	-	-	cloth:scs1
+s	宁桐雨	没事啦，我本来就最喜欢那样的歌。
+p	n	c	ss1	-	-	cloth:scs1
+s		一旁看着漫画的小宁听见了我的抱怨之后只是这么回了一句。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	无论我弹什么你都是最喜欢是吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	还说我爱糊弄人，真的是...
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	哪...哪有嘛，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	我是个喜好分明的人，绝对！
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	我现在开始怀疑，你是不是为了骗我进坑才说最喜欢听我弹琴的。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	这个真的不是啦...
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	我只是记得嘛，以前小学的时候，小鑫不是还一直上台弹琴的吗？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	那个时候，我就觉得，在大家面前表演的小鑫很耀眼，而且，我从来没有听过那么美的钢琴声。
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	那只是因为小宁从来没听过啥演奏会罢了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	别打岔嘛。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	总之，我从那个时候就觉得，小鑫肯定也很喜欢把琴声分享给大家。
+p	n	l	ss1	-	-	cloth:scs1

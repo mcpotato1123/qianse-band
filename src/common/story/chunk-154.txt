@@ -1,0 +1,128 @@
+s		她内心真实的想法对我来说却一直都处于黑箱之中。
+s		一想到这儿，就连身处梦境中的我都能感到刺骨的寒意。
+b	rot_m
+p	n	c	sf14	-	-	cloth:scf1
+s	宁桐雨	小鑫，我想总是这样也不太好吧。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	怎么了？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	再这样下去，我们的关系早晚会被你妈妈发现的。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	况且，现在是高三，自己的人生才是最重要的。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s		又是站在天台俯瞰校园的一天，只不过小宁对我说的话早已发生了改变。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	难道现在的日子就是不正常的吗？
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	这种事情，怎么想都很奇怪吧？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	就像过家家一样，总不可能整天都玩拙劣的角色扮演游戏吧？
+s		那一瞬间，我感觉天花板都要向我塌陷下来。
+s		强大的压迫感让我喘不过气来。
+s		眼前的她外貌熟悉无比，说出的话语却那样的陌生。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	就安心地听你妈妈的话就好了，这样是最好的。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+h	n
+p	x	c	sf4	-	-	cloth:scf1
+s		那一瞬间，小宁瞬间从视野中消失了。
+h	x
+b	black
+s		紧接着整个世界都扭曲了，墙壁塌陷，星辰闪烁，顷刻之间，熟悉的世界就幻化为了虚空。
+s		我现在，是不是走错路了呢？
+s		只有一个声音不断地在我脑海中回想。
+s		视野越来越亮，越来越清晰。
+s		随着闹钟声的响起，我掀开被子，坐起身，开始穿起衣服来。
+s		幸亏，只是一个噩梦而已。
+s		现实世界里的小宁，不会说出这样的台词。
+s		她只会一味地包容着我...
+s		但是，
+s		在平静的海面之下，
+s		是否会隐藏着暗流呢？
+c	第十章
+g	title_chaptera
+b	black
+s		一夜无眠之后，我强打起精神起了床。
+b	liv_e
+s		走出卧室，面对的是在客厅里忙碌着的母亲。
+s		看见我走了出来，她静静地把早餐放在了桌子上。
+s		我无言地吃了起来。
+s		赶快吃完去学校吧。
+s		我本来是那么打算的。
+s		“昨天我跟你说的话，你别又当作耳旁风了。”
+s		可就在我准备起身出门时，母亲突然这么提醒道。
+s		“都说了我们只是同在一个学习小组罢了。”
+s		“小组里还有其他人呢！”
+s		“那就好，你别学着别人周末了还跑出去玩，分心了对学习不好。”
+s		“明白了。”
+s		我小声地回应着。
+s		母亲只是默默地叹了口气，接着换好了衣服，便走出了家门。
+s		重重的砸门声使家里的一切又重新归于寂静。
+s		这个家狭小，封闭。
+s		这是母亲上高中之后特地买的学区房。
+s		离学校只有一墙之隔。
+s		每天，我都听着上课铃起床，伴着学校里最后一抹街灯一起睡去。
+s		学校就是我生活的全部。
+b	black
+s		如果没有小宁的存在的话...
+s		所以说，我不可能放手...
+s		那时的我不会知道，正是这强大的执念，放大了日常生活里的一切风吹草动。
+s		当我的一切重心都偏向她的时候，所有细小的动作都会被无限地咀嚼。
+s		她无心间的举动，也会在无意中加深着我内心的恐惧。
+s		我只是一个吊在悬崖上的人。
+s		距离获救还很远很远。
+s		所以，我现在唯一能做的，就是抓住这唯一的救命稻草。
+s		即使是微风拂过，绳索晃动少许。
+s		也会加剧我不切实际的臆想。
+s		而无助的我，只能不断地向小宁索取。
+s		只是因为害怕，绳索断裂的那一天会到来。
+b	cor_m
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	能稍微借用一点时间吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s		又是新的周一，一到了大课间，我就急吼吼地把小宁叫回了原先的场所。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	所以说，有什么事啊？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	下课了，我想多写一会作业来着的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s		小宁倚靠在窗沿上卷着垂下的发丝，一边等待着我开口。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	那个...最近我觉得...总觉得做什么都没兴致。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	无论是在学校里也好，在家里也罢，都有一种...厌烦感。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	然后，昨天，我又做噩梦了。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	不会又是关于我的吧？
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	差...差不多吧...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1

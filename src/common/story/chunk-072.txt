@@ -1,0 +1,128 @@
+s		可刚想到这里，身边的她就突然转了个身。
+s		我的胳膊也随着她的动作而倒向她的怀里。
+s		我不禁皱起了眉头。
+s		就现在的情况来说的话，由于这个人的存在，陌生的一部分还是占多数的。
+s		看着她熟睡的神情，微微被口水沾湿的嘴角，一股无名火就从我心头冒出来。
+s		我捏起靠在背后的小枕头，深深地吸了口气，高高地把它甩过头顶，砸在小鑫的头上。
+b	m_bedroom
+p	x	c	sf3	-	-	cloth:scf3
+s	余晓鑫	嗯？怎么了？怎么了？
+p	x	c	sf3	-	-	cloth:scf3
+s		她迅速地起身，盘腿坐起环视着四周，当然，她只会看见一脸冷漠的我。
+p	x	c	ss1	-	-	cloth:scs3
+s	余晓鑫	小宁~
+p	x	c	ss1	-	-	cloth:scs3
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	好恶心的腔调...
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	咋了？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	生气啦？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	哪有。
+s		我故作冷淡地应付着她，听罢她只是无奈地叹了口气。
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	果然那句话说得对啊，
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	小宁你啊，在枕头边和起床以后是两种不同的生物呢。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf15	-	-	cloth:scf5
+s	宁桐雨	...
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf15	-	-	cloth:scf5
+s	宁桐雨	我听不懂你在胡说什么，现在赶紧把衣服穿好，小心着凉了。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	你也别赖床太久，我先去帮着妈准备早饭去了。
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	好好好，都听你的。
+h	x
+h	n
+b	liv_m
+s		由于是初夏，早晨八点的时候客厅里就铺满阳光了。
+s		今天的早饭是煮鸡蛋加白粥，我特意为自己盛了一碟白糖，然而她却完全无法理解。
+p	x	c	sf6	-	-	cloth:scf3
+s	余晓鑫	吃鸡蛋为啥还要蘸糖？
+p	x	c	sf4	-	-	cloth:scf3
+s	宁桐雨	亏你来这里这么久了，入乡随俗好吗，入乡随俗...
+p	x	c	sf8	-	-	cloth:scf3
+s	余晓鑫	明明小宁说过要照顾我的口味的来着！
+p	x	c	sf8	-	-	cloth:scf3
+s	宁桐雨	可以后家里掌勺的是我啊？不服憋着，
+p	x	c	ss19	-	-	cloth:scs3
+s	余晓鑫	切，其实其他的倒也算可以忍受，就唯独受不了这点而已。
+p	x	c	ss2	-	-	cloth:scs3
+s	余晓鑫	叔叔烧的菜太辣，阿姨和小宁烧的菜又太甜，
+p	x	c	sf4	-	-	cloth:scf3
+s	余晓鑫	你们这一家人口味也太怪了...
+p	x	c	sf4	-	-	cloth:scf3
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	难道原因不是咱国家太大了，才导致不同地方口味差的太大。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	话说你与其这么抱怨不如自己也学着烧菜啊？别整天仰仗着我。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	宁桐雨	要我来烧红烧肉的话，我可只会烧糖醋味的。
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	sf6	-	-	cloth:scf5
+s	余晓鑫	呜...
+s		她有些扫兴地撇过了脑袋，很快就又转移了话题。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	余晓鑫	这么大好的天气，真想出去玩一玩啊。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s		瞟了一眼窗外的阳光后，她突然这么无厘头地来了一句。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	哈？昨天衣服都洗过了，等明天吧？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	再说，又有哪里好去的？这边跟大学旁边样子又差不太远，估计你是肯定要失望的。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	余晓鑫	但是啊，所谓醉翁之意不在酒，小宁不会连这个道理也不懂吧？
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	...
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss9	-	-	cloth:scs5
+s	宁桐雨	别整天说你那蹩脚的土味情话改编了，听着就尬。
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss9	-	-	cloth:scs5
+s	余晓鑫	所以，到底行不行嘛...
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss9	-	-	cloth:scs5
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	你先说个目的地，太远的话就懒得去了。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	嘿诶？那...那就市中心那个小广场上咋样？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	那里坐个半小时地铁就能到，街上也有些吃的。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	昨天电视里还看见了，那里还有个街头演出来着...
+s		街边演出吗...
+s		听到她的话，我陷入了沉思...
+s		一旁的她一直忐忑不安地看着我的脸。
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	果然，还是不行吗...

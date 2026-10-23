@@ -1,0 +1,128 @@
+p	xj	c	shy	-	-	cloth:default
+s	主人	女仆酱，今晚不做吗？
+p	xj	l	shy	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	让其他女仆知道咱俩的关系总归不好的吧？
+p	xj	l	shy	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	咱们小点声音就...
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	可床单还是要交给其他女仆一块洗的吧？
+s	女仆	要是我硬要把床单抢过来洗的话，其他女仆肯定也会起疑心的吧。
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	唔...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	女仆	小姐，别生闷气啦。
+s	女仆	我现在还要帮着大家去洗衣服，等我半个时辰就回来陪您好不好？
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+p	xj	l	shy	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	主人	...
+p	xj	l	shy	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	女仆	小姐，回答我嘛~
+p	xj	l	shy	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	主人	叫我小星，
+h	xj
+p	n	c	sf24	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	女仆	小星，这样可以了吗？
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	主人	女仆酱你还是先回去吧。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	诶？回去，回...回到哪里去？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+p	xj	l	amazed	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	主人	回咱们的家里啊。
+p	xj	l	amazed	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	可...可我，我不是专程为了服侍小姐才过来的，
+s	女仆	现，现在就要赶着我走吗？
+p	xj	l	amazed	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	其实我准备用一个月的时间留在这里好好说服母亲，
+s	主人	这一个月，我也希望女仆酱能再好好想想。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	诶？您...您是想让我考虑考虑什么？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	其实我也明白，女仆酱当时那么快答应下我的话，其实是出于对我的信任吧？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	不，我可是在好好的考虑过之后才...
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	唔，别老是反驳我的话！
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	这件事也不是我自己一个人能够决定的啦！
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	normal	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+s	女仆	那...那如果我思考之后的回答是否定的呢？
+p	xj	l	normal	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+s	主人	那我就半路叫停这堵墙呗~
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	怎么可以，我只是小姐你的...
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	都到了现在了，你怎么还在整天小姐小姐地叫呢，女仆酱？
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	我可是站在恋人的角度上让你去考虑这件事的哦？
+s	主人	在这件事情上，你和我可是平等的哦？
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	...
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	毕竟如果我做了女仆酱不喜欢的事情的话，我可担不起你的恋人的称号了。
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	女仆	我明白了，小星。
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+h	n
+p	xj	c	speechless	-	-	cloth:default
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8

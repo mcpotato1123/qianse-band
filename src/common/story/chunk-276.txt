@@ -1,0 +1,128 @@
+s	宁桐雨	别闹，听话啊，张嘴，啊~
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s		她还是乖乖地照做了。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	就跟高中那一次一样呐。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	只是...角色互换了。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s		一勺勺地喂完了她之后，我打开了电视机，广播里播报着每日的新闻。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf17	-	-	cloth:scf3
+s	余晓鑫	小宁，你快点去吃点吧...
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf17	-	-	cloth:scf3
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	sf17	-	-	cloth:scf3
+s	宁桐雨	明白啦，我现在就去。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf17	-	-	cloth:scf3
+s	宁桐雨	怎么，生病的你跟现在的你好像两个人一样。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	那时候的我迷迷糊糊的，很不懂事，闹了不少洋相...
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	哪有，无论是什么样的你，我都不会讨厌的啦。
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s		我这么说着站起了身，
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	那个...既然这样...
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s		突然间，身后的她这么说道，
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	晚上，也能来陪我一会吗...
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s		她的话成功把我给逗笑了。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf17	-	-	cloth:scf3
+s	余晓鑫	怎么了，难道，很好笑吗？
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf17	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf17	-	-	cloth:scf3
+s	宁桐雨	当然可以啦，不过咱俩不是本来就睡在一起的吗？哪用得着求我呐？
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf17	-	-	cloth:scf3
+s		她先是愣了一秒，接着露出了恍然大悟的表情。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	就整天知道欺负这个时候的我...
+h	n
+h	x
+b	black
+s		最后，她只是这么抱怨道。
+s		第二天，小鑫就恢复了健康。
+s		而转眼间，夏天就再次到来了。
+b	black
+b	dlc_window
+s		凉风不断从脸颊边拂过，我把手伸出车窗外，感受着空气的流动。
+s		前方仍然是一条空旷的公路，长长的前路无限延展到远方，像极了一副油画。
+s		心情就像身处世界之巅一般。
+p	x	c	ss21	-	-	cloth:scs2
+s	余晓鑫	Not a cloud in the sky got the sun in my eyes~
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf6
+s	宁桐雨	跑调了耶拜托
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	余晓鑫	不想听就把耳机带上吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf18	-	-	cloth:scf6
+s	宁桐雨	哪有这么不讲理的司机嘛？你不是有车载吗？
+p	x	l	sf9	-	-	cloth:scf2
+p	n	r	sf18	-	-	cloth:scf6
+s	余晓鑫	呵，感觉不如...
+p	x	l	sf9	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	得了，你对啥有自信都成，除了调子！
+s		坐在副驾驶上的她这么吐槽着，可这完全没影响到我的兴致。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	这首我最喜欢最后一句歌词，
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	怎么唱的来着的，Your love's put me at the top of the world.
+s	余晓鑫	哼嗯~是不是很贴切我们俩的心境。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf6
+s	宁桐雨	我该说你总算从土味情话进化到文艺青年了吗？
+s	余晓鑫	说真的，这句话算是对我的嘉奖~
+s	余晓鑫	毕竟我书没小宁你读的多嘛，说不啥好句子也不惊讶。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	切，你明白就好。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	那今天咱们今天在这儿住下了？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf6
+s	宁桐雨	嗯。
+s	宁桐雨	不是你说的嘛，高中的时候没玩尽兴，所以有空了再来转转。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf6
+s	余晓鑫	嘛，我就确认一下。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	咋地啦，难不成我还能食言不成？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6

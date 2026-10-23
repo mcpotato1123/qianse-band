@@ -1,0 +1,128 @@
+b	liv_m
+p	y	c	ss1	-	-	cloth:sc1
+s	杨老师	你就在客厅里稍微等会，姐去给你整杯喝的。
+p	y	c	ss10	-	-	cloth:sc1
+h	y
+b	liv_m
+s		我洗过手后，就在客厅坐下了。
+s		表姐走进厨房，忙活了片刻后，她端出来一杯热可可摆到了我的面前。
+s		蒸腾的白气在装修略显老式的房间里显得十分显眼。
+s		装可可的马克杯上还印着一只小熊，
+s		不知为何，我对这个花纹提起了兴趣，仔细端详了好久也不肯把视线移开...
+s		这是...老物件吗...
+s		我记得...
+s		突然间想起来，高中的时候她办公桌上摆的就是这个杯子。
+s		该说不是一家人不进一家门嘛或许，她对于老物件的看重程度简直和我一模一样。
+p	y	c	ss1	-	-	cloth:sc1
+s	杨老师	别客气啦，就把这里当成自己家里，好吗？
+p	y	c	ss3	-	-	cloth:sc1
+s		见我端详了一个杯子这么久，老姐便有些担心地这么问道，
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	嗯，好...好的。
+s		说着，我捧起了杯子，尝了一小口可可。
+s		是苦涩的感觉。
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	有点烫...等它凉一会再喝吧...
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	嗯，
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	那剩下的这段子时间，咱们姐俩先聊会天吧~
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	嗯，我来了就是想陪老姐聊聊得嘛~
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s		然而，我的心里却完全不是这么想的，
+s		说是要聊天...
+s		该从什么话题引入呢...
+s		突然间，我就开始犯难了。
+s		或许得快点找到个话题比较好...
+s		还是像过去和“她”聊天一样，就地取材吧...
+s		环顾四周，我发现这间屋子里还是像往常一样空荡荡的，
+s		换句话说，是除了装修自带的家具几乎是一无所有。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	表姐...到现在还是一个人住吗？
+p	y	l	ss5	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s		面对我贸然的发问，表姐却表现出了异常的兴趣。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	诶，怎么说，小宁果然还是想要住过来吗？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	不管怎么说，那都不方便吧。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss9	-	-	cloth:scs2
+s	宁桐雨	我现在实习的研究所离这里还是太远了。
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	ss9	-	-	cloth:scs2
+s	杨老师	我觉得那倒也没关系。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss9	-	-	cloth:scs2
+s	杨老师	再说了，小宁你不是还不会做饭吗？
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	ss9	-	-	cloth:scs2
+s	杨老师	可别每一顿还是靠外卖为生哦？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss9	-	-	cloth:scs2
+s	杨老师	来老姐这里住，顿顿吃大餐。
+s		她还是那么喜欢挖苦我。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	简单的菜我还是会做的，顶多做不到表姐做的那么好罢了。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+s	杨老师	你这孩子。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+s		表姐捏了捏我的脸。
+s		明明我也是老大不小的人了，自己年龄又和我差了仅仅不到十岁，却好像我小了她一辈一样。
+s		明明以姐姐自居，却总想让我把她当作妈妈来对待，
+s		总有种被占便宜的感觉啊，说实话。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+s	杨老师	既然今天来都来了，就住下来吧？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	床铺的话...
+p	y	l	ss11	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	杨老师	哎呀，跟我一起睡就好了。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	杨老师	咱家的床够大呐~
+s		我露出了稍有些为难的表情，
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	杨老师	怎么，嫌弃姐姐我吗？
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	没...完全没有啦，
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	反倒是表姐不嫌弃我的话，我肯定很乐意在这里住下来。
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	只是...
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	以前有人说过我睡相不大好，老是半夜掀被子之类的事，还把别人弄感冒过，
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	杨老师	但是...
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	没事啦，我说过了只要表姐不嫌弃的话我很乐意的啦。

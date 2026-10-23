@@ -19,7 +19,7 @@ ROOT = os.path.dirname(HERE)
 SRC = os.environ.get("QIANSE_SRC") or os.path.join(os.path.dirname(ROOT), "unpacked")
 IMG = os.path.join(ROOT, "src", "common", "img")
 W, H = 336, 480
-BG_W = 544
+BG_W = 512
 SW, SH = 210, 420
 
 
@@ -49,9 +49,13 @@ def find_image(folder, names):
     return None
 
 
-def save_bg(im, path, colors=64):
-    im = cover(im.convert("RGB"), BG_W, H)
-    im.quantize(colors=colors, method=Image.MEDIANCUT, dither=Image.FLOYDSTEINBERG).save(path, optimize=True)
+def save_photo(im, path, w, h, quality=72):
+    im = cover(im.convert("RGB"), w, h)
+    im.save(path, quality=quality, optimize=True, progressive=True)
+
+
+def save_bg(im, path):
+    save_photo(im, path, BG_W, H)
 
 
 # ---------------------------------------------------------------- sprites
@@ -84,6 +88,34 @@ def build_sprites(used):
     os.makedirs(os.path.join(IMG, "s"), exist_ok=True)
     meta = {}
     for tag, pairs in used.items():
+        if tag == "xj":
+            # xj 的图层定义指向 images/x/<表情>.png，没有独立目录，也没有服装/嘴型
+            folder = os.path.join(SRC, "images", "x")
+            exprs = sorted({m for m, _ in pairs})
+            paths = [os.path.join(folder, e + ".png") for e in exprs
+                     if os.path.exists(os.path.join(folder, e + ".png"))]
+            if not paths:
+                continue
+            win = char_window(paths)
+            out_dir = os.path.join(IMG, "s", "xj")
+            os.makedirs(out_dir, exist_ok=True)
+            ww, wh = win[2] - win[0], win[3] - win[1]
+            scale = min(SW / ww, SH / wh)
+            dw, dh = max(1, round(ww * scale)), max(1, round(wh * scale))
+            ox, oy = (SW - dw) // 2, (SH - dh) // 2
+            Image.new("RGBA", (SW, SH), (0, 0, 0, 0)).save(
+                os.path.join(out_dir, "base_default.png"), optimize=True)
+            for e in exprs:
+                p = os.path.join(folder, e + ".png")
+                if not os.path.exists(p):
+                    continue
+                canvas = Image.new("RGBA", (SW, SH), (0, 0, 0, 0))
+                im = load_rgba(p).crop(win).resize((dw, dh), Image.LANCZOS)
+                canvas.alpha_composite(im, (ox, oy))
+                canvas.quantize(colors=64, method=Image.FASTOCTREE).save(
+                    os.path.join(out_dir, "face_default_%s.png" % e), optimize=True)
+            print(tag, "expressions", len(exprs))
+            continue
         folder = os.path.join(SRC, "images", tag)
         if not os.path.isdir(folder):
             continue
@@ -130,7 +162,8 @@ def build_sprites(used):
                 base.alpha_composite(mouth)
             canvas = Image.new("RGBA", (SW, SH), (0, 0, 0, 0))
             canvas.alpha_composite(to_canvas(base), (ox, oy))
-            canvas.save(os.path.join(out_dir, "base_%s.png" % cloth), optimize=True)
+            canvas.quantize(colors=64, method=Image.FASTOCTREE).save(
+                os.path.join(out_dir, "base_%s.png" % cloth), optimize=True)
 
             union = None
             for m in group_mains:
@@ -166,7 +199,8 @@ def build_sprites(used):
                 fh = max(1, round((fb[3] - fb[1]) * scale))
                 fcanvas = Image.new("RGBA", (SW, SH), (0, 0, 0, 0))
                 fcanvas.alpha_composite(face.resize((fw, fh), Image.LANCZOS), (fx, fy))
-                fcanvas.save(os.path.join(out_dir, "face_%s_%s.png" % (cloth, m)), optimize=True)
+                fcanvas.quantize(colors=32, method=Image.FASTOCTREE).save(
+                    os.path.join(out_dir, "face_%s_%s.png" % (cloth, m)), optimize=True)
         meta[tag] = {"win": list(win), "scale": scale, "canvas": [SW, SH]}
         print(tag, "outfits", len(groups), "files", len(os.listdir(out_dir)))
     with open(os.path.join(IMG, "s", "meta.json"), "w", encoding="utf-8") as fh:
@@ -181,18 +215,19 @@ def build_bgs(ids):
     folder = os.path.join(SRC, "images", "bg")
     missing = []
     for ident in ids:
+        path = os.path.join(out, ident + ".jpg")
         if ident in ("black", "white"):
             Image.new("RGB", (BG_W, H), (0, 0, 0) if ident == "black" else (255, 255, 255)).save(
-                os.path.join(out, ident + ".png"), optimize=True)
+                path, quality=90, optimize=True)
             continue
         p = find_image(folder, ["bg " + ident])
         if not p:
             p = find_image(folder, [ident])
         if not p:
             missing.append(ident)
-            Image.new("RGB", (BG_W, H), (0, 0, 0)).save(os.path.join(out, ident + ".png"), optimize=True)
+            Image.new("RGB", (BG_W, H), (0, 0, 0)).save(path, quality=90, optimize=True)
             continue
-        save_bg(load_rgba(p), os.path.join(out, ident + ".png"))
+        save_bg(load_rgba(p), path)
     print("bg missing", missing)
 
 
@@ -211,8 +246,7 @@ def build_cgs(ids):
             continue
         wide = load_rgba(p).convert("RGB")
         wide = cover(wide, 576, H)
-        wide.quantize(colors=96, method=Image.MEDIANCUT, dither=Image.FLOYDSTEINBERG).save(
-            os.path.join(out, ident + ".png"), optimize=True)
+        wide.save(os.path.join(out, ident + ".jpg"), quality=72, optimize=True, progressive=True)
         wide.resize((96, 54), Image.LANCZOS).quantize(colors=96).save(
             os.path.join(th, ident + ".png"), optimize=True)
     print("cg missing", missing)
@@ -227,8 +261,7 @@ def build_titles(ids):
             continue
         wide = load_rgba(p).convert("RGB")
         wide = cover(wide, 576, H)
-        wide.quantize(colors=96, method=Image.MEDIANCUT, dither=Image.FLOYDSTEINBERG).save(
-            os.path.join(out, "title_" + ident + ".png"), optimize=True)
+        wide.save(os.path.join(out, "title_" + ident + ".jpg"), quality=72, optimize=True, progressive=True)
         wide.resize((96, 54), Image.LANCZOS).quantize(colors=96).save(
             os.path.join(IMG, "t", "title_" + ident + ".png"), optimize=True)
 
@@ -296,9 +329,9 @@ def build_ui():
 
 
 def write_manifest():
-    bgs = sorted(f[:-4] for f in os.listdir(os.path.join(IMG, "b")) if f.endswith(".png"))
+    bgs = sorted(f[:-4] for f in os.listdir(os.path.join(IMG, "b")) if f.endswith(".jpg"))
     cgs = sorted(f[:-4] for f in os.listdir(os.path.join(IMG, "w"))
-                 if f.endswith(".png") and not f.startswith("title_"))
+                 if f.endswith(".jpg") and not f.startswith("title_"))
     sprites = {}
     for tag in sorted(os.listdir(os.path.join(IMG, "s"))):
         d = os.path.join(IMG, "s", tag)
@@ -307,7 +340,7 @@ def write_manifest():
         sprites[tag] = sorted(f for f in os.listdir(d) if f.endswith(".png"))
     wide = {}
     for f in sorted(os.listdir(os.path.join(IMG, "w"))):
-        if f.endswith(".png"):
+        if f.endswith(".jpg"):
             with Image.open(os.path.join(IMG, "w", f)) as im:
                 wide[f[:-4]] = im.size[0]
     js = os.path.join(ROOT, "src", "common", "assets.js")
@@ -318,10 +351,10 @@ def write_manifest():
         fh.write("export const SPRITES = %s;\n" % json.dumps(sprites, ensure_ascii=False))
         fh.write("export const CG_WIDE = %s;\n" % json.dumps(wide, ensure_ascii=False))
         fh.write('''
-export function bgPath(id) { return '/common/img/b/' + id + '.png' }
-export function cgPath(id) { return '/common/img/w/' + id + '.png' }
+export function bgPath(id) { return '/common/img/b/' + id + '.jpg' }
+export function cgPath(id) { return '/common/img/w/' + id + '.jpg' }
 export function cgThumb(id) { return '/common/img/t/' + id + '.png' }
-export function cgWide(id) { return '/common/img/w/' + id + '.png' }
+export function cgWide(id) { return '/common/img/w/' + id + '.jpg' }
 export function spritePath(tag, file) { return '/common/img/s/' + tag + '/' + file }
 export function hasSprite(tag, file) {
   return !!(SPRITES[tag] && SPRITES[tag].indexOf(file) >= 0)

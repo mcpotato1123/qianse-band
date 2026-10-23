@@ -95,4 +95,34 @@ s		在听到了她的回应之后，我暂且安下了心。
 s		于是，了却最后一桩心事的我靠到她的肩上，
 s		在那辆摇摇晃晃的大巴车上，我就保持着这样的姿势，一直睡到了终点。
 s		就像夕阳下的那个傍晚，她靠在我的肩上一样。
-e
+c	第三章
+g	title_chapter3
+b	sbcd
+s		海风不时从耳畔拂过，
+s		空气中还混杂着些许盐味。
+s		前几天我还感到有些新鲜，但直到现在，我早就对这种气味有些厌烦了。
+s		对大海的新鲜感早已褪去的无影无踪，留下的只有长途旅行常有的疲惫感。
+s		我们正手拉着手走在临海的沙滩上。
+s		再往前，就是一望无际的大海。
+s		在海与天相连接的那一侧，是将要落下的夕阳。
+s		一天的行程早已结束，我和旅伴正沿着这条小道返回旅馆。
+p	n	c	sf12	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf10	-	-	cloth:scf1
+s	余晓鑫	大海啊~大海~
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf10	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	是我生长的地方~
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	海——边~出生~海~里~成——长~
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf4	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s		腿上踩着小碎步，嘴里还一边哼着这样完全跑了调的歌。
+s		幸而这片沙滩算不得热门景点，也没几个行人，不然她准得被成为人们避之不及的对象。

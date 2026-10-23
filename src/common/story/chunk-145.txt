@@ -1,0 +1,128 @@
+s	余晓鑫	我已经和妈妈说过了。
+s	小宁的妈妈	你看，桐雨，你得多跟人家多学学，看看人家多懂事。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	真的是，小鑫她......额...那个...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	好，好吧好吧，我明白了就是了，下次我会少看点闲书的啦~
+h	n
+p	x	c	sf11	-	-	cloth:scf1
+s		小宁把到嘴边的话憋了回去。
+s		那自然不会是因为我朝她使了个眼色。
+s		虽然这之后她又略带怨恨地瞪了我一眼，但我并没有放在心上。
+s		然而，这些小矛盾只是微不足道的小插曲而已。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	有时候感觉啊，我们可真是一对默契的拍档呐~
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	我从未见过如此厚颜无耻之人...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+h	x
+h	n
+b	dinner
+s		热闹的烟火气让我紧绷的心放了下来。
+s		但就当我认为我已经融入了这个家庭的时候。
+s		紧接着迎面而来的却是前所未有的陌生感。
+s		因为在我家里，这种温馨的氛围从未有过。
+s		一直以来，我都只是机械地吃饭，学习，睡觉。
+s		我所做的一切都只是在执行母亲分配给我的任务，除此之外便空无一物。
+s		然而此刻，一切都改变了。
+s		我和小宁并排坐在餐桌旁。
+s		就像一对亲姐妹一样。
+s		再也没有人会对我说，我应该去做什么，接下来要去做什么。
+s		突如其来的自由感，涌入了我的生活中。
+s		在这里，有的只是摆满家常菜的餐桌，和一对平常的父母，一对平凡的女高中生。
+s		本来这只是其他人生活中的日常。
+s		然而，这却是我日常生活中的奢望。
+s		眼前的场景与记忆里的家庭形成了巨大的反差。
+s		在享受着这难得的温馨的同时，不满与嫉妒也不知不觉地在我的内心积攒。
+s		不知不觉间就变得消沉了起来，就连小宁丢过来的话茬子也不太接得住了。
+s		当我注意到视线的模糊，伸出手去擦拭时，小宁已经在桌下把餐巾塞到我的掌心里了。
+b	liv_e
+p	n	c	sf2	-	-	cloth:scf1
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	谢...谢谢。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s		我的声音稍稍有些呜咽，
+s		当叔叔阿姨询问的时候，小宁解释说是我不太吃得了辣的东西。
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	她一吃辣就流眼泪，在学校里也是的啦。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s		说着她用筷子指点着桌上的几道菜，表现得十分义正言辞，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	所以，你们下次做菜的时候小心一些吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	我事先声明一下，可不仅是为了我哦？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	这可是因为以后我朋友来家里受不了，对吧？
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s		说完她向我眨了眨眼，我点头附和。
+s		虽然这样的要求多少带点此地无银三百两的意思，但叔叔阿姨还是没再多过问了。
+h	n
+h	x
+b	n_bedroom
+s		又在饭桌上闲聊了一会，小宁就带着我就去了她的房间。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	真的是，怎么突然哭起来了呢？
+p	n	c	ss7	-	-	cloth:scs1
+s		一关上门，她就插着腰，这么边叹气边抱怨道。
+p	n	c	sf10	-	-	cloth:scf1
+s	宁桐雨	没想到小鑫也有这么不让人省心的时候。
+p	n	c	sf6	-	-	cloth:scf1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	对...对不起，辜负了...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	你这是说的什么话！
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	根本不需要道歉啦，我就是想知道其中的原因。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	我...不太敢说出来。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	是隐私的事儿吗？
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	别把我当外人啦，我跟小宁之间没什么隐私可讲的。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	那究竟是因为？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	其实是因为...我怕小宁因此笑话我。
+p	n	l	ss12	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	嗐。
+s		她又叹了口气。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	怎么说呢...听到你这样说我还是心里挺受伤的。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	虽然我跟你聊天的时候一直有些嘴贫，可事情的轻重我还是能分清的。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	这明显不是因为一些无足轻重的小事吧？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	因为我看你当时的表情，就跟小学的时候在楼道里一个人哭的那时候一模一样。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	那种情况下，我怎么可能会去嘲笑你呢？
+p	n	l	ss1	-	-	cloth:scs1

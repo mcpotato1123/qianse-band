@@ -1,0 +1,128 @@
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s		她说着笑了起来，
+s		不知为何，我总觉得那个笑很牵强，
+s		就像是为了让我放心专门捏造出来的一般。
+h	x
+h	n
+b	black
+s		解决了晚饭后，我们走到了夜晚的大街上，
+s		四周还是一如既往的冷清，毕竟新年已经临近，城内务工的人们也各自回家了。
+s		现在想来，我一生中去过最远的地方竟然只是小鑫的老家，
+s		我的活动范围始终没有离开过故乡的附近，甚至上了大学也只是换了个相邻的城市。
+s		或许我也算是个很恋家的孩子吧。
+p	x	c	sf3	-	-	cloth:scf2
+s	余晓鑫	小宁？最近在忙什么呢？
+p	x	c	sf3	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+s	宁桐雨	也没啦，就是在准备些材料罢了，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+s	余晓鑫	心理培训，没再去了吗...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	嗯，是的，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		我这么应答着，一边狐疑地看向她的脸庞，
+s		不知为何，她和我紧握着的手又颤抖了起来。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	小宁其实，很想继续...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+s	宁桐雨	也没有那种事啦，只是我不大喜欢自己的专业，想找点事办而已...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf2
+s	余晓鑫	其实我一直在想，我之前暑假前跟小宁说的话，是不是...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	是不是有点过于不成熟了。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	那种事情我不是已经说过不用再去担心了吗？
+s	宁桐雨	毕竟我...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	对不起，老是拿这种事放在嘴边...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf2
+s	宁桐雨	你最近究竟是怎么了？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf2
+s		我停下脚步，转过身去对着小鑫，
+s		我们两人正走在一条小桥上，路灯的光芒从头顶照射下来，在马路上拉出了两条长长的影子。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf2
+s	宁桐雨	跟我说话客客气气，畏手畏脚的，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	感觉你这一个礼拜像是变了个人似的，
+s	宁桐雨	你跟我说过了吧，有话要对我说，不是吗？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf2
+s	宁桐雨	那为什么到现在还要含糊其辞，遮遮掩掩？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	其实...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s		她又呼了好几口白气，似乎在下什么艰难的决定一般，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	其实...姥姥她，病得很重了，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	我得回去，回去...见她，
+s		细细的泪滴从她的眼角滑落，她那清秀的眼眶此刻也略略地泛红着，
+h	x
+h	n
+b	black
+s		她伸出手臂轻轻抱住了我，夹克衫冰冷异常，可她与我紧贴着的脸庞却格外地燥热。
+s		四周静悄悄的，我的耳边只剩下了她的抽泣声，
+s		她的手剧烈地颤抖着，像是举着什么千斤重的物品，
+s		我伸出手去绕到她的后背，像小时候母亲对我的那样，轻轻地拍打着她的胸腔。
+s		小时候，妈妈也经常对我这么做，
+s		考砸了的时候，受冷落的时候，
+s		我或许永远也不会知道其中的科学道理，或许那也只是来自于基因深处的记忆，
+s		但当我这么做的时候，她急促的呼吸也随之渐渐地平稳了下来。
+s		她抽出一只手来掸去了脸上的泪水，将原本紧贴着我耳畔的脸颊重新摆正，就这样和我对视着，
+s		她的眼睛渐渐眯了起来，原本依然干涸的眼眶此刻也再度变得有些湿润，
+b	black
+s		我明白她的意思，于是闭上了双眼。
+s		我们交换了一个很长的吻，她的舌尖不断地探向我的口中，像是一只渴求着甘露的鱼儿一般，
+s		像往常一样，我平静地接受了这一切，
+s		随着她的动作让舌尖相互交织，品尝着交融带给我们彼此的巨大喜悦，
+s		当她最终抽开嘴唇的时候，我睁开了双眼，
+s		我许久地凝视着她的脸，微微有些凹陷的酒窝，冻得有点发红的耳廓，
+s		还有那双透亮的眸子，
+s		沉醉于她的美貌的同时，巨大的幸福感也在冲刷着我心头的每一个角落。
+b	black
+p	n	c	sf2	-	-	cloth:scf2
+s	宁桐雨	感觉好点了？
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s	余晓鑫	托...托小宁的福，差不多吧。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s		她有点害羞地低下了头去，似乎在纠结着怎么把话题进行下去。

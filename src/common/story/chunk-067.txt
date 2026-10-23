@@ -1,0 +1,128 @@
+s		就这样，我的目光不停地在这两者间来回徘徊，
+s		最后的结果自然是手机也没看进去，还把心情搞得乱糟糟的。
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	要是晚到了的话我该怎么跟她解释呢...
+s		算了，我就跟她说我是故意的就好了，谁叫她临时改行程的，都是她活该了。
+s		这么打定主意的我瞬间安下了心。
+s		就这样，又等待了个把分钟，车来了。
+h	n
+b	sta
+s		然而到最后，我先前心里打的小算盘都落空了。
+s		到了车站才知道，小鑫坐的那列车整整晚点了四十分钟。
+s		而我到站的时候甚至还比原定时间要早上一个小时。
+s		而我看向手机里的社交软件，发现了一条未读的特关消息...
+b	stacht
+b	sta
+s		当时的我为了让自己静下心来，还把手机开了勿扰来着...
+s		自然，无尽的后悔在心头涌动着。
+s		身边人流涌动，喧闹不止。
+s		列车到站的提示音也在耳边连绵不绝。
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	真的是，这么重要的事儿，就不能打个电话嘛！
+s		我在心中咒骂着，但现实就是这么无可奈何。
+p	n	c	sf28	-	-	cloth:scf2
+s	宁桐雨	早知道就不这么早出来了。
+s		可现在该怎么消磨时间呢？
+s		继续刷会手机？还是看会书？
+s		车站里这么吵，这几个选项大概不太现实。
+s		那么...
+p	n	c	ss4	-	-	cloth:scs2
+s	宁桐雨	哎呀，不管了，不管了！
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	都怪她！
+p	n	c	sf14	-	-	cloth:scf2
+s	宁桐雨	都是因为她非要今天回来，才会给我惹出这么多麻烦！
+p	n	c	sf28	-	-	cloth:scf2
+s	宁桐雨	就不知道为我考虑考虑...
+s		我把怨气全撒在赶来的她身上，然后走进了车站内的便利店内。
+s		由于出来的比较匆忙，忘了带个伴手礼。
+s		说起来，伴手礼什么的，对我们来说真的还有必要吗...
+s		不过，反正现在也没啥事儿干，也省得她过会拿这个来调侃我...
+s		还是去那里挑一个吧。
+h	n
+b	sta
+b	stacht2
+b	stacht3
+b	sta
+s		我目不转睛地凝视着屏幕，等待着下一条信息的出现。
+s		我的视线紧紧地盯在屏幕上，以至于过了一阵子之后，瞳孔处都感觉有些酸楚。
+s		然而，奇怪的事情却出现了，
+s		一向喜欢秒回我消息的她这次却沉默了。
+b	black
+s		眼见着还没消息发过来，我熄了屏，闭上眼睛准备休息片刻。
+s		可高铁站内依旧人来人往，喧嚷的声音使我久久不能平静下来。
+s		于是，我就在这两种状态之间反复转换着，可下一条消息却迟迟没有到来。
+s		是不是该打电话给她呢...
+s		或者说，难道...难道她迷路了？
+s		不会吧，高铁站里可是处处都标着路牌的...
+s		那究竟是因为...
+s	余晓鑫	就、在、你、的身后哟。
+b	sta
+p	x	c	sf8	-	-	cloth:scf2
+p	x	c	ss1	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	呜哇！
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf17	-	-	cloth:scf2
+s		突然间，她从背后对着我耳畔喊了一句，吓得我差点把手机给甩出去。
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf17	-	-	cloth:scf2
+s	余晓鑫	嘿嘿，还真是一如既往地胆小呐，小宁~
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	我说，你能不能不要开这种玩笑了啊？真的很低级好不好？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	小学的时候我还能用幼稚作为理由来为你开脱一下，到现在你研究生都快毕业了，你究竟有没有长大过啊？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss2	-	-	cloth:scs2
+s	宁桐雨	真的是，一点羞耻心都没有...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+s	余晓鑫	可我真心觉得一个恶作剧要是能吓到你，就说明它很成功啊？
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss2	-	-	cloth:scs2
+s		说着她还配合着露出了一脸天真的笑容。
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s		怒火在我心中积蓄着，最终汇到了拳头上。
+s		曾经的我可就是被这只狐狸精给骗了，醒醒，宁桐雨...
+s		找回尊严的时候，就在...
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf17	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		趁她不注意，我伸出手熟练地去弹了下她的脑壳。
+p	x	l	sf17	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	唔，好疼~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	不过和以前的感觉一样...
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	果然是真的小宁！
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	那...那算什么评判标准。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	快走了啊，再不走咱俩都要没晚饭吃了。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	诶，真没情趣啊。
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s		看着她一脸委屈的表情，我心里总算是平衡了些。
+p	x	l	sf4	-	-	cloth:scf2

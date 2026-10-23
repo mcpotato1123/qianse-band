@@ -1,0 +1,128 @@
+s	杨老师	你刚刚绝对是想这么说的吧？小兔崽子。
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	真的不是啦。要是我真这么觉得，就不会一直乖乖地地跑你这儿来陪你啦。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	那...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	说实话啦，只是我不太习惯这里的环境而已。
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	嗯？这话说的可很没道理，小宁你小的时候不就一直住在这样的公寓里吗？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	其实，要谈到具体原因的话，我也说不太明白。
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	杨老师	嗯？
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	都说了，其实我自己也不太明白，我只是在陈述一个客观事实而已。
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	就是每次到了城郊，特别是这种老房子里来就会特别烦躁，
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss9	-	-	cloth:scs2
+s	宁桐雨	心里烦了就想着排解一下，而我排解的方式就是出来吹风来着。
+s		趁着聊天的功夫，我再次伸手确认了一下口袋里的那张纸板。
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	我真的没什么别的意思啦，放心好了。
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	杨老师	那回去之后就先洗个澡吧，我去帮你烧个水。
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	抱歉...
+p	y	l	ss11	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	嗐，小宁说这话的时候根本就完全~完全，完全没有在反省啊。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s		她也走到了栏杆旁边，将手臂搭在护栏上，仿佛是模仿我一般，出神地望着远方。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	老姐，这里很冷，还是多披件衣服比较好...
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	杨老师	真的是，姐姐我真是越来越看不透你这孩子了。也不知道你一天到晚在愁什么。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	果然，最近我的样子很引人注目吗...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	杨老师	或者说，不是最近，我也记不清你上一次笑出来是什么时候了，明明很好看的。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	杨老师	果然，还是学业和工作惹得鬼吗？
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	杨老师	原以为等你研究生毕业了情况会好上不少的，结果还是一样忙，
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s		说着她一脸担忧地看着我，眼神里充满了不解，
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	杨老师	小宁，你当初读研为什么要选神经学？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	杨老师	这一点也不适合女孩子，
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	我觉得吧，从来就没有所谓的女孩子应该干的工作这一说法吧...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	现在就算在我们的研究所里，师姐师妹也是有不少的...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	具体的来说，还是要看每个人的兴趣如何，
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	杨老师	可小宁真的对神经学感兴趣？我看你大学里背那些生物知识的时候都痛苦极了，
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	杨老师	更别提现在的研究了，我总感觉你简直是豁出命在搞，
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	杨老师	是不是该...
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	没那个必要啦，每周休息的时候我来找找老姐你就足够排解了，
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	不必再来劝我了，
+p	y	l	ss11	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	杨老师	嗐，有时候我还真是搞不懂小宁你啊，
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	杨老师	平时明明这么优柔寡断，可在这件事上就从来没让步过，
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+s	杨老师	说起来啊，你们研究所究竟在研究什么，能跟老姐说下吗？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf1	-	-	cloth:scf2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	...
+s		这之后，我们两人之间就陷入了良久的沉默。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	如果我说，
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	连我也不太清楚我现在在干什么，甚至连目标也没有，表姐会相信我吗？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2

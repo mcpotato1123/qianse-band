@@ -1,0 +1,128 @@
+s		她那灿烂的微笑在阴沉的天空的映衬下显得格外地灿烂，我忐忑的心也随之安宁了下来。
+h	x
+h	n
+b	skyngt
+s		就在这时，一直下着的雨停下了。
+s		或许，在我们俩心中下着的雨，此刻也同时停了下来。
+s		鞭炮响过之后，我们也该离开了。
+s		告别的仪式比我想象中的还要简单不少。
+s		小鑫的继母自始至终都没和她说过一句话。
+s		或者说，继母这个词语用的也不对。
+s		小鑫自始至终就只有一个母亲，那个女人对她来说也只是个陌生人而已。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	我的家人自始至终只有小宁和妈妈两个人。
+s		她的话在我的脑海中回荡。
+p	x	c	sf3	-	-	cloth:scf2
+s	余晓鑫	但是，我时常在想，这样是不是太绝情了一些？
+s	余晓鑫	特别是看到其他同事们一起组团出去玩的时候。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	小鑫有感到被排挤吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	倒是没有那种感觉啦，就是我觉得，我是不是也该和别人一样比较好呢？
+h	x
+h	n
+b	black
+b	dlc_railway
+s		坐在回家的列车上，回顾了这一个礼拜的行程之后，她提出了这样的问题。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	以前的我还真是，一直在想这些毫无所谓的问题呐。
+s	余晓鑫	就和高中那会一模一样。
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s		突然间，本来听上去有些纠结的她突然释然地笑了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	也不知道是谁定的规矩，好像血缘一定得是联系两个人的纽带，就算关系再怎么陌生，也一定要陪着同事出去喝酒。
+s	余晓鑫	我早该想明白那些事情的。
+s	余晓鑫	高三的时候，小宁就跟我说过了，要为自己而活。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	到了现在，我才终于明白了为自己而活，到底是什么意思。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s		说着，她握住了我的手，温暖的触感从掌心传来，给我一如既往的安心。
+s	余晓鑫	那并不是要变得自私，也不是要事事都想着别人。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	过去，我一直都在为了别人活着，为了报复素未谋面的父亲，为了讨母亲的欢心，为了赢得同学们的赞许，为了得到小宁的爱。
+s	余晓鑫	我干了许许多多的事，那只是因为，我的内心是一片空白的，我从来没把自己放在中心，也从来没尊重过自己内心的需求。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	包括对待小宁也是，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s		这时，我感到掌心的力度变大了一些。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	我索求小宁的爱，一开始只是为了满足自己的欲望，一种依赖的欲望。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s		我静静地听着，既没有说话，也没有点头，只是让小鑫静静地诉说着。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	也或许是在跟你一天天相处的过程中，我才真正明白了。
+s	余晓鑫	我更应该去多为自己考虑一点。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	无用的人际关系就推掉，喜欢的东西就赶紧抓到手里，
+s	余晓鑫	让自己活的开心一点就好。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	其实我也一直都是这么想的。
+s	宁桐雨	对我来说，跟小鑫在一起也改变了我不少，
+s	宁桐雨	如果你会烧饭的话，我说不定就不会去学烧菜了...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	当然吃了你做的一次饭之后，我立刻就下了决定...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	真的是，刚刚这么好的气氛就这么被你给毁了！
+s		她这么嗔怪着，可脸上却完全没有责备的意思。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	不过嘛，该说这种聊天算是咱们俩之间的特色什么的吗，感觉不不正经一点都缺了点啥了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	总之嘛，现在对我来说，小宁就是我生活的意义。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	那并不是因为我是在为小宁而活。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	因为和你在一起的每一天，对我来说都是最美好的一天。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf21	-	-	cloth:scf2
+s	宁桐雨	得了，说了多少遍，别说这种肉麻的话了。
+s	宁桐雨	到底害不害臊。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf21	-	-	cloth:scf2
+s	余晓鑫	明明就是为了掩盖自己的害羞吧？
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf29	-	-	cloth:scf2
+s	宁桐雨	哪有，
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf29	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf29	-	-	cloth:scf2
+s		说着我撇过了脑袋，转而去看着窗外的风景。
+s		然而，对着窗户，我却看到了我略微有些泛红的脸。
+s		以及坐在我身后的，偷笑的她。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s	宁桐雨	其实嘛，我和你想的都是一样的。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf23	-	-	cloth:scf2
+s		用谁也听不到的声音，我低声自语着。
+s		或许正是与她的相遇耗光了我一辈子的运气，所以上天才赐给我如此多的闲愁吧。
+s		怀着这样胡思乱想的我，就这样继续着每一天。

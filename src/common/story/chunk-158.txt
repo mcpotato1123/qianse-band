@@ -1,0 +1,128 @@
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	明明...明明小宁只是想给我一个惊喜，却被我劈头盖脸地骂了一顿...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	嗐，哪有啦，哪有啦，你自己说的不把我当外人的，自己现在就全忘记啦？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	而且，那件事，回去我也仔细想了想，也确实是我不对啦。
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我不应该...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	不...是我不对才是...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss2	-	-	cloth:scs1
+s	余晓鑫	无论怎么样，我也不应该把气撒在小宁身上...
+s		然而，听了我的道歉，她却一脸无奈地露出了苦笑。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	ss2	-	-	cloth:scs1
+s	宁桐雨	嗐，你和我啊真的是，
+p	n	l	sf23	-	-	cloth:scf1
+p	x	r	ss2	-	-	cloth:scs1
+s	宁桐雨	日常对话简直像小学生吵架一样...
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	ss2	-	-	cloth:scs1
+s	宁桐雨	好了，咱就先不争责任了，咱俩都有错，行吗？
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	对不起...我会表现得成熟一点的...
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	什么事情，我以后都会过过脑子再说的啦！
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	我不会再意气用事了！真的！
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	那算什么，小鑫你的机器人形态吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s		她说着露出了往常那种平和的笑容。
+s		那是一种轻松，平和的微笑。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	刚才的话实在太不像你了，所以赶紧改掉吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s		她伸出手，抹去了我脸上的泪痕。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	可是，今天上午，才不像我...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	为什么？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	因为，我总觉得，在小宁眼里，我应该是一个很好说话，不会动不动就生气的...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	小鑫，不是这样的，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	从始至终我都只想了解真实的你而已。
+s		她伸出手去把我脸上稍有些凌乱的刘海往外拨了一下，
+s		跟我燥热的脸比起来，她的手显得很凉，因此也总能让我安静下来。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	或许小鑫的妈妈是希望你成为那样的人，但我绝对不会，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	毕竟从一开始我就经常注意到你偶尔会露出那样的表情啦，所以我一直对这种话题比较抗拒...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	诶？可是...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	不过，现在不一样了哦~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	小鑫，我已经决定去改变了。
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我已经下定决心去帮助你，无论发生了什么，我都会...
+s	余晓鑫	为什么要为我做到这种地步！明明这一切都和你没有关系，这样下去，小宁也会...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	因为，小鑫的事情就是我的事情。
+s		然而，她却打断了我的话，
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我以前已经说过了，我会永远陪在你的身边的，
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我不愿意看到小鑫再像之前一样为了别人的理想而去奔波了，
+p	n	l	sf4	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	因为，在我的心里，小鑫也是最重要的人，才不是和我没有关系。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	所以，所以，小鑫，请，请多依靠我一点吧，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我，我永远不会离开你的！
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+h	n
+h	x
+b	n_bedroom
+s		说着说着，她的脑袋也垂了下去，似乎很不好意思一般。
+s		再一次，我的眼眶酸楚了，
+s		我抱住了对面的她，她毫无防备，就这样和我一起倒在了地板上。
+s		接着，我把头埋到了她的胸前，泪水止不住地向外涌着。
+s		她伸出手来轻轻抚着我的脑袋，或许在外人看来，小宁才算是我的妈妈吧...
+p	n	c	sf22	-	-	cloth:scf1
+s	宁桐雨	好啦，别哭啦，赶快起来吧~
+p	n	c	sf1	-	-	cloth:scf1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	呜...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1

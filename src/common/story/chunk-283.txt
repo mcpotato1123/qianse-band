@@ -1,0 +1,128 @@
+s	宁桐雨	好作品就是看几遍都不会腻味的~
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s		既然小宁都这么说了，我也不好再反驳什么。
+s		我们披着同一条毯子，紧紧地依偎在一起，时间悄悄地流逝着。
+s		我感觉每一分每一秒都长极了，简直像是不会迎来终结一般。
+s		画面上的女孩在呐喊着，奔跑着。
+s		尽管我早就把之前的剧情忘得一干二净了，可我仍目不转睛地盯着屏幕。
+p	n	l	sf25	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s		当谢幕表终于出现时，我看向身边的她，
+s		不知何时，小宁已经睡着了。
+s		她的身体随着呼吸做着均匀的起伏，右手还和我紧紧地拉在一起。
+s		看着她安详的睡脸，我收回了使坏的打算，
+s		我深吸了一口气，让心情平复下来。
+p	n	l	sf25	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	余晓鑫	小宁很累了，还是别给她...
+s		我试着这么说服自己。
+p	n	l	sf25	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s		然而，最后我还是按捺不住内心的欲望，我缓缓地把脸凑了过去...
+s		短暂地与她吻了一下后，她缓缓地睁开了眼睛。
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	宁桐雨	唔...
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	宁桐雨	我睡着了吗？
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	嗯，我都不忍心吵醒你。
+h	x
+p	n	c	sf2	-	-	cloth:scf5
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	宁桐雨	所以你刚才还干这种事情？
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	嘛，忍...忍不住了嘛，
+s	余晓鑫	都是因为小宁太可爱了。
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	切，你啊，可别再恭维我了，都说了多少遍了，真的听腻了。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s		说着她坐起身，伸了个懒腰。
+h	n
+h	x
+b	black
+s		我按掉了遥控器，关上了床头灯，
+s		紧接着，我从身后缓缓地抱住了她，
+p	x	c	sf8	-	-	cloth:scf3
+s	余晓鑫	我想我们现在可以开始了。
+s		我伏在她的耳边，轻轻地说着。
+s		她轻轻地叹了一口气，用沉默表示了默许。
+h	x
+b	dour_l
+s		那一个晚上，我也忘记了到底是什么时候睡着的了。
+s		然而，半夜吵闹的电话铃把我从睡梦中吵醒。
+s		看着床头手机明亮的灯光，我眯起眼睛仔细看了看来电人。
+s		那一瞬间，我清醒了过来。
+s		来电人是母亲。
+s		我看了看手机时间，现在是凌晨四点...
+s		母亲仍没有睡觉，这也就意味着...
+s		我忐忑不安地接通了电话。
+s		电话那头传来了嘈杂的声音，母亲像是在一个人很多的商场里。
+s	小鑫的妈妈	晓鑫，现在你和桐雨在旅游吗？
+p	x	c	sf4	-	-	cloth:scf3
+s	余晓鑫	嗯，我前几天跟你说过的...
+p	x	c	sf3	-	-	cloth:scf3
+s	余晓鑫	是什么...
+s	小鑫的妈妈	你父亲去世了。
+s		母亲说这话时，语气没有任何的起伏。
+s		而我听到这句话的时候，一时间也没反应过来。
+p	x	c	sf4	-	-	cloth:scf3
+s	余晓鑫	父亲...
+s		我咀嚼着这个陌生的词语。
+s		我这才真切地感受到了其中的违和...
+s		一时间，我也不知道要怎么回答母亲才好。
+p	x	c	sf3	-	-	cloth:scf3
+s		我该感到悲伤吗？
+s		毕竟他是我血脉相连的亲人。
+s		可是，他在我心中留下的印象甚至不如大学社团里的同学...
+s	小鑫的妈妈	过几天的葬礼你还是去一下。
+p	x	c	sf1	-	-	cloth:scf3
+s	余晓鑫	那妈你要去吗？
+s		然而，在话说出口的那一刻我就后悔了。
+s		过去的时间太久，我甚至忘记了父亲和母亲之间的芥蒂。
+s		我忐忑不安了许久，等待着电话那头的她的答复。
+s		母亲沉默了许久，最后还是答应了下来。
+s	小鑫的妈妈	那明天下午出发吧...
+p	x	c	sf3	-	-	cloth:scf3
+s	余晓鑫	那小宁她...
+s	小鑫的妈妈	想一起来也行吧。
+s	小鑫的妈妈	毕竟她也算是家属了。
+s	小鑫的妈妈	回家的路上开车小心点，别喝酒。
+p	x	c	sf4	-	-	cloth:scf3
+s	余晓鑫	明白啦。
+s	小鑫的妈妈	离天亮好有好一会，你先再去睡一会。
+p	x	c	sf3	-	-	cloth:scf3
+s	余晓鑫	嗯，拜拜。
+h	x
+b	black
+s		嘟嘟的声音让我放下了手机。
+s		转过头时，一旁躺着的小宁也睁开了眼睛。
+p	n	c	sf13	-	-	cloth:scf5
+s	宁桐雨	怎么了？发生了...
+p	n	l	sf13	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	没...没...
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	真的什么都没发生吗？
+s		话到了一半，断在了嘴边。
+s	余晓鑫	我父亲去世了。

@@ -1,0 +1,128 @@
+s	宁桐雨	怎么说呢，只能算是弥补了毕业旅行的时候没能自由活动的遗憾吧？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf17	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	对，也...也是吧...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s		正当我想着该怎么回答的时候，她却先开口了。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	晓鑫不是一直想去的吗？
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	话是这么说的...
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	可是，还是会不由自主地去害怕...
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	害怕，那种不确定性。
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	但是，我刚才已经说过了哦，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	旅行的约定，肯定是确定的，
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	无论怎么样，都要来哦~
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	ss2	-	-	cloth:scs2
+s	余晓鑫	就算是...我们上了很远的大学？
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	ss2	-	-	cloth:scs2
+s	宁桐雨	那我就每个月都来找你。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	ss2	-	-	cloth:scs2
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	算了，我可不忍心让小宁整天来回奔波，要来的话也是我吧。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	不过电话不是可以每天都打吗？
+p	n	l	ss9	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	而且啊，咱们也不一定真的会就此分道扬镳啊？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	为什么就不能相信未来呢？至少啊，这个暑假咱们还是会在一起的，不是吗？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	这个暑假？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	对啊，高考之后，你每天都可以约我出来玩啊？反正没什么事儿嘛。
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	高考之后，还是太远了...
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	唉，你这个人，
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	一会说着么，马上就要高考了，现在又说暑假太远了，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	高考之后不就暑假了嘛。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	对，对吧...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	分明是小鑫一直来问我要奖励来着，可我看啊，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	暑假难道不就是对小鑫最大的奖励吗？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s		这时，我才明白了，她这番话究竟是什么含义。
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	一定要等到那一天，是吗...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	嗯，只要生活还在继续，就肯定会有好事发生嘛。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	如果看不到什么好事发生的话，咱们就人为创造一些嘛~
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	一定要等到那一天哦？
+h	n
+h	x
+b	black
+s	余晓鑫	一定要等到那一天啊...
+s	余晓鑫	唔...半年...嘛，真的好长啊...
+b	rod_n
+p	n	c	sf12	-	-	cloth:scf2
+s		我小声地这么嘀咕着。
+s		可现在这句话听起来却像是一个孩子的无理取闹。
+p	n	c	sf16	-	-	cloth:scf2
+s	宁桐雨	嗯...那倒也是。
+p	n	c	sf16	-	-	cloth:scf2
+s		看着她稍有些为难的表情，我突然想到了个好主意。
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	说起来今天也算是个值得纪念的日子吧。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	总想...留点印象深刻的回忆。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	倒也是，总感觉这个晚上过得还是太平淡了些，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	所以，晓鑫觉得怎么样的回忆...才算是所谓的，印象深刻？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	果...果然嘛，还是得，那个吧...

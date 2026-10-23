@@ -1,0 +1,128 @@
+s		走过路边的便利店，
+s		走过十字路口旁的公交站。
+s		只有周六放学是例外，
+s		以往的放学我们会在大门口分开，然后去找自己家长的车辆，
+s		可在那个铺满淡金色光芒的周六，我们总是手牵着手，就这样向前走着，
+s		而在下一个岔路口，我们就要分开了。
+s		虽然这只是每周都要经历一次的小事罢了。
+s		况且所谓的分别，时间也仅仅一天不到。
+s		明天中午返校的时候，小鑫还会一如既往地在学校里上着课，
+s		和我一起平平淡淡地混着日子，做着卷子，开着没轻没重的玩笑。
+s		毕竟高中时光的终结对我们来说还是过于遥远，遥远得就像黄昏天边的火烧云一般，
+s		过去亦然，现在亦然，将来也必定如此，
+s		我会陪着她沿着这条道路走下去，任凭时光流逝也不会改变这一事实，
+s		可是，每次到短暂分别的时候，我的心头总会有些感伤与懊悔。
+s		就仿佛心脏被一把小刀轻轻划过了一般。
+s		对面的她低着脑袋，似乎在想着什么心事。
+s		而与她相对的我也陷入了无言，
+s		就这样，我们尴尬地面对着彼此，谁也不愿意把那句话说出口，
+s		可最后，她还是先我一步抬起了头，
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	那么，明天再见。
+p	x	c	sf1	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	嗯，明天见。
+h	x
+h	n
+b	black
+g	cg12_1
+s		我挥手向她告别。
+s		夕阳的余光洒落在大地上，我们狭长的影子仿佛把整条人行道都剪成了两段。
+s		小鑫走向了与我相反的方向。
+s		阳光背对着她，一旁高楼的阴影将她笼罩。
+s		她原先沐浴在阳光下的身影也被高楼的影子一点一点地吞噬着，
+s		看了几秒后，我转过身去，低下头继续向前。
+s		因为初夏的阳光直到黄昏都有些刺眼。
+b	cof_n
+p	l	c	ss2	-	-	cloth:default
+s	凌	可为什么除了她之外，你就从没和任何人交好过呢？
+p	l	c	ss6	-	-	cloth:default
+s	凌	难道只是因为你一直念叨在嘴里的那句话，她是你唯一的朋友吗？
+p	l	c	ss7	-	-	cloth:default
+s	凌	说实话，仅仅是这样子的话我可完全无法信服，
+p	l	c	ss5	-	-	cloth:default
+s	凌	毕竟直到上了大学之后，工作了之后，宁你身边也不乏关系好的同学和同事啊？
+p	l	c	ss8	-	-	cloth:default
+s	凌	执念就这么深？甚至七八年过去了也没有改变？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	或许对我的潜意识来说，他们都只是我人生中的过客而已...
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	但凭我的了解来看，主要原因还是宁你不愿意对除她以外的人敞开心扉吧？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	那是为什么？保守？还是恋旧？
+s		我低下了头，因为我并不想回答这个问题。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	行吧，看来这个话题也确实太遥远了，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	那么我就挑个现实一点的来问你吧，
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	为什么，要拒绝你的表姐？
+p	l	l	ss3	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	依我看，她绝对做好了准备。
+p	l	l	ss3	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	果然，那份感情还是由于执念吧？
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	不是的...老姐，在我眼里，只是...家人而已。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	我从来没那么看过她...
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	因为...我对他人的恐惧在于情感的不对等。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我习惯对身边最亲近的人坦白一切，把他们摆到心里最重要的位置上，
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	而一旦天平的两端不对等了起来，我便会感到彻骨的失望。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	我习惯于对他人付出过多的感情，我也希望他们做同样的事。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	对于我身边的其他人来说，我并不是什么特别的人，或许只是一个普通的同事或是擦肩而过的陌生人，
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我害怕自己的热情被冷淡的态度白白地消耗，你可能无法想象，那种恐惧感已经达到了前所未有的程度，
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	所以对于一般的社交，我只希望它们停留在表面，
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	可我总还是要去寻找一个值得依靠的人，
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我的父母，老姐回报给我的很多，但那只是凭借血缘那份纽带而已。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	换句话说，那并不是特别的...
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	所以，只有她，愿意...
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	可还真是个扭曲的人呐，你，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	你爸妈要是听到这话准得伤心死，
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	这点我无法反驳，
+p	l	l	ss7	-	-	cloth:default

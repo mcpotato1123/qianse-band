@@ -1,0 +1,128 @@
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	不过咱听说啊，如果对女方有那种想法的话，绝对不会觉得这是很自然的事情吧~
+s	余晓鑫	小宁跟我牵手的时候，有感到害羞过吗？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	我倒是一直觉得很自然来着的。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	嗯，可能是因为咱们认识很久了吧？如果牵个手就害羞的话...怎么说呢，很有初恋感吧？
+s	余晓鑫	而且，咱们俩是从朋友关系发展过来的吧？或许从来就没把牵手往那个方面想过。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	嗯，你这次分析得倒是很有道理。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	只是你这么认真的样子突然让我感觉有点害怕...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	唔，明明我也有认真的时候的，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	请继续保持...
+s		穿过一条条街道，路过了一家又一家店铺，我们俩到处物色着餐厅，可始终无法敲定主意。
+h	x
+h	n
+b	black
+b	liv_e
+s		今天是中秋，刚刚放假回家的我到晚上却硬是被她拽出了家门。
+p	x	c	sf11	-	-	cloth:scf2
+s	余晓鑫	去外边吃个饭赏个月呗~
+p	x	c	sf8	-	-	cloth:scf2
+s	宁桐雨	你这个宅女怎么肯出门了？
+p	x	c	ss10	-	-	cloth:scs2
+s	余晓鑫	明明小宁比我更宅吧？
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	而且咱只是找个机会跟你约会罢了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	好好好，不过别玩得太晚，我可不想再在外面留宿了。
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	行，我明白得很呐。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		于是，我们拎好了包便出了门。
+h	x
+h	n
+b	black
+b	ex_mall2
+s		听说近处的购物商场内有音乐喷泉表演，本来目标选择就十分随意的我们便来到了这儿。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁，现在的女孩子穿的都好开放哦，就你还整天穿个长裙出门。
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	秋装怎么了嘛，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	今天二十五度呐，怎么也轮不着秋天吧？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	话是这么说的啦~
+s	宁桐雨	还是说，你也希望我打扮得像个辣妹一样？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	不，我仔细想了想，那样还是太过于违和了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	所以说，现在这样就好。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+s	宁桐雨	嗯？违和在哪？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+s	余晓鑫	和小宁的性格不搭啦，你应该是那种比较内敛型的。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+s	宁桐雨	那跟你搭不搭？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+s	余晓鑫	我嘛，对这种事情不大在意啦。
+s	余晓鑫	穿衣服只要舒服就好。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	话说你的审美稍微有点向中性上靠了，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+s	余晓鑫	诶？这样吗？那下次我还是穿得更少女一点吧？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	别给我整个花裙子就好，那也太丢人了。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	好好，您就放心吧。
+h	x
+h	n
+b	restaurnt_n

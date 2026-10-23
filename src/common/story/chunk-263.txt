@@ -1,0 +1,128 @@
+b	black
+s		于是，我跟在她的身后，向着场馆的更深处走去。
+s		玻璃隧道，美人鱼表演，这些很常规的景点我们已经看过无数遍了，因此也提不起兴趣。
+b	dlc_aquarium_corridor2
+s		草草地掠了几遍之后，我们便朝着新开的水母馆走去。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	我记得和你小学的时候一起去的海洋馆里有海狮表演来着。
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	那个已经被废除了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	诶？明明蛮有意思的。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	那你把自己想象成一只海狮试试，如果每天都有人拿着皮鞭催你写考卷，你是什么感受？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	如果那个人是小宁的话，我会很乐意接受的啊~
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s		我回过头去狠狠地瞪了她一眼，可她却仍用贱笑回应着我。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	跟你这个人真是什么也说不通...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	明明小宁就没仔细考虑过嘛~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	对动物来说，生活唯一的目的只有吃饭和睡觉，可对人来说，却不是这样哦？
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	对我来说啊，你就是比吃饭和睡觉还重要的东西~
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s		肩被使劲地搂住了，要不是我扶住了旁边的墙壁，准得被她给撂倒不成。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+s	宁桐雨	好肉麻，放开我...
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+s	余晓鑫	这里空调明明开得挺冷的嘛，抱在一起就暖和啦~
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+s	宁桐雨	喂，别闹了，已经到了。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf13	-	-	cloth:scf2
+s		随着周遭的光线逐渐变得昏暗，我们跨过了与之前很像的一道门槛。
+h	x
+h	n
+b	dlc_jellyfish
+s		接着，呈现在我们眼前的是一盏盏打着五彩灯光的玻璃罩，
+s		仔细辨认时，才发现一只只水母正漂浮在那些打着灯光的玻璃罩中。
+s		当这一切成为黑暗场馆中唯一的光源时，我突然有了强烈的不现实感，
+s		仿佛那些光线是从水母身上发出来的一般，是它们的亮光构成了这个诡异的空间。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	哦...这可真是...
+p	x	c	sf1	-	-	cloth:scf2
+s		身边的她似乎想对此情此景做一个描述，但憋了好久都没挤出一个字来。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	可真是什么？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	突然词穷了...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s		她傻笑着看向我，我们身旁正好闪着粉红色的灯光，她的表情也仿佛是害羞了一般。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	小宁有什么想说的吗？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	它们可真像是来自另一个世界的精灵...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	诶？此话怎说？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	如果你稍微了解一点它们的生长发育的过程，你就会发现，其实水母是水螅结成的花朵，
+s	宁桐雨	但同时，水螅又是水母交配之后生下的后代。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	也就是说，无论哪个都可以看做它的本体吗？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	嗯。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	而且许多水母有退化回水螅，再度生下自己的能力...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	那不就是...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	对，它们永远也不会像其他动物那样死去，无论循环多少遍，它都是一样的水母。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	呼...这还真是超乎我对大多数生物的认知啊~
+p	x	l	sf1	-	-	cloth:scf2

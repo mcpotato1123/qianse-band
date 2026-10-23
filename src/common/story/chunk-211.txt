@@ -1,0 +1,128 @@
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	我不想...
+h	l
+p	n	c	ss4	-	-	cloth:scs2
+s		我本想把这句话的后半句说完，我还想趁着这段时间再多说些感谢的话，
+s		可看到凌淡然的眼神之后，我明白，过度的感性在这里是不管用的。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	凌	或许，在遥远的梦里我们还能再会吧。
+s		似乎看透了我的心思，凌在最后说了这么一句似乎是安慰我的话。
+h	n
+h	l
+b	white
+s		旋即，那种熟悉的感觉涌上了心头，我的意识也随之渐渐飘远了。
+s		但此刻，是光明笼罩着视野前的一切。
+b	m_bedroom
+p	n	c	ss3	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	写的什么鬼东西嘛？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	剧情弯弯绕绕的，设定到中间又突然超展开了，你到底是怎么想出来这种破剧情的？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s	余晓鑫	嗐，小宁你记不记得我高中的时候写了本破日记？就是那个你说写了好多流水账的那个。
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	哦，那本破书...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	我还记得哦，当时小宁还评价过，说我写的东西啊，就是缺少了点奇幻色彩。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	诶？
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	好...好像是说过。
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	所以，我就给这个故事加了点奇幻色彩啊？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	你看，跨越时间线的伙伴，这种设定一看就很新颖对吧？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	ss10	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss10	-	-	cloth:scs2
+s	宁桐雨	新颖个鬼啊！这难道不是被玩烂的套路嘛！
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss10	-	-	cloth:scs2
+s	宁桐雨	还有这个，我什么时候做过预知梦什么的...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	诶？真的吗？这一段可是真的哦~
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s		对面的她语气听起来却异常坚定。
+s		我突然间有了一种茫然感。
+s		这些事真的发生过？
+s		我仔仔细细地回想着，却依旧毫无结果。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁不会老年痴呆了吧？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	嗐，要是我真得了，准是要被抓去做研究的那种。
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s		说出这句话的时候，我总感觉很熟悉。
+s		可是我却想不起来到底是在哪里，跟谁说过了...
+s		奇怪，那个人的名字被我忘得一干二净了...
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	在想事情吗？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	没，仔细回忆了下，发现有些事情还是有点印象的...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss20	-	-	cloth:scs2
+s	余晓鑫	不要逞强哦？坦率一点嘛！
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	所以，耗尽心思写了这本书要干什么呢？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	我说，你这话题跳跃也太大了吧。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	没有，我就是很好奇而已。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	小宁你真的是，从来就没有什么浪漫感情，让人的少女心很为受伤。
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	马上都能被叫阿姨的年龄还谈什么少女...
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s		不过虽然嘴上不饶人，可我心里却十分珍惜小鑫送的这一份礼物。
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	其实嘛，都是小宁叫我去写的。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	诶？
+p	n	l	sf1	-	-	cloth:scf2

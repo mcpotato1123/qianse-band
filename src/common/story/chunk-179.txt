@@ -1,0 +1,128 @@
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	就比如问问你在学校里和我相处得怎么样，有没有整天偷懒什么的
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	那小宁是怎么回答的？
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	我么，就说跟别的人没什么差别咯，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	不然我还能说什么来着啊？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	那小宁是...怎...怎么回答我们俩的关系什么的？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	就说是被老师分到同一个学习小组里的呗，因为一直在一块写作业所以关系也好一些，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	我总不至于跟她说，我是你女儿的女朋友，来这里是为了排解她的寂寞吧？
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	那我不像是什么从事奇怪职业的人员了...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	也...也是啊...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	怎么说的这么不情愿似的，明明我作出了重大牺牲的好不好啦，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我这一年都没跟陌生人聊过这么久...
+s		聊着聊着，我们俩就走到了教室门口。
+h	n
+h	x
+b	classroom1
+s		推开门，化学老师用皮尺重重地敲了三下，噼啪的响声让所有的喧哗声瞬间消散了，教室中又重归于寂静。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	剩下的等到吃晚饭的时候再说啦~我先回去了。
+p	n	c	ss1	-	-	cloth:scs1
+h	n
+s		说着她匆忙地奔向教室的前排，在位置上坐了下来。
+s		然而，我的心情却久久不能平静。
+s		一方面是因为今天下午就要放假了，班主任却还在喋喋不休地讲着假期复习计划之类的事，
+s		告诫着我们即使五天的假期也要认真复习，高考复习容不得松懈...
+s		但更多的则是因为小宁刚才说的那一番话。
+s		虽然我心里很清楚，小宁和母亲之间的话题大致也超不出这些内容。
+s		可我的内心却止不住地往另一个方面疯狂地联想着，
+s		小宁和母亲只见过一面...
+s		母亲却能和她正常地聊天。
+s		而作为亲生女儿的我居然却没有这样的机会。
+s		愤恨、愤恨、愤恨。
+s		是愤恨占满了我的心灵。
+s		也正是因为愤恨感占满了我的内心，我才频繁地看向窗外的天空。
+s		我不时地用余光看着小宁所在的方向，
+s		祈祷着她偶尔能回过头来，与我对视，察觉到我难以说出口的情感。
+s		然而，这一切都没有发生。
+s		直到同学们欢呼的声音把我从幻想中吵醒，我才注意到一个事实。
+s		小宁居然觉得一切都很理所当然。
+s		明明和陌生的同学都能自然而然地聊起来，对待自己的亲生女儿却只剩下了命令与冷漠。
+s		结果到头来，现实是如此地讽刺。
+s		无论我多么为她找借口，多么劝说自己去原谅她，她都总能用现实让我失望。
+s		我渴望着母爱，
+s		那种爱与小宁所给予我的并不相同，
+s		它在我的心头也占据着同样的分量，但那一切从没被满足过。
+s		想到这里，我还是如以前的所有时刻一般，默默地叹了口气。
+s		毕竟，母亲是我逃不开的人，
+s		或许正如小宁所说，比起针锋相对，或许现在的我应该暂且放下心头的埋怨，
+s		静静等待时间将这一切抹去。
+b	black
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	...所以，小鑫的妈妈同意了？
+p	n	c	ss3	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	嗯。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	其实啊，那次她真的没和我聊什么特别的...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	她只是简要地问了问我来这儿的意图。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	然后呢，我就说，我是和你一个学习小组的，你有本笔记本忘在学校里了。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	我还问了问能不能到卧室里去问你个问题。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	真的，出乎我意料的是，你妈妈居然若无其事地默许了...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	真的...她好像没想过，那天是你的生日...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	不，其实到了第二天，她还是想起来了。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	诶？真的吗？
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	那为什么她那天在我面前要表现得对你如此地不关心呢...
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	难道说，她其实是...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	放不下面子而已...
+s		听到电话那头传来的声音，我只是轻轻点了点头。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	那些事情，我都是明白的。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s		我这么回答道。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	她这么做的理由我一直都是明白的，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	毕竟在我们家里，她既要扮演母亲，又要扮演父亲。

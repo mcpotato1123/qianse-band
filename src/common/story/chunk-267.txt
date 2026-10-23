@@ -1,0 +1,128 @@
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	感情你就把我当做佣人是吧？
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	丫头，咱们是谁在上面，谁在下面？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	宁桐雨	那...那种事情根本就没任何关系吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	宁桐雨	别把每个人都想得和你一样流氓。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf3	-	-	cloth:scf2
+s	余晓鑫	哈哈，脸红了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf8	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf2
+s	余晓鑫	诶呦，好痛，下次除了脑门，打哪里都好说...
+h	x
+h	n
+b	black
+b	dour1_m
+s		然而，今天却是个例外。
+s		要问其中的原因的话。
+s		我拿起了手机。
+s		然后，默默地看了看手里的纸。
+s		嘟嘟...
+s		提示音在我耳畔回响。
+g	cg51
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	喂，小宁吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	嗯，是我。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	你...你在哪里，怎么还没回家？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	我在回家的路上啊？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	今天，什么都没说，就独自出了家门，
+s	宁桐雨	我...我很担心你。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	不用担心啦，我今天只是和朋友一起出去玩了一下而已。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	和朋...朋友？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	对啊？是一个很漂亮的女孩子哦？
+s	余晓鑫	我们今天一整天都在逛庙会，玩得很开心哦，所以说，不用担心啦。
+s		我再次看了看手中的纸，
+s		那上面写满了密密麻麻的字。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scf2
+s	宁桐雨	真的要读吗？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	诶？小宁你在说什么？我听不见！
+s		看起来，她不会作出让步了。
+s		我深吸了一口气。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	为什么，不告诉我呢？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	诶？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	为什么，不告诉我呢？我一直...我一直都想更加了解...那个，有关小鑫的事 情，所有的这些事情，我都不想成为...嗯...那个，第一个以外的。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	等下，你冷静一点小宁。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	可我一直都很冷静的说。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	出戏啦，出戏啦，
+s		我无奈地叹了口气，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	我讨厌，小鑫在我不知道的地方...跟别人成为朋友，甚至跟别人一起玩什 么...的？我...我只希望小鑫和我好！
+s	宁桐雨	只希望，和...我在一起就行？还有，那个，庙会我也想跟你一起去的，牵手也是...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	Stop!Stop!
+s	余晓鑫	这绝对是在捧读对吧？捧读？
+s	余晓鑫	而且是很不熟练的捧读！没有一点真情实感！
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	那不然呢？
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	要更投入感情一些，语气要更真挚动情一些。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	那太不符合人设所以请允许我拒绝。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	小宁，你要想想，要是你的恋人自顾自地和别的女孩子出去玩了，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	那我会祝贺你交到了一个新朋友。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	为什么？你难道就不会嫉妒吗？

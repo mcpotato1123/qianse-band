@@ -1,0 +1,128 @@
+s		虽然过去的我可能只会觉得这是我的一厢情愿，但现在，我却更想要去向她确认这一切，
+b	mus_m
+s		那个长长的吻结束了之后，我用手腕搂住了她的背，
+s		她并没有抗拒，就这么顺势坐到了我的身边。
+s		我慢慢地向她的位置一点点地挪动着，最终与她的肩膀靠到了一起，
+b	black
+g	cg37
+s		接着，我把头枕到了她的大腿，接着挪了挪身子，寻找着最适合枕着脑袋的地方。
+s		可就在这时，耳畔却传来了一声长长的叹息，
+s	宁桐雨	你啊，真是越长大越退化了...
+s	余晓鑫	这话又从何说起？
+s	宁桐雨	以前一直是我靠着你，现在倒是反过来了，
+s	宁桐雨	明明你比我高这么多，还像一个宝宝一样躺在别人身上，还不害臊...
+s	余晓鑫	那小宁来当我的妈妈吧？
+s	宁桐雨	不要，当你女朋友已经够烦人的了...
+s	余晓鑫	还是把麻烦说出口了呢？
+s	宁桐雨	因为你就是很烦，
+s	余晓鑫	打是亲骂是爱？
+s	宁桐雨	当你说出这句话的时候，我可以确定你抖M的症状基本已经无药可医了。
+s	余晓鑫	那医生，我还有救吗？
+s	宁桐雨	可以准备后事了，
+s	余晓鑫	但是啊，医生，我还有件事儿想告诉你。
+s	宁桐雨	快说吧，
+s	余晓鑫	我爱你，
+s	宁桐雨	好好好，爱我就爱呗...
+s	余晓鑫	就不打算回应我吗？
+s	宁桐雨	回应啊...话说我不是早就回应过你了嘛...
+s	宁桐雨	莫非你从来就不把我的话放在心上？
+s	余晓鑫	怎，怎么可能嘛，我记得清清楚楚的呐~
+b	mus_m
+s		就在这时，下课铃突然打响了。
+s		她拍了拍的我的手臂，示意我她要起身了。
+p	n	c	ss3	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	呼...感谢你，我又成功虚度了一个中午。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	爱因斯坦说过啦，小宁忘记了吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	把你的手放在滚热的炉子上一分钟，感觉起来像一小时。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	坐在一个漂亮姑娘身边整整一小时，感觉起来像一分钟。这就是相对论。
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	好吧，我的真实感觉是，过去的这半个小时，过得好像三十小时一样，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	换算得好快...不对，好过分！
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	如果你不想让我们俩当众迟到的话，那就该先闭上你的嘴巴。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	这里可是音美楼，离教学楼隔着一整条长廊，
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	甚至十分钟的时间只够刚好到而已，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	可小宁你怎么又花这么多时间来跟我解释呢？不应该立马跑起来吗？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+h	n
+h	x
+b	mus_m
+s		被我说中的她气得鼓起了脸，
+s		她拉过了我的手，就这么直冲冲地向着门外奔去，
+b	scor_m
+b	classroom1
+s		尽管到了后面是我在拉着她往前跑，但最终我们还是有惊无险地到了教室，
+s		在同学们好奇的注视下，我们俩坐回到了各自的座位上，
+s		上课铃旋即响了起来，在化学老师的讲课声中，同学们的头再度垂了下去。
+b	classroom1
+s		周五下午，又是每周固定一次的数学考试。
+s		经过两个小时之后的鏖战，坐在座位上的同学们早已疲惫不堪了。
+s		随着卷子被收缴上去，以往喧闹的对答案声却并没有出现，
+s		相反，教室内响起的是规整物品的声音，
+s		毕竟文艺汇演的吸引力要远比考试高多了。
+p	n	c	sf12	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	真是搞不懂，为什么文艺汇演前还要考试嘛。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	还考得这么难，原本大好的心情都要被考试给磨干净了。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	消消气啦，等会还要去音乐教室演出呐。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	真的是，早知道会是这样一个结果，干脆在一开始就把这个节目推掉好了。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	那样我还倒能享受一晚上完整的文艺演出啊~免得担惊受怕一整小时...
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	那不显得每天陪你排练和在小黑屋里干那个那个啥的我很小丑吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	哎呀，刚才我只是开个玩笑啦，开个玩笑而已。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	因为有小宁要听呢，所以我绝对不会推掉的啦。
+h	n
+p	x	c	sf8	-	-	cloth:scf1
+h	x
+b	scor_a
+s		这时，班主任已经在喊我们去教室外面排队了。
+s		由于表演类型的节目比较多，所以班级文艺汇演的场地就改到音乐教室里了。
+b	mus_a
+s		而巧合的是，我原先和小宁一起待着的小屋子也是一间过往的音乐教室。

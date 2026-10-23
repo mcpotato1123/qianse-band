@@ -1,0 +1,128 @@
+s	余晓鑫	没，就是高中那会的遗憾想弥补一下，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	第二遗憾的是没在这里好好玩玩，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	第一遗憾的是当时在床上和小宁啥都没干，
+s	宁桐雨	得，第一的遗憾你大概是弥补不了了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	毕竟你是肯定回不到那个我们睡觉的地方了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	但旅馆也很棒啊？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	肯定没家里舒服。
+p	x	l	sf15	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	但是有氛围感！
+s	宁桐雨	好好好，有氛围感，有氛围感，服了你了...
+s		扯着皮，聊着天，又过了将近一刻钟，目的地终于出现在了视野里。
+h	x
+h	n
+b	black
+b	ex_park
+p	x	c	sf10	-	-	cloth:scf2
+s	余晓鑫	好了，总算到了！
+h	x
+p	x	c	sf10	-	-	cloth:scf2
+p	x	c	sf10	-	-	cloth:scf2
+s		我将车停到了公园门口，和小宁一起走了进去。
+p	x	c	sf10	-	-	cloth:scf2
+h	x
+b	black
+b	dlc_cave2
+s		在步行了将近十分钟之后，我们终于到了那个溶洞洞口。
+s		我向她伸出了手。
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	抓紧我哦？
+h	x
+p	x	c	sf8	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	根本没必要耍帅吧？到里面还不指定是谁抱着谁呐~
+h	n
+p	x	c	sf8	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	哎呀，这个时候就别逞强啦？乖乖倚靠我就行了？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs6
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	可每次走夜路的时候都是你扯着我...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	哪...哪有啊？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf6
+s	宁桐雨	嗐，事实胜于雄辩，事实就是，身为大人的你仍旧是个彻头彻尾的胆小鬼。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf6
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf24	-	-	cloth:scf6
+s	余晓鑫	可是啊，里面可是很亮堂的哦？我只是觉得小宁可能摔跤才伸出手的哦？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf24	-	-	cloth:scf6
+s	余晓鑫	因为你看嘛，小宁别的不说，平地摔可是很擅长的哦？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf24	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf6
+s	宁桐雨	得，你可别跟我再互损了，都快走到楼梯口了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf6
+s		说着她把我的手紧紧捏住了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s		我看向她的脸，那里早就没了高中时期的羞涩，取而代之的是平淡与习以为常。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+s	宁桐雨	嗯？我脸上有什么吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+s	余晓鑫	没，
+s	余晓鑫	我就是突然间想感叹，咱们也真成老妇老妻了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	宁桐雨	才刚过25就说老，也真是大可不必了，
+s	宁桐雨	况且，如果你现在才意识到这一点，也真是太差劲了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	余晓鑫	为什么我说一句你要犟三句啊？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+s	宁桐雨	明明两句。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+s	余晓鑫	刚才就满三句了！
+h	x
+p	n	c	sf12	-	-	cloth:scf6
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	宁桐雨	唔...我想可能是为了让你还还以前欠我的账吧？
+s	宁桐雨	我这人报复心还是有点儿的。

@@ -1,0 +1,128 @@
+s	余晓鑫	好啦，别生气啦，多生气老得快哟~
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	小鑫，来做吧...
+s	余晓鑫	诶？小宁不舒服呢，我可过意不去...
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	如果今天没干成的话...我才真的要郁闷一晚上了，
+s	宁桐雨	至少让我做个好梦吧...
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	余晓鑫	好吧...
+h	n
+h	x
+b	black
+s		说着，我将手指向她的小腹划去。
+s		她向我的方向靠了靠，我把她抱到怀里。
+b	black
+g	cg3_1
+s		喘息声与床抖动的声音过去之后，她转过了脸去，
+p	x	c	sf1	-	-	cloth:scf3
+s	余晓鑫	睡了？
+h	x
+b	black
+g	cg3_2
+p	n	c	sf25	-	-	cloth:scf5
+s	宁桐雨	嗯，
+p	n	l	sf25	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	余晓鑫	晚安，
+s	余晓鑫	我爱你，小宁，
+p	n	l	sf25	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	我也爱你，
+s	宁桐雨	小鑫...
+h	n
+h	x
+b	black
+s		就这样，我也转过了脸去，
+s		昏睡感顿时朝我脑海中袭来，在迷迷糊糊之中，我陷入了昏睡之中。
+b	black
+b	hotel
+s		一夜无梦。
+s		刺眼的阳光直射进房间内，我不由得眯起了眼睛。
+s		已是腊月深冬，阳光仍然这么刺眼便意味着现在时间已经不早。
+s		我看向身旁酣睡着的她，心中满溢着幸福感。
+s		不过，既然已经快到午饭的时间了，咱们也不得不起来了呢。
+b	hotel
+s		我轻轻晃了晃她的肩，可她却毫无反应。
+s		实在没办法的我只好俯下了身去，在她的脖颈处轻轻咬了一口。
+s		这招立马起了效果，她缓慢地睁开了双眼，两眼无神地看着我。
+p	n	c	sf14	-	-	cloth:scf5
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	早上好~
+h	n
+p	x	c	sf4	-	-	cloth:scf3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	宁桐雨	唔...几点了？
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	ss10	-	-	cloth:scs3
+s	余晓鑫	十点四十，
+p	n	l	sf25	-	-	cloth:scf5
+p	x	r	ss10	-	-	cloth:scs3
+s	宁桐雨	哈~睡得可真久啊~
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	ss10	-	-	cloth:scs3
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s	余晓鑫	感觉好一些了？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	嗯，差不多吧，
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	能下床走路吗？还是要我背你？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf4	-	-	cloth:scf3
+p	n	l	sf25	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	宁桐雨	别把我真当成病号啦...
+p	n	l	sf25	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s		她说着踉跄地爬起了身，伸了个懒腰，接着便穿起了衣服。
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	离寒假就剩最后两天了...
+p	n	l	ss12	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	嗯，而且咱们考试也考完了，麻烦事也都处理完了，所以说，现在咱们真正称得上是闲人哦？
+p	n	l	ss12	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	话说咱们闲下来的时候，一直都在...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	嗯哼，都在干嘛呢？
+s	余晓鑫	这个小宁你应该很~很~很清楚哦？
+p	n	l	ss2	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	滚，好不容易对你有点改观的，别来消费我的感动。
+p	n	l	ss2	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	嗯嗯，希望小宁你是真的忘了，昨天在枕头边上，究竟是谁说的
+s	余晓鑫	我~想~要，
+p	n	l	ss2	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	哎哟，好疼，
+p	n	l	ss7	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	赶紧归东西吧，时间不早了。
+p	n	l	ss7	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	可小宁你刚说过咱们现在已经是闲人了哦？
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	人不能两次踏入同一条河流，你也不能两次看见同一个我。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	这算什么歪理嘛...

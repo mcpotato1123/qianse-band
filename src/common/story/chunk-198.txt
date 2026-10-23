@@ -1,0 +1,128 @@
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	嘛，现在记得最牢的肯定是小宁的生日啦。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	少来恶心我，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	肉麻死了。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	等到我答应你不再说这些废话的时候你就会后悔起来啦~
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	这一点，可没人比我更懂了。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	得了，你可别自恋了。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+h	x
+h	n
+b	dawnsky
+s		不知不觉间，我们已经走到了考场的门口。
+s		门两侧的家长们抱着鲜花与水杯，正焦急地往考场口张望着。
+s		在人群中，我轻而易举地发现了母亲的身影，因为她就站在人群边缘的角落处。
+s		我挥手向小宁告别，接着转身大跨步地走向母亲身旁。
+s		“感觉考得咋样？”
+s		“说实话，不咋样。”
+s		“尤其是数学，基本算是考得最差的一次了。”
+s		我只是这么平平淡淡地说着。
+s		“估计会和以往的模拟考试差不多吧。”
+s		然后，给出了这样的结论。
+s		母亲只是轻轻地叹了一口气。
+s		“别想那些有的没的了，今天晚上去吃顿好的吧？”
+s		“你来挑店吧？”
+s		“嗯，就去那家自助烤肉饭馆就行了。”
+s		说话间，已经走到了车门口。
+b	carwindow
+s		我拉开门，坐进了副驾驶座。
+s		周边同学们的谈笑声，欢呼声不绝于耳。
+s		由于那实在是太过喧闹，我摇上了车窗。
+s		到头来，还真如小宁说的一样。
+s		除了和她在一起的日常之外，我的生活就只是一张苍白的纸而已。
+s		无论考试的结果如何，这一事实都不会改变。
+b	black
+g	cg51
+s	余晓鑫	小宁~今天晚上一块儿去查成绩吧？
+s	余晓鑫	就到你家附近的那家咖啡店里集合吧？
+s	宁桐雨	去咖啡店查成绩，可真有你的...
+s	余晓鑫	我想和小宁一块查成绩嘛~
+s	宁桐雨	这难道有任何意义吗？
+s	余晓鑫	唔嗯，没有现实意义，可象征意义却是很丰富的哦？
+s	余晓鑫	你看，应试教育的开始和，与小宁相遇，应试教育的结束，和小宁一起度过，
+s	余晓鑫	这样才算有始有终嘛~
+s	宁桐雨	行行行，不跟你争了，我吃过饭就去好吧，
+s	宁桐雨	待会在靠窗口那个位置来找我就好，也省点事。
+s	余晓鑫	嗯。
+b	busstr
+s		一吃完饭，我就冲到了楼下的公交站台上，
+b	cof_a
+s		焦急地等了四站路之后，我在那条熟悉的弄堂旁下车，凭着之前的记忆，我来到了那间咖啡店前。
+p	n	c	sf6	-	-	cloth:scf1
+s		在玻璃窗口，我看见了正不停张望着的她。
+p	n	c	sf12	-	-	cloth:scf1
+p	n	c	sf6	-	-	cloth:scf1
+s		在看见我的那一刹那，她就立马收住了原先的表情，假装出一副没看见过我的样子。
+s		于是我走上前去，对着玻璃窗轻轻敲了一下。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	喂，小宁，听得见吗？
+s		她只是皱了皱眉，接着将左手指向了门口，示意我快点进来。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	嘿嘿，怎么一看见我就撇过脸去啦？这么害羞吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	哪...哪有，简直是自作多情。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s		我拉开凳子坐到了她身边，桌上的那杯咖啡仍旧冒着热气。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	这几天在家里过的怎么样？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	还能咋样，就像往常一样咯。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	别嘛，咱俩都好久没聚在一块了...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	好久...指两天吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	每天晚上还一直来电话骚扰我，真的烦死了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	大学毕业后就住一起吧~
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	我还想去考研呐...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	别抬杠嘛，不过那也没关系，等硕士毕业吧~
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	还真是执着啊...所以你已经决定要和我去同一所大学了吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	嗯。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	如果分数...差的有点大呢？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	唔嗯，没事啊，毕竟差得太大也不可能吧？
+p	n	l	ss3	-	-	cloth:scs1

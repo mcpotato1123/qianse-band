@@ -1,0 +1,128 @@
+p	n	r	sf2	-	-	cloth:scf8
+s	女仆	是这样...
+s	主人	那我现在要吻你。
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf3	-	-	cloth:scf8
+s	女仆	好，好的。
+s	女仆	请，请您自便。
+h	xj
+h	n
+b	black
+b	black
+s		我僵直地站在原地，闭上眼睛，静静地等待着。
+b	black
+s		柔软的触感覆上了嘴唇，在其上留下清香，留下温暖，
+p	xj	c	frown	-	-	cloth:default
+s	主人	女仆酱觉得和我生活在一起很压抑吗？还是说，你希望改变？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf3	-	-	cloth:scf8
+s	女仆	不，小姐，我跟你在一起很幸福。
+p	xj	l	shy	-	-	cloth:default
+p	n	r	sf3	-	-	cloth:scf8
+s	主人	这样，
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf3	-	-	cloth:scf8
+s	主人	不要离开我哦，也不要总想着一些与我们无关的事情，好吗？
+s	主人	因为...
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	因为那样的结果也并不一定令人满意，不是吗？
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	你瞧，这不是清楚得很嘛。
+s		说着，小姐抱紧了我，她柔顺的长发披散到了我的肩上，像是披上了一条毛毯。
+p	xj	l	close_eye	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	我不想再和外界有任何的往来了，就让我和女仆酱一起在这座庄园里待到生命的终点吧。
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	所以，我才喊人修了那道墙。
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	那是用世界上最坚固的材料修建的，最好的工匠设计的围墙。
+s	主人	没有人能将它拆毁，我们俩也没没有办法出去。
+p	xj	l	close_eye	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	这里，将会成为世界的终末之处。
+s		话语犹如春风静静拂过耳畔。
+s		我一边聆听着，一边用手拍着小姐的后背，让她急促的喘息渐渐平稳下来。
+p	xj	l	close_eye	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	女仆	如果...这就是小姐想要的未来的话，
+s	女仆	我也会选择去接受的。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	主人	...谢谢你。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	女仆	对我没必要说这些话啦，毕竟自从四年前开始，我就已经成了小姐的人了嘛。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	女仆	不过小姐，能在围墙修好之前，再去见一次郡主大人吗？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	主人	妈妈...
+s	女仆	还有姥姥。
+p	xj	l	shy	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	主人	我知道了，那女仆酱帮我准备下行李吧，咱们后天就出发。
+h	xj
+h	n
+b	ex_mansion_restaurant_night
+s		晚饭是在我们俩的笑谈声中度过的。
+s		可看着满脸笑容的小姐，我的心里却满是惆怅。
+s		晚餐的桌子很长，可现如今除了我们两人之外，没有人会到这里来。
+s		我们坐在桌子最靠窗的那一端，向门口望去时，一排排空椅子排列在桌子两边，显得落寞而又冷清。
+s		在小姐还没成人的时候，经常会有邻村的孩子来到这座庄园里做客。
+s		那时候，桌子边往往挤满了人。
+s		所有的孩子都想往小姐身边挤，虽然坐在对面的我总是有些嫉妒，可看到小姐幸福的笑容，我也总是能发自内心地笑出来。
+s		短短过了几年，这间房子就变得这么冷清了...
+s		虽然小姐和我的关系也在突飞猛进就是了...
+p	xj	c	amazed	-	-	cloth:default
+s	主人	女仆酱？
+p	xj	l	amazed	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	诶？
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	主人	都叫你几遍了，真的是。
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf24	-	-	cloth:scf8
+s	女仆	对不起啦，主人，刚才有点走神了。
+s	主人	可真是，待会上床前一起去图书馆一趟吧？
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	诶？图书馆，在地下的那个？
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	主人	嗯，有几本书我要带过去给妈妈。
+p	xj	l	normal	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	女仆	好的，悉听尊便。
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	主人	还，还有，今天晚上要跟女仆酱做一次。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	主人	毕竟去见妈妈的话，就没时间了...
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf3	-	-	cloth:scf8
+s	女仆	好，好的...
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf3	-	-	cloth:scf8
+s	主人	那今天咱们就一块洗澡吧？
+s	女仆	嗯，遵...遵命
+s		我怀着复杂的心情答应下了小姐的话。
+s		做爱吗...
+s		虽然对此我说不上讨厌，可小姐似乎对此兴致颇浓。
+s		当然，我只是小姐的贴身仆人，也没法拒绝她的要求啦...
+h	xj
+h	n
+b	ex_mansion_hallway_night
+s		图书馆修在很深的地下。
+s		尽管找书的过程只花费不到一刻钟的时间，可上下楼梯就让平时不擅长运动的小姐筋疲力竭了。
+p	xj	c	close_eye	-	-	cloth:default
+s	主人	女仆酱，帮我烧水嘛。
+p	xj	l	close_eye	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	女仆	遵命。

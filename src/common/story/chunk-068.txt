@@ -1,0 +1,128 @@
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf8	-	-	cloth:scf2
+s	宁桐雨	不如说，你这样一个老大不小的人还整天像一个小学生一样玩这种无聊的游戏，还害不害躁了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+s	余晓鑫	话说小宁是不是最近有点不讲游戏规则了？
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+s	余晓鑫	嘴上说不过我就动武，也太不淑女了吧？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	要你管？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	你也不设身处地地替我想想，平时在宿舍里是谁拖的地？平时睡觉的时候事谁半夜爬起来帮你盖得被子？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	平时处处就知道占我便宜，嘴上也不给我省省心，还老是跟我贫，像话吗？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf18	-	-	cloth:scf2
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf18	-	-	cloth:scf2
+s	余晓鑫	嘿诶？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf18	-	-	cloth:scf2
+s	余晓鑫	其实小宁刚才还少说了一个吧？最重要的那个，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf18	-	-	cloth:scf2
+s	余晓鑫	小宁其实一直是在下面的那个呐~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf18	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf11	-	-	cloth:scf2
+s		说着她露出了不怀好意的笑容。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf11	-	-	cloth:scf2
+s	宁桐雨	你...你在说什么？我...我可听不懂！
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf9	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf9	-	-	cloth:scf2
+s	余晓鑫	听不懂的话，小宁为什么又要害、羞、呢？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf9	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	唔...小宁~告诉我嘛~
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	你明天和后天的晚饭只剩下白饭加一素了！
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	诶？凭什么嘛...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	我这是在帮你减肥。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+p	x	l	ss4	-	-	cloth:scs2
+p	n	r	sf16	-	-	cloth:scf2
+s	余晓鑫	我又不胖，纯粹是个子比小宁高一点罢了。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf16	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	少狡辩！就这么定了，任谁来劝也改变不了！
+p	x	l	ss4	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	ss4	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s		话都说到了这种程度，她脸上才总算是露出了些许慌张。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	那...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	我今天勉为其难，允许小宁在上面吧？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	滚！
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+h	n
+p	x	c	sf1	-	-	cloth:scf2
+p	x	c	sf6	-	-	cloth:scf2
+s		说罢我头也不回地朝着高铁站的出口走去。
+p	x	c	sf6	-	-	cloth:scf2
+s	余晓鑫	别嘛，我再也不提这种事情了，总行了吧？
+h	x
+p	x	c	sf6	-	-	cloth:scf2
+s	余晓鑫	小宁~别丢下我啦~
+s		背后好像跟上了什么奇怪的东西呢...
+s		算了，那个就先别管了吧...
+h	x
+b	busscho
+s	广播声	下面插播一则简讯，近日，某大学研究团队发布神经学方向重要研究成果，
+s	广播声	据项目负责人称，在这项技术支持下，完全给体验者以虚拟的感受已经不再是遥不可及的未来...
+p	x	c	sf11	-	-	cloth:scf2
+s	余晓鑫	小宁~今天晚饭吃什么啊~
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	我哪知道，是我爸烧的。
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	但我已经跟他预先说过你会来我们家了，肯定会做一些你喜欢的菜啦，
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss9	-	-	cloth:scs2
+s	宁桐雨	所以说，别再来烦我了，我现在只想休息一会。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss9	-	-	cloth:scs2

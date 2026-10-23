@@ -1,0 +1,128 @@
+b	off_m
+s		其他办公桌的座位上都空空荡荡的，只有位于角落里的一桌上摆着一叠书。
+s		那一张办公桌后坐着一位面容和蔼的女老师。
+s		我忐忑不安地向她走去。
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	余晓鑫	请问，班上是不是有一位姓宁的同学...一直来...找您？
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	啊，请问？
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	余晓鑫	我...我其实是宁桐雨同学的班长，我就是想来了解一下她的情况...
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	余晓鑫	要是需要什么帮忙的话，我也想...
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss8	-	-	cloth:sc1
+s	杨老师	啊哈...其实嘛，她是我表妹啦，不用担心，是我一厢情愿地把她叫过来陪我的啦。
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	究其原因只是因为咱在这儿太孤单了罢了。
+p	x	l	ss10	-	-	cloth:scs1
+p	y	r	ss10	-	-	cloth:sc1
+s	余晓鑫	仅...仅此而已吗？
+s		我装作什么都不知道的样子问道，语气也保持了恰当的紧张感。
+p	x	l	ss10	-	-	cloth:scs1
+p	y	r	ss11	-	-	cloth:sc1
+s	杨老师	是啊，谁叫课排的这么满，学生又有啥时间来陪我聊天呐~
+p	x	l	ss10	-	-	cloth:scs1
+p	y	r	ss1	-	-	cloth:sc1
+s		说到这儿，杨老师笑了笑，一边扶了下眼镜。
+s		正午的阳光透过窗户照在桌案上，也照在桌边的兰花上。
+s		它那绿油油的叶子在阳光的映照下显得越发地葱郁。
+s		四周平和的气氛让我的心也平静了下来。
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	余晓鑫	最近我们班有一个年级大会，能...能请您让小宁...不，刚才当我啥也没说...能让宁桐雨同学来参加一下吗？
+p	x	l	sf6	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	x	l	sf6	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	嗐，瞧你那紧张的样子，为什么不当面跟她说呢？
+p	x	l	sf6	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	杨老师	我看你们好像是关系很好的朋友啊？
+p	x	l	ss10	-	-	cloth:scs1
+p	y	r	ss1	-	-	cloth:sc1
+s	余晓鑫	不...其实，那个以前...算是...当然，当然现在也算是啦。
+p	x	l	ss10	-	-	cloth:scs1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	是和她发生了些矛盾吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss8	-	-	cloth:sc1
+s	余晓鑫	不，完全没有的事！
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss8	-	-	cloth:sc1
+s	余晓鑫	只是...只是...唔...总之现在我不太方便直接跟她搭话，就想要来拜托您了！
+s		实在是扯不下去的我只好才去快刀斩乱麻的策略，直接把目的给抛了出来。
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	嗯...好吧，那我帮你记录一下哦。
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s		她说着拿出了一本淡蓝色的花名册，让我把具体的年级大会相关的事项描述了一下。
+s		她记好之后，就把本子合上并放回了原位。
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	你...
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	余晓鑫	在！
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	搞什么嘛，你啊，完全是紧张过头了嘛！
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss8	-	-	cloth:sc1
+s		杨老师笑了笑，用手示意我放松下来。
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	我记得小宁小学和初中的时候一直提到你，你啊，和她是同班同学吧？
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+p	x	l	sf6	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	余晓鑫	啊...嗯。
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	余晓鑫	其实，小学也是同一个班读的。
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	哦，难怪我看你这么眼熟呐！
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss11	-	-	cloth:sc1
+s	杨老师	我记得以前看过你们俩在一起的合照。
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss8	-	-	cloth:sc1
+s	杨老师	还是拉着手的照片。
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	那时候我就在想，你们俩关系可真是好啊~
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	余晓鑫	哈哈...也...也就是关系稍微好点儿的朋友啦~
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	杨老师	对了，你的名字是...
+p	x	l	sf4	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	x	l	sf1	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	余晓鑫	余晓鑫。
+p	x	l	sf1	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	嗐，你看看我，还没老呢，就一直忘事情。
+p	x	l	sf1	-	-	cloth:scf1
+p	y	r	ss8	-	-	cloth:sc1
+s		杨老师说着叹了口气，别过头去看了眼藏在柜子里的照片。
+s		那是她和小宁的合照。
+h	x
+h	y

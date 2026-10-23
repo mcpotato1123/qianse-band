@@ -1,0 +1,128 @@
+s		对过答案，整理完错题之后，距离放学就只剩下不到半个小时了。
+s		我轻舒了一口气，从手边拿过课本开始了准备起明天的默写。
+s		高三学生所在的教室既是最寂静的，也是最吵闹的。
+s		自习课的时候寂静得如同图书馆，下课的时候喧闹得好似菜市场。
+s		或许造成这种反差的缘故便是巨大的压力。
+s		心中的定力让每个人将本性压抑，可短暂的解放又如同泄洪一般将焦虑全盘放出。
+s		最终，这群行将成年的大孩子们以一种近乎胡闹的方式发泄着内心的紧张感，
+s		而这种紧张感的发泄，却被老师们当作是纯真的象征。
+s		突然间，我听到前方那个熟悉的方向传来了一阵声响。
+s		我迅速地抬起头来，看向小宁的方向。
+s		批完最后一道题的小宁狠狠地把笔往课桌上一摔，把错题本合上塞进了书包里。
+s		紧接着她回过头来瞅了瞅我所在的方向，与我的视线正好撞上了。
+s		我自然而然地朝她wink了一下，然而她却用不屑的表情回应着我。
+s		紧接着，她从便利贴上撕下了一页，快速地写了几个字之后便递给了后桌的同学。
+s		不一会儿，那张纸条就经由同学们的传递交到了我的手上。
+s		“我真的谢谢你！”
+s		再度看向小宁的桌子时，她仍旧用怨恨的目光盯着我。
+s		我摆出一个灿烂的微笑，向她比了一个大拇指。
+s		可她似乎却似乎并不领情...
+s		唉，为人父母的苦衷呐~我也总算是领会到了。
+b	black
+b	scoexil
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	所以说，你推荐的到底是什么卷子啊？
+p	n	c	sf14	-	-	cloth:scf1
+s	宁桐雨	做得好痛苦，感觉我好不容易建立起来自信心就这么轻易地被打碎了...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	诶？是这样吗？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	我怎么记得今天上午小宁还在信誓旦旦地说着，什么一定要让我好看之类的话哦？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	怎么？才刚刚过了这么一会时间，就坚持不下去了？
+s		这句话的效果立竿见影，她的脸很快又像河豚一般鼓了起来。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	还不是你的错嘛，真的是。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	你还真当美少女做什么事都有人爱看是吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	打打乒乓球啥的倒也还好，你真当有人喜欢看别人学习啊？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	不过啊，高三的学生生活里不就只剩下学习了吗？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	这话从你嘴里说出来也真的太没信服力了...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	嗯？我又咋了？这难道不是事实吗？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	不然我的成绩怎么能一直凌驾于小宁之上呢？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	明明你这个人之前还整天脑子里还装着黄色废料...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	不要恶人先告状啦小宁，你也不想想，真正脑子里整天装着黄色废料的人是谁...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	是谁把那种书带到学校里...
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	哪有啊，我看的又不是...
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	诶？我可没说过那个人就是小宁哦？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	哪...哪有！我...我刚才只...只是...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	嗐，解释就是掩饰啦~大家都眼见为实好吗...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	放心，我不会对小宁有什么看法的啦~
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	毕竟咱都是开明的人啦，有点欲望也很正常的~
+s		说着我拍了拍她的肩膀，可她却扯住了我的手腕，强行将其甩开了。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	本来就不该有什么看法的，真的是...
+s		虽然表面上她还是这么跟我犟着嘴，可在说理的层面上我已经攻下了一城。
+s		兴许是意识到了这一点，之后一直到校门口的路上，她都没再向我搭一句话。
+s		即使我试着引导出一个新话题来，也很快被她毫不讲理的回答给掐灭在摇篮里了。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	小宁，说起来明天午休的时候，咱们学校的社团又要招新...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	跟咱们一点关系也没有吧...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	诶？也，也是呐，毕竟一到高三咱们就退部了。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	切，瞧你这话，说得好像前两年你就参加过什么社团活动一样。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	那，那老姐也说了啦，窗台那边的植物要换了，咱们看看...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	要换你就换去，我可不方便。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	别嘛，我家里不方便啦...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	那我不也是吗？你就没为我考虑考虑吗，我亲爱的余晓鑫同志哟~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	要是我哪一天抱着一盆仙人掌走进教室，同学们又该怎么看我呢？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	兴许会把你当做为教室更新盆栽的英雄？
+p	n	l	sf14	-	-	cloth:scf1

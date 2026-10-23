@@ -1,0 +1,128 @@
+s	宁桐雨	小鑫的妈妈不担心吗？
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	不会的啦，她每天也都要工作到这个时候的。
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	她也是老师，而且经常要去晚托班里上课。
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	所以等咱到家了，说不定她还醒着呐。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	宁桐雨	这样啊...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	所以，她说不定也是听到有朋友一起跟着才同意我出门的。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	可能我说一个人出去的话，她也会担心的吧...
+s		接着，我们俩之间又陷入了片刻的沉默。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	那个，今年可真是冷啊。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	往年这个时候，水里可还没结冰呐。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	明明是南方，却冷得跟我老家一个样子。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	我说，你在这里也待了将近十几年了吧。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	这里的气候不一直都是这样吗？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	夏天热的要死，冬天又冷得要命。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	话说啊，为什么无论哪个国家，都把新年放在冬天过啊，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss10	-	-	cloth:scs2
+s	宁桐雨	我在某本书上读过的，好像是...秋天收获之后，冬天终于能享用一年的劳动成果了。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss10	-	-	cloth:scs2
+s	宁桐雨	为了庆祝今年的丰收，也为了祈祷来年能够风调雨顺，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	这样吗...
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	嗯，大概每件事都是有理由的吧。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	不过，就算有春节，我还是不喜欢冬天，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	或者说，自打一开始我就讨厌越来越冷的天气。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	总感觉自打我出生以来，冬天就一年比一年要冷了。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	或者说，大街上也越来越冷清，越来越没烟火气了...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	可是，这样的话春天不也很近了吗？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss2	-	-	cloth:scs2
+s	余晓鑫	可是...过了春天就又到梅雨季了，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss2	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	而过了明年的梅雨季，我们就要去高考了...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	而高考之后，我们...
+s		想到这里的我深吸了一口气。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s	余晓鑫	还能有机会像现在这样聚在一块儿吗...
+s		终于，我还是把内心的隐忧说了出来。
+s		没错，好处在于，现在的我心里只有她，
+s		可不合理的地方也在于此。
+s		在我的心中，与她在一起的时光是如此地珍贵，以致于没有任何事物能够替代。
+s		因此，任何一点风吹草动都会让我感到忧愁万分，
+s		甚至对未来的忧虑也不例外，
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s	宁桐雨	一定有时间的哦。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s	余晓鑫	可是...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf12	-	-	cloth:scf2
+s	宁桐雨	那这样吧，等到暑假之后，我们就一起去海边玩吧。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s	宁桐雨	小鑫不是一直担心这担心那的吗？现在我算是跟你说好了哦？
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s		突然间，她就这么随口把承诺说了出来，
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	诶？这，这也太突然了吧...
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	我...我还没有心理准备...
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf17	-	-	cloth:scf2
+s	余晓鑫	还...还有，这算...算是什么？蜜月旅行？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf17	-	-	cloth:scf2
+s	宁桐雨	咱们还没结婚吧？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf17	-	-	cloth:scf2

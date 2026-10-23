@@ -1,0 +1,128 @@
+s		走着，走着，等到一路逛到出发点时，已经快到八点半了。
+s		购物中心内依旧灯火通明，若不是透过玻璃幕墙看到的夜景，我甚至以为天已经亮了。
+s		坐着电梯下到了地下一层，大街上的人影将近要消失了，美食街的生意也好不到哪去。
+s		在这座从来没有夜生活的城市，就算是元旦和除夕也不会有任何例外。
+b	restaurnt_n
+s		我们进了一家小吃店，点了一碗小馄饨。
+s		等菜上上来的时候，我用手轻轻推掉了小宁向我递过来的小碗。
+p	n	c	sf12	-	-	cloth:scf2
+s	宁桐雨	小鑫不吃吗？
+p	n	c	sf10	-	-	cloth:scf2
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	我嘛，早就吃饱了...
+s		可听了这话之后，对面的她却显得有些为难。
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	但...总感觉一个人吃饭有些怪别扭的...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	嘛，本来就是因为小宁觉得有些冷，买来暖暖胃的。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	这次就不需要逞强啦，吃不下的话就先倒掉吧，
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	搞坏了身子可不好...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	明明我从没逞强过的说...
+p	n	l	ss2	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s		她小声地嘟囔了一句。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	张嘴，啊...
+h	n
+h	x
+b	black
+s		我下意识地照做了，
+s		然后，很自然地被喂食了。
+b	restaurnt_n
+p	n	c	sf1	-	-	cloth:scf2
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	感觉，嗯...就和看病的时候医生检查喉咙口一样呢...
+p	n	l	ss2	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	读不懂空气的人...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s		她只是这么轻轻地抱怨了一句，脸也像河豚一样鼓了起来。
+s		然后，把刚刚的那把勺子自然地放回了饭碗里。
+s		再接着，她又若无其事地继续用着那只勺子吃着馄饨。
+s		不知不觉间，我就撇过了脑袋。
+s		因为看着这一幕，我的脸颊就不由自主地烫了起来。
+h	n
+h	x
+b	black
+b	black
+g	cg97
+s	宁桐雨	跟妈妈说过今天晚回去了吗？
+s	余晓鑫	嗯，我就说，今天和朋友出来放松一下，她也就同意了。
+s	余晓鑫	一个晚上的休息时间，她还是肯给的。
+s	余晓鑫	话说啊待会公交就要停运了吧？小宁该怎么回去呢？
+s	宁桐雨	我爸爸会开车来接我，跟他联系过了，
+s	余晓鑫	这样，
+s	宁桐雨	你莫非还想让我在你家留宿吧？
+s	余晓鑫	嘛，如果能这样的话自然是求之不得了...
+s	余晓鑫	可惜我们家在学校旁边租的小公寓只能放得下一张床，
+s	余晓鑫	而且，而且她肯定不会同意的...
+s	宁桐雨	我就说嘛，要是单单是“只有”一张床的话，你肯定会整天求着我留宿来着，
+s	余晓鑫	诶？
+s	宁桐雨	我说中了？
+s	余晓鑫	嘛，毕竟对小宁来说，我“很好懂”嘛...
+s	宁桐雨	明白了就好...
+s		戏弄完我的她心满意足地笑了，
+s		可不管怎么看，她笑得都很像一个反派...
+b	rod_n
+s		不知不觉间，时间已经快到九点了。
+s		吃完了夜宵，理好了东西，我们来到了市中心的广场上。
+s		相比于几小时前，这里的人群少了不少，大多只是一些牵着手的情侣。
+s		而我们，也是其中的一份。
+s		小宁的右手塞到了我的大衣口袋里，和我紧紧地握在一起，
+s		眼见着时间也快到九点了，我们也停下了嘴上闲聊的声音，
+s		毕竟，这已经到了我和母亲约定回家的时间了。
+s		可在我内心深处，我却不愿意和小宁这么快地分开。
+s		好不容易有这么个机会和她一块出来单独逛一逛，转眼就又要回去一个人睡觉了...
+p	n	c	sf1	-	-	cloth:scf2
+s		有什么话，什么有意思的话，能打破当下尴尬的局面呢？
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	新年快乐，宁桐雨同学。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	咱们大概率等不到零点，所以就先跟你这么道个早年啦~
+s		在那一刻，我对身旁的她这么说道。
+s		然而，小宁却一脸困惑地看着我。
+p	n	l	ss2	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	宁桐雨	是元旦快乐，新年还离着有将近一个月的时间呐。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	哈哈，是我疏忽了，对不住。
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	宁桐雨	还有，怎么称呼突然变得这么正式了？
+p	n	l	sf10	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	因为我想嘛，这个时候再叫那个昵称啥的，总觉得有些腻味了，这样子不是新颖得很吗？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	宁桐雨	这么说的话，倒确实有点道理...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s		不一会儿，越发空旷的广场中央片刻间只剩下寥寥几人了。
+s		没了人群的遮掩，扑面的寒风肆无忌惮地打到我们的脸上，让我们俩挨得更紧了一些。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	说起来，其实我还从来没在外边待到过这么晚。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	当然，除了那次在你家里留宿的经历啦。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2

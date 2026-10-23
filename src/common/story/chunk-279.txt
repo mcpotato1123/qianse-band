@@ -1,0 +1,128 @@
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	呵，像是打一巴掌再给一甜枣的感觉。
+p	n	l	sf3	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss2	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	真的是，就说你爱要不要吧？
+p	n	l	ss2	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss2	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	嘛，我嘛，肯定是觉得甜枣越多越好的。
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	我就知道你会这么说。
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf4	-	-	cloth:scf2
+s		说到这儿，她又变回了一如既往的表情。
+h	n
+h	x
+b	black
+s		逛了一会，我们来到了摆渡口。
+b	dlc_cave3
+s		坐上了小船，我们随着洞内的暗河朝出口处前进着。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	我忽然想到了，
+s	余晓鑫	当初我们坐这破船的时候，是不是还左右乱晃来着？
+p	x	c	sf1	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	那还不是因为坐在两边的人都不一样多，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	对，对，我还记得啊，其中一边的人还起哄似地一直晃来晃去来着，
+s	余晓鑫	而且一堆人也跟着一起喊着要沉了要沉了啥的话，搞得我心惊胆战的。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+h	x
+h	n
+b	dlc_cave3
+s		这时，仿佛是为了配合我一般，我们所坐的船在转向时突然剧烈颠簸了一下。
+p	n	c	sf6	-	-	cloth:scf6
+p	n	l	sf6	-	-	cloth:scf6
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	哎呀，我这算不算乌鸦嘴呢...
+p	n	l	sf6	-	-	cloth:scf6
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	你知道就好...
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf1	-	-	cloth:scf2
+s		我和她并排坐着，由于重量比较平衡，船不一会就停了下来。
+p	n	l	sf22	-	-	cloth:scf6
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf22	-	-	cloth:scf6
+p	x	r	sf4	-	-	cloth:scf2
+s		小宁打了个哈欠，看上去颇为慵懒。
+s		就真的像一只猫咪呢...
+p	n	l	sf22	-	-	cloth:scf6
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf22	-	-	cloth:scf6
+p	x	r	sf14	-	-	cloth:scf2
+s		这时，我突然想到了个好主意。
+s		在下一个拐角口，小宁正低头看着电子书，
+p	n	l	sf22	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf2
+s		我突然站起身，稍稍晃了一晃之后，重重地坐到了她的身边。
+h	n
+h	x
+b	black
+s		那一瞬间，整艘船极其剧烈地晃动了起来，那颤动感简直让人感觉小船下一秒就要倾覆了
+s		刹那间，小宁搂着了我的胳膊，像一只考拉一样紧紧抱住了我，嘴里还发出了不明所以的尖叫。
+s		我则顺势在她的脸颊上亲了一下。
+b	black
+b	dlc_cave3
+p	n	c	sf8	-	-	cloth:scf6
+s	宁桐雨	真的是，突然间搞什么嘛，很危险的好不好。
+s		当船终于稳下来之后，惊魂未定的她这么嗔怪道。
+s	宁桐雨	我可不会游泳，
+p	n	l	sf8	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs2
+s	余晓鑫	没事啦，到时候我一定会救你的。
+p	n	l	sf8	-	-	cloth:scf6
+p	x	r	ss21	-	-	cloth:scs2
+s		一边这么安慰着她，我一边看着她的脸。
+p	n	l	sf8	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	没想到小宁还有这么可爱的一面...
+p	n	l	sf8	-	-	cloth:scf6
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	诶唷，好疼。
+p	n	l	sf8	-	-	cloth:scf6
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	ss5	-	-	cloth:scs6
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	我一直都很可爱好不好，
+p	n	l	ss2	-	-	cloth:scs6
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	ss2	-	-	cloth:scs6
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	明明刚才就一点也不可爱
+p	n	l	ss2	-	-	cloth:scs6
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	ss2	-	-	cloth:scs6
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	诶呦...真的疼，对不起...
+p	n	l	ss2	-	-	cloth:scs6
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	您一直都很可爱，小的明白了。
+h	n
+h	x
+b	black
+s		出了洞，我们又在公园里逛了一会，
+s		最后，逛到出口处，我们来到了一片广场上。
+b	dlc_prayer_card
+s		广场上种着几棵矮树，树上挂满了祈福的牌子。
+s		我好奇地凑上了前去。仔细地看着木牌上写的字。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	诶！快过来看呐小宁
+p	x	c	sf1	-	-	cloth:scf2
+s		我朝着远处的她这么嚷嚷着，

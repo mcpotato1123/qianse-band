@@ -1,0 +1,128 @@
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	毕竟我从一开始就是那样的人，一个极度别扭的人，这或许是天性使然，
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	可在深入了解了她之后，我却发现她性格的扭曲程度跟我相比分毫不差，
+s		说道这里我不禁自嘲地笑了起来，
+p	l	l	ss3	-	-	cloth:default
+p	n	r	sf25	-	-	cloth:scf2
+s	凌	可宁你就没探寻过这背后隐藏的一切吗？
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf25	-	-	cloth:scf2
+s	凌	关于她扭曲性格的真相，
+s		我抬起头来诧异地看着凌的脸，
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf25	-	-	cloth:scf2
+s	凌	为什么只有她会认同宁你心中的扭曲的感情？
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf25	-	-	cloth:scf2
+s		扭曲的感情，吗...
+s		也就是...追求彼此间唯一的倚靠的关系...
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	大概就像她说的那样，因为她也一直感觉很孤单吧，所以我们才会走到一块去...
+p	l	l	ss3	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	可你为什么会这么认为呢？
+p	l	l	ss3	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss3	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	因为...从小学开始，她就在我面前展露了隐藏在其他人视线之外的另一面。
+p	l	l	ss3	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	可我问的是，为什么，宁！
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	你现在所做的一切都只是在用表相解释本因。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	你其实对于她什么都不了解，因为你从来没想过去了解这一切。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	你只是自私地这么想着，希望把这份关系继续维持下去。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	因为你害怕再度变回之前孤身一人的处境，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	所以，你绝对不敢触及这件事的根源，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s		根源...
+s		我当然明白，可那...
+s		可那是我们高中时期谈话的雷区，
+s		有关小鑫身边的另一个人...
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	凌，你问这个到底是为了什么？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	嘘...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	虽然我是很想把这个话题进行下去...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	可目前，时间已经到了，
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	你也是时候该从今晚的梦里醒来了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+c	第五章
+g	title_chapter5
+h	l
+h	n
+b	elevator
+s		轻微的失重感过后，电梯停住了
+b	scor_a
+s		提示灯闪烁，门向两边开启，狭长的走廊里铺满了落日的余晖。
+s		又是这条熟悉的走廊...
+s		尽管我搬到这里才刚刚半年而已。
+s		可走在这条走廊上却感觉比和父母一起居住的老式公寓更有家的味道。
+s		那或许是因为独居的新鲜感。
+s		在尽头倒数第二个门前停下，把眼睛凑近猫眼。
+s	？？？	欢迎。
+s		AI的声音十分空灵。
+s		我握住门把手，稍用力地向内一推。
+s		门应声打开了。
+b	liv_a
+p	l	c	ss6	-	-	cloth:default
+s		空旷的客厅里，只有凌一个人的身影，
+s		她正坐在沙发上打字，似乎全然没有注意到我进了房间。
+s		我换了拖鞋，拉开椅子，坐在她的对面。
+p	l	c	ss6	-	-	cloth:default
+s	凌	脸色很差啊，宁，
+p	l	c	ss12	-	-	cloth:default
+s	凌	听说你最近一直在研究所里干到很晚，我想也应该找个时间去放松一下吧
+p	l	c	ss7	-	-	cloth:default
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	嗯，这不是过年放假了吗。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	有将近半年没回去看爸妈了，正准备回去一趟。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s		我这么回答道。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	看你这样子，今年还是老样子，留在这里过年喽？
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	凌	怎么可能呐，我今年准备回去了~
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	凌	毕竟把我一个人撂在这间屋子里也不是宁这样善良的人能干出来的事吧？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	凌	我还跟你正好顺路，可以乘同一辆车回去来着的，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	呵，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	就算你讨好我我也不会给你什么好处。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2

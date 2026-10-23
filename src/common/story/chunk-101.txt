@@ -1,0 +1,128 @@
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	你刚才是不是叫我“小宁”来着...
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	哪有，你当我还是小女孩嘛，用这么嗲的称呼。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	就算真要叫昵称的话也会叫你的名吧，我觉得桐雨就蛮好听的。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	嗯，也...也是...
+h	l
+p	n	c	ss3	-	-	cloth:scs2
+s		为了掩饰尴尬，我回过头去，出神地看着店外涌流的人群。
+s		我祈祷着那一抹显眼的发色能在人群中闪过，可那只是不切实际的幻想。
+s		自从高中毕业的那一刻，我们就分开了...
+s		而那些人之中，自然不可能有她的存在。
+p	l	l	ss4	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss4	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	话说你为什么到这里来？我记得你可是很讨厌出门的，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	我特别喜欢这家超市里卖的零食，倒不是说它有啥特别的味道，原因的话嘛，只能归到价格比较实惠上去吧。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	见到我也不来打声招呼？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	呵，宁你倒是挺有领导的架子。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	咱这不是想给你一个惊喜吗？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	得，我本来打算给你捎点礼物的。
+s		说着我拎起了手里的提包。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	凌	这种面包的口感很差。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	诶，是吗？
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	至少我是这么觉得的。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s		说着她从手提包中抽走那包面包，把它重新放回到货架上。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	幸亏我来了，不然就要受苦了。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	这味道真有这么离谱吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	我只能说，你有兴趣的话就尝尝。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	那还是算了。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	毕竟在这一方面，你从没骗过我。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	嘛，毕竟我们确实很像呐~
+h	l
+p	n	c	sf14	-	-	cloth:scf2
+s		我淡淡地笑了笑。
+s		由于前面的队伍还很长，实在是累了的我闭上了眼睛，准备稍稍休息片刻。
+h	n
+b	black
+s		突然间，拎着提包的手却感受到了一丝颤动。
+s		好像有另一只手在牵着我手中的提包一样。
+s		难道说...
+b	supmkt
+s		我赶忙睁开了眼睛，却发现那只手来自一个熟人。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	真的是，小宁啊，你难道不记得我最喜欢这种面包了吗？
+p	x	c	sf6	-	-	cloth:scf2
+s		小鑫正带着略有些埋怨的神情地看着我。
+p	x	c	ss12	-	-	cloth:scs2
+s	余晓鑫	亏得人家当时看到还那么感动，当是你专门买给我吃的。
+p	x	c	ss1	-	-	cloth:scs2
+s	余晓鑫	结果却让我大失所望啊~小宁！
+p	x	c	sf8	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	什么嘛，别凭空诬陷人清白，我本来就是买给你吃的。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	你不会真以为除你以外会有人喜欢这种口味古怪的玩意吧？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	切...要真是这样的话，那你刚才为什么又把它放回货架上了？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？我？
+s		完全，没有这样的记忆...
+s		然而，现实却是...
+s		我看向手中的袋子，那里并没有原先那包面包的踪影。
+s		而一边的暂存货架上却明晃晃地摆着那袋面包。
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	痴呆症要早发现早治疗...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s		她只是这么随口感慨了一句。
+h	x
+p	n	c	sf12	-	-	cloth:scf2

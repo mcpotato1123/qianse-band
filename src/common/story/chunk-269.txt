@@ -1,0 +1,128 @@
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	所以，真的会有柴刀结局吗？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	那是绝对不会有的啦，
+s	余晓鑫	毕竟，我的最终目的是小宁而已。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	顶多也就是监禁结局吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s		这时，我感觉我的脸都要被吓白了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s		说到这儿，她笑了笑缓解了下尴尬的气氛。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	当然，刚才的话也是开玩笑的啦。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	真的是，好沉重的爱啊...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	不过，这样的事情永远都不会发生就是了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	诶？为什么？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	再去交朋友什么的，听上去就很麻烦。
+s	宁桐雨	所以，有小鑫就足够了。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s		自然而然地，我把内心最深处的想法也说了出来。
+h	x
+h	n
+b	dlc_square
+s		天气也逐渐变热了。
+s		这一天周末，我们来到了人民广场散心。
+s		尽管周边的商场里热闹非凡，可咫尺之遥的人民广场却显得有些冷清。
+s		来这里的大多都是老年人。
+s		他们带着乐器在街边演奏着老掉牙的歌曲，但似乎每个人都乐在其中。
+p	x	c	sf4	-	-	cloth:scf5
+s	余晓鑫	经常的啊，我也会那么想，要是咱们老了之后也能像他们一样，找点爱好啥的就好了。
+p	x	c	sf4	-	-	cloth:scf5
+p	x	l	sf4	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs6
+s	宁桐雨	你是说，也像这样搞街边演奏？
+p	x	l	sf4	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs6
+p	x	l	sf4	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs6
+s	余晓鑫	又没事啦，反正退休了之后闲着也是闲着。
+p	x	l	sf4	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs6
+p	x	l	sf4	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs6
+s	宁桐雨	怎么刚开始上班就已经在想退休之后的生活了？
+p	x	l	sf4	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs6
+p	x	l	sf12	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs6
+s	余晓鑫	嘛，触景生情嘛，触景生情。
+p	x	l	sf12	-	-	cloth:scf5
+p	n	r	sf12	-	-	cloth:scf6
+s	宁桐雨	说到触景生情...
+s	宁桐雨	难不成等我们老了，这座公园里放的就是现在的流行歌曲了？
+p	x	l	sf12	-	-	cloth:scf5
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf12	-	-	cloth:scf6
+s	余晓鑫	肯定是的啊。
+h	x
+p	n	c	sf12	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf14	-	-	cloth:scf6
+s	宁桐雨	总感觉好违和。
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf14	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf14	-	-	cloth:scf6
+s	余晓鑫	到那个时候就不会违和啦！
+h	x
+p	n	c	sf14	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf14	-	-	cloth:scf6
+s	余晓鑫	毕竟每个时代流行的音乐都是不一样的啦。
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf14	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf28	-	-	cloth:scf6
+s	宁桐雨	行...行吧。
+h	n
+h	x
+b	black
+b	pakm
+s		我们继续向前走着，
+s		旁边的小河里养着许多锦鲤。
+s		河边还放着一排排小凳子，
+s		有几个孩子坐在小板凳上，手里握着奶瓶，
+s		奶瓶一直伸到小河里，在那儿，锦鲤们争相恐后地吮吸着。
+p	n	c	sf2	-	-	cloth:scf6
+p	n	l	sf2	-	-	cloth:scf6
+p	x	r	sf1	-	-	cloth:scf5
+s	余晓鑫	啊，我记得这个！
+p	n	l	sf2	-	-	cloth:scf6
+p	x	r	sf14	-	-	cloth:scf5
+s	余晓鑫	超超好玩的！
+p	n	l	sf2	-	-	cloth:scf6
+p	x	r	sf14	-	-	cloth:scf5
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf14	-	-	cloth:scf5
+s		我露出了无可奈何的表情。
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf14	-	-	cloth:scf5
+s	宁桐雨	都快奔三的人了还玩这个，害不害躁。

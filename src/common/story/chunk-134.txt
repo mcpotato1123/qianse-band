@@ -1,0 +1,128 @@
+s	宁桐雨	你说得是对的
+p	n	c	sf1	-	-	cloth:scf2
+s		最后，我这么给自己下达了判决。
+h	n
+b	black
+s	宁桐雨	我所做的一切，都只是对于她的亵渎而已，
+s	宁桐雨	没有，丝毫的意义。
+j	17272
+b	stagst
+p	n	c	sf1	-	-	cloth:scf2
+s	宁桐雨	可，可那是以前我的想法...
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	过去，我确实充满了犹豫，
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	害怕更进一步会损害我们之间的关系，害怕自己已经积累的一切都化为乌有，
+p	n	c	sf14	-	-	cloth:scf2
+s	宁桐雨	现在...
+p	n	c	sf14	-	-	cloth:scf2
+s	宁桐雨	可现在...可现在，
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	经历过这一切之后，我已经清楚了，
+p	n	c	ss1	-	-	cloth:scs2
+s	宁桐雨	就算这一切会让她痛苦，让我们再度陷入争吵与冷战，我也非做不可，
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	因为，因为...
+p	n	c	ss3	-	-	cloth:scs2
+s		说着，她长长地舒了一口气，像是在下定什么决心。
+p	n	c	sf25	-	-	cloth:scf2
+s	宁桐雨	因为我爱的是余晓鑫这个活生生的人，并不是她所给予我的陪伴，也不是我同她在一起的甜蜜时光，
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	如果是为了拯救她的话，就算就此与她形同陌路也没关系...
+p	n	c	ss1	-	-	cloth:scs2
+s		终于，宁说出了我最希望听到的话语。
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss8	-	-	cloth:default
+s	凌	剧本，又再度变得有意思起来了~
+s		于是，我从口袋中取出了几张皱巴巴的纸，递给了她，
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss1	-	-	cloth:default
+s	凌	你还记得我之前说过的话吗？
+p	n	l	sf12	-	-	cloth:scf2
+p	l	r	ss1	-	-	cloth:default
+s	宁桐雨	...
+p	n	l	sf12	-	-	cloth:scf2
+p	l	r	ss8	-	-	cloth:default
+s	凌	我来这里是为了改变这一切的，
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss8	-	-	cloth:default
+s	宁桐雨	改变？
+p	n	l	ss4	-	-	cloth:scs2
+p	l	r	ss8	-	-	cloth:default
+p	n	l	ss4	-	-	cloth:scs2
+p	l	r	ss12	-	-	cloth:default
+s	凌	没错，将所有的过去全部推翻重来，让你亲手来完成你曾经没能完成的事情，
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss12	-	-	cloth:default
+s	宁桐雨	那是...
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss12	-	-	cloth:default
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss8	-	-	cloth:default
+s	凌	既然你已经夸下海口，就请你亲手去做到。
+p	n	l	sf6	-	-	cloth:scf2
+p	l	r	ss8	-	-	cloth:default
+s	宁桐雨	...为什么你要为我们这么做？
+p	n	l	sf6	-	-	cloth:scf2
+p	l	r	ss8	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf2
+p	l	r	ss8	-	-	cloth:default
+s	凌	我不是都说过了吗？我可是追寻乐趣的神啊？
+p	n	l	sf12	-	-	cloth:scf2
+p	l	r	ss8	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	凌	要是这个故事就在这里完结了，我怎么会满意呢？
+p	n	l	sf12	-	-	cloth:scf2
+p	l	r	ss8	-	-	cloth:default
+s	凌	能够在欣赏到悲剧之后再亲手将那个破洞填补上，还有比这更有意思的事吗？
+s	凌	难道这不是最有趣的剧本吗？
+p	n	l	sf12	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	凌	你说呢？宁？
+p	n	l	sf16	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s		说着我向她露出了狡猾的笑容，
+p	n	l	sf16	-	-	cloth:scf2
+p	l	r	ss8	-	-	cloth:default
+s	凌	来做个交易如何？
+p	n	l	sf16	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	凌	让我来给你提供一个机会，你来为这部戏剧画上一个完美的句号，
+p	n	l	sf16	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	凌	意下如何啊？
+p	n	l	sf6	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s		她脸上的诧异只持续了片刻，紧接着那份踌躇就化为了轻蔑。
+h	n
+h	l
+b	stagst
+s		她保持着沉默起了身，背对着我走向了舞台的方向。
+p	l	c	ss8	-	-	cloth:default
+s	凌	那就行动起来吧，我可是等着好戏上演的哦？
+p	l	c	ss6	-	-	cloth:default
+s	凌	只要打开那扇门，再度站到舞台之上便可以了，
+p	l	c	ss1	-	-	cloth:default
+s	凌	她会在那里继续等你。
+h	l
+b	stagr
+s		话音刚落，宁便匆忙地站上了舞台，重新被聚光灯环绕。
+s		就这样，空旷的剧院内，又再次只剩下我一个人的身影。
+s		然而，我却并未感到遗憾与怅惘，
+s		相反地，我对一切都充满了期待。
+s		回到空无一人的观众席，我再一次长舒了一口气。
+s		因为我是这里唯一的观众，所以我理所当然地坐了最佳的位置。
+s		片刻之后，幕布揭开，两位主演登上了舞台。
+s		那么，就让一切重新开始吧，
+s		用你们的故事，覆盖本该发生的未来吧！
+s		崭新的故事，就此拉开帷幕。
+j	17272
+b	stagst
+p	n	c	sf1	-	-	cloth:scf2
+s	宁桐雨	你说得是对的
+p	n	c	sf1	-	-	cloth:scf2
+s		最后，我这么给自己下达了判决。
+h	n
+b	black
+s	宁桐雨	我所做的一切，都只是对于她的亵渎而已，

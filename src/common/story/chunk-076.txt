@@ -1,0 +1,128 @@
+g	cg10_1
+s	宁桐雨	衣服还没换成睡衣呐！
+s	余晓鑫	为什么换衣服...昨天不就...
+s	小宁的妈妈	桐雨啊？换了衣服再上床睡觉哦？
+s		门外突然传来了妈妈责问的声音。
+s	宁桐雨	事情就是这样。
+s		说着，我无奈地叹了口气。
+s	宁桐雨	因为明后两天咱们都不准备出去了，所以衣服要准备洗了。
+s	余晓鑫	切，床单不就是给人睡的嘛，还分什么脏不脏的。
+s	宁桐雨	道理你跟她理论去嘛，跟我讲也没用。
+b	c_bedroom
+s		说罢我坐起身，把外套挂到门上，关上了灯。
+p	x	c	sf16	-	-	cloth:scf3
+s	余晓鑫	那...刚才不是不情愿做那种事吗？
+p	x	c	sf16	-	-	cloth:scf3
+s		沉默了良久之后，黑暗中的我只听到她这样问道。
+s		我摸着黑走到她跟前，在床沿坐下，然后将手心轻轻抚到了她的额头上，
+s		接着...
+p	x	c	sf16	-	-	cloth:scf3
+p	x	c	sf12	-	-	cloth:scf3
+p	x	c	sf6	-	-	cloth:scf3
+p	x	c	sf6	-	-	cloth:scf3
+s	余晓鑫	哎呦，说了多少遍不要弹脑门，真的很痛的。
+p	x	c	sf4	-	-	cloth:scf3
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	蠢货，要是我真不情愿，还会跟你住一块嘛。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	赶紧躺下睡觉得了。
+h	x
+h	n
+b	skidk
+s		于是，自那一天起，我们两人就过上了与学校里一般无二的生活。
+s		每天缩在房间里吹着空调，追着剧，生活再度变得平淡到不能再平淡了。
+s		就连...就连每天晚上睡觉前也一样...
+s		或许，这才是常态也说不定。
+s		我早就习惯了这样的生活，要改掉这一持久的惯性，可不是件容易的事。
+s		或者说，我从来就没想要去改掉。
+s		要是想改掉的话，我也早就和她提出来了，也不至于会忍着她五六年吧...
+b	m_bedroom
+p	x	c	sf4	-	-	cloth:scf3
+s	余晓鑫	话说啊，小宁，我分明记得暑假也不是一直这么无聊的嘛...
+p	x	c	sf6	-	-	cloth:scf3
+s		她一边说着，一边拿疑惑的神情打量着我。
+p	x	c	ss5	-	-	cloth:scs3
+s	余晓鑫	是哪个暑假来着的...我总记得和你一起出去玩过好一阵子。
+p	x	c	ss3	-	-	cloth:scs3
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	我想想...应该是是高二升高三那个时候的夏令营吧？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	哦，对的，
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	我说你啊，怎么这么大的事儿都能给忘记的啊？
+p	x	l	ss10	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	你也不说那都是七年的事情了。
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	连七年都记不住的脑袋...
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	还是这么重要的事情...
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	余晓鑫	呜...我记得当初咱们还去天文台看了星星来着？
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	什么叫我记得...那时候发生多大的事儿你还记不得？
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	我知道的啦，就是因为那件事情所以我才会记得那么牢的啦！但同时期的所有事儿我都忘记了啦。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	我提这事分明就是为了这碟醋包的饺子嘛！
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	那可是我跟你的...
+p	x	l	sf17	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s		突然间，我们俩都沉默了，因为咱俩都羞于提起这一件事。
+s		像是为了掩饰尴尬一般，她又开始翻起那本相册来。
+p	x	l	ss5	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	对了，我甚至忘了在小说里写这一段了！
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	小宁，来帮我回忆回忆嘛！
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	你写的小说想给别人看的话就略过这一段嘛。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	嘛，反正到头来也只有小宁会来看我写的东西嘛~
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	我算是知道了，你就是故意想让我把那段事儿讲给你听，是不是？
+s		她装作毫不知情的样子，在一旁傻笑着。
+h	x
+h	n
+b	m_bedroom
+s		这个人啊，可真的是...
+s		所幸上午本来也没什么事儿干，于是我就陪着她一起回忆起那次旅行来。
+b	scor_m
+s		今天是高二下半学期的最后一天，长达二十天的暑假即将开始，
+s		然而，我的心中却毫无波澜。
+s		毕竟历经了地狱般的期末考试周和为期两个礼拜的试后补习，对暑假的期待最终褪化为了如释重负的长叹。
+p	n	c	ss11	-	-	cloth:scs1
+s	宁桐雨	这二十天就别勉强自己了，好好逃避一会现实吧...

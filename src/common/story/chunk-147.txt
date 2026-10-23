@@ -1,0 +1,128 @@
+s		我用尽一切力气把它从我的脑海里排除出去。
+s		可越是想要忘却，印象却越发深刻。
+s		到了最后，它终于彻底占据了我的脑海。
+p	n	c	sf10	-	-	cloth:scf1
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	其实，就算不能根本解决问题的话，小宁也能帮到我啊...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	嗯？那要怎么做？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss5	-	-	cloth:scs1
+s	余晓鑫	比如说...kiss？之类的...事...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss5	-	-	cloth:scs1
+s	宁桐雨	ki...kiss？
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss5	-	-	cloth:scs1
+s	宁桐雨	原，原来...
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss5	-	-	cloth:scs1
+s		看着她涨红的脸，我才发觉我说出了什么样的话。
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	不...不是啦，对...对不起，刚...刚才说了很...很不着调的话，请...请把刚才我说的话忘掉吧...
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		然而，她的脸上却没有表现出我想象中那种厌恶的神情，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	所以说，只要和我...kiss就能让小鑫...变得重新充满活力，对...对吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	嗯...我想至少这一周...会是这样的。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	诶？只有一周吗？
+h	n
+h	x
+b	black
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	真的是好差劲的女人啊
+h	n
+b	n_bedroom
+p	n	c	ss1	-	-	cloth:scs1
+s		我仿佛都要听到后半句话了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	那个...一周...是开玩笑的啦，别放在心上。
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	那...就来吧。
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+h	n
+h	x
+b	c_bedroom
+s		她说着转到旁边关上了房间的灯，接着闭上了眼睛。
+s		尽管说得十分轻巧，她的面部仍有些紧张。
+s		看上去就好像是等待惩罚的孩子一般，这无形中激起了我的施虐欲。
+b	black
+s		我将脸缓缓地凑上前去，在将要触碰到嘴唇时闭上了双眼。
+b	black
+g	cg21
+s		柔软的触感如触电般传遍了我的全身。
+s		虽然它仅仅持续了片刻便消失了。
+s		因为对面的她轻轻地抽开了身子。
+b	black
+s		就这样，时隔几个月后，我再次尝到了与最爱的人接吻的感觉。
+s		甘之如饴，令人陶醉。
+b	c_bedroom
+p	n	c	sf11	-	-	cloth:scf1
+s		当我们再次睁开双眼，在如此近的距离时看着对方时，我才注意到，小宁的眸子是那么的美丽，透亮。
+s		然而片刻之后她就把头撇开了，可火烧云一般绚丽的脸蛋上已经把她的心思表露无疑了。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	对...对不起。
+p	n	c	ss4	-	-	cloth:scs1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	嗯？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	刚刚...刚碰到，我就躲开了...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	没事啦，能做到这里已经很了不起了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	可是...接吻，又不是什么难事...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	而且，咱们也不是第一次了...
+s		看着她踌躇的表情，我后悔着刚才是不是欺负得她太过了。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	没有什么大不了的啦，一步步来就好了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	那...再来一次？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+h	n
+p	x	c	sf1	-	-	cloth:scf1
+h	x
+b	black
+g	cg21
+s		她并没等来我的答复。
+s		因为在这之前我就再度吻了上去。
+b	black
+s		这之后的记忆很模糊，我只记得我们俩面对面坐了很久很久，也不知道相拥了多少次。
+s		生理上的渴求，情感上的激荡使我们不断地渴望着彼此，
+s		甚至忘却了时间的流逝。
+b	n_bedroom
+s		当我们终于从这种状态中苏醒过来，带着通红的面孔重新坐回到书桌前时。
+s		时针已经指向了十点半。
+s		而留宿的结果...
+s		除了kiss之外，我们俩啥也没干。
+s		虽然嘴上说着kiss已经能够满足我了，但在我的心里其实一直在渴望着做更进一步的事情。
+s		因为这种感情已经被压抑得太久了。
+s		但最终，还是理性占据了上风。
+s		现在当务之急是先把心情平复下来...
+s	余晓鑫	对，现在先不要表现得过度激动...不然会被当作是轻浮的女人的...
+s		可是，可是可是可是，根本，根本没法放松下来啊...
+s		刚才，我在和小宁...
+s		一想到这个，刚才的烦恼就飞到九霄云外了。
+s		而正当我内心回味着刚才的幸福瞬间时，现实却突然给往我的脸上浇了一桶冷水。

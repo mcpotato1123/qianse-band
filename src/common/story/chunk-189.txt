@@ -1,0 +1,128 @@
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	嗷！好疼！你绝对比以前下手更重吧？绝对！
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	我只是想稍微提醒你一下，距离我下一次的生日还有...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	我当然知道啦，所以我会等到那一天再对小宁你下手的...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	呜！别打了，呜呜...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	好了，快想吧快想吧，磨磨蹭蹭的，马上都要上课了...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	那么就...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+s	余晓鑫	今天晚上一起做两张数学卷子吧？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+s		她一时间甚至没反应过来我刚才说了什么。
+s		我看着她的表情由震惊变到怀疑，再变到担忧...
+s		她踮起脚摸了摸我的额头，
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+s	宁桐雨	小鑫，果然还是稍微休息一会吧...
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+s	宁桐雨	烧坏了脑子可不好。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	我可没病！
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	我刚才是认真的...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	我明白了，你肯定是看到漫画书上有什么奇怪的play，然后...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	才不是，我又不是小宁！整天看那种东西，
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	什...小，小鑫也是空口无凭吧，少...少来栽赃陷害我...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	还有，你边看的时候肯定在对我妄想吧？
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	我...我又有什么必要嘛！
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	有什么要求我跟你直接提就好了...反正，无论是kiss，还是...
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	你，你都会答应的吧？
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	所，所以根本没...没必去...去妄想嘛...
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	嘿~脸红了，脸红了。
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	好了，你赶紧给我解释一下！
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	原因很简单啊？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	因为，我想跟小宁上了大学之后也在一起啊？
+s		我自然而然地露出了笑容，
+s		诧异的神情在她脸上一闪而过，但旋即她就回到了那种一脸不爽的表情。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	你是不是想说，我现在的成绩跟你差得还远着，
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	所以，想借机对我特训一下？
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	这是事实啊？
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	明明我比你就低了不到十五分！
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	还差得远呐，考高一分，干掉千人呐~
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	行啊，你给我等着，到下一次考试的时候准让你哭出来！
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	如果小宁考得比我好我可是会很高兴的哦？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	咱才不会像你那样小心眼！
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	那句话怎么说来着，勿以小人之心度君子之腹！
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	唔...算了，不跟你一般见识了...
+h	n
+h	x
+b	classroom2
+s		转眼间，就又到了晚自习的时候。

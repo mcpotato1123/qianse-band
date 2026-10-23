@@ -1,0 +1,128 @@
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	没有这种事情...
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	什么叫没有这种事情！我不想要那种被糊弄的感觉，
+h	x
+p	n	c	ss3	-	-	cloth:scs2
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	今天小宁对我很温柔，但那也只是因为你想要补偿前几天的事情罢了。
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	不是吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	是，是这样...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	我...我知道我说的话很过分，我也明白小宁是不会那么想的，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	小宁，小宁肯定是为我在考虑的，肯定是...肯定是为了让我放心才做了这么多的...
+h	n
+h	x
+b	black
+s		不知不觉间，我再一次紧紧地抱住了她，
+s		眼眶时隔四年再一度湿润了，视线也跟着模糊了起来。
+s		车辆飞驰而过的声音呼啸在耳畔，我能感受到她的身体和我一样在颤抖，
+s		然而，她却没有像四年前一样推开我，
+p	n	c	sf2	-	-	cloth:scf2
+s	宁桐雨	小鑫，我不会生气的，
+s	宁桐雨	有什么想说的，就直白地说出来就好了。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	那，这一次是...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	我...我是觉得，这样的日子很难持续下去...或者说，将来的生活里，咱们每天总会有一半的时间是分开的...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	所以，我就想...是不是该让你提前适应一下比较好？
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	果...果然，还是我的错...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	不，才不是，
+s	余晓鑫	小宁这么做肯定是对的，是我太过任性才想把小宁一直留在身边...
+s	余晓鑫	只...只是，我无论如何都没法消除掉那种感觉...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	那种没有人倚靠的感觉，
+s	余晓鑫	妈妈，外婆，从来没有一个人能让我去放心地倚靠，只有小宁，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	所，所以，当你不在的时候，我一直都...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	我，我知道这是不对的，可却永远无法停下独占你的愿望。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s	余晓鑫	可以的话，我甚至希望小宁的世界里除了爸妈之外，只要有我一个人就够了，
+s	余晓鑫	我不希望你再去交其他的朋友，不希望你和其他的女孩子一块走路，
+s	余晓鑫	可以的话，我希望你和杨老师也能保持一段距离。
+s	余晓鑫	我知道这是不对的，这是大错特错的，
+s	余晓鑫	如果说出来的话，小宁肯定会讨厌我的，
+s	余晓鑫	可我，可我却无法将这种感情置之不理，
+s	余晓鑫	因为，这就是我脑海中最真实的想法。
+s	余晓鑫	抱歉，我就是...这么差劲的人。
+p	n	l	sf5	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s	宁桐雨	这...这样嘛，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s	宁桐雨	行吧，
+s	宁桐雨	心理咨询师的培训我会推掉的，还有学校里的各种活动也是，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf17	-	-	cloth:scf2
+s	余晓鑫	...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf17	-	-	cloth:scf2
+s	宁桐雨	还有，咱俩的所有社交账号都绑定一下吧？既然我照做了，小鑫可别先一步违规哦？
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf17	-	-	cloth:scf2
+s	余晓鑫	那...那是肯定的，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf17	-	-	cloth:scf2
+s	宁桐雨	还有啦，我也要提一个要求，老姐那儿我还是要去的。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	哦，这，这样...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	不过，我去的时候会带着你一块的，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	毕竟一个人干家务还是太累了一点...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	嗯，
+s	宁桐雨	还有啊，学校里的体育馆有空就多去逛逛吧？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	诶？是为什么...
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	嘛，只是我现在总算意识到了，所谓身体健康的重要性吧...
+s	宁桐雨	要是我先你一步老死了，我都不知道你该怎么办...
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	...
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2

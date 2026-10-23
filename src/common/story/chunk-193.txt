@@ -1,0 +1,128 @@
+s	余晓鑫	这玩笑开得可不对头，学校里可不准学生间有友情以上的关系的，更别提提供约会环境了。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	说的倒也对。
+h	x
+h	n
+b	scoroa_n
+s		我深吸了一口气，跟在小宁身后跨过了那道门。
+s		街道上静极了，几乎看不见人影。
+s		走了将近三四分钟，除了几对零星的男女情侣之外，便再无别人了。
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	小宁一直都很喜欢这样的地方呢，感觉。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	就是这种，僻静的地方。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	嗯，生活在这样的地方一直以来都是我的梦想。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	实不相瞒，我最大的愿望就是以后能找个地方隐居起来。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	那些荒郊野岭，靠近荒野的地方最好。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	只要那地方还有网上，有漫画看就行。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	那样的地方可不好找哦？
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	这个世界上既要现代又要原始的地方已经很少了。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	不过嘛，小宁要想找个二人世界的话倒也不是啥难事。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	下次有空咱们一起去一个没人的荒岛上探险吧？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	那也算是变相实现了不是吗？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	嗐，可惜那也太不切实际了。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	我是指定吃不消的。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	我晕船，甚至到了上船了就想吐的地步。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	就算是公园里半个小时的双人船都吃不消，还去坐游轮呐~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	唔，抱歉，居然没考虑到这点。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	没事啦，本来就是开开玩笑，清醒一下而已，别太当真啦。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	现在感觉好一些了吗？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+s		直到这时，我才回想起了小宁带我来这里的原因。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+s	余晓鑫	嗯，好多了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+s	余晓鑫	累嘛，当然肯定是有一些的。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf1	-	-	cloth:scf1
+s	余晓鑫	毕竟刚才整整复习了三个钟头嘛。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf1	-	-	cloth:scf1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	就算明天就考二模了，也不至于这么用功吧？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	嘛，前一节课是在复习数学啦，后一节课只需要稍微看会书就行啦。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	所以说，不用担心。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	...好吧。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s		虽然嘴上这么说着，可我总感觉她还是没安下心来。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	嘛，你看，我都开得起这样的玩笑了，所以一定是清醒过来了嘛...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	过来，和你说个话，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	诶？直接说就好了啊，干吗嘛...
+h	x
+h	n
+b	black
+s		然而，我还没说完，她就转到了我的身前，踮起脚尖，快速地在我的嘴唇上亲了一下。
+s	余晓鑫	唔...嗯？
+s		仿佛是被冷水泼过了脑袋，转瞬之间，所有的杂念都消失殆尽了，留下的只有满脑的空白。
+b	scoroa_n
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1

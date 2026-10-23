@@ -1,0 +1,128 @@
+b	dlc_aquarium_entrance
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	嗯？小宁在发呆哦？明明已经排到我们了~
+p	x	c	sf1	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	抱，抱歉...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	是不是在想那个事情？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	余晓鑫	唔...抱歉，我，我知错了...
+s		弹脑门这一招，还是和之前一样有效。
+s		看见她这副模样的我不禁如此感叹道。
+h	x
+h	n
+b	black
+b	dlc_aquarium_corridor
+s		今天毕竟不是周末，来的人不算多，所以不到两分钟我们就进到了海洋馆里。
+s		出乎我们意料的是，刚刚跨过大门，打照面的不是想象中的大水缸，而是一条狭窄的通道。
+s		灯光昏暗的通道像极了电影院内的走廊，分布在两侧的是一个个独立的玻璃展缸。
+s		我把脚步放慢了下来，静静地等着东张西望的她。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	小宁你看，是扬子鳄~
+h	x
+p	x	c	sf1	-	-	cloth:scf2
+p	x	c	sf1	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	哦...
+h	n
+p	x	c	sf1	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	可我们来的不是海洋馆吗？怎么会有淡水生物？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	别人保护动物能给你看看已经很给面子了好不好，别多提要求啦...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？它怎么动都不动一下？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s		啪，啪...
+h	x
+p	n	c	sf12	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	喂，告示牌上都说了不要拍打玻璃了...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	又没事啦~反正只是轻轻拍两下而已...
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s		她的话音刚落，原先那只懒散的鳄鱼突然猛地转过头来，对着小鑫张开了它的嘴巴。
+s		四溅的水花把玻璃的墙面染得像刚下过雨一般，周遭游客的目光也瞬间聚焦到了我们身上。
+h	x
+p	n	c	ss5	-	-	cloth:scs2
+p	x	l	sf13	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	呜哇~
+s		受惊的小鑫立马像抱着树桩一样紧紧搂住了我，先前大人的自信此刻瞬息间就荡然无存了。
+p	x	l	sf13	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	噗...
+p	x	l	sf13	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	你笑什么嘛，鳄鱼真的很吓人的好不好...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	不，要说鳄鱼确实很吓人，但我还是第一次看见有人被...被扬子鳄吓到...
+s	宁桐雨	噗...你胆子也太小了吧？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	可它明明是要咬我...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	人家只是单纯地被你烦到了而已，你看，它现在又躺回去了呐~
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s		她随着我手指的方向看去，可不是嘛，先前还凶神恶煞的鳄鱼此刻又懒散地躺到平面上去了
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	嘛，我，我从来就没害怕过啦，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	小宁，咱们快走吧？今天咱们不是来看水母的吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	行吧...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s		我木然地回答道，毕竟变脸比翻书还快确实很符合我对她的印象。
+s		嗯，在面前的，是真的余晓鑫。
+s		我不禁这么安心地想到。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+h	n
+h	x

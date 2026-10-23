@@ -1,0 +1,128 @@
+s		结果，由于第一天玩得太累，第二天我们直接错过了早晨的轮船。
+s		原定计划就这样化为了泡影。
+s		站在码头上的我们俩，望着远去的轮船背影，陷入了沉思。
+b	seaside
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	啊哈哈，小宁知道有句话叫啥来着的，
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	对了，塞翁失马焉知非福嘛！
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	现在，我只想揍你一顿！
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s		说着，她狠狠地瞪了我一眼。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	哈哈...也不知道是谁闹钟定晚了两个小时。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	也不知道是哪个人直到十点钟还没醒！
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	那这么说，小宁不也没醒嘛！
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	哪...哪有啊！
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	我...我只是不想吵醒你罢了嘛！
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	好吧，你与其让我相信这套蹩脚的说辞，还不如让我现在现造一艘船出来把我们摆渡到景点。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		轮船开动的声音把我们再度拉回了现实。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	所以，今天总得去哪儿转转吧？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	嗐，只能随便你了。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf16	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	余晓鑫	机会难得，咱们就去海滩边的那家露天店里坐坐吧？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	坐在那里，晒太阳？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	像夕阳红旅游团那样？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	说的什么话。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	不少年轻人也是这么干的嘛。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	当然，吃甜筒也是必要的嘛。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	直到最后一句话终于忍不住了是吧？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	一直相信你能提出什么好意见的我也真是蠢透了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那就做做小宁喜欢的事情？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	我想想，坐环城巴士，从始发站一直坐到终点站？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	我说过？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf16	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	余晓鑫	我记得很清楚嘛。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	行吧，那样子的话，我倒不讨厌啦...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf16	-	-	cloth:scf1
+s	余晓鑫	那要不就这样，咱们买点甜品，坐在巴士顶看看风景咋样？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	那不就和大海没什么关系了吗？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	但是啊，我们一路上也能看到大海啊？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	行吧，到现在，我也想不出啥更好的策略了...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s		她思考了片刻，最终还是同意了。
+h	x
+h	n
+b	black
+b	dawnsky
+s		夕阳已然向着天空的尽头缓缓落下，而在近处的坡道上，走来了两位少女。
+s		斜长的影子投射到路面上，将整条人行道剪成了两半。
+s		不过，与以往如梦如幻的记忆不同的是，这次两人这一次走在道路的同一侧。
+b	black

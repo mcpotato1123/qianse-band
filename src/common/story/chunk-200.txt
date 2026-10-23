@@ -1,0 +1,128 @@
+p	x	r	ss10	-	-	cloth:scs1
+s		小宁打断了我说到一半的话，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	考试多的话就没必要硬逼自己去考满分，觉得麻烦事太多的就都推掉好了，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	只需要为自己而活就行了，只需要记住我一直都会在你身边就可以了，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	只要把一切都想得简单点，那就没有什么想不通的。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s		说着，我们俩的手指再次紧扣到了一起。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	小鑫，答应我，好吗？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	到了大学里，就为自己而活吧？
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	像一只小猫一样？
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	你啊，我倒是真想让你变成我养的小猫...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	诶？可小宁不是更喜欢狗一点吗？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	我嘛，其实也没什么特别固定的喜好，就随着你的喜好来就好了。
+h	n
+h	x
+b	black
+b	black
+c	第十四章
+g	title_chaptere
+b	black
+g	cg51
+s	余晓鑫	今天晚上就是毕业晚会了，小宁你可别再迟到了，
+s	余晓鑫	上次毕业典礼的时候就把我一个人撂那里，搞得我占得位置一直没人来，周围额人都瞅着我看...
+s	宁桐雨	放心吧，那只是一次意外罢了啦~
+s	宁桐雨	这一次我绝对、绝对不会迟到的啦，放心好了~
+b	restaurnt_n
+s		得到她承诺的我自然早早地来到了晚会的现场，虽然那时她还没到场，但我相信孤单一人的处境并不会持续太久的。
+s		可随着同学们一个一个地走进来，大厅里也日渐变得吵闹了起来。
+s		班主任，任课老师渐渐地也到齐了，同学们把路围得水泄不通只为了跟老师们合张影，
+s		原本空荡荡的餐桌旁也渐渐被到来的同学们挤满了，他们看着坐在呆坐在座位上的我，眼神里充满了疑惑。
+s		没办法，我也只好起身，排到了等待合影队伍的最后面，
+s		眼神还不时张望着大门口，等待着小宁的出现。
+s		结果，直到毕业典礼快开始的时候，她才从门缝里蹑手蹑脚地钻了进来。
+s		略显尴尬地看了看坐满的餐桌，她最终锁定到了我身旁的位置。
+s		在那里，我用书包给她专门占了个座位。
+s		等小宁坐定之后，还没等我开始发难，她就自觉地鞠躬道歉起来了。
+p	n	c	sf25	-	-	cloth:scf1
+s	宁桐雨	所以说，我真的没想到高架会这么堵啦，
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	更巧合的是，居然唯一空的一段还正碰上检修，两车道直接变单车道了...
+p	n	c	sf14	-	-	cloth:scf1
+s	宁桐雨	所以说，真的不是因为...
+p	n	c	sf12	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	好啦，我都明白了。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s		我实在是受不了她千篇一律的辩解，于是打断了唠叨个不停的她。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	好啦，那些说辞听得都要出耳茧了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	但这次...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	我相信你啦，你跟我认识十二年来，你看我有哪次不相信你？
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	你啊，可真是个装糊涂的高手。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s		她这么打趣着的时候，晚会已经开始了。
+h	n
+h	x
+b	skyngt
+s		舞台上，正在进行的是文艺委员们安排好的歌舞互动小游戏。
+s		与热闹的氛围形成鲜明反差的是我们所在的这一桌，
+s		不仅人都没有坐齐，在座位上的同学还都在低头玩着手机。
+b	restaurnt_n
+p	n	c	sf1	-	-	cloth:scf1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	所以，毕业晚会到底哪里好了？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	嘛，对社恐来说肯定没什么好玩的啦，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	但是，大多数人玩得还是蛮开心的，吧...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		说着小宁回过头去张望了下舞台上的情况。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	好像过会还要去台上拍照啥的，真的烦死了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	诶，是跟班主任一起吗？
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	那不然呢...
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	明明我都已经拍过了...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	莫非是在我来之前发生的事情？

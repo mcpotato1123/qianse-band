@@ -1,0 +1,128 @@
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	你这么一说我倒突然就有了点印象，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	是不是接下来男女主两个人就享受真正的二人世界来着？
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	嗯，他们俩找各种豪宅住，开着以前想也不敢想的名牌车，最后居然腻味了。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	当时我就在想，这部电影能拍成这样还倒是有些深度的。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	毕竟嘛，所谓有得必有失不是吗？他们物质上享受到了，可精神上却无比地孤独。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	最后他们是踏上了寻找幸存者的旅途来着？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	嗯，然后这个电影就突然变成了一部丧尸片了，之后的剧情我就记不得了，我也不感兴趣。
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	得，你的喜好可真够挑剔的。
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	哪有啦，我只是单纯地喜欢末世剧情罢了，特别是两个人独处的那种二人世界，丧尸片啥的我才不感兴趣。
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	一看到这电影最后还是落了俗套，我对它的好感顿时就没了...
+p	n	l	ss9	-	-	cloth:scs2
+p	x	r	ss10	-	-	cloth:scs2
+p	n	l	ss9	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	那种感觉我也懂得~
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s		突然间，小宁也停下了对我的调侃，向我表达了赞同。
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	就是明明好好地聊着天突然被你的荤段子打断的感觉！
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	好吧...就当我刚才啥也没说...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	话说啊，我怎么记得你从来就对这种题材的电影不怎么感冒来着？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	哪有啦，是小宁你记差了而已。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	怎么会，我以前小学的时候拉着你看你都能睡着来着，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	诶？真的吗？
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	那可能是我后来又去再看了一遍，所以才记牢的吧？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	再看了一遍？是讲解视频？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	嗯呐，
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+s	宁桐雨	可真有闲工夫啊...
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s	余晓鑫	但结果我还是没能把那部电影的名字给记住啊...
+h	n
+h	x
+b	pakn
+s		突然间，一阵冷风划过了耳畔，我的马尾辫也随之飘动了起来，
+s		我低头看向手表，原来已经八点了。
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	这风真的好冷呐~
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	靠近一点，吧...
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf11	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+h	n
+h	x
+b	black
+g	cg97
+s		自然而然地，我们又牵起了手。
+s		仅仅是分开了一小会，小宁的手就再度变得冰冷了。
+s		她说过，她有些体寒，所以经常要随身带着暖宝宝。
+s	宁桐雨	不过说起来，我经常也会有忘带的时候呢...
+s	宁桐雨	到时候，就请小鑫来帮帮我吧？
+s	余晓鑫	诶？
+s	宁桐雨	真的是，我可真瞎了眼了，
+s	宁桐雨	怎么交你这样一个榆木脑袋的女朋友！
+s		见我没懂她的意思，当时的她立马撇开了脸。
+s	余晓鑫	喂，就一下子没反应过来嘛，反应这么大干什么...
+s	余晓鑫	真的是，小宁的意思我肯定明白的啦，你看...
+s		这之后我自然是死皮赖脸地贴上脸去道歉了。
+s		这样的日常在我们俩之间发生过太多次，导致我现在早已习以为常了
+s	余晓鑫	如果觉得冷的话待会就去商场里转转吧？
+s	余晓鑫	那里开着暖空调的。
+s	余晓鑫	如果嫌人多的话我帮你开路就好了啦。
+s	宁桐雨	嗯。
+s		她轻轻地应了一声，仍然紧紧地握着我的手。
+b	shoppingmal

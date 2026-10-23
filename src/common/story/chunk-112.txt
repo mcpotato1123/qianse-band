@@ -1,0 +1,128 @@
+s		突然间，掌心处传来一阵温热的触感。
+s		我抬头看向小鑫，她却看着队伍的缝隙，准备插进去。
+s		“跟好我，别忘了把书包带上。”
+s		“嗯...”
+s		我的心里暖暖的，感觉意识也清晰了许多。
+s		“就跟在最后一个同学后面吧，不用费心去插队了。”
+s		我低声地这么说道。
+s		“我都听你的。”
+s		接着，我感到掌心的力道更大了些。
+b	fire
+s		在木柴的簇拥下，一团小小的火苗随着微风的浮动闪动着。
+s		它的身影晃得很厉害，甚至让人感觉下一秒它就要熄灭了。
+s		可每一次它又坚强地挺起身，借着干柴的有机质继续燃烧。
+s		我拿起钳子，向炉火中加了两根枯枝。
+s		红色的火星在炉内飞溅，伴随着些许黑烟。
+s		噼里啪啦的声音由其中传来，但片刻之后又重归于寂静。
+s		毕业旅行不知不觉间已经过去了一半了，回顾过去三天的行程，我突然有了一种愧疚感。
+s		明明是高中仅有一次的体验，所进行的活动平心而论也算不上无聊。
+s		尽管嘴上抱怨个不停，但无论是爬毕业墙也罢，野营，团体比赛也好，
+s		其实在内心中，我都是很期待的。
+s		可到了真正经历的时候，却只感觉这些事情平淡而无聊。
+s		甚至到最后在我的心头都没有留下丝毫的印迹。
+s		感觉就是在虚度光阴啊。
+s		为什么我无论如何就是对那些集体活动就是提不起兴趣呢...
+s		明明出发前还想好好珍视这一次旅行的，可落到实处却发现，到头来什么也无法改变。
+s		也唯有她的陪伴能给每日都闷闷不乐的我带来些许欢笑。
+s		今天上午的安排是野炊，我因为没学过做饭，便自行讨了个烧火的工作。
+s		虽然丧失了与他人一起做饭的乐趣，但那种乐趣本来对我来说就不曾存在过。
+s		所以，总结来说，我反而过的更安稳了些。
+s		做饭吗...以后倒是很想去尝试一下呐，
+s		毕竟她...
+s		算了，这个念头还是暂且打住吧。
+s		接着，我强行清除了脑海里的杂念，把目光投向不远处的炉火。
+s		思绪仿佛是一湾毫无涟漪的湖水，保持着这种状态的同时，我静静地观察着干柴的燃烧。
+s		大概几分钟后，我注意到炉前出现的一抹阴影。
+s		我抬起头，小鑫正拿着一个小矮凳站在我身旁。
+b	camp
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	在干嘛呢?
+p	x	c	sf1	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	如你所见，在看炉子呢，
+s		小鑫把凳子放下，招呼我和她一起坐着。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	为什么不去和大家一块儿做饭呢？炉子早就搞好了啊。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	反正我也帮不上忙，还会惹麻烦，不如趁机干些有意义的事。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	嗯？有意义，指的是陪着这个破炉子？
+p	x	l	sf12	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	哎，真的是，不知道该说你什么好。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+h	x
+h	n
+b	fire
+s		她这么说着，拿起掉在地上的钳子，从树枝堆里挑了块粗大的木头，转手丢进了炉子里。
+s		火苗剧烈地抖动了一下，接着无力的避开那新加入的成员，看起来就像一个做错事的孩子。
+b	camp
+p	x	c	sf1	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	笨蛋。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		我嘀咕了一句，夺过钳子把它夹走了。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	这样子你是在灭火。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	小宁这下都已经成了烧柴专家了，我真不知道该说是高兴还是可惜。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	不过是因为没什么可干的一直做一件事熟练了而已。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	就像我们现在每天都在考同一种类型的卷子，以至于我们看到题号就已经知道它要考察的东西了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那种熟练我宁可不要。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		她说着伸了个懒腰。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	总感觉让这种东西占用了我宝贵的脑容量是一种浪费。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	那你觉得脑子里应该塞什么好？
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	我想想，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	大概是吃饭睡觉和跟你一起玩吧。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	你看我去过的猫咖里的猫就是这样的，每天干着这样的事情。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	有时候我甚至觉得转生成一只猫也不错，每天躺在床上就什么也不用做了。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	那可能只是它运气比较好。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s		我翻动着炉内的木柴，让微风恰到好处地吹入炉内。
+s		火苗欢快地跳动着，这说明我的技术实际上远远超过小鑫。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	世界上超过百分之九十的猫都是流浪猫。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	即使你有幸投胎成了一只宠物猫，也有很大概率会因为疾病和家庭的原因被抛弃。

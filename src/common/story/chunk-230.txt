@@ -1,0 +1,128 @@
+s		可今天明明是周六嘛，都到周末了都还是忙个不停嘛...
+s		看着窗外耀眼的阳光，我不禁在心里这么嘟囔道。
+s		一肚子闷气的我拿起了餐桌上的字条，仔细地读了起来，
+s		今天要去老姐家里，傍晚我会回来，如果想要去哪儿吃一顿好的的话，就告诉我一声。
+s		打一巴掌再给一甜枣，嘛，
+s		嘛，谁会稀罕啦，这种事。
+s		难得的休息日，该做点什么好呢？
+s		出去玩吧，散步是放松心态的最好方法了。
+s		可是，我突然想到，之前我所有的出行都是和她绑定在一起的，
+s		我喜欢的究竟是散步的感觉还是和她在一起的感觉呢？
+s		答案...
+s		显然是后者。
+b	black
+g	cg51
+p	n	c	sf2	-	-	cloth:scf2
+s	宁桐雨	喂？诶？
+p	n	c	sf13	-	-	cloth:scf2
+s	宁桐雨	准备等我了吗？行的行的，
+p	n	c	sf2	-	-	cloth:scf2
+s	宁桐雨	那我在常去的那家餐厅等你。
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	晚上六点行吗？今天我可能要稍微耽误一小会，不过真的就一小会啦~
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	可以啦，真的是。
+s		到最后，没志气的我还是遵照着她的指示乖乖地定下了约会地点。
+h	n
+h	x
+b	restaurnt_n
+s		尽管约好了六点在那家我们常去的那家餐厅集合，可实在是闲的无聊的我提前一个小时开始了等候。
+s		身边人来人往，热闹异常。
+s		每有一个顾客经过我的身边，我都感觉到被异样的视线盯着。
+s		尽管我占的是一个两人座，我自认为是没什么问题的。
+s		可一个人在座位上就这么干坐着，直到把旁边的两桌都熬走了，服务员最后也来问我需不需要点餐了。
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	来一份水果沙拉。
+s		我这么说道。
+s		低头看了一眼手机，离六点钟还剩下不到十分钟了。
+s		不知不觉间，门口已经排起了长队。
+s		顾客大多是一些三口之家，小孩叽叽喳喳的声音让我感到更加烦躁。
+s		我目不转睛地盯着商场走廊的尽头，在人群中试图辨认出那个熟悉的身影。
+s		尽管以往我一直是靠脚步声来判断小宁有没有来的，但在如此喧闹的环境中显然无法办到。
+s		沙拉已经上来了，可我却不想动口。
+s		目光仍然紧紧聚焦在远方，仿佛内心的祈祷就能加快这一进程一般。
+s		终于，我看到了那个熟悉的身影。
+s		今天的她还是穿着以往那间米黄色的大衣，只是肩上多背了一个小挎包。
+s		我向她招着手，她很快就找到了我，和门口的服务员讲明了情况之后，她便推门走了进来。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我可不太喜欢吃沙拉。
+h	n
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	小宁不是说我胖嘛，所以我想减肥来着。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	嘛，只是说笑罢了，你可别当真啦。
+s	宁桐雨	要是你真的瘦下来了，我会很困扰的。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	诶？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	毕竟那样的话家里就少了一个结实的劳动力啊~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	瘦下来的是肥肉又不是肌肉...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	好啦，只是扯老空罢了，小鑫等我了好久嘛？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	一个小时吧。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？来这么早？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	只是因为我没什么别的事情啦...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	这样...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	小宁呢？今天在干嘛呢？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	帮着老姐一起归了些东西而已，她你也明白，自理能力几乎为零。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	我看那只是因为你要求太高了...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	不过啊，我倒是有了个意外的发现来着，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	今天，是咱们的交往纪念日。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	余晓鑫	诶？
+p	x	l	sf1	-	-	cloth:scf2

@@ -1,0 +1,128 @@
+s	杨老师	在姐姐眼里，你就是个永远长不大的孩子~
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	好好好，那请问老姐，您卧室里的衣服什么时候归一下？阳台上...
+p	y	l	ss11	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	杨老师	好啦好啦，我知道咱家妹妹最能干了，最~体贴了，嘴下留德，嘴下留德...
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	少来恭维我...
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	那姐姐现在就去烧饭好吗？姐姐就帮你烧小宁你最喜欢的糖醋排骨好不好？
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	姐，少放点糖嘛~我吃不惯你俩喜欢的。
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	那...
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	驳回！
+p	y	l	ss9	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	杨老师	诶那个...
+p	y	l	ss9	-	-	cloth:sc1
+p	x	c	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s		老姐有些犹豫地看向小鑫的脸，
+s		而与此同时，我也转过了脸去。
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	嘛...我觉得，相比于小宁的要求，我的口味无所谓啦~
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss12	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss12	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss12	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	哼，这次算你识相。
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf11	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	余晓鑫	多...多谢夸奖...
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+p	y	l	ss11	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	杨老师	好啦，咱先去烧饭了嗷，你们俩大老远跑过来准饿坏了。
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	我也来帮忙吧。
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	杨老师	嗯~不愧是我能干的妹妹~
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	sf6	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	哼，我可跟连菜都不会烧的某人一点也不一样啊~
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	ss2	-	-	cloth:scs2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	唔...那我去帮着干点家务吧。
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf22	-	-	cloth:scf2
+p	y	l	ss1	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	嗯，记得别对老姐房间里的那团垃圾手下留情哦，仅仅是看一眼就足够让我难过半天了。
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss3	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	一定要像对待咱们自己家一样对待这里，明白了吗？
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	杨老师	喂，小宁，你们俩不会早就串通好了吧？
+p	y	l	ss6	-	-	cloth:sc1
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1

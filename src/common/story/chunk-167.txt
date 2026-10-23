@@ -1,0 +1,128 @@
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	但是，从来我都是被母亲强迫着去学的。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	我从来没觉得我真正喜欢过钢琴。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	弹琴，对我来说一直都是种任务罢了。
+s		看到小宁有些难堪的表情时，我这才发现刚才的话似乎有点不合时宜，
+s		可就当我准备说些话来补救的时候，小宁却率先打断了我，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	其实啦，我小时候也有被强迫着学过乐器，
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	我以前也是和小鑫一样，对它讨厌得不得了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	可是，上了中学之后，我就逐渐没时间花在乐器上了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	似乎它从此就从我的生活中淡出了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	然而，在去年暑假，我偶然又想起来了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	当我重新练起来的时候，我就突然感觉练琴也不是一件讨厌的事情。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	那不过也只是因为新鲜感而已。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	不是的啦，我想说的是，很多情况下都是因为刻板印象的存在。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	正是因为一直以来，我们惯性地认为，练乐器只是一种痛苦的事情，所以才会越来越抵触的。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	抱歉...光这么说的话，我还是没法理解小宁的意思...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	或许，我还是缺少一些，那个，动力之类的事情吧...
+s		大概是因为我就差把目的写在脸上了，原本想要好好跟我讲道理的她也露出了不屑的表情，
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	好啦，我知道的，你就是想说，要奖励才能继续努力，对不对？
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	真的是，还害我浪费了这么多感情...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	嗯，算...算是吧。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	我的心思，真的这么好看出来吗？
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	简直就像幼儿园的小朋友那样好懂呐。
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	那回答...
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	当然可以啦，
+s		她说着露出了狡猾的笑容。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	这样吧，既然是奖励，那你也要付出努力对吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	咱们就按个卖怎么样？每弹完五遍换一个kiss？
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	小宁的爱，好廉价...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	真的是，你爱要不要吧~
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	我当然要的啦，刚才只是开个玩笑罢了！
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	所以，千万不要反悔！求你啦！
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	哦吼~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	啊~突然感觉全身上下又充满动力了呐~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+s	余晓鑫	好吧，从明天开始，继续练琴吧！
+h	n
+h	x
+b	classroom1
+s		就这样，在文艺汇演前的一周时间里，我和小宁在心理办公室旁的小黑屋里开始了训练，
+s		尽管小宁一开始也受到了杨老师的不少调侃，诸如“明明小宁弹琴也挺不错的”，
+s		可小宁却不回答她，只是用微笑与沉默回答着她。
+s		自然，我可不会自讨没趣地加入她们姐俩的日常拌嘴，
+s		毕竟能有小宁陪伴在我身边已经算是天大的好事了。
+b	mus_m
+s		我从家里的书橱里翻出了将近六年没用过的琴谱，之前我做过的荧光笔标记都有些褪色了，
+s		小宁则依旧拿着漫画书坐在我的身边，
+s		每当我沉浸于琴声中时，她却似乎丝毫不为所动，
+p	x	c	sf8	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	喂，小宁，我...我弹完五遍了哦？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	诶？真的？我刚才忘记数了，你再弹一遍吧？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1

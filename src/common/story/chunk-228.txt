@@ -1,0 +1,128 @@
+s	凌	所以说啊，上了大学之后，你们白天在一起的时间变少了，不是么？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	可那也是在所难免的事吧，现在也不可能像高中一样整天腻在一块了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	到了工作之后，咱们在一起的时间只会更少...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	我说的只是需要给她一个习惯的过程。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	俗话说，小别胜新欢嘛，你可以最近适当和她保持一些距离。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	也就是让她适应和你每天分开一小段时间的状态。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	这样子等到你们俩真正工作了，要容易适应得多。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	单单是一个我不怎么熟的同学就让她这么不安了，你这是把我往火堆里推啊？
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	没办法嘛，你也总得让她适应的。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	这段时间，可要辛苦你咯。
+s	宁桐雨	好，好吧...
+h	l
+h	n
+b	me_n
+s		这时，列车驶进了一段隧道。
+s		车厢外立马昏暗了下来。
+p	l	c	ss6	-	-	cloth:default
+s	凌	看起来咱们快到了。
+p	l	c	ss6	-	-	cloth:default
+s	宁桐雨	不是说我一出去就会把你的话忘记了吗？那我该...
+s	凌	虽然你不会记得那个梦，但你要做的事情是不会忘记的，你在现实里也会有一个模糊的印象。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	那可真神奇啊...
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf1
+s	凌	明明更神奇的存在就在你眼前呐~我可是货真价实的神明哦？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	这当然也算神奇的一点啦...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	但其实刚才的话，我还是没能完全搞懂。
+s	宁桐雨	为什么要叫我去稍稍疏远一下她呢？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	嗐，你啊，就是一直和她挨得太近了，导致感情一直没法更进一步升温了，所以她才会担忧不是么？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	所以说，先进入一段小小的冷淡期，然后就有操作空间啦。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	宁桐雨	这，这样。
+s	宁桐雨	神明大人似乎很懂恋爱呢...
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	凌	哪有啦，哈哈...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s		她只是尴尬地笑了笑，看得出来，她也不像是真正谈过恋爱的样子。
+s		不过，神明和我们毕竟不一样吧，或许她对于感情的认知都与我们不同，就更不用提恋爱一说了...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	凌	那么是时候该从梦里醒来了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	嗯，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	凌	回到现实之后，别忘了我今天说过的话哦~
+s	宁桐雨	是一定会忘的吧。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	凌	说错啦，是一定要留有印象才对。
+h	l
+h	n
+b	black
+s		接着，一股强烈的困意朝我袭来，我闭上了双眼。
+s		在一片虚无之中，我的意识飘远了。
+b	dour1_m
+s		我的名字是余晓鑫，只是一个再平凡不过的大学生。
+s		懒懒散散地混完每天的课程，心里期盼的除了下课便是放假。
+s		然而，原本已经无欲无求的我最近却变得有些困扰。
+s		因为...和我同寝室的发小最近不知为何总是对我冷言冷语。
+b	skidk
+s		或许冷言冷语这个词用得也不对，毕竟她和在我一起的时间仍然像以往一样插科打诨，亲密无间，
+s		只是原本那个和我一样清闲的她最近却突然忙了起来。
+s		每天早上她总是起得很早，而我又习惯了晚起，因此睁开眼睛的时候总是看不见她的身影。
+s		虽然她为我早早暖好了牛奶和八宝粥，甚至还留下一张解释自己行程的字条，可没有她在身边的早餐总是打不起精神。
+s		从大三开始，我们俩的课就几乎完全分开了。
+s		这也是正常的啦，毕竟我们俩虽然分在同一学院，可学的却不是同一专业。
+s		自然，等到基础课程上完了之后，我们上课的教室就不一样了。
+s		看着坐得满满当当的教室，我总是会怀念大一大二小宁帮我占座的时光...
+b	dour1_c
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁，白天你都上哪儿去了？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	唔...
+p	n	l	sf16	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	咱不是在给你的纸条上都写得明明白白的了吗？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	诶？心理委员会的工作？小宁不是说要退了吗？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	嘛，能当个心理咨询师是我的梦想啦~
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	就算不能靠这个吃饭，我也总想抓住一切可能的机会啦~
+s	余晓鑫	这也是杨老师的影响？

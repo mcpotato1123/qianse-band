@@ -1,0 +1,128 @@
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	可我问你为什么没来陪我...
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s		说着，她撇开了嘴，一副闷闷不乐的样子。
+s		这明明就是无理取闹嘛...
+s		我在心中这么吐槽道。
+s		可现实中，我却拿小姐没什么办法。
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	小姐是跟郡主大人闹矛盾了吗？怎么看上去...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	没有，我只是跟她坦白了咱俩的关系罢了...
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	噗...
+h	n
+p	xj	c	anger	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s		我差点把刚咽到喉咙口的水给喷出来。
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	什...什么？坦...坦白？向，向郡主大人？
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	咱...咱们俩就算不用当恋人也能一直在一块的吧？坦...坦白什么的根本没必要...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+s	主人	女仆酱你误会啦，我坦白了之后母亲她根本没说什么，
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	主人	就是...
+p	n	l	ss3	-	-	cloth:scs8
+p	xj	r	frown	-	-	cloth:default
+s	女仆	就是？
+p	n	l	ss3	-	-	cloth:scs8
+p	xj	r	frown	-	-	cloth:default
+s	主人	就是我跟她说，我准备把院子用墙给围起来，就这样和女仆酱你过完剩下的一辈子的时候...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	主人	她生气了，生气生得很厉害。
+s	主人	不仅当着姥姥的面骂了我，还要告到在京城的我父亲那里去。
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	我就是想要跟女仆酱你待在一块嘛，至于整天这么骂我...
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	唔...小姐，就算不修这座墙...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	主人	一定要修墙的啦~
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	女仆	不，我只是假设而已，假设，
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	女仆	假设没有修这座墙，我又会去哪里呢？不一样还是待在小姐你的身边吗？
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	主人	可外边很可能有坏人进来...
+p	n	l	ss3	-	-	cloth:scs8
+p	xj	r	shy	-	-	cloth:default
+s	女仆	那有点算是杞人忧天了吧？毕竟郡主家的...
+p	n	l	ss3	-	-	cloth:scs8
+p	xj	r	shy	-	-	cloth:default
+p	n	l	ss3	-	-	cloth:scs8
+p	xj	r	frown	-	-	cloth:default
+s	主人	妈妈的庇护也不是永恒的哦？甚至皇上也不一定永远坐在位子上。
+s		她突然间的回话让我陷入了沉思。
+s		过去的我确实也没想过这些问题。
+s		出生，被遗弃，被收养再到遇见小姐，一辈子的坎坷似乎都在我人生的前六年走完了。
+s		以至于我一时间甚至忘记了波澜为何物。
+s		而在这一点上，小姐似乎考虑得要远超于我。
+s		其实我也明白的，比起我的兄长和姐姐们，我实在是太过于平凡，
+s		诗书不精，五体不勤，全凭母亲的接济才能勉强维持下去...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	女仆	小姐，其实不是...
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	主人	不用安慰我啦，其实我也明白的，
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	smile	-	-	cloth:default
+s	主人	只不过我很庆幸，我很庆幸和女仆酱你相遇了，
+s	主人	所以我只想保住现在就好了，让现在的日常能够延续到永远就行了。
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	主人	女仆酱，这样说你能明白了吗？
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	女仆	...
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	amazed	-	-	cloth:default
+s	主人	嗯？
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	女仆	如果...如果是这样的话...
+p	n	l	sf3	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	女仆	我愿意把我的一辈子交给您。
+h	n
+h	xj
+b	ex_royal_bedroom
+s		晚饭过后，我伺候着小姐洗完澡，送她上了床。

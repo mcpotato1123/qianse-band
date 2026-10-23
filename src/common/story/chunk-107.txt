@@ -1,0 +1,128 @@
+p	n	l	ss1	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf29	-	-	cloth:scf2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	哪，哪有...
+p	n	l	sf29	-	-	cloth:scf2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	都藏在话里呐，可别当我真分辨不出来。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	只...只是我洁癖比较重罢了。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf11	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss6	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s		然而，小鑫只是笑了笑，没再说话。
+h	n
+h	y
+h	x
+b	liv_e
+p	n	c	ss3	-	-	cloth:scs2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	结果到最后你也没劝住她啊...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	嘛，她喝得实在太快了，劝也劝不住嘛。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	你要把她杯子抢走才行，不然她根本停不下来...
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	这样可好，所有的家务又都到咱俩头上了。
+p	n	l	ss5	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	没事啦，反正咱俩也正好没啥事，家务什么的，在家里也早就习惯了。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+h	n
+h	x
+b	liv_e
+s		习惯了吗...
+s		我看向一旁刷着碗的她，内心的印象也慢慢开始转变了。
+s		自从真正开始独立了之后，她真的变了许多。
+s		从以前生活上事事都要倚靠着我的人逐渐变为我身边的帮手了。
+s		而且性格也要变得比以往成熟稳重多了。
+s		尽管嘛，聊到有关我的话题时经常会表露出不正经的一面。
+s		但我实际上并不讨厌。
+s		换句话说，我已经把时常不正经的一面当作爱的表现形式了也说不定。
+p	x	c	sf1	-	-	cloth:scf2
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁，今天晚上咱们还要做...
+p	x	c	sf6	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf17	-	-	cloth:scf2
+s	宁桐雨	滚，这是别人家里！
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf17	-	-	cloth:scf2
+s	余晓鑫	唔...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf17	-	-	cloth:scf2
+s	余晓鑫	行吧...
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf17	-	-	cloth:scf2
+s	余晓鑫	那到了小宁爸妈的家里...
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf17	-	-	cloth:scf2
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	更不行！
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	真的是，亏你想得出来...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	余晓鑫	嘿诶~那这几天我得怎么过啊...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	又不会要了你的命的。
+h	x
+h	n
+b	liv_e
+s		可真是，每次对她稍有些改观，现实总会打我的脸。
+b	black
+b	rot_n
+s		洗过碗之后，我们一起上到了屋顶的天台上。
+s		时间已近夜深，远处的城市却仍旧灯火璀璨。
+s		咆哮的北风扑面而来，于是我拉紧了身上的大衣。
+s		我们俩并排走到栏杆面前，一起望着远方的城市。
+b	black
+g	cg13_3
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	冷的话就靠到我身上吧，要暖和点。
+g	cg13_4
+s	宁桐雨	嗯，我知道的。
+g	cg13_3
+s	宁桐雨	喝了点酒身子有点热，现在让我吹会风就好。
+p	x	c	ss1	-	-	cloth:scs2
+s	余晓鑫	话说回来，这里的天台是不是很有高中那时候的味道？
+p	x	c	ss11	-	-	cloth:scs2
+s	余晓鑫	呼~高中，都过去七八年了啊，已经...
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	说起来咱们之前就一直喜欢来这样的地方吹风来着，
+s	宁桐雨	嗯，回想起来的话，好像确实是这样...
+p	x	c	ss22	-	-	cloth:scs2
+s	余晓鑫	怎么样，是不是现在开始有些怀念起以前上学的日子来了？
+g	cg13_2
+s	宁桐雨	怎么会呢，你那是叶公好龙罢了。
+g	cg13_4
+s	宁桐雨	以前的作业考试什么的可把我给折磨坏了。
+g	cg13_3
+p	x	c	sf11	-	-	cloth:scf2
+s	余晓鑫	哈哈，大概率是这样吧。
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	或许单纯是因为咱们离那段时光太远了，距离产生美罢了。
+p	x	c	sf6	-	-	cloth:scf2
+s	余晓鑫	以前在楼顶吹个风都要算个时间，怕耽误了午睡，
+p	x	c	ss1	-	-	cloth:scs2

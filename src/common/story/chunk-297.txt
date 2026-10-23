@@ -1,0 +1,128 @@
+s		我提起裙子，走出了房间。
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf8
+p	x	l	sf10	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf8
+s	余晓鑫	我肚子饿了，帮我烧点饭~
+h	n
+p	x	c	sf10	-	-	cloth:scf3
+p	x	l	sf10	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf8
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf8
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf13	-	-	cloth:scf8
+s	宁桐雨	哈？才早上十点半啊，就吃午饭？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf13	-	-	cloth:scf8
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf13	-	-	cloth:scf8
+s	余晓鑫	我忘了早饭啦~
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf13	-	-	cloth:scf8
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf8
+s		说完她捂着嘴笑了起来，但我大人有大量，还是宽恕了她的小人作风。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf8
+s	宁桐雨	你就先吃点点心吧？不然一会午饭就吃不下了。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf8
+s	余晓鑫	唔嗯...女仆要服从主人的命令~
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf8
+s	余晓鑫	还有，你要叫我主人，而不是你你你的，明白了吗？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf8
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+s	宁桐雨	明...明白了，主人，那我现在就去准备早膳。
+h	n
+p	x	c	sf4	-	-	cloth:scf3
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+s		我暂且忍住了揍她一顿的冲动，
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+s		毕竟我突然意识到这是一个很好的报复机会。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+s	余晓鑫	就帮我煎个面饼就行了哦？
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+s	余晓鑫	别忘记在面饼上面画个爱心。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf8
+s	宁桐雨	谨...谨遵指示...
+h	n
+p	x	c	sf8	-	-	cloth:scf3
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf8
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf8
+h	n
+p	x	c	sf8	-	-	cloth:scf3
+s		说完后，我缓缓地走进厨房。
+p	x	c	sf10	-	-	cloth:scf3
+s	余晓鑫	哦哈哈哈哈...
+h	x
+p	x	c	sf10	-	-	cloth:scf3
+s		外面好像传来了大反派的笑声呢...
+s		算了，那个就先别管了吧...
+p	x	l	sf10	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf8
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf2	-	-	cloth:scf8
+s	余晓鑫	女仆小姐，女仆小姐，你能表演一下那个吗？
+h	n
+p	x	c	ss21	-	-	cloth:scs3
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf2	-	-	cloth:scf8
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf8
+s		她指着餐碟里的面饼这么问道。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf8
+s	宁桐雨	啥...
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf8
+s	余晓鑫	啊？我听不清~
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+s	宁桐雨	我不太清楚您的意思，主...主人。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+s	余晓鑫	就是女仆咖啡厅里的员工都会做的，那个啊？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf18	-	-	cloth:scf8
+s	宁桐雨	好羞耻所以请允许我拒绝。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf18	-	-	cloth:scf8
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	sf18	-	-	cloth:scf8
+s	余晓鑫	拒绝无效！
+h	x
+p	n	c	sf18	-	-	cloth:scf8
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	sf18	-	-	cloth:scf8
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	sf18	-	-	cloth:scf8
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf8
+s	宁桐雨	你是小学生嘛！
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf8
+s		我无力地吐槽着。
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+s	宁桐雨	主人看起来不想吃早饭了，所以请允许我把早餐收走...
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8

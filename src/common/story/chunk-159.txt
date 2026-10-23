@@ -1,0 +1,128 @@
+s	余晓鑫	小宁...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	诶，我在呢~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	小宁完全没料啊...
+p	n	l	ss6	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s		突然间，她停下了抚摸的动作，
+s		接着，她重重地敲了下我的脑袋。
+s		就在这时，窗外打响了十二点的钟声。
+p	n	l	ss6	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	好过分~怎么能消耗我的信任呢~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	看起来你已经完全从沮丧和自责中恢复过来了呢...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	嗯，那当然，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	毕竟是我嘛~
+s		可对面的她面对如此令人欣喜的转变，只是轻轻地叹了口气，
+s		就连神情也变得不耐烦了起来。
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	所以说，现在先一起来吃蛋糕吧？
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+h	n
+h	x
+b	caki
+s		说着，她从书包里拿出来一个小盒子。
+s		那是从附近的面包店里现买的一个巧克力蛋糕。
+s		尽管我看得出来原本蛋糕上写的是“生日快乐”的字样，可或许是由于路上过于颠簸，蛋糕表面的巧克力酱都被震变形了。
+s		看到这一切的小宁显得有些难堪...
+b	n_bedroom
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	那个...
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	就稍微...将就一下吧？
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	这是我早晨买的，没保护好...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	噗...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	诶，有什么好笑的吗？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	这个蛋糕，有点像小宁的脸...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	啊？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	你看，这是头发，眼睛，还有那表情...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+s	余晓鑫	面瘫脸呐...
+s		说到这儿我突然开始笑了起来。
+s		毫无缘由地笑了起来，
+s		就好像，只是为了把那些压抑的情绪释放出来一样。
+p	n	l	sf9	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+s	宁桐雨	哪...哪里像了嘛！分明更像你才对！
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+h	n
+h	x
+b	skyngt
+s		她立马提出了反驳的意见，于是，我们俩就自然而然地像往常一样拌起了嘴。
+s		...
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	哪有嘛，我们班里只有小宁每天都是这副...唔...
+s		突然间，小宁也跟着一起笑了起来。
+s		笑容是会传染的。
+s		我不由得想起了这种想法。
+s		吵累了之后，我们躺到了地毯上，静静地望着天花板。
+s		小学的时候，我们俩就特别喜欢这种消磨时间的活动，只不过，以往是躺在草坪上，现在更多的是躺在室内。
+h	x
+b	n_bedroom
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	要不要我给你唱支生日歌？
+p	n	c	ss1	-	-	cloth:scs1
+s		突然间，小宁打破了我们俩间的沉默，这么提议道。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	嗯，我超~超想听的！
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	那好吧，咳咳...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	预先说一句哦，你可千万，千万不准笑我哦？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	知道了吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	嗯，我知道啦！
+p	n	l	sf20	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	那...咳咳，祝你生日快乐~祝你生日快乐...祝你生日...
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	喂！说好了不笑的呐！
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	对不起，我是真的不想笑的，但真的...哈哈哈...跑调跑得太厉害了~
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	唔，臭女人，看招！
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1

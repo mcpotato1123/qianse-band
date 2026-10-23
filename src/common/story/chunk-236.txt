@@ -1,0 +1,128 @@
+s	凌	哦？
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	她一直跟我说，想把我们俩的故事记录下来，但是却一直没什么灵感。
+s	宁桐雨	因为如果只是单单的记录的话，写出来的只是流水账而已。
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	所以...
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+p	l	l	ss2	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	所以就需要一些奇幻色彩，不是么？
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	凌	我明白了，等到时机成熟的时候，我会把一切在梦里告诉她的。
+h	l
+p	n	c	ss1	-	-	cloth:scs1
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	多谢了。
+s	凌	那么，再见了。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	后会有期，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	凌	希望吧。
+s		跟凌道完别之后，一股强烈的困意便涌上了我的脑海。
+h	n
+h	l
+b	black
+s		我闭上了眼睛，意识也再度陷入了虚无。
+s		在万千众人中，我选择了她，
+s		或者说，是我们两人同时选择了彼此。
+s		不再去追求任何，不再去想象另一种生活。
+s		除了和她在一起的当下之外，我的生活中只剩下了空白。
+b	dour1_m
+s		猛地睁开眼睛的我，感受到的是她温暖的拥抱。
+s		她的两只手耷拉在我的胸前，呼噜声也渐趋于平缓，像是鸟儿的晨鸣一般。
+s		安心感涌上了我的心头，于是我再度闭上了双眼。
+s		不会再去做梦，不回再去担忧，
+s		回想起来，这就是我小时候的梦想，
+s		而此刻，我决定把已经实现的梦想牢牢抓在手中。
+b	ex_rice_fields
+s		清风拂面。
+s		暖暖的气息间依然夹杂了些许凉意，风儿的变化与稻田的金黄都在提醒着我同一件事。
+s		秋天来临了。
+s		跨过成片的稻田，穿过无边无际的果树，在道路的尽头有一间小屋。
+s		那是我主人所居住的屋子。
+s		作为侍女来到这里的我，已经在这间屋子里和主人度过了将近十四年的时光。
+s		虽然嘴上叫她主人，可我们在日常相处时却没有多少传统主仆之间的条条框框。
+s		一方面是因为主人也是和我年龄相仿的女孩子，因此一直把我当做朋友看待。
+s		另一个方面嘛...
+s		刚想到这儿，我突然被路上横生出的树根绊了一下，我踉跄地向前跳了几步，靠着抓牢身旁的树干才勉强站直身子。
+b	ex_rice_fields
+s		差点摔倒导致的慌乱和心头的心乱交织在一起，让我的心脏跳得厉害。
+s		是的，每每想起这件事的时候，我总是会慌乱异常，甚至走路都会变得不稳。
+s		那是因为，四年前的那个晚上，主人对我说了...
+b	black
+b	ex_mansion_bedroom_night
+p	xj	c	close_eye	-	-	cloth:default
+s	主人	今天，我们就此终止主仆关系吧？
+p	xj	c	smile	-	-	cloth:default
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	诶？
+p	xj	l	speechless	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	主人	我说了，终结主仆的关系。
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+h	xj
+h	n
+b	ex_mansion_bedroom_night
+p	xj	c	smile	-	-	cloth:default
+s		她的话语仿佛晴天霹雳一般扎到了我的心头，我顿时感觉有些眩晕，语气也随之颤抖了起来。
+s	女仆	为什么？难道是我做错了什么吗？
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	我...我一定会尽力补偿小姐的！
+h	xj
+h	n
+b	ex_mansion_bedroom_night
+b	black
+s	主人	你什么也没做错。
+p	xj	c	smile	-	-	cloth:default
+s	女仆	可小姐...小姐为什么...为什么要？我想，我想一直留在小姐身边...
+p	xj	c	shy	-	-	cloth:default
+s	主人	所以我说，你不要做我的女仆了，你来当我的恋人吧。
+p	xj	c	smile	-	-	cloth:default
+p	xj	l	smile	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	诶诶？！！
+s		看着小姐脸上诧异的表情，这时我才意识到方才是我完全误解了她的意思。
+s		总之，从那之后，我就成了小姐的恋人。
+s		然而，主人的称呼已经成了一种口癖，就一直没能改回来。
+s		话说回来，身为女仆的我却跟小姐发生出了那种关系，被郡主知道了...
+s		嘛，小姐肯定会尽力去掩盖这一事实啦...希，希望吧...
+h	xj
+h	n
+b	black
+b	ex_wall
+s	路边的老奶奶	哟，小姑娘，今天又去摘果子啦~
+s	路边的老奶奶	让我猜猜，给你家小姐摘的？
+p	n	c	sf24	-	-	cloth:scf8
+s	女仆	嗯，她很喜欢吃这种浆果。
+p	n	c	sf24	-	-	cloth:scf8
+s		路边的阿婆像往常一样和我搭着话，可这次我却察觉到了些许异样。
+p	n	c	ss3	-	-	cloth:scs8
+s	女仆	阿婆，这是...在盖墙吗？
+s	路边的老奶奶	是啊，你们家小姐批准的计划呐，
+s	路边的老奶奶	我当小姑娘你早就知道了来着。
+s		说着，阿婆将砖块上的水泥铺平，转身把手伸向了远处的砖块堆中。
+p	n	c	sf12	-	-	cloth:scf8
+s	女仆	怎么会，这么重要的事情主人怎么没有告诉我？
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆	明明...明明小姐她...
+p	n	c	sf6	-	-	cloth:scf8
+s		不知不觉间，我心里默默的嘀咕声居然被说出了口。
+s	路边的老奶奶	也不必太过担心啦小姑娘，我看你家小姐只是不想让你过度操心罢了。
+s	路边的老奶奶	你看，你一知道要修墙了，不就又要来帮咱的忙了吗？
+s	路边的老奶奶	咱们一把老骨头了，小姑娘你要有点闪失，咱们又怎么跟小姐交代呢？
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆	可怎么能这样，明明是我们俩住的地方，怎么能劳烦你们...
+p	n	c	sf6	-	-	cloth:scf8

@@ -1,0 +1,128 @@
+s	宁桐雨	毕...毕竟能忍受她这么久的，可就真的只有我了。
+p	n	c	sf6	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	诶？说什么呢，真的是。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	我又什么地方碍着小宁你了，搞得你整天和我针锋相对。
+s	小宁的妈妈	唉，你们俩啊，可真是一对欢喜冤家。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	哪有嘛！明明是我包养着她才对。
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	真的是，连自己女儿的话也不信，真的是...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+h	n
+h	x
+b	liv_a
+s	小宁的妈妈	哦，还有件事要跟你俩说一下哦...
+s	小宁的妈妈	咱老两口最近睡眠质量不好，你们晚上的声音小一点...
+p	n	c	sf12	-	-	cloth:scf2
+p	n	c	ss3	-	-	cloth:scs2
+s		我差点把喉咙口的饮料喷出来。
+p	n	c	sf12	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	妈，妈妈，你...你指的是...是什么事？
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	小宁的妈妈	诶，虽然我们不知道女孩子之间怎么样，但你们俩果然还是干过那种事了吧？
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	那...那个嘛...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s		然而，就在我的脑海里拼命构想着如何化解这一险境的同时...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	那个...叔叔阿姨！其实...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf17	-	-	cloth:scf2
+s	余晓鑫	我知道了...下次，我一定会和小宁注意的。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s		身边的她突然间就把事实给抖落了出来。
+s		顿时，我的脑海中陷入了一片空白...
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	喂，说...说什么呐。
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁啊，瞒得了一时，那你还瞒得了一世吗？
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	这不是总要面对的事情吗？
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+h	n
+h	x
+b	liv_a
+s		这...意外地无法反驳。
+s		说实话，再这么一天天地隐瞒下去，也迟早会有露馅的一天。
+s		不过...
+s		就不能挑个好点的场合嘛！
+s		我忐忑不安地看向父母的眼睛，心脏砰砰地跳个不停。
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	爸，妈，听我...
+s	小宁的妈妈	好啦好啦，我们早就知道啦，如果不同意的话还会让你们住一块儿吗？别太紧张啦。
+s	小宁的妈妈	其实看你们俩每次在一块就牵着手的时候就猜到了，你们两个孩子还真以为能瞒过我们吗？
+s	小宁的妈妈	许多有偏见的人只是觉得不能让家里的香火断了罢了，咱家不是还有你哥嘛~
+s		我的心总算是放了下来。
+s		回想起刚才的感受，就好像是坐了过山车一般...
+p	n	c	ss1	-	-	cloth:scs2
+s	宁桐雨	真的是，净搞些捉弄人的事。
+s		妈妈只是使了个眼色示意我安静下来。
+s	小宁的妈妈	话说啊，小鑫啊，还没问你呢，你到底喜欢她的哪一点啊？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	要说这个嘛，其实也和她差不多啦。只是我们俩性格还算合得来。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	要说感情是怎么培养起来的，还是一天接着一天的陪伴吧，大概。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	小宁的妈妈	什么嘛，我们还以为是桐雨她死皮赖脸地把你给追到手的呢？
+s	小宁的妈妈	原来算是两情相悦吗？
+p	n	l	sf28	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	真的是，你们不要再说啦！
+p	n	l	sf15	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+h	n
+h	x
+b	liv_a
+s		一直在一旁静静地听着的我实在是无法再忍受下去了，于是果断地给这个话题按下了暂停键。
+s		因为我有预感，要是任由这个话题无限延伸的话，
+s		本来温馨的晚餐时光就要成为针对我的批斗大会了!
+s		明明是我们俩的隐私问题，却被他们给当做话茬子给聊起来了...
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	所以啊，做一个总结就好啦，
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	不单单是小宁追我的啦，其实我们俩是慢慢磨合到一起的。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf15	-	-	cloth:scf2
+s	宁桐雨	而且本来就不该聊这个事情的，本来好好的气氛。
+s		我这么无奈地补了句刀。
+s	小宁的妈妈	桐雨你是不是害羞了？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	这么连妈妈你也帮腔说这种话！
+s	小宁的妈妈	你是我亲生的，我当然最熟悉咯。
+h	x
+h	n
+b	liv_a

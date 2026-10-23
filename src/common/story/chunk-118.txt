@@ -1,0 +1,128 @@
+s	余晓鑫	诶？怎么了小宁...
+p	x	c	ss12	-	-	cloth:scs2
+s	余晓鑫	看上去有点睡眠不足的样子啊...
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	是不是最近早点睡比较...
+p	x	c	sf4	-	-	cloth:scf2
+s		最终还是她的声音让我安了下心来。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	没有，是我幻听了...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss9	-	-	cloth:scs2
+s	宁桐雨	我还当你又讲了个丢人的段子呢...
+s		我尴尬地笑了几声，试图把这件事就此掩饰过去。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss9	-	-	cloth:scs2
+s	余晓鑫	小宁，你最近一直都在翻那本笔记本，睡觉的时候也老是辗转反侧的...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss9	-	-	cloth:scs2
+s	余晓鑫	果然是有什么事情吧...
+s		我默默地点了点头。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss9	-	-	cloth:scs2
+s	余晓鑫	是什么说不出来的事情？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss9	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	跟你，我没什么好隐瞒的事...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	只是...
+s		我深吸了一口气。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	最近我一直在做一个不知所谓的梦，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	一个很可怕的梦。
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	余晓鑫	那到底是有多可怕？被怪物追杀？还是说，是那种血腥的...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	都不是...
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf2
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	但远比那些梦要可怕得多。
+p	x	l	ss13	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	那是...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	一个，你不在我身边了的梦...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		当我把这句话说出口时，我们两人之间陷入了长久的沉默。
+s		我想从梦里逃出来，我想告诉自己，这里才是真正的现实...
+s		但是我做不到，因为...
+s		因为连我都不敢相信我说出口的话...
+s		我握住了她的手，那触感无疑是真实的。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		完全不是梦，这就是确切的现实，
+s		所以，一定，那之前的一切才是梦。
+s		连日来在梦境里的挣扎让我筋疲力竭，此刻，我终于安下了心。
+s		可那时，我感觉大街上所有人的眼神都不约而同地看向了我。
+h	x
+h	n
+b	black
+s		我闭上眼睛，试图让自己忘掉这种错觉，
+s		可不安感仍如同永不断绝的水流一般，慢慢地在心头淤积。
+s	？？？	到底哪一边，才是梦呢？
+s	？？？	宁，你真的敢于回答吗？
+s		不知是谁的声音在耳畔回响...
+s		这时，掌心传来的温暖的感觉让我重新清醒了过来。
+b	cof_n
+p	x	c	sf4	-	-	cloth:scf2
+s		我睁开双眼，
+s		看到的是一脸担忧的她，
+p	x	c	sf6	-	-	cloth:scf2
+s	余晓鑫	小宁，我就在这里呢...
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	我就在这里，哪里也不去！
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	所以说，放心好了，
+p	x	c	sf1	-	-	cloth:scf2
+s		她一如既往地安慰着我，我本应该感到安心才对...
+s		然而，脑海里响起的分明是...
+h	x
+b	black
+s	？？？	最讨厌你了！
+s	？？？	滚远点！
+b	cof_n
+p	x	c	sf4	-	-	cloth:scf2
+s		那是什么时候的听到的话语...
+s		为什么...我不记得...
+p	x	c	ss12	-	-	cloth:scs2
+s	余晓鑫	小宁，听我说，
+p	x	c	ss1	-	-	cloth:scs2
+s	余晓鑫	我绝对不会离开你的。
+s		但无论怎样，最后出现在我耳畔的，是这样的话语。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	明天...我们去散散心吧，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf2
+s		最后，我这么提议道，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	可能我最近想的事情太多了，记忆都有些混乱了。
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf2
+s	余晓鑫	嗯！
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf2
+h	x
+h	n

@@ -1,0 +1,128 @@
+s		缩在被子里的她这么抗议道。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	别闹了哦，感冒要好得快得多睡一会。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s		我边这么反驳着她，一边关上了卧室的床头灯。
+s		今天窗帘也拉得紧紧的，只能隐约从窗帘缝中透出的金光看出，现在已经是大天亮了。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	那，小宁你来陪我睡。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s		看着她委屈的表情，我知道，我再也无法拒绝她了。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+h	n
+p	x	c	sf16	-	-	cloth:scf3
+s		我轻轻把被子掀开一个小角，轻轻地躺了进去。
+s		然而，手刚伸进被子，就被她握住了。
+s		她的手很温暖，就像是热水袋一般。
+p	x	c	sf16	-	-	cloth:scf3
+s	余晓鑫	小宁，
+p	x	c	sf16	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	嗯，
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	你的手好冰，
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	是你的手太热啦~
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	这样子能睡着吗？还是说...
+s		然而，当我再看向身边时，她略微侧着的身子已开始均匀地起伏。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	真的像是个小孩子一样呢，还要妈妈哄着睡觉。
+h	x
+h	n
+b	ceilgl
+s		我看着天花板，陷入了沉思。
+p	n	c	sf12	-	-	cloth:scf5
+s	宁桐雨	小孩子，吗...
+s		之前她这样倚靠我，又是什么时候...
+s		哦，我想起来了，
+s		是去年。
+s		小鑫的外婆去世的时候...
+s		那时候刚听到消息的她，倒在我的肩上，止不住的泪水从她的眼眶滑落。
+s		而回到家的第一天，她也像现在一样，没了往日的活力...
+s		细想起来，小鑫在这个世上的亲人...
+s		就只剩她母亲一人了。
+s		不，按她的说法说，她的亲人还要加上我...
+s		我再次看向她的脸，
+s		这时，我发现她的脸上一直带着局促不安的表情。
+s		那种感情一直被压抑在乐观的面具之下，
+s		她肯定一直都很不安吧，几乎是孑然一身地生活在这个世界上。
+s		所以，从小开始，她才会这么执着于搏得他人的目光，所以，她才会这么重视和我的关系。
+s		平日里，她一直用假象掩盖着这一切，也只有在这时，她才会向我展露这一切。
+s		那倒并不是因为她不信任我，只是因为，她已经习惯于这样的生活了。
+s		有些面具，戴得太久，便再难摘下了。
+p	n	c	sf6	-	-	cloth:scf5
+s	宁桐雨	真的是，明明多依靠我一点也行，多坦率一点也行。
+s		我用她绝对听不到的声音低声地说着。
+s		到头来，我们俩都是不坦率的人啊。
+s		就这样，我一直躺到了傍晚，看了一眼手机，我起身准备去烧饭。
+s		可正当我坐起身时，睡梦中的她突然勾住了我的手指。
+s		她的力气还没恢复，但我还是被她拉住了。
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	小...小宁，别走好吗...
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s		我诧异地回过头去，在确认了我并没有吵醒她之后，我才安了下心。
+s		我拨开她额头的刘海，接着轻轻地亲了一下。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	我就稍微出去一下，很快就会回来的。
+s		我轻轻地抽出与她拉着的手，蹑手蹑脚地出了房间。
+h	n
+h	x
+b	dour1_c
+p	n	c	sf2	-	-	cloth:scf5
+s		半个钟头过后，当我端着碗走进房间时，她已经坐起了身。
+h	n
+p	n	c	sf2	-	-	cloth:scf5
+s		我笑了笑，将盛着粥的碗放到一旁的小桌子上，再次坐回到床上。
+p	n	c	ss1	-	-	cloth:scs5
+s	宁桐雨	感觉好点了吗？
+p	n	c	ss1	-	-	cloth:scs5
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	sf17	-	-	cloth:scf3
+s	余晓鑫	嗯，多谢。
+h	x
+p	n	c	ss1	-	-	cloth:scs5
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	sf17	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf17	-	-	cloth:scf3
+s	宁桐雨	哪里，肚子饿了吧，来吃晚饭吧？
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf17	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	小宁，你...没吃午饭吧？
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	其实早饭也没吃啦，没事，先伺候好你吧。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	对...对不起，都是我硬拉着你陪我...
+s	余晓鑫	我...我真的不该那么说的，都怪我太自私了。
+s	余晓鑫	我...我已经可以自己吃饭了，所以说，你先去准备自己的饭吧？
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s		我故意露出了不满的表情。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3

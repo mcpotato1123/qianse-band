@@ -1,0 +1,128 @@
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	太兴奋了嘛，毕竟，这算不算咱们俩的纪念日？
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	要说纪念日的话，估计你早就把表白的那一天给忘记了。
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	唔，高中的时候哪会记得今天是几月几号啊，不都是只记得那一天是礼拜几。
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	那干脆我们每个礼拜三都当成纪念日好了。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	宁桐雨	纪念得太多总会腻味的啦，这种事情就是要保持一定的新鲜感才行。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	余晓鑫	嗯，那倒也是。
+s		手不经意间碰到了一块，她旋即就和我仅仅地握在了一起，我感到她的手有些湿润。
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	今天不做了吗？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s	余晓鑫	小宁想要吗？
+p	n	l	sf24	-	-	cloth:scf3
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	没有啦，不都一直是你强行搞得吗？
+p	n	l	sf24	-	-	cloth:scf3
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	小宁喜欢强硬的？
+p	n	l	sf28	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	跟你，真的是没啥可聊的。
+s		我无奈地吐槽着。
+p	n	l	sf28	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	等明天回了家再说吧，在这里容易把床弄脏的。
+s		和我短暂地吻了一下之后，她摸了摸我的脑袋。
+p	n	l	sf28	-	-	cloth:scf5
+p	x	r	sf10	-	-	cloth:scf3
+s	余晓鑫	快睡吧，明早还得赶火车呐。
+s		说着，她就转过了身去。
+s		在黑暗中，我看不清她的表情，
+s		我唯一能感受到的就是我狂跳的心脏。
+s		燥热的脸颊始终无法冷却下来，愈发糟糕的念头最终转化为了实际的行动。
+s		我从背后搂着了小鑫，紧紧地贴着她的后背，
+s		紧接着，回忆着她之前做过的事，我缓缓地开始移动右手。
+p	n	l	sf28	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	小宁你啊，真是个不坦率的人。
+p	n	l	sf31	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	都怪你，刚才做了那种事又中途打断了，怎么让我睡觉嘛。
+p	n	l	sf31	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	好了好了，既然小宁硬要的话，也可以啦。
+s		说着，她转过了身子来，轻松地抓住了我的手，将我反过来按倒在身下。
+p	n	l	sf31	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	怎么样，是不是很不甘心？
+s		她笑着这么说，然后将脸凑了过来，亲吻着我的颈部。
+s	余晓鑫	以后要多锻炼哦？别老是当宅女啦。
+s		她凑到我的耳边这么说着，我能真切地听到她急促的呼气声。
+s	余晓鑫	就晚上这一点运动量可是远远不够的哦~
+s	宁桐雨	知道啦，知道啦，要做就快一点吧，别磨磨唧唧的。
+s	余晓鑫	诶？可是想做的不是小宁吗？
+p	n	l	sf11	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	呜，烦耶。
+s	余晓鑫	好啦，不挑逗你啦，你肯定已经忍不住了吧？
+s		说着，她拉过了被子。
+p	n	l	sf11	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	那咱们现在就开始吧？
+s		好好，二位女士，保持这个姿势别动，看着镜头哦，
+h	n
+h	x
+b	white
+b	black
+b	white
+b	black
+s		湛蓝的天空，飘飞的花瓣，将镜头拉近之时，两位少女印入眼帘，
+s		一般无二的雪白长裙，同样如月光一般的纯白头纱，
+s		以及最重要的，两人脸上那幸福的笑容，
+s		很像是什么电影桥段里才会出现的情节呢...
+s		这么说来确实有几分道理，喂喂，不如说那才是现实好吧...
+s		现实中自然不可能有能漂浮半个钟头还不落下的百花，窗外正下着大雨，自然也不会有这么好的蓝天。
+s		如你所见，我们正在婚纱照拍摄的现场，可一场意想不到的麻烦却让这原本的幸福一刻夹杂了些许折磨。
+p	n	c	base	-	-	cloth:default
+s	宁桐雨	小鑫，别再动了，
+p	n	l	base	-	-	cloth:default
+p	x	r	base	-	-	cloth:default
+s	余晓鑫	唔，还没结束吗？
+s	宁桐雨	黎明前的黑暗最难熬，所以说...
+s	余晓鑫	可是，照这么说的话小宁也不该再和我讲话了啊？
+s	宁桐雨	诶？
+s	余晓鑫	毕竟啊，你这么一动嘴，表情可不就要再调整一遍了嘛~
+s		她一边坏笑着一边这么提醒着我，看来她剩余的精力可要比我多得多...
+s		我轻叹了一口气之后，凭借记忆调好了表情，原本已经放下去的手也再次与她比到了一块。
+s		好的，三、二、一...
+s		快门闪动。
+s		摄影师向我俩比了个OK的手势后，我们俩立刻松散了下来。
+s		回过头去看着钟表，原来我已经在这椅子上坐了将近有一刻钟了。
+s	陌生人	二位，照片两天之后再来取哦？
+p	n	l	base	-	-	cloth:default
+p	x	r	ss21	-	-	cloth:scs2
+s	余晓鑫	谢啦。
+s		说着，小鑫拉着我的手离开了照相馆。
+h	n
+h	x
+b	strc_m
+p	n	c	sf2	-	-	cloth:scf2
+s	宁桐雨	你刚才看过照片了吗？
+h	n
+p	n	c	sf2	-	-	cloth:scf2
+p	n	c	sf2	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	嗯。
+h	x
+p	n	c	sf2	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	表情绝对没问题吧？我真的有在笑吧？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2

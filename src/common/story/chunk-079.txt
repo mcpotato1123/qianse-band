@@ -1,0 +1,128 @@
+p	n	r	sf21	-	-	cloth:scf5
+s	余晓鑫	唔嗯，就整天扯着各种理由走开。
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	sf21	-	-	cloth:scf5
+s	余晓鑫	都到这里了，就在我身边坐一坐嘛~
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf21	-	-	cloth:scf5
+s	余晓鑫	真的是，小宁你啊，可是一点都不懂少女心...
+s		其实并不是我不懂她的心思，只是坐在她的身边时我总是局促不安，心脏也跳得厉害。
+s		不过，既然她已经这么说了...
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf21	-	-	cloth:scf5
+s	余晓鑫	小宁，咱们大学毕业后就住一块吧？
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	嗯...我觉得没问题。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	真的吗？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss9	-	-	cloth:scs5
+s	宁桐雨	小傻瓜，你不是我的女朋友吗？不跟你住跟谁住啊？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	那就这样一言为定了哦？
+s		说着，她向我伸出了小手指。
+p	x	l	sf11	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	拉钩吗？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	你啊，可真是个小孩子...
+s		尽管嘴上这么说着，我还是把小拇指搭了上去。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	余晓鑫	一百年不许变哦~
+h	x
+h	n
+b	bdr
+p	n	c	ss3	-	-	cloth:scs5
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	说起来，净陪你在这里坐着了，咱们的行李都忘了归了。
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	这...这样嘛...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	那，我也来搭把手吧？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss1	-	-	cloth:scs3
+p	n	l	ss4	-	-	cloth:scs5
+p	x	r	ss1	-	-	cloth:scs3
+s	宁桐雨	你说得好像本来就想把所有的活儿推给我一样...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss1	-	-	cloth:scs3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss3	-	-	cloth:scs3
+s	余晓鑫	哪有~
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	相对我来说，小宁可是弱女子哦？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	在学校里就由我来保护你啦？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+p	n	l	ss4	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	...
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	您能别额外给我捅点篓子出来就成...
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+h	n
+h	x
+b	skidk
+s		第二天，听了一上午的讲座，参观了一下午的博物馆，晚上欣赏了爱国主义教育电影。
+b	skidk
+s		第三天，听了一上午的讲座，参观了一下午校区内的各个学院，晚上在为即将到来的文艺演出排练。
+b	skidk
+s		第四天...
+s		安排还是没怎么改变...
+b	skidk
+s		就这么一直混到了第五天，总算是盼来了个外出游玩的活动。
+s		一大清早我们就乘上大巴出发，目的地时城郊的一处博览中心。
+b	dawnsky
+s		等到我们乘车返回的时候，日头已经西沉，而在出口处排了将近一个小时队的我们也全然没有了来时的那股活力。
+s		所有人都在黑暗中闭着双眼，静静地等待着列车到站。
+s		心情早已差到了极点。
+s		一切对于夏令营的期待都早已消逝在了排队与酷暑中，现在已毫无踪影。
+b	busscho
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁...对不起...我，我不该...
+p	x	c	sf4	-	-	cloth:scf2
+s	宁桐雨	现在说这些已经没用啦，你看，今天晚上不是难得的休息日吗？
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	诶？休息日？
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	也就是说，今天晚上终于~终于没再安排别的乱七八糟的活动吗？
+p	x	c	sf1	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf3
+s	宁桐雨	说是这么说的...
+p	x	l	ss22	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf3
+s	余晓鑫	好耶~
+s		她有气无力地说着，显然，现在的她已经是强弩之末,完全不复往日的活力了。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf3
+s	余晓鑫	唔...我突然间又有了活下去的希望了...
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf3
+s	宁桐雨	人才不会这么轻易地死掉啦...
+s		这时，一抹夕阳突然照进了车厢内，原来是窗帘的一角在颠簸时漏了出来。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs3

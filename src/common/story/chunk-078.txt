@@ -1,0 +1,128 @@
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	呵，你到了宿舍能别给我拖后腿就成了，享受什么的，我可是想都不敢想。
+s	余晓鑫	诶？难道夏令营不就是像春游一样玩玩的吗？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf18	-	-	cloth:scf1
+s	宁桐雨	我可敲死你个十三点!
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	自己好好读读日程安排表再来跟我烦...
+s		说罢我把手上的小册子随手丢给了她，她立马看了起来。
+s		片刻之后，她就陷入了沉默...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	所以说，每天的上下午都是集体活动，晚上有晚会，留给我们的自由活动时间...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	每天加起来不超过两个小时。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	除此之外，还有三次集体外出的活动，地点要么是展览馆，要么就是偏远的郊区，每趟路都要花上四五个小时待在大巴上。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	唔...好像还要每天查寝呐~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	这那算是出来旅游啊...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	简直跟蹲号子一样嘛...
+s		我这么无奈地感慨道。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	不过啊，跟高中相比，这已经算是很轻松了，不是吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	至少每天还能有些新鲜事儿干，总不至于太过于无聊嘛~
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	革命的乐观主义精神~小宁，懂不懂嘛~
+s		她一边戳着我的胳膊一边这么说着，脸上的笑容依旧没有丝毫改变。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss9	-	-	cloth:scs1
+s	宁桐雨	太乐观的话，有时候也不算是件好事啊...
+h	x
+h	n
+b	skidk
+s		接下来发生了一桩好事和一桩坏事。
+s		好事便是，具体的行程安排与小册子上写的几乎一致，没有临时再去增添一些多余的活动。
+s		而坏消息便是...
+s		按照原来的安排来，对我们来说已经算是极大的痛苦了。
+s		班主任自然是陪同我们一道的，所以，忙里偷闲地玩会游戏肯定是想都不用想的，
+s		就算是想看漫画的话，也只有在回到宿舍之后缩在被窝里拿着电子书看这一种办法了。
+b	dawnsky
+s		第一天的傍晚，所有参加夏令营的同学聚在一道儿，开了一场长达三个小时的“动员大会”。
+s		当然，可以预见的是，会议的具体内容与动员毫无关系，
+s		先是领导的一个半小时讲话，接着是学生代表讲话，
+s		再接着是安全教育，学校文化宣传...
+s		到了九点半的时候，人群中开始骚动了起来，因为台上人的讲话提到了本次会议一词。
+s		然而，过往的经验这一次却失效了，接替原本台上人的是另一位在校的大学生。
+s		这之后，我们又以昏昏欲睡的状态听了半个小时。
+s		解散的命令总算是下来了。
+b	bdr
+s		当我拉着小鑫回到学校给我们订的酒店时，她方才从昏睡中醒来。
+p	x	c	sf6	-	-	cloth:scf3
+s	余晓鑫	唔...咱们回家了吗？
+p	x	c	sf6	-	-	cloth:scf3
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss9	-	-	cloth:scs1
+s	宁桐雨	这十天里，这里确实算得上咱们的家...
+h	x
+h	n
+b	bdr
+s		窄小的房间装修却还算得上不错，更可贵的是，这是一间双人间。
+s		要是跟其他人住在一个房间的话，我实在害怕她搞出些出格的举动引来什么不必要的关注。
+p	n	c	sf10	-	-	cloth:scf5
+p	n	l	sf10	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	那咱们一起睡吧？
+p	n	l	ss4	-	-	cloth:scs5
+p	x	r	sf4	-	-	cloth:scf3
+p	n	l	ss4	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s		可真是...瞬间满血复活啊...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	滚...没看见这是双人间嘛...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	凭什么嘛~小宁这就讨厌我了吗？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	床这么窄，半夜准得被你给挤下来！
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s		她转头看向墙角处的床铺，端详了好一会，最后还是放弃了这个打算。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	嘛，只是坐到一张床上聊聊天也不是不行。
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s		怕她再烦的我还是这么补充道。
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf11	-	-	cloth:scf3
+s	余晓鑫	那我就不客气啦~
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s		说罢，她就挨到了我的身边，
+h	n
+h	x
+b	bdr
+s		我们的肩膀碰到了一起，她的衣服上还带着淡淡的清香。
+s		我往旁边稍稍移了一点，因为挨着她太近让我总感觉有点头脑发热。
+p	x	c	sf4	-	-	cloth:scf3
+s	余晓鑫	说起来这算是咱们第一次同居呢...
+p	x	c	sf4	-	-	cloth:scf3
+s	余晓鑫	我是说，只有两个人在一起的那种同居。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	嗯，算是吧。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf21	-	-	cloth:scf5
+s	宁桐雨	要吃水果吗？我去帮你签个苹果来吃...
+p	x	l	ss1	-	-	cloth:scs3

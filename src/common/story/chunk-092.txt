@@ -1,0 +1,128 @@
+s		只要冷风还吹在我的脑门上，只要我的意识还保持清醒，我就不会受额外的折磨。
+s		渐渐地，我的嘴角也绽开了笑容。
+s		然而正当我以为一切都在向好的方向发展的时候，现实就立马打了我的脸。
+b	liv_e
+p	y	c	ss6	-	-	cloth:sc1
+s	杨老师	我说，小宁还记不记得高中时候的事儿？
+p	y	c	ss6	-	-	cloth:sc1
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	中学？...那个年代可有些久远了。
+p	y	l	ss11	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	嗐，你可能已经不记得了了，你第一次到我办公室来的时候，
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	那缩头缩脑的样子，估摸着还是怕自己犯了什么事儿呢。
+s		我尴尬地笑了几声作为迎合。
+s		表姐的脸上带着一丝红晕，或许是酒喝得有些多的缘故，她谈话的范围也不再拘谨了。
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	还有啊，小宁高中的时候整天就知道看书，
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	同学们周末周日出去玩，你好像从来就不关心似的。
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	现在回想起来，你是不是一直在用功读书啊？
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	那只是因为，就算带上我也只是累赘吧。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	杨老师	还有啊，还有啊，以前的小宁说话可软了，就像...糯米一样~
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	哪有这么形容人的。
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	杨老师	小宁一走了之后啊~学校里都没有学生会来心里办公室里做客了...
+s	杨老师	就算心理课成了必修课也没用，大家都把我当做一个普通的任课老师...
+s	杨老师	唔，根本就没有一个人像小宁一样在乎我啊...
+p	y	l	ss11	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	杨老师	可现在，就连小宁都开始疏远我了，姐姐我好伤心...唔...
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s		不知是情真意切还是表演心上涨，她居然脱掉了眼镜，开始抹起了眼泪。
+s		原来喝醉了还会假哭的嘛。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	如果真是这样我就不会来看你啦。
+h	y
+h	n
+b	dinner
+s		趁着她不注意，我把酒瓶拿远了一些。
+s		对应地，我把自己的玻璃杯推向表姐，她也并不顾忌。
+s		或许说，她也没法分辨面前的是酒还是水了。
+s		接着，她端起水杯，将玻璃杯里的热水一饮而尽。
+b	liv_e
+p	y	c	ss6	-	-	cloth:sc1
+s	杨老师	小宁啊。
+p	y	c	ss7	-	-	cloth:sc1
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	欸，我在呢。
+s		然而，她却站起了身，拿着水杯，坐到了我的身边的那张椅子上。
+s		肩上突然多了一分沉甸甸的感觉。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	杨老师	工作很累吧。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	嗯。
+p	y	l	ss4	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	杨老师	多来陪陪我吧。
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	我会的，也请您少喝点。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	杨老师	还有啊，话说我记得以前你上初中的时候...
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s		被无视了...
+h	y
+h	n
+b	liv_e
+s		这之后表姐就边说着之前的事儿，边数落着我。
+s		从初中抖落到高中，甚至大学时的事都能被拎出来。
+p	n	c	ss9	-	-	cloth:scs2
+s	宁桐雨	我总算明白这个女人为啥还是个大龄剩女了。
+s		我在心中无力地吐槽道...
+s		表姐似乎对这个话题乐此不疲，一聊就又过去了大半个钟头。
+s		当她喝完了半瓶的时候，我方才发觉事情有些不对劲了，
+s		可惜现在为时已晚，
+s		她的脸涨得通红，一只胳膊也已经搂住了我，
+s		我甚至能听到耳畔急促的呼气声，
+p	n	l	ss9	-	-	cloth:scs2
+p	y	r	ss8	-	-	cloth:sc1
+s	杨老师	小宁啊，我看着你从一个小丫头长成现在这样一个大姑娘。
+p	n	l	ss9	-	-	cloth:scs2
+p	y	r	ss8	-	-	cloth:sc1
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss8	-	-	cloth:sc1
+s	宁桐雨	嗯...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss7	-	-	cloth:sc1
+s	杨老师	再考虑一下吧...一起住的事情...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	我也不再想找其他人了，反正爹妈都已经抱到孙子孙女了，对我也失望到头了...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss8	-	-	cloth:sc1
+s	杨老师	让姐姐来照顾你，行吗...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss3	-	-	cloth:sc1
+s	杨老师	我会包容你的一切的，缺陷的部分也好，优秀的部分也好...
+p	n	l	ss4	-	-	cloth:scs2
+p	y	r	ss3	-	-	cloth:sc1

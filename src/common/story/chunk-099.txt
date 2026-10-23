@@ -1,0 +1,128 @@
+s	凌	见外了，我从没想过这种事。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	我从来就没想从你那儿得到任何好处~
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	毕竟嘛，能够身处此处便是我最大的享受了。
+s		作为回答，她只是对我说了这么一句意义不明的话。
+s		接着，她停下了打字的手，把笔记本合上。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	最近除了去实验室之外，有去过其他的地方吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	好像没有吧...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	怎么突然问起这个来了？
+p	l	l	ss14	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	没事啦，什么也没有~
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	看你不像是毫无目的性的样子。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	其实吧，我就是在想，你是不是到了该找个人的年龄了...
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	怎么问的问题简直跟我爸妈一样。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	凌	嘛，宁你都而是二十大几了吧，我就在想嘛，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	凌	感觉...这方面你至少心里会有个基本的打算吧，也就是大方向之类的。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s		经她这么一解释，我开始认真思考起了这个问题来。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	好吧，我只能说我暂时没那个打算，或许永远也没那个打算。
+p	l	l	ss4	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	当真？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	只代表现在的看法。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	即使你样貌并不差，生活压力也算不上太大？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	和这两样事情毫无关系吧？
+s		她只是笑了笑，只是重新打开了笔记本，往里面敲了一段字。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	我想真实的原因大概是心有所属了对吧？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	嗯哼，对不对？
+s		我冷漠地瞟了她一眼，并没有回答。
+h	l
+p	n	c	ss3	-	-	cloth:scs2
+s		接着，我从她身边走过，推门进了自己的房间。
+h	n
+b	m_bedroom
+s		房间很小，但物品摆放得却很整齐。
+s		在靠南侧的角落里，放着大后天火车上要一同带着的两只旅行包。
+s		桌子上，放着剩下要带上的物品的清单。
+s		剩下还没归好的东西大多都是一些衣物了。
+s		话说回来，似乎以前的我不怎么爱整理东西，
+s		所有习惯都是在上大学之后才养成的...
+b	black
+s		上大学之后...
+s		如果...
+b	m_bedroom
+s		可我旋即把这种想法扼杀在了摇篮里。
+s		因为那是没必要的事物。
+s		当我把所有的东西一件件地装进旅行箱后，不知不觉间天色已经暗下来了。
+s		我看向书桌上，没被规整完备的只有最后一样东西了，
+s		那是一本老旧的，水彩画封面的日记本
+s		看到它的那一刹那，我感到了一阵晕眩，所幸那并没有持续太久，
+s		接着，我把它塞到背包的最上层，就大功告成了。
+s		我喜欢这样的感觉。
+s		一切都会被计划好，没有人会来妨碍我的计划。
+s		我也确信，这才是最符合我内心愿望的生活。
+s		伸一下懒腰，喝一口刚泡的茶，我推开卧室的门，回到了客厅。
+b	liv_e
+s		客厅里的灯仍然开着，桌上还摆着一台亮着屏的笔记本电脑。
+s		可沙发上却空荡荡的，一个人也没有。
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	奇怪...
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	明明我一直都是一个人住的，怎么会觉得我会和别人合租呢...
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	可刚才...
+s		思考无法得出结果，于是我决定把它暂且搁置。
+s		我静静地坐下，打开电视。
+s	广播声	近年来，我国青少年抑郁率与轻生率不断提高...
+s	广播声	专家建议，完善减负措施，健全心理咨询机制是...
+s		我轻轻按了下遥控器，把它调到了电影频道。
+s		我看了看节目表。
+p	n	c	ss9	-	-	cloth:scs2
+s	宁桐雨	果然，睡前放的还是恐怖电影...
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	就跟以前...一模一样。
+p	n	c	ss4	-	-	cloth:scs2
+s		说回来，放假...
+s		真是一个久远的名词。
+s		我跟这个词已经绝缘了快有半年了。
+s		自从我正式毕业之后，就感觉自己一直在忙个不停。
+s		直到现在，生活终究是按下了暂停键。
+s		突然一下子闲了下来，感觉好不习惯啊...
+s		除了工作之外，我甚至都不明白生活还有什么意义，
+s		那或许也是因为我过度孤独的原因...
+s		但片刻之后，我便停下了胡思乱想，
+s		因为再任由其发展下去，我就会再度回想起那件事情了...

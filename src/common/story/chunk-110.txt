@@ -1,0 +1,128 @@
+p	n	l	sf6	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	嗐，无论怎么样，她都会早到的，她就是那种性格的人。
+s		我低头看向手腕上的机械表，指针指向了四点四十四分。
+h	n
+h	l
+b	black
+b	restaurnt_n
+p	y	c	ss6	-	-	cloth:sc1
+s	杨老师	感觉这几年来小宁越来越憔悴了啊？
+p	y	c	ss8	-	-	cloth:sc1
+s		坐在对桌的老姐托着腮，眼神游离在菜肴之外，显得颇为忧虑。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	如果是有源可寻的话，倒也罢，最让我困扰的还是这种毫无根据的忧愁感。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	就好像一直有一团乌云蒙在胸门口上一样。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	最可怕的是，我也不知道它从哪里来，怎么样做才能吹散它。
+s		老姐只是默默地点了点头。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+s	杨老师	看起来确实很严重啊，话说你上次在我家也做了噩梦吧？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs2
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	噩梦倒也不至于吧。
+s		看着眼前铺满的盘子，我这才意识到我的生活已经糟糕到了什么地步。
+s		食物的香气从未像如今这般使我陶醉。但出于礼貌，我只稍夹了些小菜，不然狼吞虎咽的样貌实在不太淑女。
+p	y	l	ss11	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+s	杨老师	没事啦小宁，饿了就多吃点。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs2
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	这样子我会不好意思的啦，老姐你呢？坐了半天的地铁不累吗？
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	杨老师	其实反倒是坐了半天的地铁导致我没什么食欲。
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s		说着她无奈地笑了笑。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	杨老师	没必要在乎我的想法的啦，放心吧，你我之间还客气什么。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s		听了表姐的话，我也不好再多说什么，只得继续拿起筷子，默默地吃起来。
+s		自始至终，老姐都保持着沉默，预想中那个话痨的她并没有出现。
+s		照例说我们聚会的氛围本不该那么尴尬才对，或许她在等我先开口吗？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+s	杨老师	差不多该跟姐姐说说了吧，这几年小宁在干什么呢？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf2
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	唔...其实也挺简单的吧。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	就是处于拿了点薪水就混吃等死的状态吧，
+p	y	l	ss4	-	-	cloth:sc1
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	毕竟我一直都缺乏追逐什么目标的动力。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf25	-	-	cloth:scf2
+s	杨老师	哦，二十小几已经日薄西山了吗？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf25	-	-	cloth:scf2
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	或许只是因为心态的变化？总之，我越来越难找到能让我感到热情的事物了。
+s		我们两人又陷入了沉默。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	你应该多去找一些能让你燃起热情的东西。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	比如玩玩游戏，看看电影，学学打扮。
+p	y	l	ss7	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	跟好闺蜜去逛逛街，试试各种奶茶店和点心店。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	别整天点外卖，再一直租房公司两直线的话，人可是会发霉的。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	不过，这些不都是老姐喜欢的事儿吗？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	我觉得这应该是一般女孩喜欢的事儿。
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	您也觉得我很不正常？
+p	y	l	ss11	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf2
+s	杨老师	唉，工作狂，快三十了还没找个伴，整天穿的拘谨得要死，又对生活起居变态般的讲究，你说呢？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf2
+s	杨老师	这哪一个算是正常女孩儿干的事？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	最后一个的话，只是因为老姐比较邋遢吧。
+p	y	l	ss4	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	我跟你说，你别老打岔!
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	动不动打断长辈算什么？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs2
+s	杨老师	从明天起，开始哦，我会来监督你的。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	好好好，辛苦您啦。
+s		我招招手，示意服务员把剩下的菜打包带走。
+s		等到一切收拾干净之后，我整好了衣服，和老姐一起走出了餐馆。
+h	y
+h	n
+b	strc_n

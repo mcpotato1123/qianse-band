@@ -1,0 +1,128 @@
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	当然咯~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	那这次小宁跟我一起去咯，毕竟咱还没拍过什么两人照呢。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	可大家都是一个人啊...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	喂，很痛的嘛，旁边还有人呐。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s		我使劲地掐了掐跟她紧握在一起的手。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	话说你还没补偿我因为迟到等你这么久的损失呐。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	所以我都说了，那是意外...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	唔...当然我肯定会跟你一起去的啦。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	毕竟跟你在一起这么久了我也明白的，跟你闹脾气是绝对没好下场的...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s		她这么小声嘀咕着。
+h	n
+h	x
+b	skyngt
+s		这之后的事情实在是没有什么好提起的了。
+s		任课老师们一个接一个地上台发言，感谢与同学们相伴的这两年时光。
+s		接着是各个班干部的发言。
+s		当然我也上去讲了一段，不过内容我早就忘得一干二净了。
+s	同学们	天下没有不散的宴席...
+s		台上的主持人这么说完结束语后，就宣布了散会。
+s		同学们拎起书包，相伴着走向大门。
+s		我和小宁一起加入了人流中。
+b	strc_n
+s		一走出酒店，一股热风就扑面而来。
+s		毕竟是夏天嘛。
+s		我这么想着。
+p	n	c	ss3	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	说起来，我们班上有没有一个姓凌的同学啊？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s		突然间，毫无缘由地，小宁这么问道。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	唔...姓凌的同学...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s		我仔仔细细地回忆了一遍。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	我敢打包票，肯定是没有的。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	哦，好...好吧。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	怎么突然问起这个？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	没有，就是我总感觉...好像有这么一个人...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	究竟是在哪里...
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	是梦里吗...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		我悄悄地走到了她的身边。
+s		然后猛地拍了下她的肩膀。
+s		小宁居然被吓得哆嗦了一下。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	喂，很吓人的啦。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	别老是想着那些虚无缥缈的事儿啦，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	哪有人当着女朋友的面心里想着另一个女人的。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	难道说，小宁想要当海王吗？
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	你...你怎么凭空污人清白！
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	嘿，你说我没证据？那我就抖落出来给你看看...
+h	n
+h	x
+b	skyngt
+s		就这样，这个话题被一带而过了。
+s		我们仍像往常那样闲聊着。
+s		这样的日常，总算是持续了下去。
+b	skidk
+s		转眼间，时间就来到了暑假。
+s		跟小宁约好了一起去附近的一座海滨城市里转转。
+s		毕竟我们俩一直生活在内陆城市，从没有机会去看海。
+s		因此，我们为这次旅行可以说是做足了准备。
+s		临出发的前一天，和小宁聊了一整个晚上。
+s		最后还是因为我实在熬不了夜才在凌晨一点挂断了电话。
+b	dawnsky
+s		第一次来到海畔的我们自然发了疯似地享受了一整晚，
+s		第一次尝试了海鲜大排档，第一次踩着沙滩边的夕阳回到宾馆，
+s		就算到了深夜还在电视上看了好几部电影。
+b	black
+s		当然，最重要，最重要的是，
+s		在那个晚上，我终于履行了和小宁的约定。
+b	seashell

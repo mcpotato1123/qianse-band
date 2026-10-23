@@ -1,0 +1,128 @@
+p	x	c	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	好啦，咱们快点进去啦，小鑫还等着晚饭呐...
+s		就这样，我把老姐推搡着进了厨房。
+h	y
+h	x
+h	n
+b	liv_e
+p	n	c	sf14	-	-	cloth:scf2
+s	宁桐雨	所以说啊，老姐你就对自己乱糟糟的内务毫无感触吗？
+p	n	l	sf14	-	-	cloth:scf2
+p	y	r	ss8	-	-	cloth:sc1
+s	杨老师	诶？那个，每天回到家都要七点了，难道首要任务不是先放松一会吗？
+p	n	l	sf14	-	-	cloth:scf2
+p	y	r	ss3	-	-	cloth:sc1
+s	杨老师	我每天回家先洗个澡，还要备案个一个半小时，之后再追两个小时的剧，十一点半就睡了。
+p	n	l	sf14	-	-	cloth:scf2
+p	y	r	ss1	-	-	cloth:sc1
+s	杨老师	我感觉我都比咱同事生活作息健康多了。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss1	-	-	cloth:sc1
+s	宁桐雨	...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	喂，小宁，别这么看着姐姐我啦。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss3	-	-	cloth:sc1
+s	杨老师	我说小鑫啊，你也快帮咱说几句啦，今天小宁怎么就追着咱不放呢...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	r	ss3	-	-	cloth:sc1
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss3	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	这个嘛，我还是只能说，打铁还需自身硬啦~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss3	-	-	cloth:sc1
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	对着客观事实我也实在不好说什么啦~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	ss10	-	-	cloth:scs2
+s	杨老师	小鑫，你可是跟姐签过同盟协议的，怎么先向小宁投降了呐~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	ss10	-	-	cloth:scs2
+p	n	l	sf12	-	-	cloth:scf2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	ss10	-	-	cloth:scs2
+s	宁桐雨	嗯？那是什么？
+p	n	l	sf12	-	-	cloth:scf2
+p	y	c	ss8	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	sf12	-	-	cloth:scf2
+p	y	c	ss5	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s		我立马转过脸去对向了身边的她，
+p	n	l	sf12	-	-	cloth:scf2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s		从她那一脸惊恐的表情就能看出来，我脸上准没啥好脸色。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	你赶紧给我解释解释，不然有你好看的。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	那个...我曾经年少轻狂，犯下了过错，嘛...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	就是以前姐跟我说过，要是小宁来骂咱俩不争气，咱俩要互相说点好话，嗯...就这样。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	你们俩还是小学生吗？搞得一帮子什么鬼玩意。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	对啊，所以我自从和小宁同居了之后就突然成长了，或者说，一旦真正持家了就成熟了啊~
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	这种小孩子气的东西我肯定不会遵守的啦。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	你看，我这不就自己招供出来了嘛...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	杨老师	我说小鑫啊，才半年，你怎么就被小宁给训得服服帖帖的啦？
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	唔，因为我每天是和她同住啊？就算我跟姐你签了这条约，明显是对你有利啊？
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss1	-	-	cloth:sc1
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss10	-	-	cloth:sc1
+p	x	r	sf8	-	-	cloth:scf2
+s	杨老师	额...
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss10	-	-	cloth:sc1
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss10	-	-	cloth:scs2
+p	y	c	ss10	-	-	cloth:sc1
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	不愧是我明事理的青梅竹马~
+p	n	l	ss10	-	-	cloth:scs2
+p	y	c	ss10	-	-	cloth:sc1
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	嗯？我怎么记得前天修饰青梅竹马的形容词的语义和现在还是相反的来着？
+p	n	l	ss10	-	-	cloth:scs2
+p	y	c	ss10	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf22	-	-	cloth:scf2
+p	y	c	ss10	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	嘛，人都是会变化的，就像现在的小鑫也和过去的自己划清界限了一样，
+p	n	l	sf14	-	-	cloth:scf2
+p	y	c	ss10	-	-	cloth:sc1
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	知错能改，善莫大焉嘛~
+s		接着，我转过脸去正视着老姐。
+p	n	l	ss3	-	-	cloth:scs2
+p	y	c	ss10	-	-	cloth:sc1

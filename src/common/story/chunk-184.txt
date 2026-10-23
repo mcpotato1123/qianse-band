@@ -1,0 +1,128 @@
+s	余晓鑫	放心啦，本身就是一点小事情，我根本就没放在心上啦，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	你还不相信你阳光开朗的女朋友嘛！
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	呵，阳光开朗。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	要是能相信就有鬼了！你个家伙，自从升上高三就从没让我省心过，
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	眼看还有两个月就要高考了，还要来给我添堵...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s		终于，她还是恢复了以往的语气，开始了对我无死角的攻势。
+s		不过，我大概能猜到，她并不是想把这件事给掩饰过去，
+s		凭我对她的了解，我大概能猜出她只是在向我传达一个再简单不过的信息：
+s		“不用担心，这件事和咱俩的私事无关，我只是在站在同学的立场上担心你而已。”
+s		释然的我也放下了内心的戒备，对她露出了微笑，
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s		然而，她却果断地弹了下我的脑门，
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	很痛的，干嘛吗...就真的不知道珍惜眼前人...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	到你打饭了！还没看到后面同学的表情嘛...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	对不起，我现在就去...
+h	n
+h	x
+b	lib_m
+s		心理办公室吗...
+s		说起来，真的有将近两个礼拜没来这里了啊~
+s		高三下学期一开学，老师就立马宣布了一模的消息，
+s		这之后，所有学生都进入了备考状态。
+s		而在紧接而来的考试中，我只拿到了第五名。
+s		看到成绩单的那一刻，我的心猛地一紧，
+s		我已经保持在班级前三将近一整年了，而在这么重要的模拟考试里，我却发挥失常了。
+s		或许发挥失常一词用的不那么准确。
+s		因为我内心是清楚的，我只是回到了自己原来的位置上而已。
+s		随着复习的结束，大家把基础知识的漏洞补齐之后，我在这一方面的优势就不太明显了。
+s		另一方面，对于最后几道压轴题，我一直都做不过班上的尖子生们。
+s		所以，排名的退步也是意料之中的事...
+s		我本该就这么对排名退步释然的来着...
+s		可结果却是，内心却在抗拒接受这一事实，
+s		明明我已经绷紧神经整整两年了，可凭什么你们凭区区一个学期就能追上我呢...
+s		回看过去两年经历的我这么无奈地感叹着，
+p	n	c	ss1	-	-	cloth:scs1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	如果除去和小宁在一起的时光，我在高中里就只有试卷和考试作伴...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	为了高考，我甚至把最后一丝休息的时间都舍弃了...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	结果熬过了整整两年，明明就快要保持到最后了，但是...
+s		我的声音越发颤抖了起来，可坐在我身边的她仍然一言不发，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	说实话，当然是有点不甘心啦...好不甘心就这样...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	但是，现实也就这么摆在我面前，也没法改的
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	我也知道的，那些道理，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	什么过去的已经没法改变了，人有失手，马有失蹄什么的...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	所以说，我还是会选择去接受啦。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	但是，心里总是...总是会不自觉地去想那种事情...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	现在跟小宁把牢骚话说完了之后，心里就感觉好多了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	呼~好了，我把心里的话都吐槽完了哦...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	刚才的话，我绝对没有一句在骗小宁哦？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	这，真的就是我心里在想的事情了。
+s		在我讲述的整个过程中，小宁都始终保持着沉默。
+s		她的眼珠子静静地看着窗台上的吊兰，手指上的小动作也停了下来。
+s		既像是在细心地听着我的话，又像是在仔细思考着什么。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	小鑫，要膝枕吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s		听完我讲的话之后，她只是默默地这么说道。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	诶？今天小宁怎么这么主动？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	算是一点...歉意啦...
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	对不起，我之前一直都觉得，小鑫是因为退步了几名才闷闷不乐的...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	当时我甚至还有点小心眼，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	想着啊，明明你只是掉了几名，就不开心成这样，也不考虑考虑我的感受...
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	结果，还是我那个...误解了。
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	没事啦！我从来就没在意过嘛。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1

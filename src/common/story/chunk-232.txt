@@ -1,0 +1,128 @@
+s	余晓鑫	夏天又快来啦，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	哦，对了，说起来暑假也没几次了，要不出去逛逛？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	我都行。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		尴尬的气氛始终萦绕在我们周围，尽管她依然是一脸毫无所谓的表情，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	最近几个月，咱们在一起的时间也越来越少了，
+s	余晓鑫	明明我之前记得天气转暖的时候，咱俩在一块的时间会变多来着...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	诶？是吗？夏天我倒是有精力出去逛逛，冬天我可只想窝在被窝里，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	从这个角度来看，无论如何都是冬天在一起的时间更多吧？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	可是，高...高中的时候，跟小宁表白也好，被小宁安慰也好，以及...
+s	余晓鑫	以及我们两个人去的毕业旅行也好，都是在夏天的...
+s	余晓鑫	所，所以，现在突然间...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		可就在这时，我的手心处传来了冷冷的感觉，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	小宁...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	听好了，咱们现在可是大学生了哦，高中的事情不要再提。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	余晓鑫	我知道的，可是...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	我讨厌高中，写不完的作业和考不完的试，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	余晓鑫	可那明明是我们俩的起点...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我们俩的起点是在小学里啊？小傻瓜，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	也，也是啦...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	况且，我们俩真正整天腻在一块也只有大一大二这两年而已，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	所谓的吃饭睡觉全在一块，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf1	-	-	cloth:scf2
+s	余晓鑫	还有将来工作了之后，
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf1	-	-	cloth:scf2
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	可那时候咱们肯定上班不在一块的啊？
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	那...那我就和小宁去一个单位里。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	别犯傻啦，真的是，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	还是按照实际情况走一步看一步地来吧。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	小宁是讨厌我了吗？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	怎么会呢？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	那为什么要拒绝我？为什么总是找各种借口出去？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	只是因为我真的有事而已啦...别多想，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf16	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf16	-	-	cloth:scf2
+s	余晓鑫	难道是因为小宁不像之前那样对我感兴趣了吗？我也知道，毕竟我们在一起太久了，小宁可能早就对我厌倦了...
+p	x	l	sf4	-	-	cloth:scf2

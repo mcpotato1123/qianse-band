@@ -1,0 +1,128 @@
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	小姐，为什么...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s		话到嘴边，我果然还是犹豫了。
+s		不过，这对我来说是关乎一切的大事，所以，决不能在此停手。
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	为什么最近小姐总是用那副表情对我呢？难道我做错了什么吗？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	唔...女仆酱你真的没注意到？
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	女仆	诶？注意到？注意到什么...
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	主人	注意到你对我的态度啦，真的是，你是我的恋人！
+h	xj
+p	n	c	sf12	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	主人	我们亲过嘴，做过爱，换过衣服洗过澡，你还整天主人主人小姐小姐地叫我，
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	多疏远你不清楚吗，真的是，就直接喊我名字就好了嘛...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	不想跟你说话了！
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s		说着，她一甩门，咚地一声巨响后，客厅又重归于寂静。
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s		原本盛在汤勺里的蘑菇汤洒了满满一餐巾。
+s		我怔怔地看着卧室的门，脑海中一片空白。
+s		喊名字...
+s		可小姐的名字，是什么来着？
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s		我突然意识到，自从我到了这座庄园之后，我甚至连小姐的名字也不知道。
+h	n
+p	xj	c	anger	-	-	cloth:default
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs8
+s		她是不是在什么时候提过...
+s		不，是肯定提过吧，毕竟我们俩已经相处了十五年了。
+s		可霎时间大脑一片空白的我却什么也想不起来。
+s		或许，有提示词的话会更容易想起来...
+s		提示嘛...
+s		听说提到相近的词语的时候就更容易想起要回忆的事物...
+s		那就先随便想几个词吧...
+s		天空，大海，星星...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s		星星...
+h	n
+p	xj	c	anger	-	-	cloth:default
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s		就在那一刹那，我回想了起来。
+s		小姐曾经跟我说过，希望我叫她，
+s		小星...
+s		小星...
+s		小鑫？
+s		那又是...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s		那不就是...
+s		我的恋人的名字...
+s		就这样，在小鑫的梦里，我再一次回想起了现实。
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s		我拉开抽屉，翻出了便签纸和笔，酝酿片刻之后就写下了这样一张字条。
+h	xj
+h	n
+b	ex_note
+s		当你看到这张纸的时候，请你试着回想起这一切。
+s		这里是世界的尽头，也是被遗弃的梦境。
+s		在围墙修建好之前查明小姐担忧的事情，并把她带进梦里。
+b	ex_mansion_restaurant_night
+s		接着，我将这张便签纸撕下并叠好，塞进了上衣的口袋里。
+p	n	c	ss3	-	-	cloth:scs8
+s		小鑫她，究竟在担心些什么呢...
+p	n	c	ss3	-	-	cloth:scs8
+s		为什么，为什么连一点线索都不肯透露给我呢？
+s		就算是在这个梦里，她也总是在劝我不要去关心除生活以外的事情。
+s		明明之前...
+p	n	c	sf12	-	-	cloth:scf8
+s		对，明明之前，
+s		这就是我感到矛盾的根源。
+p	n	c	sf6	-	-	cloth:scf8
+s		明明之前的小鑫总是很乐于和我分享烦恼，我也会很热衷于倾听。
+s		毕竟她是世间最爱我的人，我对她也抱有同样的情感。
+s		换句话说，私心让我认为，她总是会与我分享一切。
+h	n
+b	ex_mansion_bedroom_night
+s		我拿起了抹布，借着打扫的借口在房间内巡视了起来。
+p	n	c	sf8	-	-	cloth:scf8
+p	n	c	sf8	-	-	cloth:scf8
+s		嫉妒，嫉妒，嫉妒。
+s		我的内心燃烧着嫉妒的火焰。
+h	n
+p	n	c	sf8	-	-	cloth:scf8
+s		虽然在现实中我从来没把性格中的这一面表露出来，不过，它现在就真切地存在在我的脑海里。
+s		我讨厌小鑫把事情瞒着我，也讨厌自己不曾了解过的她。
+s		或许这种感情始终存在在我的心里，只不过过去的她太过于专一，以至于没有给独占欲表现的机会。
+s		而此刻，干柴被浇上了汽油，嫉恨的火就这样爆燃着。
+s		我仔细翻找着庄园里的每一个抽屉，想在里面找出什么有价值的信息。
+s		尽管我对这里的结构了如指掌，可就算是凭借浏览要想找到目标物件也绝非易事。
+s		书架上的书本，床头的童话故事里全都写满了我和她发生的往事，
+s		但此刻，这些珍贵的回忆都被我像废弃物一般归进了仓库里，甚至连一瞥都不愿给予。
+p	n	c	sf8	-	-	cloth:scf8
+s		我的心头只有那远在天边的线索，仿佛找不到它天就会立马塌下来一般。

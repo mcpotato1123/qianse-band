@@ -1,0 +1,128 @@
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	可我...可我没给别人看过...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	是暑假刚开始的时候，你借我平板的时候我偶然间看到的啦。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	你，你怎么乱翻别人的文件呐！
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	余晓鑫	可谁叫小宁把这些东西放在阅读栏的最上面嘛~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？是，是嘛...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	总算哑口无言了？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	对，对不起...我...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	小宁看漫画的时候是把自己代入受的一方还是攻的一方呢？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	我，我只是在欣赏故事而已，没有想过当主角。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	那，小宁今晚就要当主角了哦？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+h	x
+p	n	c	sf6	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s		说着，她不怀好意地凑到了我的耳朵边，轻轻地吹了口气。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s		不知为何，我全身也随之哆嗦了一下，脸也跟着变得燥热了起来。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf3	-	-	cloth:scf2
+s	宁桐雨	那，那种事情随便好了，
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf3	-	-	cloth:scf2
+h	x
+p	n	c	sf3	-	-	cloth:scf2
+s	余晓鑫	行吧，那咱就先回去洗澡吧。
+p	n	c	sf3	-	-	cloth:scf2
+s	宁桐雨	哦，好，好吧。
+p	n	c	sf3	-	-	cloth:scf2
+s		小鑫自然是哼着歌、迈着轻快的步伐走在前面。
+s		我则从袋子里掏出那只烤鱿鱼，一口一口地吃了起来。
+s		不知是不是过于紧张的原因，原本明明很喜欢吃海鲜的我此刻却尝不出其中的味道来。
+h	n
+b	black
+b	dour_c
+s		吱~
+s		小鑫熟练地插进了房卡，旅馆内的灯瞬间亮了起来。
+s		不知为何，原本再普通不过的室内布局此刻对我来说也陌生了起来。
+s		我们俩订的是一间普通的双人间，两张床是分开的，可每张床的宽度却很大，足够睡下两个人。
+p	x	c	sf10	-	-	cloth:scf2
+s	余晓鑫	就是这里了呐~
+s		我看着一脸兴奋的她，心中却充满了忐忑。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	紧张吗？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	哪有...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	腿在发抖哦？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	少管...
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	余晓鑫	好啦，就先不调戏小宁你啦，那咱们来办事情吧？
+s		说着，她拉着我的手走进了浴室。
+h	x
+h	n
+b	black
+s		也就是在那个晚上，我们俩终于将在漫画上读了无数遍的那种事付诸了实践。
+s		在甜蜜感消逝之后，残留在我们心头的只有无边的疲惫。
+s		当午夜悄然来临之时，我们俩穿好了衣服，重新躺回了被窝里。
+p	n	c	sf22	-	-	cloth:scf5
+s	宁桐雨	晚安...
+s		我本想用这话为这段不凡的初体验画下句号，可话音刚落，她把嘴巴凑到了我的脖子上，
+p	n	c	sf6	-	-	cloth:scf5
+s	宁桐雨	好疼啊...
+s		就这样，她在我的脖颈上留下了一个吻痕。
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf10	-	-	cloth:scf3
+s	余晓鑫	这样小宁就是我的所有物啦~
+p	n	l	sf8	-	-	cloth:scf5
+p	x	r	sf10	-	-	cloth:scf3
+s	宁桐雨	蠢货，会被人看出来的...
+s	余晓鑫	没事啦，明天咱们不是去海洋馆吗？现在是淡季，没什么人的啦~
+p	n	l	sf8	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	要是被问到的话，就说是过敏就好了~
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	喂，到底是什么时候说的要去海洋馆的啊...
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	临时决定的~
+p	n	l	sf8	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	宁桐雨	不要总是临时起意！
+s	余晓鑫	嘿嘿，小宁你啊，将来总要接受我的一切的啦~
+p	n	l	sf8	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	先从享受每天晚上的甜蜜时光开始~
+p	n	l	sf3	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	别总把这种事情挂在嘴边...
+h	x
+p	n	c	sf3	-	-	cloth:scf5
+h	n

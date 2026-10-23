@@ -1,0 +1,128 @@
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	这可不就是公共场合嘛喂，算了，行吧，
+s		旋即电话便挂断了，
+h	x
+h	n
+b	black
+s		穿好衣服的我下了楼，退完房之后乘公交车回到了学校。
+b	ex_garden
+s		我们的马车停在郡主家的后院中，一群打扮和我很像的女仆接着小姐下了车。
+s		自然我先向领头的女仆长报告了我们的来意，可她却似乎并不怎么理解。
+s	女仆长	突然间想要来我们这儿一趟？
+p	n	c	sf2	-	-	cloth:scf8
+s	女仆	嗯，小姐是这么说的。
+p	n	c	sf2	-	-	cloth:scf8
+s	女仆长	你们一路上乘马车花了几天？
+p	n	c	sf2	-	-	cloth:scf8
+s	女仆	大概两三天的样子。
+p	n	c	sf2	-	-	cloth:scf8
+s	女仆长	真是胡闹！
+p	n	c	sf6	-	-	cloth:scf8
+s		听了我的话，女仆长不由得这么嗔怪道。
+s	女仆长	两个小女孩就乘一辆马车，既没有侍卫也没有盘缠，
+s	女仆长	万一小姐有什么闪失，你负担的起吗？
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆	唔...
+s	女仆长	原先小姐提出要回来的时候，你怎么没多劝劝她？
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆	那个...
+p	n	c	sf6	-	-	cloth:scf8
+s		我稍有些忐忑地看着女仆长的眼睛，心中不断思考着能糊弄过去的借口。
+s		眼见着她眼神中的杀气越来越浓，越来越明显，我的心跳得也越来越快。
+s	女仆长	嗐，你啊，就是一直太惯着她了...
+s		可最后，女仆长还是用一句无可奈何的话做了结尾。
+s	女仆长	赶紧换好衣服来帮忙吧，小姐的那些脾气也只有你最懂。
+p	n	c	sf1	-	-	cloth:scf8
+s	女仆	是。
+p	n	c	sf1	-	-	cloth:scf8
+s		我松了一口气，跟上她的脚步踏进了宅邸内。
+h	n
+b	ex_royal_room
+p	n	c	ss1	-	-	cloth:scs8
+s		十五年之前，我就是从这里开始的旅途。
+s		而最后一次回到此处也已经是五年前的事情了。
+p	n	c	ss3	-	-	cloth:scs8
+s		自从小姐成年以后，她与外界的联系就越来越微弱。
+s		更不如说，是小姐在刻意地减少着与外面的联系。
+p	n	c	sf6	-	-	cloth:scf8
+s		原先总喜欢往旁边小镇上乱跑的她，现如今我硬拉着她也不肯去了...
+s		时间对人的摧残可真大啊~
+s		当我这么想着的时候，我也在宅邸里搜寻着那几个熟悉的身影。
+s		我在找着那几个一同被招进府上的女孩，
+s		尽管每年被选进宅邸的女孩很多，可最终只有我被选为了小姐的贴身女仆。
+s		我是五岁进的这座大院，在被分派给小姐之前，我还过了一年与其他女仆一样的生活。
+s		尽管那时的我们还小，只能跟着长辈们一块学习一些生活中的技能，但那时的女孩也有了拉帮结派的意识。
+s		咱们以后要是哪个攀上了好人家，一定不要忘了大伙~
+s		说起来她们临走前也是这么跟我说的。
+s		可之后每一次回来探亲时，我却总是忙着处理小姐吩咐的事情，完全没能有机会去找她们。
+s		倒不是说要去故意找啦，如果偶遇的话...
+s		于是，我一边抱着这样的心思，一边打扫着小姐的房间。
+s		门口来来往往的女仆估摸着有十来个了，可我还是没瞅见那几个熟悉的身影。
+s		难不成是过了五年，我连她们的脸都认不出来了吗？
+s		可当我仔细回忆先前经过的女仆之时，我才察觉，先前从我身前经过的居然都是我的前辈们。
+s		跟我一块进来的那些女孩呢？
+s		我实在是按捺不住心头的困惑，于是在午饭的时候向女仆长这么问道。
+s	女仆长	她们啊，本来就是父母送进来补贴补贴家用的，
+s	女仆长	现在家里又缺少织衣服的女工，自然就回去咯。
+p	n	c	sf12	-	-	cloth:scf8
+s	女仆	诶？她们...回去了？
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆长	不如说只有像你这样自幼没了家的孩子才会被留下来吧...
+s	女仆长	怎么，难不成你们姑娘之间还约定了彼此留个挂念的吗？
+s	女仆长	如果是这样的话，我把她们家在何处告诉你也无妨。
+s	女仆长	你抽空陪小姐去探望下便是，毕竟她们也于你有恩...
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆	不，不用了...
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆长	诶？那你问这个干嘛？
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆	只...只是有点好奇而已...
+p	n	c	sf6	-	-	cloth:scf8
+s	女仆长	小姐马上就要回屋子里了哦？早点把床铺好，别把女仆的本职工作都给忘掉了！
+p	n	c	sf12	-	-	cloth:scf8
+s	女仆	是...是！
+h	n
+p	n	c	sf12	-	-	cloth:scf8
+p	n	c	sf12	-	-	cloth:scf8
+s	女仆长	虽然我不知道为什么你一回到府上就畏手畏脚的，明明你以前还蛮能干的来着...
+s	女仆长	下次我到这里来巡查的时候可一定要办完哦？
+p	n	c	sf13	-	-	cloth:scf8
+s	女仆	那是...
+p	n	c	sf13	-	-	cloth:scf8
+s	女仆长	半个时辰之后~
+p	n	c	sf12	-	-	cloth:scf8
+s	女仆	诶？
+s	女仆长	还不快点动手！
+p	n	c	sf12	-	-	cloth:scf8
+s		这时我才如梦方醒，立马拿起了抹布与拖把开始忙活起来。
+h	n
+p	xj	c	amazed	-	-	cloth:default
+s	主人	女仆酱？
+h	xj
+p	xj	c	amazed	-	-	cloth:default
+p	xj	c	normal	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	女仆	嗯？小姐叫我有什么事儿？
+h	n
+p	xj	c	normal	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf12	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	主人	没啥，只是看你的眼神像有什么心事的样子。
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	女仆	怎，怎么会啦，小姐你就整天只会这么说，
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	主人	今天午饭的时候为什么没来陪我？
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	frown	-	-	cloth:default
+s	女仆	因为我在整理小姐您的行李。
+p	n	l	sf2	-	-	cloth:scf8

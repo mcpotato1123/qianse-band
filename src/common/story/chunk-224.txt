@@ -1,0 +1,128 @@
+s		继续向前逛了一会，我们还是没能找到一家心仪的店铺。
+s		于是，实在是无可奈何的我们就去了一家快餐厅。
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	但这样不就显得咱们好不容易出来一次很没意义了吗？
+s	余晓鑫	刚才咱们是约好一起出来玩的吧？目的又不是吃东西来着，
+p	x	c	sf8	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	哦，那也是。
+s		我看着熙熙攘攘经过身旁的人流，漫不经心地往嘴里塞着薯条。
+s		恍惚间，我突然感觉一个路过的人很眼熟...
+s		不，应该说是...
+s		可就在我将要想起她的名字时，她却先一步停在了我的身边。
+s	？？？	诶？宁桐雨？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s		我们两人的目光同时落到了她的身上。
+s		她留着一头干练的短发，身上穿着吊带衫和热裤，
+s		或许正是因为穿着比较清凉的缘故，胸前的地势显得异常得突出。
+s		这大概就是先前小鑫口中穿着比较开放的女孩吧...
+s		嗐，可真是说曹操曹操就到啊...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？你是...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	？？？	真的是，这一会就忘啦，咱和你是大学同学啦~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	同学们	说着，她使劲地拍了拍我的肩，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s		好疼...
+s	同学们	咱姓颜啦，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	哦，小颜啦，可真巧，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	同学们	虽然一开始听说咱俩是老乡，可没想到真能在老家遇到呐~
+s	同学们	我说，咱俩算不算有缘分呢？
+h	x
+h	n
+b	restaurnt_n
+s		说着，她还顺势坐到了我身边，搂过了我的胳膊。
+s		我本来就不太擅长与应对这种自来熟的女人，更别提现在还被一股强烈的视线紧盯着...
+s	同学们	啊？这位是？
+p	n	c	ss5	-	-	cloth:scs2
+s	宁桐雨	我的发小啦。
+s		我说着轻轻地把手臂抽了出来，往旁边稍稍坐了一些。
+s	同学们	今天你们俩一起出来玩吗？
+s	宁桐雨	嗯，虽然大体上是我被拉出来的啦~
+s	同学们	真巧呐，带我一个一起呗？
+s	同学们	咱今天正好没人作伴呐？
+p	n	c	sf6	-	-	cloth:scf2
+s	宁桐雨	诶？那个...
+s		尽管我没敢抬头看对桌对面的她，可迎面而来的凌厉视线还是让我不禁打了个寒颤。
+s	宁桐雨	咱...咱们马上就要回去了啦，下次改天再说吧。
+s	同学们	哦，那我下次来联络你哦？
+s		说完这句话，小颜便站起身，向我挥了挥手后就走出了餐厅。
+s	宁桐雨	那个...
+s		虽然知道惹了些不必要的麻烦，但我还是决定先向她解释一番。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	那个女人是谁？
+h	x
+p	n	c	sf6	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	宁桐雨	都说啦，英语课上的同学罢了，只是恰巧分在一个小组里。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	你们平常都干些什么？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	宁桐雨	作业里有排练小短剧啦，所以有时候就跟她碰头一起练习一下而已。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	所以小宁有她的联系方式？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	宁桐雨	嗯，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	还经常跟她发消息？
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	宁桐雨	怎么也联想不到这种份上吧？
+s	宁桐雨	小鑫你也看见了吧，我当时甚至连她的名字都想不起来。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	别狡辩！
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	宁桐雨	我，我哪里狡辩了，你要是怀疑的话就和我设成关联账号呗，真的是。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	可小宁一开始一直盯着人家的胸口看，
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	宁桐雨	哪，哪有，我只是很少见辣妹罢了。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	小宁喜欢大的？
+s	宁桐雨	喜欢你的总行了吧，别来烦我了。
+s	余晓鑫	没告诉我的时候，不要随便和别的女孩子一起出去玩哦？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	没有你拉着我，我根本门都懒得出去好吧~
+s	宁桐雨	况且，出门遇到谁又不是我能决定的事情，
+s	宁桐雨	难不成我还得对她劈头盖脸地来一句：“我在和女朋友约会”？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	我觉得就应该这样，
+p	n	l	ss2	-	-	cloth:scs2
+p	x	r	sf5	-	-	cloth:scf2
+s	宁桐雨	要是她把话传开了会怎么样，可真的是，我可不信任那种人。
+p	n	l	ss2	-	-	cloth:scs2

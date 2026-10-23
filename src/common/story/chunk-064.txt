@@ -1,0 +1,128 @@
+s		若是不了解她的人把她认为是什么外国友人或许节目效果就更强了啊...
+s		虽然很不愿意承认，但我过去的一个星期就是和这样一位不靠谱的旅伴一起度过了滨海旅行。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	你的音乐天赋啊，真的是...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	说句“又菜又爱玩”也不为过了...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s		但身旁的她似乎毫不在意我的话，仍旧一如既往地哼着歌。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	话说回来，我们是明天走来着的？
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+s	宁桐雨	小祖宗，你今天可算是想起来了，我真不知道是该高兴还是难过...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	哦，对哦，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	可是，咱为什么还要穿着校服啊？明明已经不再是高中生了的说...
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	难道不是你说不满意毕业照，所以要和我两个人一起拍张新的吗？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	真的是...才过了几天就忘了...
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+s	余晓鑫	嘛，我从来也没想过去记这些东西嘛，
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	毕竟要想记住小宁你那又臭又长的旅行规划就已经够折磨我了。
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	说到底，我从来就没让你记过吧？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	出来玩一趟么，账是我结的，旅馆是我订的，什么麻烦事就交给我，
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	你就负责吃喝玩乐是吧？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	就这还有脾气来跟我抱怨了~
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	高考才刚刚过去呐，那么长的课文都能背得下来，怎么现在连一张纸都记得那么费劲？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf3	-	-	cloth:scf1
+s	宁桐雨	难不成你在暗示我还不如你的那些破课文重要？
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf3	-	-	cloth:scf1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	哪里哪里，小宁你都想到哪里去了~
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	余晓鑫	只是，高考之后就没必要再费神去记了而已，开心一点不好嘛...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+s	余晓鑫	你要是现在叫我背篇课文啥的，我准背不上来了...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s		她一边这么说着还一边抬头打量着我的眼神，像是生怕哪句话会惹我生气一样。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss2	-	-	cloth:scs1
+s	余晓鑫	而且，而且啊，我...我只是觉得小宁可能比较适合这些事情而已...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	叫...叫我来干的话，这么粗心的我准得乱成一锅粥才对...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	平时，我...我多帮你干一些体力活嘛，小宁平时身体就不好...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss7	-	-	cloth:scs1
+s	余晓鑫	所...所以，其实我也一直有在为小宁考虑的来着...
+s		她嘴上这么说着，眼神却一直慌张地看向两边，不敢直视我的双眼。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss7	-	-	cloth:scs1
+s	宁桐雨	你个小赤佬，
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	ss7	-	-	cloth:scs1
+s	宁桐雨	得了吧，你差点连我的生日都忘了。
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	ss7	-	-	cloth:scs1
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf17	-	-	cloth:scf1
+s	余晓鑫	诶...那个是...
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	ss13	-	-	cloth:scs1
+s		她终于有些不好意思地撇过脸去。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	宁桐雨	终于无话可说了？
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	宁桐雨	那一天甚至连电话都没打过来，
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	宁桐雨	也不知道你刚才的嚣张劲头到底去哪了啊~
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf16	-	-	cloth:scf1
+s	余晓鑫	对...对不起啦。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf16	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf16	-	-	cloth:scf1
+s	余晓鑫	真...真的非常抱歉...
+p	n	l	sf13	-	-	cloth:scf1

@@ -1,0 +1,128 @@
+s		可就当我伸手去拿盘子的时候，她握住了我的手腕。
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+s	余晓鑫	我要吃的行吗...所以说，请别把小宁的爱心抢走...
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+s	宁桐雨	是女仆小姐的爱心，我不认识什么姓宁的人，主人你可不要花心哦？
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+s	余晓鑫	嗯，好，好的，以后我会注意的...
+h	x
+p	n	c	sf24	-	-	cloth:scf8
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf8
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s		看着她有些胆怯的眼神，我总算是笑了出来。
+s		午饭我为主人准备了蛋炒饭，
+s		一样地为它画上了爱心。
+s		可主人却迟迟不肯动筷子。
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	余晓鑫	小...不对，女仆小姐，我想你应该知道...我最讨厌香菇了吧？
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+s	宁桐雨	诶？可是...我昨天才到这里工作...
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+s	余晓鑫	原来是这种设定吗？
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf12	-	-	cloth:scf8
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf8
+s	宁桐雨	但是...但是这份蛋炒饭是我...是我饱含着对主人的爱...才做出来的...
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf8
+s		我象征性地抹了抹眼角，居然还真挤出了半滴眼泪。
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf8
+s	宁桐雨	如果主人嫌弃我的话...
+p	x	l	sf1	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf8
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf8
+s	余晓鑫	没事啦，我吃，我吃就是了，别哭啦~
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf8
+s		她一边向我摆着手，一边用勺子舀起了一整勺饭。
+s		她看着装点其中的香菇粒，顿了足足有三四秒钟。
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf8
+s		突然，仿佛是下定决心了一般，她把勺子送进了嘴里。
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	宁桐雨	怎...怎么样，主人？
+p	x	l	sf5	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	余晓鑫	太...太好吃了！
+s	余晓鑫	好吃得都要流泪了！
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf8
+s		尽管我从她复杂的表情可以看出，事实绝对不是这么一回事。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	宁桐雨	那既然这样，就让我来喂您吧？
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s		说罢，我坐到了她的身边。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	余晓鑫	诶？不必了，那个...我自己吃就行，小...呸，女仆小姐你就先去休息一下吧？
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	宁桐雨	客气什么嘛，为主人服务是我的荣幸。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s		虽然我看不见自己的表情，但我可以肯定，这时的我肯定算不上阳光少女。
+s		虽然年龄也不太能被称为少女了...
+s		就这样，满满的一盆蛋炒饭被我一口一口地喂完了。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	宁桐雨	太好了呢，主人这么喜欢这种蛋炒饭，那我就每天都炒给主人吃好了。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	余晓鑫	小宁啊，角色扮演游戏还是先停一下...
+s	余晓鑫	不要...太入戏了。
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	宁桐雨	诶？小宁是谁啊？我可不认识...
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	余晓鑫	好...好吧，那先扶我回床上休息一下吧...
+s	余晓鑫	我感觉我有点...那个...食物中毒。
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	宁桐雨	好的。
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+h	n
+h	x
+b	black
+b	ros_c

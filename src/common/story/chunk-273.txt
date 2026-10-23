@@ -1,0 +1,128 @@
+s	余晓鑫	太...太好吃了！
+s	余晓鑫	好吃得都要流泪了！
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf8
+s		尽管我从她复杂的表情可以看出，事实绝对不是这么一回事。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	宁桐雨	那既然这样，就让我来喂您吧？
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s		说罢，我坐到了她的身边。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	余晓鑫	诶？不必了，那个...我自己吃就行，小...呸，女仆小姐你就先去休息一下吧？
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	宁桐雨	客气什么嘛，为主人服务是我的荣幸。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s		虽然我看不见自己的表情，但我可以肯定，这时的我肯定算不上阳光少女。
+s		虽然年龄也不太能被称为少女了...
+s		就这样，满满的一盆蛋炒饭被我一口一口地喂完了。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	宁桐雨	太好了呢，主人这么喜欢这种蛋炒饭，那我就每天都炒给主人吃好了。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+s	余晓鑫	小宁啊，角色扮演游戏还是先停一下...
+s	余晓鑫	不要...太入戏了。
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	宁桐雨	诶？小宁是谁啊？我可不认识...
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	余晓鑫	好...好吧，那先扶我回床上休息一下吧...
+s	余晓鑫	我感觉我有点...那个...食物中毒。
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+s	宁桐雨	好的。
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs8
+h	n
+h	x
+b	black
+b	ros_c
+s		一直到晚餐吃完后，我才把女仆装脱了下来。
+p	n	c	sf14	-	-	cloth:scf5
+s	宁桐雨	今天过得怎么样啊？
+s		我这样幸灾乐祸地问道。
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+s	余晓鑫	太太太~棒了！简直是我出生以来过得最开心的一天！
+h	x
+p	n	c	sf14	-	-	cloth:scf5
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+s	宁桐雨	啊？真的吗？为什么...
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	因为啊，有些腹黑和S的小宁真的好戳我...
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	疼~
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+s	余晓鑫	粗暴的对待也好棒。
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+s	宁桐雨	你估计是没救了。
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf15	-	-	cloth:scf3
+s		我长长地叹了口气。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf15	-	-	cloth:scf3
+s	宁桐雨	估计世界未解之谜里就有你怎么堕落成这样的。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf15	-	-	cloth:scf3
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	嘛，毕竟什么也不去多想，人活得才最开心嘛。
+s	余晓鑫	这种事，咱俩不是很早就懂了吗？
+h	n
+h	x
+b	dour1_c
+s		暖风吹过大地，公园里的荷花开了。
+s		明明又是一个阳光明媚的周末，我们却只好缩在家里。
+s		至于造成当前这一状况的原因嘛。
+s		我使劲地甩了甩手里的水银温度计，在确认示数已经退了回去之后，递给了躺在床上的她。
+p	x	c	sf12	-	-	cloth:scf3
+s	余晓鑫	谢谢~
+s		她勉强挤出了个笑容，有气无力地说着。
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	得，你有这精力谢我，就别去得感冒啊...
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+h	x
+h	n
+b	skisn
+s		昨天周五回到家，她的样子就有些不对。
+s		一向活泼的她一反常态地提出要早点睡觉，
+b	dour1_n
+s		而到了半夜，熟睡中的我被她的咳嗽声给吵醒了。
+s		了解了状况的我立刻起身为她量了个体温，

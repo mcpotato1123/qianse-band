@@ -1,0 +1,128 @@
+s	凌	呵，实际上，答案也很简单。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	这两个都是不曾存在过的未来，都是我在梦中模拟出的结果。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s		她抬起头诧异地看着我的脸，过了好一会才回过了神，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	梦？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf2
+s	凌	现在的时间，是2024年的7月，
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf2
+s	凌	现实中的你，正睡在回家的客车上，而我是你梦中的人物。
+p	l	l	ss10	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	那为什么你还能影响我的思维，甚至让我自己都想象不出自己还在梦里...
+p	l	l	ss10	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	凌	那是自然，因为啊，我可是神啊。
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？
+p	l	l	ss10	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	我对你做的一切帮助都只是因为，我觉得这一切很有意思罢了。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	我在这里稍稍还原了一下事实，也只是想看看未来到底会发生什么罢了。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	未来，会发生的事情...
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	凌	欸，是的，虽然先前那两个记忆目前仍然是虚假的，可不加干预的话，现实就会朝着那个方向演进哦？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	那小鑫...
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	凌	嗯，她就会和我展示给你的一样，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	凌	以那抹茜色作为结尾。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	你为什么要这么做？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	我都说过了，我是神，在无尽的寿命里，不追寻点乐子那怎么行呢？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	凌	而世界上还有比欣赏别人的绝望与痛苦更有意思的事情吗？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	你...
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	凌	呵，那我就再问一个问题吧，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	凌	其实，你其实根本不爱她吧？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	...
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	想想也是，你口口声声地说着要还她一个完美的梦，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	结果实行起来就是把悲剧给生硬地扣去再还自己一个虚假的糖果吗？
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	呵，我看啊，你所谓的爱，只不过是为了给自己找一个情绪价值的寄托罢了。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss7	-	-	cloth:scs2
+s	宁桐雨	混蛋...
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	呵，难道我有说错吗？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	你为何对造成那场悲剧的原因如此唯唯诺诺，甚至连提起都不敢提起？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	在日常谈话中间一沾到边便开始躲躲闪闪，遮遮掩掩，
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	可真是，如果你真正在乎她的话，难道不是更应该主动为她支起后盾吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	所以，我得出结论就很简单，其实你并不爱她，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	你还是像小学时候一样，只是希望有一个人能带自己摆脱孤独的处境，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	所以你宁愿相信虚无缥缈的梦能给你带来救赎，也不愿对她施以援手。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	难道不是么？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	...
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf16	-	-	cloth:scf2
+s	凌	别老是沉默，告诉我你的选择，
+h	l
+h	n
+b	black
+s		最后的抉择
+m	接受命运的一切17150拒绝命运的安排17160
+b	stagst
+p	n	c	sf1	-	-	cloth:scf2

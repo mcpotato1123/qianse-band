@@ -1,0 +1,128 @@
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	这上面写的全是情侣的名字呐~
+s	余晓鑫	你看，这一对是...
+p	x	c	sf1	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s		她露出了不屑的表情。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	宁桐雨	有这些钱还不如买点冰棍吃，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s		而我却尴尬地笑了笑，
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	宁桐雨	你该不会...
+p	x	l	sf12	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	余晓鑫	我觉得嘛，这也是挺有意义的嘛，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	余晓鑫	这里不是叫梁祝广场嘛，不是很美好的爱情故事吗？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	宁桐雨	梁祝的结局你又不是不知道...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	宁桐雨	这与其说是祝福，不如说是诅咒好吧，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	余晓鑫	哎呀，别老是往坏的方向想啦。
+s	余晓鑫	你想啊，梁祝都化蝶了，那肯定是成了一方神明不是？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf6
+s	余晓鑫	他们肯定会保护这些在树上挂牌子有情人的啦~
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf6
+s	宁桐雨	行吧，行吧。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf28	-	-	cloth:scf6
+s		万般无奈的她最终妥协了。
+s		花了二十买下了那块木牌，
+s		我们俩各自用水笔签下了自己的名字，紧接着，我在两个名字中间画了个爱心。
+s		在欣赏了一眼之后，我把它系到了树枝上。
+s		微风吹过，木牌下的风铃发出了清脆的响声。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf6
+s	余晓鑫	以后我们每年都来一次吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf6
+s	余晓鑫	来看看这块价值至少五根冰棍的牌子。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf6
+s	宁桐雨	你这么一说我突然又后悔了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf6
+s	余晓鑫	别嘛，在小宁心中，难道和我的感情甚至不值五根冰棍吗？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	宁桐雨	没，只是看着这块牌子我突然想到，它真的好像冰棍的木棒...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s		随着她手指的方向我看了过去，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s		然后我也沉默了。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	余晓鑫	别，别这么说啦，
+s	余晓鑫	毕竟这种东西就是图个好兆头嘛，
+s	余晓鑫	心诚则灵嘛。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs6
+s	宁桐雨	嘛，我是从来没觉得这玩意灵验过，
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf6
+s	宁桐雨	不过，这次倒是我也不担心它不灵验了。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf6
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf6
+s	余晓鑫	嗯？为啥？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf6
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs6
+s	宁桐雨	蠢货，你当我们俩谁跟谁啊？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	说到底，浪费五根冰棍的钱给这种毫无意义的事，本身就是大错特错的，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs6
+s	宁桐雨	还是说，你打心底里不相信我？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs6
+s	余晓鑫	哪有哪有啦，天无二日，我心中可一直都只有小宁一个太阳。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs6
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf6
+s	宁桐雨	别玩这种不合时宜的梗啦。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf6
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf2	-	-	cloth:scf6
+s	余晓鑫	咱们拍张照就走吧~
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf2	-	-	cloth:scf6
+s	余晓鑫	现在已经饿了。
+p	x	l	ss2	-	-	cloth:scs2

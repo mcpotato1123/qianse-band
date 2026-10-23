@@ -1,0 +1,128 @@
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf8
+s	主人	不，可能是我有些心事。
+p	xj	l	frown	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	那可不妙，要是不好好睡觉的话...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	住嘴，我不想听你说教...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf8
+s	女仆	行，行吧...
+p	xj	l	anger	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	女仆	那小姐要怎样才能乖乖睡觉呢？
+p	xj	l	close_eye	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf8
+s	主人	抱着我就行，在女仆酱旁边我才安心。
+s		人设...果然还是跟现实中很像啊...
+s		我不禁这么感叹道。
+s		于是，我就这么保持着抱着她的姿势，慢慢地进入了梦乡。
+h	xj
+h	n
+b	dour1_a
+p	x	c	sf11	-	-	cloth:scf3
+p	x	l	sf11	-	-	cloth:scf3
+p	n	r	sf24	-	-	cloth:scf5
+s	宁桐雨	小鑫~该去吃饭了哦~
+p	x	l	sf11	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	喂，我跟你说话呢~
+p	x	l	sf11	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf11	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s		我边说着边摇着舍友的肩膀，让她从沉思中回过神来。
+p	x	l	ss19	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	ss19	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	余晓鑫	抱歉，刚才走神了。
+p	x	l	ss19	-	-	cloth:scs3
+p	n	r	ss5	-	-	cloth:scs5
+s	宁桐雨	可真是，明明这个角色一直都是你扮演的呢~
+p	x	l	ss19	-	-	cloth:scs3
+p	n	r	ss5	-	-	cloth:scs5
+s	宁桐雨	今天突然间反过来了，咱都有点不习惯了。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss5	-	-	cloth:scs5
+s	余晓鑫	诶？这么说，小宁在床上...也想反过来？
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss2	-	-	cloth:scs5
+s	宁桐雨	说什么呢你？
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss2	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss2	-	-	cloth:scs5
+s	余晓鑫	唔，都说了多少遍了，别弹脑门啦。
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss2	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss5	-	-	cloth:scs5
+s	宁桐雨	我也跟你说过了啦，只有一个前提条件，你先别提这种事情了再说。
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s		我看得出来，她想要露出与往常一样的贱笑，可现在她的脸上挤出的笑容扭捏而又做作，
+s		果然，她是有什么心事的吧...
+h	x
+h	n
+b	strc_a
+s		走在去食堂的路上，我开始回忆起昨天的梦来，
+s		虽然大体上的内容记不起来了，可我仍旧记得我要去做的事情。
+s		我得搞清楚引起小鑫闷闷不乐的源头。
+s		首先，我可以肯定，那大概不是我的错。
+s		跟小鑫许下约定的日子才刚刚过去不久，在这几个礼拜里，我们连争执都鲜有发生，
+s		更别提她每天晚上仍旧照常拉着我...嗯，好吧，
+s		倒不如说，她更像是在借着和我的关系在逃避，
+s		这段时间里，她没有以往那么活泼，可却比之前任何时候都擅长撒娇。
+s		或许，她需要我的安慰来逃避些什么...
+s		我在心头下了这么一个初步的论断。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	停一下！
+h	x
+b	strc_a
+b	strc_a
+p	x	c	sf1	-	-	cloth:scf2
+s		可就在我听到她的警告之前，我的头踉跄着撞到了她的后背上。
+p	x	c	sf3	-	-	cloth:scf2
+s	余晓鑫	对，对不起啦，刚才差点忘提醒你前头是马路，停得有点突然，
+p	x	c	sf3	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	你个小蠢材，我的脑袋都要被你撞坏了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	如果脑袋撞到女朋友的背都会坏的话，我就不得不怀疑小宁是用豆腐做的了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	个撒千刀，就不懂得体谅体谅别人嘛，
+s	宁桐雨	跟我处了这么久，连我反应迟钝都记不得？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	好啦，对不起啦，我道歉啦，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？
+s		她突如其来的道歉却让我顿时间哑口无言。
+s		如果换做以往的她...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	今天的你怎么这么乖？我都被你搞得有点不适应了说实话。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	哪有啦，我一直都是这样的啦~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	只是过去的小宁一直拿着有色眼镜看我罢了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s		她回过头来冲我笑了笑，接着若无其事地牵起了我的手，
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+h	x
+h	n

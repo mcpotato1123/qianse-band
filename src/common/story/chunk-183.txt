@@ -1,0 +1,128 @@
+s		那是我从来不曾拥有的东西。
+s		所有人都觉得我是高不可及的人，是个成绩又好，才艺又多的全能型班长，
+s		可只有我自己和小宁才清楚，这只不过是再虚假不过的称谓了...
+s		我放弃了钢琴，那只是因为水平再难长进，
+s		我学不会画画，黑板报从来都是临摹小宁草稿本上画的漫画，
+s		在人生中，我从来没发现过我有哪怕丝毫的天赋，
+s		一切的一切，都是在机械地重复，
+s		别人弹一遍就能学会的曲子，我需要反复练习将近十遍，
+s		数学尖子们随手写出来的式子，我需要在草稿纸上演算整整两页，才能得出相同的结果。
+s		靠着抓牢基础题，靠着认真地做好每一道题，之前我确实能取得超过他们的分数，
+s		然而，那又有什么用呢？
+s		他们只要稍稍多放点心思在学习上就能赶超我，
+s		他们仍然可以像以往一样，在周末约同学出去逛街，在食堂里畅谈欢笑，
+s		而只有成绩的我，却只能默默地看着他们的背影，
+s		不仅如此，我还背负起了所有人的期待，
+s		来自母亲，来自老师，甚至我以前误认为小宁也对我抱有这样的期待，
+s		那感觉就好似在悬崖边穿行，稍不留神，便会粉身碎骨，
+s		于是，为了避免那样的终局，我要做的事情也很简单，
+s		那就是，对着堆满桌子的考卷，再一次捡起水笔。
+s		学习是我唯一的倚靠，是唯一能让同学们记住我的方法，
+s		没有了成绩的我，就像一只不再鸣叫的知了，
+s		在寂寞的深秋，很快就会被大家遗忘。
+b	dinh_m
+s		突然间，手心处传来的痛感让我回过了神来。
+s		我的大拇指被身边的某人狠狠地掐了一下，这是我最直观的感受。
+s		而会这么做的，只有一个人。
+s		抬起头，看向我的身旁，出现在视野中的是她略带担忧的脸。
+s		见到我总算回过了神，她脸上的表情才稍稍明朗了一些。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	小鑫，快排到我们俩了。
+p	n	c	sf22	-	-	cloth:scf1
+s	宁桐雨	你再这么直直地往前冲可是会撞到打饭口的玻璃窗的，
+p	n	c	sf1	-	-	cloth:scf1
+s		四周嘈杂的声音和闷热的气味让我意识到，我们现在正在食堂排队。
+s		排在我俩前面的是两个低年级的女孩，其中一个还在跟窗口后的阿姨聊着天。
+p	n	c	sf22	-	-	cloth:scf1
+s	宁桐雨	喏，饭卡拿好呐~
+p	n	c	sf14	-	-	cloth:scf1
+s	宁桐雨	我刚刚本打算捉弄你一下的，结果居然你没发现，
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	嗐，亏得我得手的时候还窃喜了一阵子来着。
+p	n	c	ss3	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	对不起，刚有点走神了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	没能让小宁...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	诶？你今天是怎么了？完全不像是小鑫嘛...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	可能吧，最近有点累，也没什么精力跟小宁开玩笑了...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	抱歉...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	哪里啦，根本不用说“抱歉”什么的好不好...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	刚刚考完，这几天就稍微休息一会吧？
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	说起来啊，我们好久没到老姐那里去喝茶了呢...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	今天中午要不久违地去那里坐一会？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	啊...好，好的。
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	喂，你究竟有没有在听我讲话来着？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	老婆大人的话，哪会不听嘛！
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	谁，谁是你老婆啦？我...我们俩还没到那一步呐...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	算了，那你先说说看，我刚才说了啥？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	今天中午一起去杨老师那里坐坐嘛，你看我记得很牢的。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s		但她脸上却仍是那副忧心忡忡的表情。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	我记岔了？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	没有，你说的倒是没错...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	小宁~你一定要笑起来才好看，知道吗？
+s		我试着恢复一如既往的心态，但却找不回原来的那种感觉了。
+s		在我的心头，总是蒙着一层薄纱。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	现在的小鑫明明还在想一模的事情，对吗？
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s		一语中的。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	大概吧...
+s		我们俩间的氛围突然显得有些尴尬。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	如果小宁不想的话，我会...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	这根本不是我想不想的问题好吧？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	我是看到小鑫为这件事闷闷不乐了两天了，我是在担心你好吧...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1

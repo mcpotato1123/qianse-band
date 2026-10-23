@@ -1,0 +1,128 @@
+s		对，如果真的...
+s		如果真的有奇迹就好了，
+b	laboffi
+s		而现在，我只是在必不可能有结果的道路上挣扎罢了。
+s		自从我认清这个现实之后，我到实验室里的作业就变成了一种每日一次的仪式，
+s		我无法让自己忘却自己的目标，可胜利的遥不可及又让我感到无比地绝望。
+s		日复一日的精神上的折磨让我逐渐变得麻木，变得比之前更加寡言少语。
+s		就这样，枯燥而无趣的日子过了一整年，
+s		直到...那一天，
+b	unilibrary
+s		在大学的图书馆里，我百无聊赖地翻着书。
+s		突然，对面的座位被拉开了，嘎吱的响声吸引了周围所有人的视线。
+s		凌坐到了我的对面，她的呼吸有些急促，好像是一路狂奔过来的一样。
+p	l	c	ss6	-	-	cloth:default
+s		面对旁人诧异的视线，她也好像毫不在乎。
+s		坐下来的她立马抛给我一叠复印件。
+p	l	c	ss2	-	-	cloth:default
+s	凌	还记得我们前两天读的论文吗？
+p	l	c	ss6	-	-	cloth:default
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	怎么了？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	我觉得其中有一个小点值得进一步的考量，
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s		我眉头一皱。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	你的意思是...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	凌	没错。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	但那是不可能的，那种条件太荒谬了，
+p	l	l	ss3	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	就再试一次吧？反正你闲着也是闲着，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+h	l
+p	n	c	ss3	-	-	cloth:scs2
+h	n
+b	papers
+s		我将信将疑地看了她一眼，接着拿过了那摞纸。
+s		快速浏览了一遍之后，我突然发现这一篇里记载的方法与以往的完全不同，
+s		或者说，它甚至会给我们提供了一条完全不同的思路，完全不同于以往的任何一条...
+s		那是我的前辈们从未尝试过的一条道路。
+s		我死寂的心突然复燃了，
+b	unilibrary
+s		不知为什么，我的心中突然有了一种莫名的想法。
+s		这次一定能成功。
+s		可这种想法的来源却是如此地诡异。
+s		明明我已经失败了无数次，凭什么就能认定这一次就能成功呢...
+s		可正当我准备回到实验室时，我却发现了那份论文的复印件上的第二页有一个小小的伞状符号。
+s		那是我做的记号，用来提醒我自己这篇论文已经读过了。
+s		可为什么...
+p	l	c	ss6	-	-	cloth:default
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	凌？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf2
+s	凌	嗯，怎么了？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf1	-	-	cloth:scf2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我记得这篇论文我已经读过一遍了吧...你看这里还有我留下的记号...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	可为什么我第一遍读的时候没见过这个方法呢？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	明明在这篇论文里这么显眼的...
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s		凌却只是笑了笑，然后拍了拍我的肩膀。
+p	l	l	ss7	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	凌	我想是你这几天太累了，读漏了吧，
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	凌	今天做完实验就早点回去睡觉吧~
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	呵，估计今晚无法兑现这句话啦，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss9	-	-	cloth:scs2
+s	宁桐雨	既然你叫我去试试，那今天肯定是要泡在实验室里了...
+h	l
+p	n	c	ss9	-	-	cloth:scs2
+h	n
+b	labor
+s		于是，我怀着复杂的心情去了实验室
+s		至于之前的我为什么没看到...
+s		大概就是之前的我太累了吧...
+s		虽然仍然有些困惑，但最后我还是接受了这样的解释。
+s		入夜了，偌大的实验室里只剩下我一个人了。
+s		这是我在这里度过的第三个夜晚了。
+s		那个方法所需的实验条件极为苛刻，在此期间我甚至好几次想就此收手了，
+s		然而，一股莫名的感觉拦住了我，
+s		那是一种预感，
+s		兴许这一次，会有什么不同...
+s		而当我最终完成的时候已经是凌晨的两点了，
+s		疲倦不断地冲刷着我的脑海，视野也几近完全模糊，
+s		但最终，我还是按下了启动键，
+s		机器的轰鸣声和风扇的呼呼声让我安下了心，我摇摇晃晃地走到了沙发边，躺了下去。
+b	black
+s		那一个晚上，我梦到了初中里和她一起去水族馆的经历，
+s		然而，正当我们准备从漆黑的展馆中返回时，
+s		外面的光线突然变得很亮，很亮，
+s		那感觉就像正午用双眼直视着太阳，
+s		视网膜上感到了一阵刺痛，同时手上的触感也消失了。
+s		我大声呼喊着她的名字，可毫无反应，
+s		接着，我向漆黑的展馆里落了下去...
+s		而在坠落中，我苏醒了过来，
+s		我顾不上回忆梦里的场景，
+s		毕竟梦境能否成真的关键便在于这一次的结果。
+s		一想到接下来的一分多钟时间或许就将决定我未来几十年的人生，我的手就不由得发抖起来。
+s		我戴上眼镜，如往常一样坐到电脑前的椅子上，
+s		屏幕上显示的数据也与以往相差无几，如此地杂乱无章。

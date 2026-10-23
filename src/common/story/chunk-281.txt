@@ -1,0 +1,128 @@
+p	n	r	sf22	-	-	cloth:scf6
+s	宁桐雨	嗯。
+h	x
+h	n
+b	black
+s		下午去了附近的古镇上逛了一会，但景致与家附近差不多，最后也没留下什么印象。
+s		到了黄昏，在小宁的提议下，我们还是早早地回到了宾馆。
+p	n	c	sf22	-	-	cloth:scf6
+s	宁桐雨	今天开车辛苦了，还是早点休息比较好，
+s	宁桐雨	为明天留点精力。
+p	n	c	sf2	-	-	cloth:scf6
+s		在旅社的门口，她这么解释道。
+s		到最后，筋疲力竭的我还是答应了她的提议。
+h	n
+b	dour_c
+p	x	c	sf4	-	-	cloth:scf3
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf5
+s		吃过饭，一起洗过澡，我帮着坐在床边的她梳着头发。
+s		自从我们同居以来，这似乎成了一种习惯。
+s		一开始只是不经意间的尝试，最后演变了我们俩间的默契。
+s		我喜欢手指抚过秀发的那种顺滑感，
+s		我也喜欢把发丝拖到鼻尖，仔细地闻着那其中的淡淡香气。
+s		在这个时候，小宁总是若无其事地看着书。
+h	x
+h	n
+b	black
+b	dour1_c
+p	n	c	ss3	-	-	cloth:scs5
+s	宁桐雨	我是不是把头发剪短一点比较好？
+p	n	c	ss3	-	-	cloth:scs5
+s		有一次在梳头发的时候，她这么不经意地提了一嘴。
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf3	-	-	cloth:scf3
+s	余晓鑫	不要啊？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf3	-	-	cloth:scf3
+s		而反对的意见几乎从我嘴里脱口而出。
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	这么果断吗？
+h	n
+p	x	c	sf3	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s	余晓鑫	绝对要是长发才好！
+h	x
+p	n	c	sf12	-	-	cloth:scf5
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s	宁桐雨	可是...
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s	余晓鑫	头发是女人的生命！
+h	x
+p	n	c	sf6	-	-	cloth:scf5
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s	宁桐雨	不过长发看上去是不是有点太忧郁了呢...
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s	宁桐雨	短一点的话看上去要精神一点，
+s	宁桐雨	或者说扎起来也行...
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s	余晓鑫	不要，就这样就好。
+h	x
+p	n	c	sf2	-	-	cloth:scf5
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s	宁桐雨	...
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s	余晓鑫	我说了，小宁就保持这个发型就好！
+h	x
+p	n	c	sf6	-	-	cloth:scf5
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf5	-	-	cloth:scf3
+s		到最后，我的语气都有点像是命令。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf5	-	-	cloth:scf3
+s	宁桐雨	行吧，我也不会去改啦，放心。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf5	-	-	cloth:scf3
+s		她最后还是这么和我妥协了。
+s		然而，我内心却没有因此安宁分毫...
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf3	-	-	cloth:scf3
+s		反而因此多了一份愧疚感，
+s		就像是一切都是我逼迫着她干的一样。
+s		过了良久，我还是按捺不住这种心理了，
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf3	-	-	cloth:scf3
+s	余晓鑫	那个，刚才我有点那个...
+s	余晓鑫	小宁还是按自己的意思来...
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf3	-	-	cloth:scf3
+p	n	l	sf28	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+s	宁桐雨	你啊，真的是，这点自信应该还是得有的，
+p	n	l	sf28	-	-	cloth:scf5
+p	x	r	sf3	-	-	cloth:scf3
+p	n	l	sf28	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s		然而，她却平淡地打断了正准备道歉的我，
+p	n	l	ss5	-	-	cloth:scs5

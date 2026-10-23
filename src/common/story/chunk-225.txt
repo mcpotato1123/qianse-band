@@ -1,0 +1,128 @@
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	你自己也不先好好想想，就这么来劈头盖脸地来吃醋，冲动是魔鬼好吧...
+s		听了这话，她脸上的郁闷似乎消减了不少。
+p	n	l	ss2	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	好吧，我明白了。
+p	n	l	ss2	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s		虽然听上去依旧有点垂头丧气，可总不至于是之前的怨妇语调了。
+h	n
+h	x
+b	ex_cof
+s		吃过饭后，我们便来到了音乐喷泉旁边的咖啡馆旁，静静地等待着开场。
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	怎么还是闷闷不乐的？
+h	n
+p	x	c	sf4	-	-	cloth:scf2
+h	x
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	没有啦，只是等得有点不耐烦罢了。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	我还剩下一点咖啡，要喝吗？
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s		我把自己跟前的咖啡推到了她面前，她看了看插在里面的吸管，默默地点了点头。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	你啊，可真好懂。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	唔，又被小宁给拿捏了...
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	真的是，都真正亲过了多少次了还在乎这种东西，你这个人也是真没出息。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s		尽管她看上去很难为情，可嘴上还是诚实地喝起了剩下的咖啡。
+s		就这样过了半个钟头，突然间，楼下的广场上响起了音乐声。
+h	n
+h	x
+b	ex_water_fountains
+s		循着声音的踪迹向下看，原先只是低低的喷泉如今已经涌射了起来。
+s		彩虹般的光芒散射开来，把晶莹剔透的水柱照射得异彩夺目。
+p	n	c	sf12	-	-	cloth:scf2
+s	宁桐雨	好美...
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	我想到了一部老电影，那里有一些飞在天上的放光蘑菇，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	我记得是种子啦，好像是什么树的，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	哦，好像是哦，
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	那部电影明明也就是二十几年前的，哪里老了，
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss10	-	-	cloth:scs2
+s	余晓鑫	或许我体感上二十年就算很老了吧...
+s		说这话时她的目光仍然紧紧聚焦在喷泉上。
+h	n
+h	x
+b	ex_water_fireworks
+s		彭的一声，似乎是高压水枪爆炸的声音响起，一座水柱顺势被喷上了楼顶。
+s		细碎的水花如雨水一般洒落下来，广场上的每个人都感受到了清凉的感觉。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	水做的大烟花。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我宁愿他们不要搞这种东西，头发都被沾到了，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	话说烟火禁令不是已经停了吗？他们为什么不放真正的烟花呢？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	大概只是因为水做的烟花更新颖一点吧。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	这样...
+s		接着，我们只是继续默默地看着喷泉表演，
+s		看着喷涌出的水柱一遍遍地在空中飞旋着，最终又无可避免地落回水池之中。
+s		这一过程催眠极了，仅仅过了五分钟我就对眼前的这一切腻味了。
+s		然而，小鑫却看得入了迷。
+s		于是，我便在心头盘算起下一步该干什么来。
+s		又是一发水烟花，湿润的感觉再度从脸颊处传来，凉爽的触感也激醒了我。
+s		偶然间，我发现水池的中央是一座小桥，桥上空无一人。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	待会喷泉表演结束了之后，咱们就去桥上走走吧，
+s		我戳了戳她的胳膊，对她这么说道。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	嗯。
+s		在最后一首歌播完之后，原本喧闹异常的广场又重新归于寂静。
+s		这是今晚的最后一场表演，因此，原本把水池围得水泄不通的人群很快散开，广场又重归于往日的空旷。
+h	x
+h	n
+b	ex_bridge
+s		我们很快下了楼，走到了那座小桥之上。
+s		四周低矮的喷泉仍然闪烁着幽蓝的光芒，行走其间的我们仿佛置身于一片森林之中。
+s		具体来说，就是科幻电影里的那种外星森林的感觉吧。
+s		夏日的余韵已经消散，夜晚的寒风里夹杂着萧瑟的气息。
+s		我拉住小鑫的手，把她拽到了桥的护栏旁。
+p	n	c	ss3	-	-	cloth:scs2
+s	宁桐雨	陪我拍张照吧。
+h	n
+b	black
+s		说着，我搂过她的肩，从兜里掏出了手机。
+p	n	c	sf3	-	-	cloth:scf2
+s	宁桐雨	笑一个~
+h	n
+b	black
+s		镜头里的她却笑得有些扭捏。
+p	n	c	sf2	-	-	cloth:scf2
+s	宁桐雨	怎么了，不开心吗？
+p	n	l	sf2	-	-	cloth:scf2

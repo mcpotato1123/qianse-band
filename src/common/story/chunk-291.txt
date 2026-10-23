@@ -1,0 +1,128 @@
+s	余晓鑫	一切都是我们自由分配的，一切都由我们自由地去取舍...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	那只是因为你比我聪明吧...上课时候的东西一听就会，课后布置的作业和小论文也比我完成得快好多...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	小宁如果有需要帮助的话我会跟你一起做的！我来当小宁你的专属老师，来教...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+s	宁桐雨	没必要了，只要你别老是在我学习的时候跟我发消息就行...
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf19	-	-	cloth:scf2
+s	余晓鑫	早说嘛~下次我跟小宁你一块去自习室，当面...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf19	-	-	cloth:scf2
+s	宁桐雨	去了单纯是打扰人家吧，要是小鑫你有心的话，就直接在宿舍里做这件事好了...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf19	-	-	cloth:scf2
+s	余晓鑫	说的也是哦~当初我怎么没想到呢？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf19	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	小蠢货...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	诶嘿嘿~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	别装傻子了，这样只会让小鑫你在我心中的形象崩塌地更快...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+s	宁桐雨	也不知道那个原来知性体贴的学霸怎么变成现在这番样子的...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+s	余晓鑫	原来小宁眼里的我是这样子的吗？！
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	有点...吧，当然，这是完全的误解好吧！
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+s	宁桐雨	当时真是看错你了...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+s	余晓鑫	哼哼~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf19	-	-	cloth:scf2
+s		说着说着，她又自顾自地坏笑了起来，
+s		真是不知道到底我当初看中她哪点好的了...
+s		不过，大学...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+s	宁桐雨	小鑫你真觉得，到了大学就比过去轻松了吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+s	余晓鑫	大概吧...至少目前我还确实没有遇到什么很令我苦恼的事情。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	可是...未来也同样要去考虑升学或者就业，学校里还有好多我不熟悉的事情，包括将来也是...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	没有人再回给我们一个像高考一样清晰的目标，我也不知道哪条路是对的，哪条路...
+s		可就在这时，我突然感受到她手心的温度，
+s		不知不觉间，小鑫再一次握紧了我的手，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	太过遥远的事情，就不用那么担心了哦~
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	无论是怎样的未来，我都会和小宁一起去面对的，好吗？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	嗯...
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	我相信小宁一定没问题的！
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf15	-	-	cloth:scf2
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	sf15	-	-	cloth:scf2
+s	宁桐雨	别这么轻易下结论啦，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf15	-	-	cloth:scf2
+s	余晓鑫	那，那我会给你不断加油鼓劲的！
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	sf15	-	-	cloth:scf2
+h	x
+h	n
+b	m_bedroom
+s		大学的第一个寒假，要说与之前相比有什么区别的话，也就是没有硬性要求完成的寒假作业了，
+s		尽管各门课程留下的课后作业也一点不少就是了...
+s		留给自己的那些任务完成得也是磕磕绊绊，
+s		不仅同人文写的感觉差强人意，一直想剪的视频混切最后的效果也算不上很好...
+s		而每当觉得坚持不下去的时候，我都会点开手机锁屏，点进那个置顶的聊天窗，
+s		与小鑫她，煲上一会电话粥。
+s		当然更多的时候，是她直接追到我家里来。
+s		能来敲我们家门的，除了每晚下班回家的父亲之外，便只有小鑫了。
+b	liv_m
+s	小宁的妈妈	呀~小鑫又来咱们做客了~
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	嗯，叔叔好~阿姨好~
+p	x	c	sf11	-	-	cloth:scf2
+s	小宁的妈妈	看到你和桐雨关系还是那么好，我们俩可就放心啦~
+s	小宁的妈妈	在学校的时候记得帮着我们监督一下桐雨啊~别让她整天看手机了...
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	妈...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	啊哈哈...尽管可能实际情况恰好相反，我才应该多跟桐雨学习一下...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+h	x
+p	n	c	ss3	-	-	cloth:scs2
+s		面对此情此景，她还稍有良心地这么小声嘀咕了几句。
+h	n

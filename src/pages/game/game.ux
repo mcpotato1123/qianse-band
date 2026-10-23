@@ -99,8 +99,8 @@
           overflow: hidden; }
   .bgclip { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
             overflow: hidden; }
-  /* 544×480 原图按 1:1 铺开，只挪 left；不要加 transition（真机会画出接缝） */
-  .bgwide { position: absolute; top: 0px; left: 0px; width: 544px; height: 480px;
+  /* 512×480 原图按 1:1 铺开，只挪 left；不要加 transition（真机会画出接缝） */
+  .bgwide { position: absolute; top: 0px; left: 0px; width: 512px; height: 480px;
             object-fit: fill; }
   .solid { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
            background-color: #ffffff; }
@@ -171,7 +171,7 @@ import {
 import { createReader, slotChars } from '../../common/vm.js'
 
 const SLOT_LEFT = { l: 10, c: 96, r: 182 }
-const BG_W = 544
+const BG_W = 512
 const BG_STEP = 4
 const BG_TICK = 100
 const HOLD_MS = 450

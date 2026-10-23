@@ -1,0 +1,128 @@
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	奇怪的是，这些个梦里，你都没把她给放进来。
+s		说着，她把嘴里含着的烟头扔到了地上，接着把两手重新插回了兜里。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	说起来车也快来了。
+s		话音刚落，列车就从远处驶了过来。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	咱们上车后再聊吧~
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	这次不用车票吗？
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	嗐，你不说我还忘记了。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s		说着她从衣服兜里掏出一张皱巴巴的纸，摊平之后递了给我。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	但既然没人检票，为什么车票还要存在呢？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf1
+s	凌	如果你进了一个没人看管的店铺，你会去偷里面的东西吗？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	我想我不会。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs1
+s	凌	这里也是同样的道理，在你的意识里，上车就必须要买票，所以才有了这玩意。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	好吧，
+h	l
+h	n
+b	black
+b	me_m
+s		尽管还是没搞懂具体的原理，我还是跟着她一起上了车。
+p	l	c	ss6	-	-	cloth:default
+s	凌	上次来这里的时候，你也做了噩梦？
+p	l	c	ss6	-	-	cloth:default
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	与其说是噩梦，更不如说是我不想看到的某个未来吧。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	上一次你没坐到终点站，到半路就醒了。
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	宁桐雨	那这一次呢？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	凌	我想这一次大概是不会半路苏醒了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	宁桐雨	为什么？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	凌	你还记得几年前有段时间你一直在做梦吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+s	凌	大概是在高二和高三那几年吧。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf13	-	-	cloth:scf1
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	好像...是有这么回事。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	实际上，我们每天晚上都会做梦，只不过大多数梦都被我们忘记了而已。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	具体来说，如果一个梦没有做完的时候你就醒了，那它就会被你记住。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	所以说，并不是你最近又开始做梦了，而是某种不安心的感觉再度回来了罢了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	这样...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	说实话，上了大学之后，我总感觉我的生活就是停滞的。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	但是，停滞也给我带来了安逸的感觉，
+s	宁桐雨	我总感觉我再也不会感到担忧了...
+p	l	l	ss12	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+s	凌	人这一辈子不可能总是一帆风顺的啦，偶尔发发愁也是正常的。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf2	-	-	cloth:scf1
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	是这样倒没错，可我也想不起来最近发生了什么能让我发愁的事情...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	或许是突然一下子从高压的环境下走出来了，你的心灵还不适应悠闲吧？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	或者说，是你恋人对你的态度...
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+s	凌	我想起来了，你来之前，她吃醋了吗？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf1
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	嗯，我在餐馆里遇到了之前的一个同学来着。
+s	宁桐雨	虽然到头来也只是一场误会，可她看起来还是很不开心的样子。
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	我想那大概就是原因所在了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	那我该怎么办？难不成就什么人也不见了？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	凌	哪会啦，我想只是因为她对你的感情太深了罢了。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	那...
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs1

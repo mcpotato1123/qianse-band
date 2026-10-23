@@ -1,0 +1,128 @@
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	诶？这种事连我都没注意到啊？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	嘛...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	可能我会特意留心去观察吧。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s		不过，调戏她的话点到为止即可，毕竟她还没回答我的问题呐。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	所以，小宁是想说什么来着的？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	那...那个，要不要，就中午来我们家吃顿年夜饭呢？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	这...这算是约会吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	约个锤子啊，请吃年夜饭会算什么约会...
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	我爸妈都在家里呐，脑子给我放清楚点。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s		当然，我也清楚，刚才说去约会的话只是一句调侃罢了。
+s		我心里自然是恨不得立马答应下来，
+s		但现在，最好还是先欲擒故纵一下...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	那个...小宁家里也很忙吧...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	而且，毕竟是你们和你们自家的亲戚过年啦，我...
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	嗐，你又在这里跟我瞎客气什么呐，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	从你向我表白的那一刻起，你就是咱家的人了啊？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	再说啊，我们家里也从来不邀请亲戚，兄长又在外地不方便回来。
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	所以，每年都只有我们三个人坐在餐桌边啦，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	如果小鑫也能一块来做客的话，爸爸妈妈肯定会很高兴的。
+s		气氛已经烘托到这儿啦，我也不好意思再说些什么，只好默默地点了点头。
+s		看见我的反应，她先是浅浅地笑了笑，接着说出了一句我之前从未预料的话。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	可以的话，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	请小鑫的妈妈一起来吧。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	...
+s		那种感觉就像是吃着奶油蛋糕的时候，牙齿突然磕到了一块假装成巧克力的商标一样，
+s		一瞬间，我们俩之间陷入了片刻的沉默。
+s		我看着她的眼睛，脑海中想象着那样的场景。
+h	n
+h	x
+b	black
+s		在那张窄小的餐桌边，母亲和我坐在同一边。
+s		而对面坐着小宁和她的父母。
+s		巨大的违和感最终演变为强烈的抗拒感。
+s		仿佛只要这个场景一旦出现，原先所设想的一切幸福都会因此被夺走一般。
+b	mus_m
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	怎么了？
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	是...是，不愿...
+p	n	c	ss1	-	-	cloth:scs1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	行吧。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	我回去就会把这件事跟她说的。
+s		可最终，我还是答应了下来。
+s		那一刻我的心里竟多了一丝轻松。
+s		仿佛是一直悬在心头的一块石头终于落下了一般。
+s		就在这时，上课铃响了。
+s		我们俩迅速地起身，拉上椅子，朝着楼梯口走去。
+h	n
+h	x
+b	scor_m
+p	n	c	ss3	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	上次生日的那天，小宁到我们家来的时候，你和我妈妈聊了什么吗？。
+s		跟在她身后的我还是按捺不住内心的好奇，这么问道，
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	诶？是...是想知道我和小鑫妈妈聊了什么？为...为什么？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	没什么啦，只是有些好奇罢了。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	难道这是说不得的事情吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	倒...倒也不是啦...
+p	n	l	sf25	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	和小鑫妈妈嘛...让我好好想想...
+p	n	l	sf23	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	嗯...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	虽然说着么是聊了一会，其实内容也只是一些很日常的东西啦...
+p	n	l	ss10	-	-	cloth:scs1

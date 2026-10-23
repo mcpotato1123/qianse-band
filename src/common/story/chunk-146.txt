@@ -1,0 +1,128 @@
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	我不是在毕业旅行的最后一天说过了吗？
+h	n
+p	x	c	ss10	-	-	cloth:scs1
+s		说着，她的手掌抚过了我的额头。
+s		那是一种凉凉的感觉。
+s		我紧绷的心也随之放松了下来。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	小鑫，多依靠我一点吧？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	我永远会站在你的身边的...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s		就在咫尺之遥，她这么轻轻说着。
+s		而那时，我扭做一团乱麻的心结缓缓解开了。
+s		是的，我们俩之间无需隐瞒。
+s		因为...我们已经对彼此做下约定了。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	其实，看到小宁的父母之后，我就不由自主地和自己的母亲做比较。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	可越是比较，我就越是嫉妒，越是羡慕你。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	为什么小宁能有这么好的父母，而我只有一个抛弃家人的爸爸和一个冷酷无情的妈妈。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	然后，越想到后面，我越是感到不公平，于是就...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		随着讲述的进行，我的情绪也随之激动了起来。
+s		以至于到了最后，我的声音都不受控制地开始颤抖，语速也逐渐快到了含糊不清的水平。
+s		还真是应了她先前说的那句话，简直就和那一天一模一样呢。
+s		我情不自禁地这么想。
+s		然而，对面的她，听着我滔滔不绝的讲述，却陷入了沉默。
+h	n
+p	x	c	sf6	-	-	cloth:scf1
+s		为什么...不说点什么呢？
+s		为什么，每次到了这个时候，就要沉默呢？
+s		果然是因为...
+s		刚才我的样子，很麻烦吧。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss21	-	-	cloth:scs1
+s	余晓鑫	抱歉，说了些很麻烦的话。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+s	宁桐雨	没...没有啦，只是我虽然很早就听小鑫说过妈妈的事。
+p	n	l	ss7	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+s	宁桐雨	但现在才真切地感受到...额...
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+s	宁桐雨	怎么说，呢，家庭矛盾之类的，哈哈...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss21	-	-	cloth:scs1
+s		小宁似乎对于这个话题十分谨慎，语气显得有些畏缩。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	其实她一直是这样的啦，对我应该说是...不温不火吧。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	什么要求都满足我，却什么自由也不给我。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	好像我不是她的孩子，是用来考试比赛的工具而已。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	宁桐雨	是不是，多...多跟她沟通沟通比较好？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	余晓鑫	要是那有用的话，那我就不至于成现在这个样子了。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s	宁桐雨	原...原来是这样嘛...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf12	-	-	cloth:scf1
+s		她的眼神黯淡了下去，眉头紧锁，拳头紧握在胸前，似乎在思考着其他的方法。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	小宁？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	哈...总感觉，想做点什么，却感觉无能为力。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		我和她挨得很紧，尽管小宁的声音很轻，但我却听得很清晰。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	其实呢...对这个话题我一直都是不怎么想提起的...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	毕竟我作为一个外人也不好说什么...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	然而，我其实一直很想为小鑫做些什么...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	什么都好...因为，每次看到小鑫提起这个话题的时候...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	表情都会意外地沉重。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	我一直都觉得这样是不好的，
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	小鑫连一点原来乐观的样子都没有了...
+s		她之后说的话我都没怎么听清。
+s		但我的大脑牢牢抓住了她一开始说的那几句话...
+h	x
+h	n
+b	black
+p	n	c	sf22	-	-	cloth:scf1
+s	宁桐雨	一直想为小鑫做点什么...
+h	n
+b	n_bedroom
+s		一个糟糕的念头在我的脑海中成形，以至于仅仅是稍微想象那样的场景就让我的心脏狂跳了起来。

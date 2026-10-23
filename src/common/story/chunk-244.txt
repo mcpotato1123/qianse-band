@@ -1,0 +1,128 @@
+h	n
+b	ex_closed_safety
+s		最终我还是找到了保险柜的门口。
+s		在一部电影里，我看到过，这里或许是梦境主人存放重要信息的地方。
+s		自然，我是不相信电影中的说法，但现实里的小鑫却一直提及这个说法。
+p	n	c	sf6	-	-	cloth:scf8
+s		那是不是说明，她在潜意识里就自然而然地把信息全藏到了这里呢？
+s		抱着这样的疑惑，我点开了电子屏。
+s		抱着试试看的心理，我输入了她的生日。
+s		屏幕变红了，大门仍旧紧锁着，没有丝毫变化。
+p	n	c	sf6	-	-	cloth:scf8
+s		我的手颤抖着输入自己的生日。
+h	n
+b	ex_open_safety
+s		清脆的声音瞬间响起，那道厚重的门打开了一条缝。
+s		我推开保险柜的门，里面叠满了我送给她的礼物。
+s		飞行棋，卡通橡皮，再到发卡，指甲刀，唇膏...
+s		而摆在最上面的是一台收音机。
+p	n	c	sf13	-	-	cloth:scf8
+s		我困惑地按下了侧边的按钮，收音机里传来了一句遥远的话语，
+p	n	c	sf13	-	-	cloth:scf8
+s	余晓鑫	宁桐雨同学，我...
+s	余晓鑫	我喜欢你。
+p	n	c	sf12	-	-	cloth:scf8
+s		那是毕业旅行的晚上...
+p	n	c	sf6	-	-	cloth:scf8
+h	n
+b	ex_closed_safety
+s		我甩上了保险柜的门，转过身去倚靠在坚固的门板上，就这样顺着向下滑落着。
+s		最终，我坐到了冰冷的地板上。
+b	ex_mansion_bedroom_night
+s		寒意刺激着我，让我再度清醒过来。
+p	n	c	sf12	-	-	cloth:scf8
+s		我这才意识到我刚才做了多么愚蠢的事情。
+p	n	c	sf6	-	-	cloth:scf8
+s		我早就该明白了，
+s		就算我跟她生活了十五年，就算我再自称怎么了解她，跟她不可分离，
+s		我们都不可能深入到对方生活的每个角落。
+p	n	c	sf2	-	-	cloth:scf8
+s		就算我们俩已经承诺过不与外人再多来往，这个结论依然不可能成立。
+s		因为心灵的存在。
+s		正如我放下和谁的关系也好，也不会去疏远爸妈，老姐，那些我挚爱的亲人
+p	n	c	sf6	-	-	cloth:scf8
+s		小鑫的心中，肯定...
+s		肯定也有这样，不希望我触碰到的地方。
+s		但是，就算如此，我也永远不会怀疑她对我的感情。
+p	n	c	sf2	-	-	cloth:scf8
+s		就像她自己整天挂在嘴边的一样。
+s		她就是这个世界上最爱我的人。
+s		而我对她也是如此。
+s		无需去确认，无需去求证。
+s		等待便是无言中最深厚的羁绊。
+h	n
+b	ex_carriage
+s		第二天清早，我们在庄园门口搭上了进城的马车。
+s		我掀开窗帘，好奇地注视着窗外的一切。
+s		繁华的市井，喧嚷的街道，整齐的楼房，城市带给我的新鲜感让我的语调也变得兴奋了起来，
+p	n	c	sf2	-	-	cloth:scf8
+s	女仆	小姐，你看呐，那边...
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+s		我一边指着窗外巡演的车队，一边拉着小姐的胳膊这么说道。
+s		可她座位那一侧的窗户却紧闭着，这与我印象里的她截然相反。
+s		小姐无力地靠在墙壁上，眼睛盯着绣着花瓣的地毯，全然无心顾及窗外的大好春光。
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+s	女仆	主人？
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+s		我试探性地叫了一声，可沉思中的她全然没有反应。
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+s	女仆	小...小星？
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	close_eye	-	-	cloth:default
+s		就在听到那个词语的一瞬间，我注意到她的右手小指颤动了一下，睫毛也随着脸部的动作皱了起来，
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	主人	欸~我在呢，
+h	xj
+p	n	c	sf6	-	-	cloth:scf8
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	主人	有事吗？
+p	n	l	sf6	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+s	女仆	没事，我只是想叫叫小姐的名字罢了。
+h	n
+p	xj	c	normal	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	normal	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	speechless	-	-	cloth:default
+s	主人	切，名字有什么好叫的。
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	speechless	-	-	cloth:default
+s	女仆	小星~
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	speechless	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	主人	唔...
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	shy	-	-	cloth:default
+s	女仆	小星~小星？
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	主人	好啦，别叫啦，真的是...
+h	xj
+p	n	c	sf24	-	-	cloth:scf8
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s		小姐的脸上泛起了一抹红晕，我捂着嘴偷笑了起来。
+p	n	l	sf24	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default
+s	女仆	明明是小星叫我喊你的名字的，自己却反而先受不了了？
+p	n	l	sf2	-	-	cloth:scf8
+p	xj	r	anger	-	-	cloth:default

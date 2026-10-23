@@ -1,0 +1,128 @@
+p	n	r	ss1	-	-	cloth:scs2
+s		说着，小鑫把眼睛凑近了玻璃缸，仔细地观察着水母的游动。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	自然界可真是奇妙啊~居然有这样的生物存在。
+s	余晓鑫	虽然我以往对它们的印象只停留在海蜇身上啦...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	真是个饭桶。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	这话也太伤人了吧~小宁...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	话说我们家那边也有水母哦？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	桃花水母？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	嗯，就是比较难见到而已。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	那以后咱俩住一起了，就买个海水缸...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	别做梦了，我可打理不来那玩意，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	没事啦，我帮着你一起就好了。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	信你个鬼。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss5	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	这次真没有骗你啦，真的是...
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s		她气愤地跺着脚，就连脸也顺势像只河豚一样鼓了起来。
+s		看到她这副模样，作为她恋人的我也不知该说是可爱还是幼稚。
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	宁桐雨	好了，咱们该出去了，已经快要到吃晚饭的时候了。
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+s	余晓鑫	诶？不在这里再呆一会吗？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	不是都转完了吗？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	我，我想跟小宁拍张照来着...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	没事，那就现在拍吧？
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s		我环顾了下四周，正好身后有一座很大的水母展缸，里面星罗密布的水母像极了夜空中的一盏盏灯光。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	这里就是个好地方。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	嗯，我也是这么想的~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	那咱们俩在这里比个心怎么样？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	随你吧~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	那，小宁你能帮我拿着手机吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？怎么了？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	没，没什么啦，就帮我一个忙就好了嘛，就一个忙。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s		尽管心头满是困惑，可我还是接下了小鑫的手机。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+s	宁桐雨	那，我数三个数哦~
+s	宁桐雨	一、二、三...
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf2
+h	x
+h	n
+b	white
+b	black
+b	white
+b	black
+s		接着，我把手机面向我们俩，按下了小白圈。可就在同一时刻，原本靠在我肩上的她突然吻了一下我的脸颊。
+s		而这一刻，也被原原本本地记录在了手机里。
+b	dlc_jellyfish
+p	n	c	sf21	-	-	cloth:scf2

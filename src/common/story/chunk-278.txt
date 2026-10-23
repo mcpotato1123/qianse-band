@@ -1,0 +1,128 @@
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	余晓鑫	请你把报复心放到感情上去...
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf6
+s	宁桐雨	那估计是不大可能的，毕竟我又不是像你一样的重女~
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf6
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf6
+s	余晓鑫	那是过去的我，跟现在的我已经毫无关系了！
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf2	-	-	cloth:scf6
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	宁桐雨	什么唯心主义，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	余晓鑫	诶！小心！
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+s		话音刚落，小宁就一个踉跄倒向了我的肩上，若不是我及时扶住了，我们俩准得从楼梯上摔下去不成。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf6
+s	宁桐雨	谢谢，呼~真是吓死了，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs6
+s	宁桐雨	这楼梯也太滑了~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs6
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss2	-	-	cloth:scs6
+s	余晓鑫	小宁真的好轻啊~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	宁桐雨	我又不像你，整天吃那么多，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss5	-	-	cloth:scs6
+s	余晓鑫	不过嘛，刚才小宁不会是故意摔的吧？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+s	宁桐雨	嗯？你的话题之间有什么逻辑性吗？
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+s	余晓鑫	嘛，回答我啦回答我啦
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf6
+p	x	l	sf3	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	宁桐雨	怎...怎么可能嘛，真的是，别老是觉得别人都跟你一样无聊...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf6
+s	余晓鑫	呜...
+h	n
+h	x
+b	black
+s		自觉无趣的我总算还是沉默了。
+b	dlc_cave4
+s		过了好一会儿，我们已经走到了洞穴的深处了。
+s		四周打着五颜六色的灯光，把黑漆漆的洞窟照的仿佛仙境一般，
+s		墙壁上突起的钟乳石反射着灯光，像是晶莹剔透的水晶。
+s		我仍然紧紧地拉着她的手，
+s		可她的眼神却集中在洞窟内的景色上。
+s		她拉着我到了一边，那里有一块形状奇特的石头。
+p	n	c	ss1	-	-	cloth:scs6
+s	宁桐雨	导游手册上说这叫仙人石，
+p	n	c	ss1	-	-	cloth:scs6
+p	n	l	ss1	-	-	cloth:scs6
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	哦，
+p	n	l	ss1	-	-	cloth:scs6
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs6
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	是不是长得很奇怪？
+s	宁桐雨	还真的很像一个人呐~
+p	n	l	ss1	-	-	cloth:scs6
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs6
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	嗯，
+h	x
+p	n	c	ss1	-	-	cloth:scs6
+p	n	l	ss1	-	-	cloth:scs6
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs6
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	怎么回事...明明是你要求来的，
+p	n	l	sf12	-	-	cloth:scf6
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	难道说...
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	小鑫还会吃石头的醋！
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf2
+s		说罢，她露出了难以置信的表情。
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	怎么会啦！
+s	余晓鑫	根本啥都没有，是你想多了。
+p	n	l	sf14	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	...
+s		她沉思了片刻之后，扫了一眼四周之后，整了整衣服，
+p	n	l	ss1	-	-	cloth:scs6
+p	x	r	sf8	-	-	cloth:scf2
+s		接着，她踮起脚尖，吻了过来。
+p	n	l	sf3	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	这样总行了吧？
+p	n	l	sf3	-	-	cloth:scf6
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	sf3	-	-	cloth:scf6

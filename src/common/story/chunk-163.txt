@@ -1,0 +1,128 @@
+p	x	r	sf11	-	-	cloth:scf1
+s	宁桐雨	小鑫是有什么在瞒着我吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	诶？没，没有啦...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	想骗我，你还早了一百年呢~
+s		可她仍旧不依不饶地和我对视着，眼神里充满了对我的怀疑。
+s		和她的相处已经将近过了十二年，可我还是搞不清她为何对我的事情了解得如此透彻。
+s		到底是小宁的观察力太强了？还是我太容易把内心所想放在一举一动之间呢？
+s		我想大概是两者皆有之吧。
+s		总之，一旦小宁决定刨根究底的时候，我是没什么秘密能够瞒过她的...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	其实...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	其实刚才，我说了谎话。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s		于是，山穷水尽的我就这么向她坦白了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	今天早上，妈妈还是给我准备了生日面...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	她嘛，其实也不像我描述的那样冷血，或许，或许...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	唉，反正她就是做的不对嘛，真的是，庆祝女儿的生日还遮遮掩掩的...
+s		怎么感觉我像是一个做错事情的孩子一样，这么自觉地把错事给全部抖落出来...
+s		不知不觉间就把小宁当作小学的班主任了...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	那个...对不起，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	不该撒谎的...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	但是，我是因为...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	不用担心啦，我其实没有那层意思。
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	小鑫的妈妈和小鑫的关系，我从没想去掺和进去。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	只是，看到小鑫每天都因为家里的事情闷闷不乐，到了学校里还要强装出笑容来，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	有些...有些担心吧...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	刚才也是，为了故意扭转话题，强拉我去你本来就不想去的地方。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	小宁怎么知道的...
+p	n	l	sf23	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	我都记得的哦，你说过自己很讨厌人多的地方。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	在这一点上，你还想瞒过自己的青梅竹马吗？
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		她有些调皮地笑了笑，我紧绷的心也缓和了下来。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	小鑫，你最近总是强迫自己表现得若无其事...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	明明一直调侃我，说我不坦率，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	到头来，自己却做不好表率...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	不是说好了嘛...在我面前显得自然一点就好了，
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	毕竟嘛，我又不是不知道你到底是个什么样的人...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	所以说，任性一点，直白一点，也可以...
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	那些事情，一直没法跟别人说出来的话，
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	就让我当听众吧...
+p	n	l	ss10	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	那个...
+p	n	l	ss10	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	那些事情...真的可以跟小宁说吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	嗯。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	小宁也不会觉得我麻烦吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	那是永远不可能的事情。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s		听到这儿，我深吸了一口气。
+s		然后...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	我...
+s		对面的她不知不觉间也绷紧了神经，好像接下来将要宣布的是什么大事情一样。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	喜欢你。
+p	n	l	sf11	-	-	cloth:scf1

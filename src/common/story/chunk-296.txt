@@ -1,0 +1,128 @@
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	诶？为什么？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	再去交朋友什么的，听上去就很麻烦。
+s	宁桐雨	所以，有小鑫就足够了。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s		自然而然地，我把内心最深处的想法也说了出来。
+h	x
+h	n
+b	black
+b	ros_m
+s		好热啊...
+s		明明才刚到初夏，房间里还打着空调，
+s		可我仍感觉像是身处室外的骄阳之下。
+s		而造成这一状况的原因也很显然。
+p	n	c	sf14	-	-	cloth:scf8
+s		我低头看向我身上穿着的衣服。
+s		那是一件西洋式的女仆装。
+s		长长的裙摆几乎要脱到地上，
+s		走起路来都差点被裙子给绊倒。
+s		至于为什么我要打扮成这样...
+s		一切都还要从三天前开始说起...
+h	n
+b	black
+b	dlc_table_tennis
+s		由于“某人”的临时起意，我们去了附近的一家茶馆旁打桌球。
+p	n	c	sf2	-	-	cloth:scf7
+p	n	l	sf2	-	-	cloth:scf7
+p	x	r	sf8	-	-	cloth:scf5
+s	余晓鑫	总是这么玩好没意思嘛...
+p	n	l	sf2	-	-	cloth:scf7
+p	x	r	sf8	-	-	cloth:scf5
+s		练了两个小时后，对面的她突然这么抱怨道。
+p	n	l	sf2	-	-	cloth:scf7
+p	x	r	sf15	-	-	cloth:scf5
+s	余晓鑫	要不咱俩来打比赛吧？
+p	n	l	sf2	-	-	cloth:scf7
+p	x	r	sf15	-	-	cloth:scf5
+p	n	l	ss3	-	-	cloth:scs7
+p	x	r	sf15	-	-	cloth:scf5
+p	n	l	ss3	-	-	cloth:scs7
+p	x	r	sf15	-	-	cloth:scf5
+s	宁桐雨	喂？这不公平吧？小鑫你大学里可是练过的？
+p	n	l	ss3	-	-	cloth:scs7
+p	x	r	sf15	-	-	cloth:scf5
+p	n	l	ss3	-	-	cloth:scs7
+p	x	r	sf8	-	-	cloth:scf5
+s	余晓鑫	输的人要答应赢的人一个条件哦？
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	sf8	-	-	cloth:scf5
+s	宁桐雨	我可从来没说过要和你比...
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	sf8	-	-	cloth:scf5
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	ss21	-	-	cloth:scs5
+s	余晓鑫	开始啦，开始啦，喏，球杆拿好呐。
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	ss21	-	-	cloth:scs5
+p	n	l	ss5	-	-	cloth:scs7
+p	x	r	ss21	-	-	cloth:scs5
+s		就这样，我半被迫地被卷入了这场纷争之中。
+h	n
+h	x
+b	black
+s		而结果也是可想而知的...
+s		惨烈。
+s		咚！
+s		当小鑫如风卷残云把黑球打进洞里的时候，她欢呼了起来。
+p	x	c	sf8	-	-	cloth:scf5
+p	x	c	sf8	-	-	cloth:scf5
+s	余晓鑫	我赢啦~可别忘了输的人有惩罚哦？
+p	x	l	sf8	-	-	cloth:scf5
+p	n	r	ss5	-	-	cloth:scs7
+s	宁桐雨	好好好。
+p	x	l	sf8	-	-	cloth:scf5
+p	n	r	ss5	-	-	cloth:scs7
+s		我无可奈何地说。
+p	x	l	sf15	-	-	cloth:scf5
+p	n	r	ss5	-	-	cloth:scs7
+s	余晓鑫	小宁小宁，扮演一天女仆怎么样？
+p	x	l	sf15	-	-	cloth:scf5
+p	n	r	ss5	-	-	cloth:scs7
+p	x	l	sf15	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs7
+s	宁桐雨	女仆？
+p	x	l	sf15	-	-	cloth:scf5
+p	n	r	ss3	-	-	cloth:scs7
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	ss3	-	-	cloth:scs7
+s	余晓鑫	说起来啊，正好，正好我从老家带回来了一件呐。
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	ss3	-	-	cloth:scs7
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf6	-	-	cloth:scf7
+s	宁桐雨	你为什么会收藏着那种东西...
+p	x	l	ss21	-	-	cloth:scs5
+p	n	r	sf6	-	-	cloth:scf7
+s		我用鄙夷的眼神看着她，小鑫却丝毫不在意。
+p	x	l	sf1	-	-	cloth:scf5
+p	n	r	sf6	-	-	cloth:scf7
+s	余晓鑫	因为我一直都很想看小宁穿上去的样子啊？
+p	x	l	sf15	-	-	cloth:scf5
+p	n	r	sf6	-	-	cloth:scf7
+s	余晓鑫	而且那件衣服也是按小宁的身材做的！
+p	x	l	sf15	-	-	cloth:scf5
+p	n	r	sf6	-	-	cloth:scf7
+p	x	l	sf15	-	-	cloth:scf5
+p	n	r	sf18	-	-	cloth:scf7
+s	宁桐雨	...
+s	宁桐雨	我要报警了...
+h	x
+h	n
+b	black
+b	ros_m
+s		但最后，我还是穿上了这件衣服。
+s		毕竟也没什么大不了的嘛，反正闲着也是闲着。不如找点乐子。
+s		我这样解释道。
+p	x	c	ss21	-	-	cloth:scs3
+s	余晓鑫	女仆小姐，女仆小姐~
+s		她在客厅里这么喊着。
+p	x	c	ss21	-	-	cloth:scs3

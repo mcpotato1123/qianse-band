@@ -1,0 +1,128 @@
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	根本原因就是，那样做对我有什么好处？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	明明是我自己为了逃避现实才不得不躲进那个梦里，那本该就是我们俩的生活，本该就是。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	也就是说，你认为那样的现实反而是你所期待的，对吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	那不然呢？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	自从人类能轻易吃饱饭之后，精神追求就成了大多数生命中唯一的意义了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	而在我生命中，最重要的就是和她在一起的回忆了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	只要能过上这样的生活，无论现实中的我变成怎么样都无所谓，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	换句话说，要我一个人孤单地、衣食无忧地就这么老死的话，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我可才能会想着提前结束这一切吧...
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	呵，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s		可对面的她只是冷笑了一下，
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+s	凌	要我给你一个善意的提醒吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	如果这个提醒是跟老姐或者教授一样的话，我劝你还是不要白费功夫了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	我想我表露出的态度已经很明确了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	凌	哪里啦，我从来就没想过干涉宁你的生活啦，
+p	l	l	ss4	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s	凌	我一直是作为观众在支持着你哦~
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf2
+s		我冷冷地瞟了她一眼，点了点头，
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	那就快说吧，我也不想在这个地方再待下去了。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	那么，我想说的是，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s		说到这里，她还故意顿了片刻，仿佛接下来要宣布的是什么天大的秘密一样。
+p	l	l	ss4	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	你，把梦里的自己关于那几年的记忆都做了修改了吧？
+p	l	l	ss8	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	搭建于浮空中的楼阁，可是很容易崩塌的哦？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs2
+s	凌	当所有的不合理连接起来的时候，
+h	l
+h	n
+b	black
+s	凌	好戏，可就要上演了哦？
+b	stagr
+s		好戏，可就要上演了哦？
+s		当我再度听到这句话时，回过神来的我已经回到了那座剧院里。
+s		凌仍旧站在我的眼前，方才她讲述的话语也回响在我的耳畔。
+s		坠落，高处，女孩，
+s		死亡，梦境，欺骗，
+s		还有那本，撕掉了几页的笔记本，
+s		我再也无法对这一切视若不见了，
+s		当所有线索都被串联起来时，真相也就摆在了我的面前，
+s		纵然是再过完美的骗术，也无法瞒过铁证如山的事实，
+s		我还是想起了我最想忘却的往事，
+s		或许我也早该想到这一点，
+s		凌说得没错，
+s		即使我编造出了一个完美的谎言，一个过于美好的梦，
+s		我也不敢去修正那一切的源头，
+s		去真正修改造成一切痛苦的原因。
+s		现实是铁做的牌子，
+s		无论在表面上涂多么厚的奶油，它都不会成为蛋糕。
+s		我过去所做的一切，都只是徒劳罢了...
+s		因为那抹茜色是一切的起因，
+s		是我需要赎罪的原因，
+s		为了让梦境变得更加美好，我必须修正这一变量。
+s		而为了让现实中的我牢记这么做的原因，我必须牢记这一切的开端，
+s		而当两种记忆交织在一起的时候，果然...
+s		果然，过去的梦，还是那么美丽，那么，令人沉醉。
+b	stagst
+p	l	c	ss8	-	-	cloth:default
+s	凌	想好心头最后的答案了吗？
+p	l	c	ss6	-	-	cloth:default
+s		突然间，对面的凌抛给我这么一个突兀的问题。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	最后的...答案？
+s		可对面的她只是微微地笑了笑。
+h	l
+h	n
+b	black
+p	l	c	ss1	-	-	cloth:default
+s	凌	为什么不回答我的问题？
+p	l	c	ss6	-	-	cloth:default
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	因为...因为我觉得两个结局都不够好。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs2
+s	凌	呵呵...
+p	l	l	ss8	-	-	cloth:default

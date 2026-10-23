@@ -1,0 +1,128 @@
+p	x	c	sf16	-	-	cloth:scf3
+s	余晓鑫	怎么样？
+p	x	c	sf16	-	-	cloth:scf3
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	幸好是周末，不然得请假了。
+s	宁桐雨	三十八度五。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s		我说着甩了甩手上的温度计。
+h	n
+p	x	c	sf16	-	-	cloth:scf3
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	脑袋感觉怎么样？
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	有点疼。
+s	余晓鑫	喉咙...也有点酸。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s		接着，我站起了身，打开了房门。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	你要去哪...
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf5
+s	宁桐雨	煮点粥，顺带着找点药。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf2	-	-	cloth:scf5
+s		我回答道。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	宁桐雨	现在才刚四点，再睡一会吧？
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	余晓鑫	我睡不着...
+s	余晓鑫	脑袋要炸了的感觉，喉咙口也像是被刀子划拉着...
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	宁桐雨	没事，睡不着的话闭着眼睛眯一会也成。
+s	宁桐雨	不要多想了，有我在呐，好吗？
+s	宁桐雨	现在先躺着，我马上就回来。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+s	余晓鑫	嗯。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf6	-	-	cloth:scf5
+h	x
+h	n
+b	black
+s		这之后，我花了半个小时喂她吃了退烧药，再在电饭锅里把煮粥的程序设定好，
+s		忙完了这一切之后，我搬了把小凳子，坐到了床边。
+b	dour1_n
+s		她听到声响之后，挣扎着睁开了眼睛。
+p	x	c	sf16	-	-	cloth:scf3
+s	余晓鑫	小宁，你不困吗？
+h	x
+p	x	c	sf16	-	-	cloth:scf3
+p	x	c	sf16	-	-	cloth:scf3
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf5
+s	宁桐雨	嗯，你睡就好了。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf5
+s	余晓鑫	可是...
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf5
+s	宁桐雨	别多想啦，要是我又被你给叫醒了可就更不好了。
+s	宁桐雨	所以，干脆就一直醒着好了。
+s	宁桐雨	今天你就好好地在床上躺着吧，早点把身体养好。
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf5
+p	x	l	sf16	-	-	cloth:scf3
+p	n	r	sf22	-	-	cloth:scf5
+s	余晓鑫	唔...
+s		看得出来，她很想像之前一样吐槽点什么，但实在是没有力气做了。
+s		就这样，我看着书，她躺在床上，时间就这样一分一秒地流逝着。
+h	x
+h	n
+b	black
+b	dour1_c
+s		到了七点半，我把粥端了出来，凉了一会之后，喂给了她。
+s		这之后又测了一次体温，三十八度一，情况还是不容乐观。
+p	n	c	ss3	-	-	cloth:scs5
+s	宁桐雨	你说你啊，礼拜四晚上踢被子，现在温差又这么大。
+s	宁桐雨	真的是，要是每天还要我给你盖被子，你不得感冒谁得嘛。
+p	n	c	ss3	-	-	cloth:scs5
+s		边给她擦着额头，我一边在嘴上这么数落着她。
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	对...对不起，耽误了小宁的周末...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s	宁桐雨	你说这种话反倒让我更生气了好吧，给我早点好起来啊...
+s	宁桐雨	说这种客气话，真当我们还是同学啊？
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s		不过，抱怨归抱怨，这时的我却丝毫没了和她打趣的心情。
+s		心急如焚的我甚至给妈妈打了个电话，问她该如何处理。
+s		毕竟，这算是我们俩搬出家之后的第一次。
+s	小宁的妈妈	风寒吗？那还是得多休息。
+s	小宁的妈妈	你也别多跟她聊天了，让她多睡一会，睡暖和一点。
+s		电话那一头的妈妈这么说。
+s		于是，加了一条毯子之后，我让她再度躺了下来。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3
+s	余晓鑫	我已经不困了，陪我再聊会天嘛。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf16	-	-	cloth:scf3

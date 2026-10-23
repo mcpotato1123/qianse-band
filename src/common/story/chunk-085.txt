@@ -1,0 +1,128 @@
+s	？？？	但¥èƒ½ä¿ƒè¿›ä，不一¶é‡Œ2¸¡è‚‰永远充满§çr涩。
+c	第四章
+g	title_chapter4
+b	stagr
+s		剧台之上，歌舞已毕，演员们排成一队，俯身鞠躬。
+s		瞬间，稀疏的掌声便从剧院的四周传来，尽管那些座位上都空无一人。
+s		鲜红的幕布再次拉上，耀眼的灯光把漆黑的剧院照亮，
+s		一切重归原样。
+s		仿佛先前的一切，只是一场梦而已。
+s		台下的观众尽皆起身，拎起肩包，三三两两结着伴离开剧院。
+s		他们的身影在我眼中显得模糊不清，仿佛是远在天边的幻影。
+s		那肯定,就和她眼中的我一样吧...
+s		不一会儿，偌大的剧院里就又只剩下我们两个人了。
+s		我深吸了一口气，转过头去看向身边的她。
+b	stagr
+b	stagst
+p	n	c	sf14	-	-	cloth:scf2
+s		此刻的她也随着身边的观众一起起身，可目光聚焦在紧闭的幕布上。
+s		她的眼神有些忧郁，又有些吃惊，像是在寻找什么一样。
+p	n	l	sf14	-	-	cloth:scf2
+p	l	r	ss2	-	-	cloth:default
+s	凌	这幕戏，已经结束了哦？
+s		我轻轻地戳了戳她的胳膊，以此来提醒她。
+p	n	l	sf16	-	-	cloth:scf2
+p	l	r	ss2	-	-	cloth:default
+s		可她却依旧不为所动。
+p	n	l	sf16	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	凌	怎么了，这一场不合你的口味？
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	不...无论从哪个角度上来看，它都是我见过的最完美的一部戏。
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	尤其是对两位女主角之间的感情的描写...
+p	n	l	sf1	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	那种有关日常点滴的积累...
+p	n	l	sf22	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	总让我有一种似曾相识的感觉...
+p	n	l	sf14	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	以至于随着故事的进行...我都不由得沉浸其中了...
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	嗯...我来到这里以后还没说过自己的经历吧...
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	我这个人一直都是以一种随波逐流的态度在混着日子，
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	所以说，看得这么入迷还是很少见的。或者说，就连我自己也很惊讶。
+p	n	l	ss12	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	明明这一幕戏在别人眼中看来也只是很平常的流水账罢了...
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s		说着她长长地呼了一口气，仿佛在心中下着什么决定一般。
+p	n	l	ss4	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	可是...
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	可越是沉浸其中，我就越是感到伤感...
+p	n	l	sf10	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	我就...
+p	n	l	sf10	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	越是不想看到结局。
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	那个...我心中早就有预料的结局...
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s		说到这儿她又背过了脸去，继续看着舞台上的幕布。
+p	n	l	ss7	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	她们两个后来分开了吗？
+p	n	l	ss7	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	凌	欸，毫无疑问呢~
+p	n	l	sf27	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	这样...
+p	n	l	sf14	-	-	cloth:scf2
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	那接下来，把我要帮的忙说一下吧？我想尽量快一点做完...
+h	n
+h	l
+b	stagst
+s		看着她落寞的表情，有那么一瞬间，我多想把一切全部坦白给她。
+s		然而，下一秒我就打消了这个念头。
+s		毕竟时机还远未到来。
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss6	-	-	cloth:default
+s	凌	别入戏太深，女孩子嘛，心情放平一点，开心一点好了。
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss1	-	-	cloth:default
+s	凌	你要想，事情总不会是一成不变的也总会有转机发生的。
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss14	-	-	cloth:default
+s	凌	只要你往好的方向去联想，结果总不会太差...
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss14	-	-	cloth:default
+s	宁桐雨	我个人得出的感受或许正好相反。
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss14	-	-	cloth:default
+s	宁桐雨	也不知道你是怎样大言不惭地说出这样的话的。
+p	n	l	ss4	-	-	cloth:scs2
+p	l	r	ss14	-	-	cloth:default
+s	宁桐雨	尤其是现在我还被你半强迫地留在这里陪你帮忙的情况。
+p	n	l	ss3	-	-	cloth:scs2
+p	l	r	ss14	-	-	cloth:default
+s		在她这么说着的时候，我跟随着她的视线，一起扭头看向了远方。
+h	n
+h	l
+b	thtrst
+s		一起看向剧院的尽头。
+s		那里也与这里一样，遍布着观众的座位，毫无出口的痕迹。
+s		怪不得每一个来到这里的人都会有一股不真实感。
+b	stagst
+p	n	c	ss1	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	l	r	ss2	-	-	cloth:default
+s	凌	你啊，就是不懂得这一点，才搞得自己每天都闷闷不乐的。

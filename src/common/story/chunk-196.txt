@@ -1,0 +1,128 @@
+s	余晓鑫	那个...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	嗯？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	二模...考完了呢。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	嗯。是啊，
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	结果到最后还是没什么进步呐~
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	没事啦，等到高考的时候，一定会...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf22	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	现在已经晚了...
+p	x	l	sf12	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	而且，我越来越觉得，力不从心了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	好像我再怎么用功，都赶不上他们了...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	怎么会呢？我一直都是相信小鑫的啊？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	相信，相信又有什么用嘛。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	还是小宁真的觉得一个月就能创造什么神话？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	我觉得吧，小鑫的成绩也不算差，逆袭什么的根本算不上吧？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	最后一个月，肯定是有机会的...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	可是，我根本就和他们不一样嘛。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	诶？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	我一直以来都只是一只装成路灯的萤火虫罢了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	无论对什么东西，都没什么天赋。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	所有的一切，也都是妈妈逼着我去学，才去学的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	到最后也只是半桶水，跟那些真正有天赋的人相比根本不值一提...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	别这么说啦。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	至少在我心中...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	已经不需要再安慰我了，小宁。
+p	x	l	sf12	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	我心里比谁都清楚的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	我以前能一直拿前几是因为大家都没有努力而已，
+p	x	l	sf12	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	一旦大家都开始认真了，我就得回到原来的位置上了...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s		对面的她一言不发，只是跟着我的脚步，紧紧地挨在我的身边。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	小宁...刚才...
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	不用担心啦，我一直都是在认真听的。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	只是我觉得，既然小鑫你也说过，这种心理是被妈妈给逼出来的，可为什么小鑫却一直还要这么坚持呢？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	明明只要后退一步就能轻松不少，可为什么小鑫一直要选择最痛苦的那一个选项呢？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	余晓鑫	那是因为...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+h	x
+h	n
+b	black
+s		因为什么呢？
+s		小宁说的是对的。
+s		我早就该发现问题所在了。
+s		或者说，是我明明知晓这一切，却仍毅然决然地选择了这条路。
+s		原因只有一个。
+b	scoroa_n
+p	n	c	sf12	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	因为...不甘心...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	...

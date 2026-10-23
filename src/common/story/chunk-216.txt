@@ -1,0 +1,128 @@
+b	ex_university_classrooms
+s		“叮咚~”
+s		手机上响起了特关的铃声。
+s		现在是礼拜五下午三点半，最后一堂课刚刚下课。
+s		我娴熟地点进社交软件，点进了置顶的聊天框。
+s		由于我手机上的特关只有一个人，因此每当这个声音响起时我总会有考试结束后放假一般的舒畅感。
+b	ex_chat1
+b	ex_chat2
+b	ex_chat3
+b	ex_chat4
+b	ex_chat5
+b	ex_chat6
+b	ex_chat7
+b	ex_chat8
+b	ex_chat9
+s		看到这儿，我撇了撇嘴，
+s		心协嘛...
+s		又是一个我从来都没听小宁说过的地方吗...
+s		不过也难怪嘛，谁叫小宁是系里的心理健康联络员，
+s		不过，一想到小宁在我看不到的地方和其他女孩儿一起工作，我立马就又赌气了起来。
+s		明明高中都不会有这种情况的，怎么到了大学里小宁又开始掺和到这些麻烦事里了呢？
+b	ex_chat10
+b	ex_chat11
+b	ex_chat12
+b	ex_chat13
+b	ex_chat14
+b	ex_chat15
+b	ex_chat16
+b	ex_chat17
+b	ex_chat18
+b	ex_chat19
+b	ex_university_classrooms
+s		发完这条消息之后我便合上了手机，
+s		不知为何，刚才的苦恼立马就被舒畅的感觉所取代了。
+b	ex_mall2
+p	n	c	sf2	-	-	cloth:scf2
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s		回到宿舍，我们俩换上了出门的行头，吃过简单的晚饭后便来到了商场门口。
+s		电影院就在商场的四楼，而两位学姐也如我们所料的一般迟到了
+s		商场里并没有开着暖气，寒风还是从每一个缝隙渗透到我们身边
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s		身边的她打了个喷嚏。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	手，
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s		她呼了口白气，这么说道。
+s		原先还需要说牵个手吧这样繁杂的指令，可现在只需要说一个字就懂了她的意思...
+s		怎么说呢，稍微有点像训练小狗啊...
+s		可吐槽归吐槽，接到小宁的暗号之后，我立马跟她挨得更近了一些，接着握住了她的手。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s		冰冷的感觉片刻后就从掌心袭来。
+s		那感觉就像摸着清晨的不锈钢护栏一般。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	多穿些吧？
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	唔...要是可以选择的话，我宁愿在宿舍里盖着被子躺一晚上。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	也要多运动才行。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	在这个天跑步简直是要我的命...
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	可以先从简单的慢跑做起啊，
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf3	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	我还当你会拿那种事情当例子，
+p	n	l	sf3	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf3	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	诶？哪种？
+p	n	l	sf3	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf3	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	就是咱俩经常干的那种...
+p	n	l	sf3	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	sf3	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	哈，多干那种事情，身体反倒会不好吧...
+s	余晓鑫	毕竟容易着凉呐。
+p	n	l	sf3	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	你可算是明白了。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf3	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	不过话说回来，那也确实算是一种锻炼呐，就是小宁不怎么肯动罢了。
+s		我本想继续打趣下去，可不远处，闲聊的声音已经传了过来。
+s		两个高挑的女孩朝着我们走了过来，一个留着和我一样的单马尾，一个则烫了卷发。
+p	n	l	ss9	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss9	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	学姐好，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	同学们	桐雨啊，来这么早。
+p	n	l	sf22	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	也就早了几分钟啦，倒不如说是来得挺巧的。
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2

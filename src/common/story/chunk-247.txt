@@ -1,0 +1,128 @@
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s	宁桐雨	放心，我跟小鑫说好了，
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s	宁桐雨	如果小鑫感觉暂时无法接受这一切的话，我会跟你一起...
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	我来这里，是跟小宁告别的。
+p	n	l	sf6	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s		她突然间打断了我的话。
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	告...别？
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s		第一次听到这个词的时候，我的心脏仿佛停跳了一拍，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf12	-	-	cloth:scf2
+s	余晓鑫	当然，只是短暂的告别，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	这个新年，我想和小宁分开一段时间，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	因为...
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	因为我决心自己去面对这一切，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	不再去倚靠小宁来逃避悲伤，不再把懦弱当作自己的借...借口，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	就像小宁说的那样...去...更加...更加自立地...活...
+s		最终，抽泣声还是掩过了她的话语。
+s		我静静地等待着，像以前一样安抚着她，
+s		时间仿佛回到了高三的那个晚上，小学的那个傍晚，
+s		同样地，是我为她提供了归宿，
+s		但现在，她终于选择去做出改变，
+p	n	l	sf12	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	过去对小宁说的一切，我很...很惭愧，
+s		过了许久，她又这么说道，
+s		模糊的吐字再度变得清晰，激动的语调重新归于平稳，
+s		只有眼眶仍然微微地泛红。
+s	余晓鑫	只有当要失去珍爱之物的时候才会明白，
+s	余晓鑫	我的心已经脆弱到了这种地步，
+s	余晓鑫	尽管我早就千百遍对自己说了，要去坚强地面对...
+s	余晓鑫	可真的当...
+p	n	l	sf1	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	净说些胡话呐，面对这种事情，又有谁能做到平淡地去接受呢？
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	更何况，她可是带你长大的人啊~
+s	宁桐雨	小鑫能够勇敢地跟我说出这一切，愿意一个人去面对这一切，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	在我眼里，已经足够坚强了。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	谢谢...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	但我还是...还是太依赖小宁了。
+s	余晓鑫	依赖唾手可得的幸福感，依赖无条件无保留的爱，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	我感觉我就像是一只把自己封在茧壳里的蝴蝶，
+s	余晓鑫	厌倦了外界的寒冷与荒芜，才想要自己建立一个避风的港湾，
+s	余晓鑫	但是...
+s		说着，她深吸了一口气。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	但现实不会纵容这样的所在。
+s		我不由得抿紧了嘴唇。
+s		苦涩的感觉从心头传来。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	小宁为我让步了太多，我知道的，而我在日常也一直随心所欲地活着，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	因为，我明白，无论怎样，小宁也会选择去接受我，适应我，
+s	余晓鑫	而现在...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf5	-	-	cloth:scf2
+s	余晓鑫	我明白了，我有不得不去面对的事情，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	余晓鑫	所以...
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	我明白的，
+s		我抢过了话题，接着她的意思这么说道，
+p	n	l	sf24	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	所以，我不会去阻拦的，因为这是小鑫你自己选择的路，
+s	宁桐雨	我爱你，所以永远会去支持你，
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf3	-	-	cloth:scf2
+s	宁桐雨	所以，无需多言，无需解释，
+s	宁桐雨	我早已经明白你的心意。
+s		说着，我再度吻了上去，
+s		夜晚的街道静悄悄的，连一个行人也没有，
+s		在那座明亮的路灯下，我们俩就这样坦白了内心。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s	余晓鑫	小宁...还有一个请求。
+p	n	l	sf2	-	-	cloth:scf2
+p	x	r	sf16	-	-	cloth:scf2
+s	宁桐雨	嗯，我听着呢，
+s	余晓鑫	明天早上的高铁，在走之前，我想要...
+s	余晓鑫	我想要记住你的体温。
+h	n
+h	x
+b	dour_l
+s		我们坐车到了高铁站附近，在周边订了一家连锁酒店。
+s		一直以来，我对于旅馆的记忆就只有一件事，这次也不例外，
+s		刷了房卡打开门，我刚把随身带着的行李放在一旁，她就从背后搂住了我，
+s		皮夹克的表面很冷，可她的手却很温暖。
+b	black
+g	cg4
+s		我将身子稍稍侧过去一点，脑袋也扭向了身后，
+s		这之后，我们贪婪地享受着彼此的吻，

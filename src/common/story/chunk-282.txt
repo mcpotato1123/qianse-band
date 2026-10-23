@@ -1,0 +1,128 @@
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	咱不就是为了你才留头发的嘛，
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	你喜欢就好。
+h	n
+h	x
+b	black
+b	dour_c
+p	n	c	sf6	-	-	cloth:scf5
+s	宁桐雨	嗯？怎么走神了？
+p	n	c	sf6	-	-	cloth:scf5
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s		小宁的声音把我从回忆中扯了回来。
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	捧着我的头发愣了两分钟了，是在想心事？
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf6	-	-	cloth:scf5
+p	x	r	sf12	-	-	cloth:scf3
+s	余晓鑫	没，没有啦，只是看入迷了。
+p	n	l	sf13	-	-	cloth:scf5
+p	x	r	sf12	-	-	cloth:scf3
+s	宁桐雨	头发有啥好看的？
+p	n	l	sf13	-	-	cloth:scf5
+p	x	r	sf12	-	-	cloth:scf3
+p	n	l	sf13	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	小宁的头发就很好看啦~
+p	n	l	sf13	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	ss21	-	-	cloth:scs3
+s	宁桐雨	你啊，可别再奉承我了。
+s	宁桐雨	这些话我听得都要出耳茧了。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	ss21	-	-	cloth:scs3
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	我觉得多听听也没坏处嘛。
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	ss21	-	-	cloth:scs3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s		她只是笑了笑，没再说什么。
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss21	-	-	cloth:scs3
+s	宁桐雨	说起来你的手指甲该剪剪了，有点长了。
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss21	-	-	cloth:scs3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s	余晓鑫	昨天晚上划得有点疼吗？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	嗯，
+h	n
+p	x	c	sf1	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	不过等明早吧。
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s		说着，她拉过被子躺了下来。
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	把床头灯关一下吧？
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	余晓鑫	这才几点啊？就睡了？
+p	n	l	sf2	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf3	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	不是要...
+p	n	l	sf3	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf3	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	余晓鑫	还是来看点东西吧？
+p	n	l	sf3	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s		说着我按下了电视机开关。
+h	x
+p	n	c	sf3	-	-	cloth:scf5
+p	n	l	sf3	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	宁桐雨	随你吧~
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s		说着，她自然而然地靠到了我的肩上，
+s		为了防止她着凉，我从旁边给她找了条毯子。
+s		我操纵着遥控器在一部又一部电影间不断地挑选着，可就是打不定主意。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s	宁桐雨	就这部吧~
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	ss21	-	-	cloth:scs3
+s		随着小宁的口令，我停下了按着遥控器的手。
+s		最后锁定的是一部老动画电影。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	啧，二次元。
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	宁桐雨	随你怎么说好了。
+s		不过，最后我还是照办了。
+s		那部动画电影讲的是几个高中女生追逐自己梦想的故事，
+s		看着，看着，我总觉得那剧情有些熟悉。
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	余晓鑫	是不是之前咱们看过这部？
+p	n	l	sf1	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf22	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
