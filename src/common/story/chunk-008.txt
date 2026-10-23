@@ -1,0 +1,128 @@
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf16	-	-	cloth:scf5
+s	余晓鑫	诶？明明刚刚答应我了啊...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	那个，你拿走是没问题啦，
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	但是...千万，不要给其他人看...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	家丑...不可外扬...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	我明白啦，我什么时候骗过你啦~
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s		她说着笑了起来，一看就是一副很不可靠的样子。
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	余晓鑫	我只是拿着这本相册有用罢了，明天我就把用途告诉你啦~
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf10	-	-	cloth:scf5
+s	宁桐雨	不会...又是想扫描进电脑里吧？
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	余晓鑫	那怎么可能嘛~小宁你把我想成什么人了~
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	好，好吧，我就暂且信你这一会吧。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+h	x
+h	n
+b	dour1_a
+s		就这样，小鑫把那本相册塞进了自己随身的小包里。
+b	black
+b	dour1_a
+p	x	c	ss19	-	-	cloth:scs2
+s	余晓鑫	哈，总算是全部规整完了啊~
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	出门的衣服也换好了，今天的活也算结束了~
+p	x	c	ss10	-	-	cloth:scs2
+s	余晓鑫	不过，说回来，归东西，可真的好累啊...
+p	x	c	ss10	-	-	cloth:scs2
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	这句话应该轮到我说才对。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	你要是能在平时稍微归整一下你的生活用品的话，咱们今天也不至于忙成这样，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s		这是我对这一天的总结，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	不过啊，究其根本还是小宁要我带的东西太多了嘛~
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	什么东西都考虑得那么仔细，连刷牙杯都要准备两份，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf10	-	-	cloth:scf2
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf10	-	-	cloth:scf2
+s	余晓鑫	你简直就像我的老妈一样...
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf10	-	-	cloth:scf2
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	那还不是因为你老是把东西搞坏了，还可怜巴巴地来向我求救，
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	就连雨伞都能弄坏，只能来扯着脸皮和我抢一把...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	诶？小宁就这么不愿意和我打一把伞？相合伞啊那可是？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	谁家打相合伞会把旁边的人挤出去的？
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss14	-	-	cloth:scs2
+s	宁桐雨	可真是，很难想象除了我谁能忍受你啊~
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	所以我不会离开小宁的啊~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf11	-	-	cloth:scf2
+s		她自然地顺着这个话题说了下去，
+s		就算是这样肉麻的话，说出口的时候她也没有任何犹豫，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf11	-	-	cloth:scf2
+s	余晓鑫	说起来啊，小宁和我说了一下午话，就不口渴吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf11	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	还不是你害的，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	那咱俩就赶紧去吃饭吧？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2

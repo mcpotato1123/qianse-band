@@ -1,0 +1,128 @@
+s	宁桐雨	不是啦，是杨老师做的...
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	诶？那个面瘫脸班主任居然还会送学生小点心？
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		面瘫脸...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		听到这个形容词，我忍不住笑出了声。
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	呼...怎么可能是她啦
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	这个杨老师啊，是指的是是一个新来的心理老师。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	啊？小宁怎么会认识心理老师的？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	我怎么记得咱们学校的心理老师都是吃白饭的吧？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s		额...她还真是一如既往地口无遮拦啊...
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	那个...是这样的啦，
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	一个月前有一天不是有个心理老师来找我的吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	她就是杨老师啦，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	至于她怎么认识我的么...
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	实际上，是我的表姐...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	真好啊，在学校里有这么一个人。
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s		小鑫随口感叹了一句。
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	怪不得每天小宁都往楼上跑，是去那里的心理办公室吗？
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	嗯，是，是这样啦...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s		不过，我突然回想起来，刚才她说的话有蹊跷所在。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	不过，班...小鑫你是怎么知道我每天中午都去楼上的？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	那个楼梯的位置明明非常隐蔽才对...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	而且，你每天中午都不在教室吧...
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s		经我这么一问，在她的脸上有那么一瞬间闪过了一丝诧异。
+s		然而很快那就被那一如既往的微笑给稀释了。
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	这...这个嘛，因为我每天中午都要去班主任的办公室一趟啦，
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	不过那只是她派给我的任务罢了，不重要
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	怎么样？我的推测很准是不是？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	当我知道我居然猜对了的时候，有那么一瞬间啊，我还在想，我兴许是福尔摩斯转世也说不定呐？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s		她又调皮地笑了笑，就这么轻松地把这个话题带过了。
+s		尽管她一再地想要把这个话题掠过去，可我却无法忽略这几个词，
+s		果然，还是得问个明白...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	小鑫你每天中午是都去老师办公室的吗...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	为什么，班主任要盯着你呢？
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	而且，我看你每次放学都很累的样子...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1

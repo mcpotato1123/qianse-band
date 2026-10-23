@@ -1,0 +1,8 @@
+<script>
+export default {
+  onCreate() {
+    // 全局只做一件事：留一个稳定的应用生命周期，页面各自初始化状态
+    console.log('[夏末白夜] app created')
+  },
+}
+</script>

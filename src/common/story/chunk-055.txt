@@ -1,0 +1,128 @@
+s		说起来啊，那一次，
+s		那一次我好像也是因为体育课上的事情被同学扶到医务室里来的，
+s		那种恶心的感觉已经过去了，四肢也觉得有力了不少，
+s		于是我挣扎地坐起了身来。
+b	black
+g	cg7_4
+p	x	c	sf4	-	-	cloth:scf1
+s		转身看向身边时，床铺旁摆着一张小凳子，上面坐着一个扎着单马尾的女孩。
+p	x	c	sf1	-	-	cloth:scf1
+s		我坐起来的声音让她回过了头来，接着，她冲我微笑了一下。
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	醒了吗？
+p	x	c	ss11	-	-	cloth:scs1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf15	-	-	cloth:scf1
+s	宁桐雨	明知故问...
+s		我嘟囔了一句，抬头看了看墙上的挂钟。
+s		原来已经快到五点了。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf15	-	-	cloth:scf1
+s	余晓鑫	校医说你有些低血糖，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf15	-	-	cloth:scf1
+s	余晓鑫	所以让我等你醒了之后给你这个。
+s		说着她伸出手，递给我一包巧克力。
+h	x
+h	n
+b	black
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	谢...谢谢...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s		我撕开包装，接着把巧克力送进了嘴里。
+s		苦涩的感觉瞬间拢住了味蕾。
+s		因为不太习惯苦巧克力，我干咳了两声。
+h	n
+h	x
+b	black
+g	cg7_4
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	小鑫...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	嗯，我在这里呢，你说吧。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	刚才...是你把我扶过来的吗...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	其实...要准确来说的话上算是背过来的啦，
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	毕竟那时候小宁都昏倒啦，我可担心死了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	直到听到校医亲口说没什么大碍才安下了心来...
+p	n	l	sf15	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	对不起...
+h	n
+h	x
+b	infmr
+p	x	c	ss12	-	-	cloth:scs1
+s	余晓鑫	哪里哪里，这事情完全不是小宁的错啦，反倒应该怪我没能及时注意到你的状态才对。
+p	x	c	ss11	-	-	cloth:scs1
+s	余晓鑫	刚跑完步就跟你拌嘴，还搞了那种事...
+p	x	c	sf17	-	-	cloth:scf1
+s	余晓鑫	联想到小宁的身体状况，本应该陪着你去操场走一圈才对的...
+p	x	c	sf6	-	-	cloth:scf1
+s	余晓鑫	结果，我还拉着你坐下了...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	好啦，别一个劲儿的批斗自己啦，我倒是还得感谢你背我这么个大活人走了这么多路呐。
+p	x	l	sf16	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	也...也没什么好感谢的啦...
+p	x	l	sf16	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s		说到这儿，她突然顿了顿，似乎在踌躇着要不要把下一句话说出口。
+p	x	l	sf17	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	毕竟小宁很轻嘛，就算是背在背上也很轻松的...
+p	x	l	sf17	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s		最后，她还是说了出来。
+h	x
+h	n
+b	infmr
+s		接着，她红着脸着撇过了脑袋，显得有些不知所措。
+s		当她说完了这句话之后，墙上的挂钟敲了五下。
+s		距离晚饭只有半个小时了...
+p	x	c	sf6	-	-	cloth:scf1
+s		这时，我才突然想到了一件很不得了的事儿。
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	小鑫，你...没去上今天下午的两节数学连课吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	嗯，我一直都在这里陪着你啊。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	真的是，又不是什么大事，我一个人也行的。
+s		我这么抱怨道。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	现在赶紧回去上课吧？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	不然的话同学们要奇怪的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss12	-	-	cloth:scs1
+s	宁桐雨	我已经没事了，而且还有校医在呐。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss12	-	-	cloth:scs1
+s	余晓鑫	可是啊，现在老师在评讲周三的考卷耶，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss12	-	-	cloth:scs1
+s	余晓鑫	那张考卷我只错了一个多选题啊？
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss12	-	-	cloth:scs1
+s	余晓鑫	所以，根本没什么必要去听。
+s		不知不觉间，我脸上感动的表情已经消失得无影无踪了。
+s		好不容易才对平常的她有点改观的...
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss12	-	-	cloth:scs1

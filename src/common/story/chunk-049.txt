@@ -1,0 +1,128 @@
+s	宁桐雨	那个...
+s		按理说，年级大会已经过去了，小鑫也没理由再来这里自习了来着。
+s		哦，对了，我差点忘记了，咱俩还是同一个学习小组里的来着...
+s		于是，我试图让老姐相信我们俩是为了课余的学业讨论才来到这里的。
+s		然而，老姐却用一脸狐疑地打量着我，仿佛从来没有我这么个表妹一般...
+s		相反，她跟小鑫仿佛是一对老朋友一样聊了起来，或许在外人看来，她们俩才看上去更像是姐妹吧...
+h	x
+p	n	c	ss3	-	-	cloth:scs1
+h	n
+b	lib_m
+s		看着她们俩聊得甚是投机的样子，我的心里却有些失落。
+s		于是为了逃避这样的现实，我坐回了书架前，拿起了先前没有看完的漫画，
+b	lib_m
+s		事情本该这么结束的来着...
+s		但听着她们两人聊天的声音，我却总是静不下心来，
+s		于是我试着装作去倒水偷偷溜到旁边听了一会，
+b	off_m
+p	x	c	ss10	-	-	cloth:scs1
+p	x	l	ss10	-	-	cloth:scs1
+p	y	r	ss1	-	-	cloth:sc1
+s	余晓鑫	杨老师，你说我该怎样才能让小宁...
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	放心啦...
+p	x	l	sf8	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	杨老师	我觉得她本来就...
+h	x
+h	y
+b	lib_m
+s		话说为什么聊天的主题是我啊...
+s		不过，尽管心里满是疑问，我却没太过在意这种事儿。
+s		或许老姐又在进行她那日常针对我的批斗吧？
+s		这种事情我早该习惯了...
+b	black
+s		可是，万一呢，万一...万一要是小鑫问老师的是如何...
+b	lib_m
+s		但我马上就叫停了内心的妄想。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	宁桐雨啊，宁桐雨啊，别把漫画里的东西代入现实...
+p	n	c	ss9	-	-	cloth:scs1
+s	宁桐雨	那样可不就跟她一样自恋了...
+s		但当后来我问到她刚才在聊什么的时候，她却就这么直截了当地回答了，
+s		而结果直接证实了我当时的猜想。
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	我在问杨老师怎么让小宁喜欢上我啊，
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s		什，什么？？？？？？？？
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	毕竟咱昨天不是刚惹你生气了嘛...
+h	x
+p	n	c	ss9	-	-	cloth:scs1
+s		原...原来是因为这个嘛...
+s		她这个人某些方面...嗯，真是容易让人产生不必要的误解呢...
+s		总之，当时和小鑫聊完之后，老姐照常为我们准备了些点心，就接着她去处理工作上的事儿了。
+s		虽然我很好奇一个不需要上课，也没有客人的心理老师会有什么样的工作，
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	难道说她的工作就是摸鱼吗？
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	真想去看看啊...
+s		但最后，我还是忍住了好奇心。
+s		毕竟还有更要紧的事情要办。
+s		对，一天当中少有的，能够逃避现实的时光，千万不能浪费了！
+s		我们搬着小点心和茶水坐到了书架面前，小鑫正饶有兴致地看着上面的书。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+s	余晓鑫	这些书，小宁都读过了吗？
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+s	宁桐雨	嗯，差不多。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	太~闲~了~吧~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	我可不像你，整天这么用功学习。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		要是没了这些漫画，我真不知道该怎么在高中里活下去...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	切，我才不是...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		但说到半路，她还是把这个话题给打住了。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s		她收起有些为难的表情，再次露出了一贯的贱兮兮的表情。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	这样，既然小宁都看过了，那就给我推荐一本书呗~
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	这样吗...
+s		看她也不像是有什么不好的打算的样子，还是...暂且放下成见吧...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	也行吧，我想想...
+h	n
+h	x
+b	boksh
+b	lib_m
+s		我随手从书架上拿下一本书递给了她。
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	喏，这本，我自己从家里带过来的，你可能不太会喜欢文学类的，就看看漫画吧~
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+s	余晓鑫	嗯，好的~
+h	x
+p	n	c	ss1	-	-	cloth:scs1
+s		她说着把漫画书接了过去。
+s		熟练地翻开，
+s		然后翻到了，夹着书签的一页，
+s		那一页上，恰巧是接吻的场面。
+s		按理说，恋爱类型的漫画有这样的场面也不算意外，
+s		而且，我们俩也早已不是小孩子了，
+s		恋爱的话题在同学们中间也已经很普遍了...

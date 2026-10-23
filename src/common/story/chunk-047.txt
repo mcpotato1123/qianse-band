@@ -1,0 +1,128 @@
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	反正我正好也没什么要紧的事。
+s		这么想着的我接过了她递来的拍子。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	事先声明一下，我可是很强的哦？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	切，等你被打哭的时候就再也说不出这句话了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	口气不小，我可是知道你到底几斤几两的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	毕竟，体育课上咱不是天天在练的吗？
+s		说着，她双手叉到了腰间，胸膛也一并挺了起来。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	区区一个小宁~
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	能奈我何呐？
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	哦哈哈哈哈哈~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	刚才，你是不是表演了一个标准的反派笑声。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf16	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	哪...哪有啦，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	我一直都是阳光开朗的少女啊？
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	啊哈哈...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	小宁你啊，还真是怪会开玩笑的呢...
+h	x
+h	n
+b	tabte
+s		不知不觉间，某人在我心中的形象好像崩塌了...
+s		哦，原来不曾存在过吗？
+s		那就没事了。
+b	classroom2
+s		今天是礼拜天，
+s		而我正看似无所事事地上着晚自习...
+b	classroom2
+s		无所事事个鬼啊！！！
+p	n	c	ss14	-	-	cloth:scs1
+s	宁桐雨	呜...
+p	n	c	ss3	-	-	cloth:scs1
+s		说到底，今天我会身处在教室里已经是最大的不合理之处了，
+s		为什么礼拜天还要来学校啊...
+s		更坏我心情的是，礼拜天上课同时还意味着一周一次的数学考试。
+p	n	c	ss6	-	-	cloth:scs1
+s	宁桐雨	真是太可恶了...
+p	n	c	ss7	-	-	cloth:scs1
+s	宁桐雨	呜...
+p	n	c	sf7	-	-	cloth:scf1
+s	宁桐雨	凭什么嘛，凭什么一个礼拜只有一天休息日嘛！
+p	n	c	sf8	-	-	cloth:scf1
+s	宁桐雨	而且，最重要的是，刚考完试就要对答案。
+p	n	c	sf32	-	-	cloth:scf1
+s	宁桐雨	我当初为什么要选理科啊...
+p	n	c	sf20	-	-	cloth:scf1
+s		不知不觉间，我居然把藏在心里的抱怨声说出了口。
+p	n	c	sf20	-	-	cloth:scf1
+p	n	l	sf20	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+p	n	l	sf20	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	可是，无论是选理科还是文科都要学数学的啊？
+p	n	l	sf20	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		接着，耳边就响起了熟悉的声音。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		不知不觉间，下课铃已经敲响了。
+s		小鑫又如往常一样逛到了我的身边，
+s		对这种横穿整个教室的行为，现在的我早已见怪不怪了。
+p	n	l	ss2	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	少来虚情假意地安慰我，你这种卷王根本体会不到我的痛苦...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	你数学就从来没差过！
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss11	-	-	cloth:scs1
+s	余晓鑫	嗐，不瞒你说，其实...这次我也没考好啦...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+s	宁桐雨	真的？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	嗯，我啥时候骗过你嘛，
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf15	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s		虽然根据我过往的经验来看，这句话已经假到不能再假了，
+s		但看着她真诚的眼神，我甚至有那么一瞬间相信了她的话，
+s		然而，仅仅片刻之后，现实就狠狠地打了我的脸。
+p	n	l	sf15	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	余晓鑫	嗯，大概也就...135的样子吧？
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss13	-	-	cloth:scs1
+p	n	l	sf8	-	-	cloth:scf1

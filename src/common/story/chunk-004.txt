@@ -1,0 +1,128 @@
+s		不知何时，舞台上已经站满了布置场景与灯光的工作人员。
+s		可我明明记得在远处望向舞台的时候，那里连一个人影都见不到。
+s		她在第二排挑了一个位置坐了下来。
+s		接着，她向我做了个手势，示意我坐在她的身边。
+p	n	c	ss4	-	-	cloth:scs3
+s	宁桐雨	我看你们也不缺人手，是暂时不需要我上场帮忙吗？
+p	n	c	ss3	-	-	cloth:scs3
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss1	-	-	cloth:default
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s	凌	你的戏份在下一幕。
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss1	-	-	cloth:default
+s	凌	现在，就好好看着剧台上的表演吧。
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	下一幕？
+s	宁桐雨	就我一个人吗？
+p	n	l	ss1	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+p	n	l	ss1	-	-	cloth:scs3
+p	l	r	ss7	-	-	cloth:default
+s	凌	一开始是这样，
+p	n	l	ss1	-	-	cloth:scs3
+p	l	r	ss2	-	-	cloth:default
+s	凌	但是后面会有人加进来和你一同参演的。
+p	n	l	ss1	-	-	cloth:scs3
+p	l	r	ss2	-	-	cloth:default
+s	宁桐雨	我可不擅长和其他人合作。
+s	宁桐雨	更确切地说，是极度缺乏类似的经历。
+p	n	l	ss1	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s	凌	放心，你一定会和她配合得很好的，我打包票。
+p	n	l	ss1	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+p	n	l	ss1	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	她？
+p	n	l	ss2	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+p	n	l	ss2	-	-	cloth:scs3
+p	l	r	ss2	-	-	cloth:default
+s		我困惑地问道，可身边的她却只是点了点头。
+s	宁桐雨	她是一个什么样的人？
+p	n	l	ss2	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s	凌	到时候你就明白了。
+p	n	l	ss2	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+p	n	l	ss2	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s	宁桐雨	每句话都要打谜语的人可真是讨厌啊...
+p	n	l	ss6	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+p	n	l	ss6	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s		她听到了我的调侃似乎也不生气，仍然用微笑回应着我。
+h	l
+p	n	c	ss6	-	-	cloth:scs3
+s		我把脸撇了过去，不再和她讲话了。
+s		毕竟我已经有了预感，就算再和她聊一整天也套不出什么有用的信息了。
+s		现在，还是暂且将计就计为妙。
+s		看到我的反应，身边的她坏笑了一下，接着便把目光再次投向了剧台。
+p	n	l	ss6	-	-	cloth:scs3
+p	l	r	ss5	-	-	cloth:default
+s	凌	那么，开始吧。
+p	n	l	ss6	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s	凌	第一幕，《两个人的独角戏》
+h	l
+p	n	c	ss6	-	-	cloth:scs3
+s		她的话音刚落，剧院里的灯光刹那间熄灭了。
+s		舞台之上，一盏明亮的聚光灯亮了起来。
+s		在这座孤独的“剧院”里，表演就这样开始了。
+g	title_chapter0
+h	n
+b	dour1_m
+p	x	c	ss1	-	-	cloth:scs3
+s	余晓鑫	说起来啊，今天下午的讲座咱们也翘掉了啊，
+p	x	c	sf6	-	-	cloth:scf3
+s	余晓鑫	听宣传部里说是剧院里的管弦乐队要来报告厅里演出来着，
+p	x	c	sf12	-	-	cloth:scf3
+s	余晓鑫	原来一张票都要三百来块钱，能免费看的话，那可真是十年一遇的机会...
+p	x	c	ss17	-	-	cloth:scs3
+s	余晓鑫	嗐...我此生最大的遗憾就是没能和小宁一起去看一场演出呐~
+p	x	c	ss1	-	-	cloth:scs3
+s	余晓鑫	可机会到咱俩面前的时候却又错过了，真可惜~
+p	x	c	sf8	-	-	cloth:scf3
+s	余晓鑫	喂，小宁，我跟你讲话呢，别无视我嘛...
+p	x	c	sf6	-	-	cloth:scf3
+s	余晓鑫	别老是埋着头归行李啦~
+h	x
+s		面对舍友的喃喃自语，我并没放在心上，
+s		毕竟平常我听得已经够多了，更何况我现在手头还有事情要忙。
+s		原本已经答应好了要帮我一块整理东西，可真到了办事的时候手却从来没动过。
+s		明明是她留给我的烂摊子，现在反倒还在一旁讲废话来分散我的注意力。
+s		虽然她美其名曰自己是在查漏补缺，可我心里却明白得很，这就是她合法摸鱼的借口。
+s		所以，我决定暂且不搭理她的话，权当作对她公然摸鱼的报复了。
+p	x	c	ss3	-	-	cloth:scs3
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	这个热水瓶你还要吗？
+p	x	l	ss3	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5
+p	x	l	ss10	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5
+s	余晓鑫	嗯？
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5
+s		看着我手里拿着的红瓶子，她陷入了沉思。
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf16	-	-	cloth:scf5
+s	余晓鑫	哦，那个我要的，
+p	x	l	ss10	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5
+s	余晓鑫	真的是，难道你不记得了么，那可是咱们刚考上研究生时候送的，
+p	x	l	ss17	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5
+s	余晓鑫	很有纪念意义的好不好...
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5
+s	余晓鑫	就这么把它丢掉的话感觉不大好...
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	纪念意义...
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5

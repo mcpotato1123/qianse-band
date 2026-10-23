@@ -1,0 +1,128 @@
+s		上面的字迹分明就是：禁止入内。
+p	n	c	sf28	-	-	cloth:scf1
+s	宁桐雨	这就是年级榜样的道德修养吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	怎么可能嘛，我当然也只是听别的同学说的啦，自己还没来试过。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	我记得这个门是不锁的...
+h	x
+p	n	c	sf28	-	-	cloth:scf1
+s		她将手伸向了门把手，使劲地拧了拧。
+s		凭我对她力气的了解，我那时真担心门把手被她给扯下来。
+s		不过还好我低估了它的坚固程度，不然我们俩准得获得德育室的单程票了。
+s		在一串奇怪的响声过后，门开了。
+h	n
+b	black
+s		体育馆内一片黑暗，几乎什么也看不清。
+s		一阵灰尘不知从哪儿抖落下来，我捂住口鼻，使劲地咳了几声。
+p	n	c	sf12	-	-	cloth:scf1
+s	宁桐雨	这...这是哪里啊？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss7	-	-	cloth:scs1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	唔...我记得是老器材馆吧？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s		在黑暗中，她借着门口的光在器材室的墙上不断地摸索着，像是在找着电源的开关。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	喏，那边还有一个老的乒乓馆。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	这么说，我们学校的那个破乒乓馆居然还是新造的吗？
+p	n	l	sf4	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	sf4	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	余晓鑫	嘛，从这里你也就能体会到，这所老的究竟有多破了嘛...
+s		说着她按下了电源。
+h	n
+h	x
+b	equr
+s		头顶的灯光瞬间闪烁了几下，室内的一切也随之闪烁着，就像恐怖电影一样。
+s		所幸闪动了将近十几秒钟之后，它还是稳定了下来。
+p	x	c	sf11	-	-	cloth:scf1
+s	余晓鑫	说实话，这里当做鬼屋可能会更合适...
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	我也是这么想的...
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	可惜啊，这肯定是不允许的啊...
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	这破学校，连个开放日都没有，哪会允许学生自己搞这种东西。
+h	x
+h	n
+b	tabte
+s		她边叹着气，边走到了乒乓球桌前，开始用布清扫起乒乓球桌面的灰。
+s		这时，我突然想起来，我经常看的漫画里好像也有类似的场景，
+p	n	c	sf5	-	-	cloth:scf1
+s	宁桐雨	她把我带到这里，不会是要...
+p	n	c	sf5	-	-	cloth:scf1
+p	n	l	sf5	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf7	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s		仿佛是为了印证我的想法一般，她还特地走到门口检查了一下门有没有关紧。
+s		确认门已经被锁上之后，她开始慢慢地朝我所在的方向逼近。
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+h	n
+h	x
+b	tabte
+s		一步，两步...
+s		我随着她的脚步不断后退着，最后脚后跟撞到了墙上，身子也摔到了后面的靠垫上。
+b	black
+s		心脏跳个不停，脸颊也开始发烫了...
+s		完了，难不成她真的...
+s		我的心提到了嗓子眼，同时还有一点小期待。
+s		不对啊，期待又是什么鬼啦，那种事情...
+s		可正当我在胡思乱想的时候，她突然开口了。
+b	tabte
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	小宁要打乒乓球吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	诶，难...难道说...该不会...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	你把我们俩锁在这里只是...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	诶，我当你早就想到了啊？
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	不锁的话肯定会有其他人过来的啊？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	要不然呢？小宁脑袋里在想什么呢？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	什...什么也没有。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	怎么还像很失望的样子，明明应该是很值得高兴的事情来着...
+s		不过好在她最后也没有追问，这个话题就这样被糊弄过去了。
+s		接着她从地上的筐子里挑出一副拍子来，将其中的一个递给了我。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	来嘛，反正正好午休，又刚考完试。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	...行...行吧

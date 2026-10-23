@@ -1,0 +1,128 @@
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	你就是因为什么都有纪念意义，才会在自己的柜子里养出这么多垃圾来...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	你看看，你桌子上不还有一个热水瓶和一个马克杯吗？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss7	-	-	cloth:scs5
+s	宁桐雨	你要这个热水瓶还有什么用处？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	唉，小宁你怎么就是不懂呢？
+p	x	l	ss10	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	那个热水瓶和马克杯都是跟小宁一起买的啊？
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	既然是小宁送给我的礼物么，我自然是要优先用的啊？
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	少来讨好我，我早就对你脱敏了...
+s		接着，我拧开了热水瓶的盖子向里面瞅了一眼，
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	喂，这瓶子你不会一次都没用过吧？
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss7	-	-	cloth:scs5
+s	宁桐雨	连商标纸都还塞在里面...
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf3	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	诶？那个...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	而且，我记得当时入学的时候还送过雨伞的吧，
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	那把伞现在上哪里去了？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	ss22	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	余晓鑫	明知故问嘛小宁...那把伞不是被我用坏了吗...
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	你是不是觉得把伞用坏是很正常的事？
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss7	-	-	cloth:scs5
+s	宁桐雨	学校送的那把伞我从两年前用到现在了，现在一点坏的迹象都没有...
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	小宁啦，有时候也不用那么斤斤计较啦...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	重新买一把...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf8	-	-	cloth:scf5
+s	宁桐雨	跟你说么，别老是给我留烂摊子，你就是不听，
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf8	-	-	cloth:scf5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	明明都说好了上午要一块归东西的，一到做事情了，你人影又不见了，
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss7	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss7	-	-	cloth:scs5
+s	宁桐雨	说到底，你摸鱼我都忍了，还在旁边一直唠唠叨叨，分散我的注意力，
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss12	-	-	cloth:scs5
+s	宁桐雨	要不是我摊上了你这个扫把星，午觉都睡了两个钟头了！
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	诶？可是明明是小宁你硬要整理行李的...
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	我可从来没说我的行李要整理...
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf8	-	-	cloth:scf5
+s	宁桐雨	好烦！有多远走多远，我讨厌你...
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	余晓鑫	好吧好吧，我这就滚...
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+h	x
+h	n
+b	dour1_m
+s		她似乎被我责问的声音给吓了个不轻，连语气都变得畏畏缩缩了起来。
+p	x	c	sf6	-	-	cloth:scf3
+s	余晓鑫	话说啊，我还是想问一下...就问最后一下...
+p	x	c	ss10	-	-	cloth:scs3
+s	余晓鑫	这本...
+p	x	c	ss12	-	-	cloth:scs3
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	这又是什么？
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	那是咱俩大三出去玩的时候用过的小板凳啦，因为坏掉了本来想修一下的，
+p	x	l	sf8	-	-	cloth:scf3

@@ -1,0 +1,268 @@
+<template>
+  <div class="page" onswipe="ban">
+    <image class="headbar" src="/common/img/ui/headbar.png"></image>
+    <text class="title">CG 鉴赏</text>
+    <text class="sub">已解锁 {{seen}} / {{total}} · 点图放大 · 左右拖动看全图</text>
+
+    <list id="cg-list" class="lst" bounces="true" onswipe="ban">
+      <list-item class="row" for="{{rows}}" tid="rid" onswipe="ban">
+        <div class="cols">
+          <image class="th" src="{{$item.c0.src}}" onclick="open($item.c0)" onswipe="ban"></image>
+          <image class="th" src="{{$item.c1.src}}" if="{{$item.c1}}" onclick="open($item.c1)" onswipe="ban"></image>
+          <image class="th" src="{{$item.c2.src}}" if="{{$item.c2}}" onclick="open($item.c2)" onswipe="ban"></image>
+        </div>
+      </list-item>
+    </list>
+
+    <div class="back" onclick="back" onswipe="ban"><text class="btn-t">返回</text></div>
+
+    <!-- 全屏看图：原作 CG 是 853×480 的长图，左右拖动/点两侧平移看全 -->
+    <div class="viewer" if="{{viewing}}" onswipe="onSwipe"
+         ontouchstart="touchStart" ontouchmove="touchMove" ontouchend="touchEnd"
+         ontouchcancel="touchEnd">
+      <image class="full" style="{{panStyle}}" src="{{viewSrc}}"></image>
+      <text class="vname">{{viewName}}</text>
+      <div class="close" onclick="closeView" onswipe="ban"><text class="close-t">×</text></div>
+
+      <!-- 拖动不可用时也能左右平移 -->
+      <div class="zone" style="left: 0px;" onclick="stepLeft" onswipe="ban"></div>
+      <div class="zone" style="left: 288px;" onclick="stepRight" onswipe="ban"></div>
+
+      <div class="bar">
+        <div class="track">
+          <div class="thumb" style="{{thumbStyle}}"></div>
+        </div>
+        <text class="cnt">{{counter}}</text>
+      </div>
+    </div>
+  </div>
+</template>
+
+<style>
+  .page { width: 336px; height: 480px; background-color: #f5f5f7; position: relative; }
+  .headbar { position: absolute; top: 0px; left: 0px; width: 336px; height: 72px; }
+  .title { position: absolute; top: 10px; left: 0px; width: 336px; text-align: center;
+           font-size: 30px; color: #f2f2f4; font-weight: bold; }
+  .sub { position: absolute; top: 42px; left: 0px; width: 336px; text-align: center;
+         font-size: 14px; color: #d6d6da; }
+
+  .lst { position: absolute; top: 88px; left: 0px; width: 336px; height: 330px; }
+  .row { width: 336px; height: 66px; }
+  .cols { width: 336px; height: 66px; flex-direction: row; justify-content: center; }
+  .th { width: 96px; height: 54px; margin-left: 5px; margin-right: 5px; margin-top: 8px;
+        border-radius: 8px; background-color: #ffffff; object-fit: cover;
+        border: 1px solid #e0e0e0; }
+
+  .back { position: absolute; top: 428px; left: 50px; width: 236px; height: 44px;
+          border-radius: 22px; background-color: #ffffff; border: 1px solid #e0e0e0;
+          align-items: center; justify-content: center; }
+  .btn-t { font-size: 24px; color: #333333; font-weight: bold; }
+
+  .viewer { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
+            background-color: #000000; overflow: hidden; }
+  .full { position: absolute; top: 0px; left: 0px; height: 480px; object-fit: fill; }
+  .vname { position: absolute; top: 12px; left: 12px; font-size: 16px; color: #ffffff;
+           background-color: rgba(0, 0, 0, 0.55); padding-left: 10px; padding-right: 10px;
+           padding-top: 5px; padding-bottom: 5px; border-radius: 10px; }
+  .close { position: absolute; top: 8px; left: 288px; width: 40px; height: 40px;
+           border-radius: 20px; background-color: rgba(0, 0, 0, 0.6);
+           align-items: center; justify-content: center; }
+  .close-t { font-size: 26px; color: #ffffff; }
+
+  .zone { position: absolute; top: 60px; width: 48px; height: 352px; }
+
+  .bar { position: absolute; top: 424px; left: 0px; width: 336px; height: 56px;
+         background-color: rgba(0, 0, 0, 0.58); }
+  .track { position: absolute; top: 16px; left: 48px; width: 240px; height: 4px;
+           border-radius: 2px; background-color: rgba(255, 255, 255, 0.28); }
+  .thumb { position: absolute; top: 0px; height: 4px; border-radius: 2px;
+           background-color: #ffd166; }
+  .cnt { position: absolute; top: 24px; left: 0px; width: 336px; text-align: center;
+         font-size: 16px; color: #dddddd; }
+</style>
+
+<script>
+import router from '@system.router'
+import { CG, CG_WIDE, cgWide, cgThumb } from '../../common/assets.js'
+import { loadSeen } from '../../common/reader.js'
+
+const VIEW_W = 336
+const STEP = 168          // 点两侧/轻扫一次的平移量
+const SWIPE_MIN = 36
+const SWIPE_MS = 800
+
+function readX(e) {
+  if (!e) return null
+  let p = null
+  if (e.touches && e.touches.length) p = e.touches[0]
+  else if (e.changedTouches && e.changedTouches.length) p = e.changedTouches[0]
+  else p = e
+  if (!p) return null
+  if (typeof p.clientX === 'number') return p.clientX
+  if (typeof p.pageX === 'number') return p.pageX
+  return typeof p.x === 'number' ? p.x : null
+}
+
+function readDir(e) {
+  if (!e) return ''
+  if (typeof e.direction === 'string') return e.direction
+  if (e.detail && typeof e.detail.direction === 'string') return e.detail.direction
+  return ''
+}
+
+export default {
+  protected: {
+    rows: [],
+    seen: 0,
+    total: 0,
+    viewing: false,
+    viewSrc: '',
+    viewName: '',
+    counter: '',
+    panStyle: 'left: 0px; width: 853px;',
+    thumbStyle: '',
+  },
+
+  onInit() {
+    this.lock = 0
+    this.seenIds = {}
+    this.pan = 0
+    this.maxPan = 0
+    this.wideW = 853
+    this.touchX0 = null
+    this.touchT = 0
+    this.moved = false
+    this.refresh()
+  },
+
+  onShow() { this.refresh() },
+
+  refresh() {
+    loadSeen((list) => {
+      this.seenIds = {}
+      for (let i = 0; i < list.length; i++) this.seenIds[list[i]] = 1
+      this.build()
+    })
+  },
+
+  build() {
+    const rows = []
+    let seen = 0
+    for (let i = 0; i < CG.length; i++) {
+      if (this.seenIds[CG[i]]) seen += 1
+    }
+    for (let i = 0; i < CG.length; i += 3) {
+      const row = { c0: null, c1: null, c2: null }
+      for (let k = 0; k < 3; k++) {
+        const idx = i + k
+        if (idx >= CG.length) break
+        const on = !!this.seenIds[CG[idx]]
+        row['c' + k] = {
+          src: on ? cgThumb(CG[idx]) : '/common/img/ui/locked.png',
+          idx: idx,
+          on: on,
+        }
+      }
+      rows.push(row)
+    }
+    this.rows = rows
+    this.seen = seen
+    this.total = CG.length
+  },
+
+  open(cell) {
+    if (!cell || !cell.on) return
+    if (Date.now() - this.lock < 400) return
+    this.lock = Date.now()
+    this.openId(CG[cell.idx])
+  },
+
+  openId(id) {
+    this.viewing = true
+    this.viewName = id
+    this.viewSrc = cgWide(id)
+    this.wideW = CG_WIDE[id] || 336
+    this.maxPan = Math.max(0, this.wideW - VIEW_W)
+    this.setPan(this.maxPan / 2)      // 从画面中间开始，人物通常在中段
+    this.counter = this.maxPan > 0 ? '拖动看全图 · 划到边缘切图' : '左右滑动切换'
+  },
+
+  /* 划到边缘后再滑，切到上一张 / 下一张 CG */
+  shift(dir) {
+    const i = CG.indexOf(this.viewName)
+    if (i < 0) return
+    const n = i + dir
+    if (n < 0 || n >= CG.length) return
+    this.lock = Date.now()
+    this.openId(CG[n])
+  },
+
+  setPan(v) {
+    const p = Math.max(0, Math.min(this.maxPan, Math.round(v)))
+    this.pan = p
+    this.panStyle = 'left: -' + p + 'px; width: ' + this.wideW + 'px;'
+    const tw = this.maxPan > 0 ? Math.max(18, Math.round(240 * VIEW_W / this.wideW)) : 240
+    const left = this.maxPan > 0 ? Math.round((240 - tw) * p / this.maxPan) : 0
+    this.thumbStyle = 'left: ' + left + 'px; width: ' + tw + 'px;'
+    if (this.maxPan > 0) this.counter = p <= 0 ? '← 左边到头了' :
+      (p >= this.maxPan ? '右边到头了 →' : '左右拖动看全图')
+  },
+
+  step(dir) {
+    if (Date.now() - this.lock < 220) return
+    this.lock = Date.now()
+    this.setPan(this.pan + dir * STEP)
+  },
+
+  /* 一次轻扫：先尝试平移，已经在边缘就切图 */
+  flick(dir) {
+    if (this.maxPan <= 0 ||
+        (dir > 0 && this.pan >= this.maxPan - 1) ||
+        (dir < 0 && this.pan <= 1)) {
+      this.shift(dir)
+    } else {
+      this.step(dir)
+    }
+  },
+
+  stepLeft() { this.step(-1) },
+  stepRight() { this.step(1) },
+
+  closeView() { this.viewing = false },
+
+  touchStart(e) {
+    this.touchX0 = readX(e)
+    this.touchT = Date.now()
+    this.moved = false
+    this.panAtStart = this.pan
+  },
+
+  touchMove(e) {
+    const x = readX(e)
+    if (x === null || this.touchX0 === null) return
+    const dx = x - this.touchX0
+    if (Math.abs(dx) < 3) return
+    this.moved = true
+    this.setPan(this.panAtStart - dx)
+  },
+
+  touchEnd(e) {
+    if (this.moved) return
+    const x = readX(e)
+    if (x === null || this.touchX0 === null) return
+    if (Date.now() - this.touchT > SWIPE_MS) return
+    const dx = x - this.touchX0
+    if (Math.abs(dx) < SWIPE_MIN) return
+    this.flick(dx < 0 ? 1 : -1)
+  },
+
+  onSwipe(e) {
+    const dir = readDir(e)
+    if (dir === 'left') this.flick(1)
+    else if (dir === 'right') this.flick(-1)
+  },
+
+  ban() {},
+  back() { router.back() },
+}
+</script>

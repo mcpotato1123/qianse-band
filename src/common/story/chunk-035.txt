@@ -1,0 +1,128 @@
+s		一个很没意思的人。
+h	n
+b	stai_m
+s		心不在蔫地吃完了午饭，在归还餐具的时候也没发现她的身影，
+s		这也是理所当然的呢，毕竟世间不可能有那么巧合的事情。
+s		于是，认清现实的我便一个人打道回府了。
+s		兴许她是先我一步回去了吧，大概也早就把之前讲的话忘得一干二净了，
+s		还亏得我当时这么相信她...
+s		就算是下楼的时候，我也仍然在想着这些鸡毛蒜皮的小事。
+s		突然间，肩膀突然被人重重拍了一下。
+s		不用想都知道是谁...
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	嗨呀，小宁，你还是上午的这副表情呢。
+p	x	c	sf11	-	-	cloth:scf1
+s		小鑫比我高一些，所以在楼梯上拍我的肩膀时，重心会往我这儿压过来，我总感觉她是在把我当做支撑起她的杆子。
+p	x	c	sf1	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	喂，这样很危险的...
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	你想说的事儿都写在脸上呢。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	要不要下次把你的照片拍下来看看？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss12	-	-	cloth:scs1
+s	宁桐雨	算了吧...我还是要脸的。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss12	-	-	cloth:scs1
+s		我回过头去看她，果不其然，她的脸上仍然挂着笑容。
+s		到现在，还有脸笑呢...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	中午你去哪儿了，我找遍了整个食堂都没找着...
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	真的是，不都跟我说好了嘛，如果没法兑现承诺的话就别让我擅自抱有期待啊...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s		一见到她的脸，我原本不想说出口的话还是被无意地嘟囔了出来。
+s		自然，说这话的时候我的脸上仍旧挂着阴沉的神情。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	余晓鑫	抱歉，有点事情啦，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	还能有什么事...
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	我妈妈来找我啦，她顺带也把饭带到学校里来了，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	真的，我发誓，我本来是真的想去找小宁你的啦，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	可我刚一出教学楼就被老杨给拉走了，根本没给我选择的机会啦，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		她这么解释着，甚至一并用上了手势。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	小宁，别闹别扭啦...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	我哪里闹别扭啦，别这么自恋了好不好！
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	你说这话分明就是在闹别扭...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss9	-	-	cloth:scs1
+s	宁桐雨	噗...
+s		不知为何，我突然被她的话给逗笑了，
+s		刚才的不爽与责怪也都随着笑声一起消散了，
+s		或许我也早该明白了，并不是我老是因为一些小事而闷闷不乐，
+s		只是因为我对她的态度太过于敏感了而已...
+h	x
+p	n	c	ss9	-	-	cloth:scs1
+h	n
+b	skidk
+s		接着，跟随着我的轨迹，我们俩从返回教学楼的人堆脱离开，走向了另一个方向。
+s		眼见着四周的同学越来越稀少，喧闹的声音也渐渐远去了。
+p	x	c	sf1	-	-	cloth:scf1
+s	余晓鑫	小宁这是要去哪里呢？
+p	x	c	sf1	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	大概是心理教室吧。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	去找表姐吗？
+p	x	l	ss2	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	ss2	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	或许吧...
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	话说啊，我找到了一个好地方，不一起去看看吗？
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	不去，
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf16	-	-	cloth:scf1
+s	余晓鑫	嘿诶？拒绝得好干脆，
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	sf16	-	-	cloth:scf1
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	sf21	-	-	cloth:scf1
+s	宁桐雨	还不是因为你说的“好地方”就从来没让我满意过，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	这次绝对会让你满意的啦，我保证，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	而且，那个地方也正巧顺路。

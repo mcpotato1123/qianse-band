@@ -1,0 +1,128 @@
+h	x
+h	n
+b	skidk
+s		不知不觉间，我们俩已经走到了食堂门口，
+s		或许是为了逃离她的碎碎念的缘故，今天我的脚步尤其地快，
+s		当然紧跟着我的她也是如此，
+s		以至于就算被归行李耽误了这么久，咱俩到食堂的时候还比平常的饭点要早上不少，
+s		得益于此，我顺利地点到了原先怎么也抢不到的小笼包，
+s		甚至糕点铺里的绿豆糕都剩了一份，被晓鑫买下当做了明天的早饭。
+s		这，或许也算是一种因祸得福吧...
+b	str_e
+s		饱餐了一顿之后，我们俩又顺道在校园里逛了起来，
+s		初夏的晚风拂过我们俩的脸颊，惬意感让我不由得打了个哈欠，
+p	x	c	sf4	-	-	cloth:scf2
+s	余晓鑫	小宁啊，你怎么还穿着外套啊？明明已经这么热了，
+p	x	c	sf6	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	瞧瞧你，自己身上不也穿着呐...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	那可不一样，你下身还穿着长裙呐，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	什么嘛，这裙子才刚刚盖过膝盖，也能算长裙？
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	可夏天明明应该穿短裙才对。
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	我体寒，这种裙子已经是我所能接受的极限了。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	嗯，倒也是这个道理啦。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	可小宁你既不穿短裙，也不穿热裤什么的，
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	甚至有时候出门还披着个黑色的薄外套，
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	真不知道大夏天你是怎么熬过来的...
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	早不就跟你说了吗？像我这种体质的人，考虑的时候要为我加上一件衣服。
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss6	-	-	cloth:scs2
+s	宁桐雨	你更该在冬天想着我会不会着凉好吧...
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	可真是，交到了一个从来不懂得体贴别人的臭女友啊...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	余晓鑫	诶？好，好吧...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s		到这里，她总算是被我驳倒了，叽叽喳喳的嘴巴也总算停歇了下来。
+s		她有些犹豫地回过了头去，似乎是在看着远处的天空。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	余晓鑫	时间还早，要不再到哪里去逛逛？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	嗯，倒也可以啦，那今天就请你来推荐下目的地吧？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	毕竟也是你拉着我出来的嘛。
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	说得你好像多不情愿出来一样。
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	s1	-	-	cloth:cs2
+s	宁桐雨	毕竟出来一趟如果衣服脏了就又要洗了，可太麻烦了。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	s1	-	-	cloth:cs2
+s	余晓鑫	那只是因为小宁你太洁癖啦~出来一趟衣服哪能不脏的。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	s1	-	-	cloth:cs2
+s	余晓鑫	只要没啥大污点就好了...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	这就是你整天穿黑外套的理由吗...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+h	x
+h	n
+b	strc_a
+s		这时，我们刚好走到了学校正中心的十字路口，
+s		汽车和电动车呼啸而过的声音不断从耳边闪过，可现在的我却不觉得那声音吵闹，
+s		我就这样静静地站在红绿灯下，等待着她做出决定，
+p	x	c	ss1	-	-	cloth:scs2
+s	余晓鑫	那家桌球馆怎么样？
+p	x	c	ss1	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	又是桌球嘛...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	你对这种运动可真是爱得深沉啊...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	余晓鑫	我是想着饭后正好消消食嘛，毕竟运动量也不算太大，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf22	-	-	cloth:scf2
+s	宁桐雨	行，那咱们就走吧。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf22	-	-	cloth:scf2
+s	余晓鑫	对了，单纯地打个桌球也太没意思了，咱们还是来搞点惩罚机制吧~
+s	余晓鑫	比如说啊，晚上的...
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf22	-	-	cloth:scf2
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	ss6	-	-	cloth:scs2
+s	宁桐雨	你认为我这次还会上你的当吗？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss6	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2

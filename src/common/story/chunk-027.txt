@@ -1,0 +1,128 @@
+s		我敏锐地捕捉到了这个词。
+s		而老姐则在一页一页地翻看着档案。
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss2	-	-	cloth:sc1
+s	杨老师	我记得开学第一周的ppt不也是你做的吗，所以...
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss2	-	-	cloth:sc1
+p	n	l	ss4	-	-	cloth:scs1
+p	y	r	ss2	-	-	cloth:sc1
+s	宁桐雨	班长，吗...
+s		这之后，表姐的话全然没传进我的耳朵里。
+h	n
+h	y
+b	black
+s		我的脑海里瞬间浮现出了那个熟悉的身影。
+s		不对，不对，那个还是暂且忘掉吧。
+b	off_m
+p	n	c	ss3	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	y	r	ss2	-	-	cloth:sc1
+s	杨老师	俗话说，万物开头难嘛...小宁不觉得这是一个很好的机会吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	y	r	ss2	-	-	cloth:sc1
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss2	-	-	cloth:sc1
+s	宁桐雨	可是...我和他们都不熟悉...
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss2	-	-	cloth:sc1
+s		我支支吾吾地说道。
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	真的吗，可这一次领头的是你们的班长哦？我记得...
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss2	-	-	cloth:sc1
+p	n	l	sf9	-	-	cloth:scf1
+p	y	r	ss2	-	-	cloth:sc1
+s	宁桐雨	好...好吧！我知道啦！
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss2	-	-	cloth:sc1
+h	n
+h	y
+b	off_m
+s		可真的是，什么事都瞒不过她。
+b	classroom1
+s		于是，自那天以后，我平淡如一潭死水的生活中，终于荡起了一丝波澜。
+s		尽管心里一百个不情愿，可既然表姐都那么说了，我也只好参与进去。
+s		不过，要怎么跟成员们提起这件事呢？
+s		或者说...该去找谁领任务呢？
+s		虽说表姐告诉了我筹办这次活动的所有名单，
+s		可数学课代表，团支书...我跟他们一点也不熟啊...
+s		而且，他们现在也不在教室里。
+s		本来没报什么希望的我熟练地回过头去，看向她的座位。
+b	classroom1
+s		奇迹般地，我看到了正伏在桌案上记着笔记的她，
+s		不知为何，我心里却感觉有些蹊跷。
+s		不过，木已成舟，现在再去怀疑也没什么用处了。
+p	n	c	ss12	-	-	cloth:scs1
+s	宁桐雨	没办法，现在也只能去找小鑫了...
+h	n
+b	classroom1
+p	x	c	ss11	-	-	cloth:scs1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	小...班长，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s		在这一天的大课间，我鼓起勇气走到了班长的身边。
+s		靠近的脚步声让她抬起了头，很快目光便锁定在了我的身上。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	嗯？小宁有什么事吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s		可我却愣在了原地，一时间想不出回答的话来。
+s		我尴尬地四处张望着，思考着该怎么开口才好。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s		一如既往的米黄色头发，齐肩的单马尾，整齐的校服和书桌上同样摆的整整齐齐的书...
+h	x
+h	n
+b	black
+s		而在笔袋里还放着...我送给她的那支笔，那支用了整整七年的笔，那支杆子花纹都被磨平了的笔...
+b	black
+b	classroom1
+s		不对不对！现在可不是沉浸在回忆里的时候，
+s		毕竟我们还有“正事”要说。
+p	x	c	ss12	-	-	cloth:scs1
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	那个，我是想问问有关于年级大会的那个事...
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s		我支支吾吾地开了口，声音甚至都显得有些含糊。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf17	-	-	cloth:scf1
+s		紧张什么嘛，就当作普通同学好了。
+s		我试图这么说服自己，但毫无作用。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	班长	啊，小宁，你能来帮忙的话真的太好了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	班长	咱们正愁人手不足呐！
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf7	-	-	cloth:scf1
+s	宁桐雨	诶？可是...我只是...
+h	x
+h	n
+b	classroom1
+s		刚刚，我只提到了年级大会这四个字吧...
+s		就凭着一个简短的词语就能推断出整个事情的全貌吗？
+s		再结合最近表姐的话来看的话...
+s		难道我身边的人都有什么未卜先知的能力吗？
+s		算了，那些事情都留到以后再去想吧。
+p	n	c	sf4	-	-	cloth:scf1
+p	n	l	sf4	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf4	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	我其实也是临时被老师叫来的啦，没有什么经验，之前也没怎么参与过这样的活动，
+p	n	l	sf22	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1

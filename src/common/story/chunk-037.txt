@@ -1,0 +1,128 @@
+s		不管再怎么不愿意承认，我还是只能说用不坦率这个词来形容我还真没错。
+s		小鑫一只手拉着我的胳膊，一只手扶着栏杆，仿佛是跳着一般爬着楼梯。
+s		我茫然地被她拖着被迫上着楼，一边忍受着楼道里其他同学惊奇的目光。
+s		老姐的办公室在七楼，这一运动量对于平时不喜欢运动的我来说简直是酷刑。
+s		更别提现在是在以像是要去跑八百米的速度狂奔了。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	等...等等啦，呼~干吗跑这么快。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	那个地方还是要早点去的啦。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	毕竟咱们等会不是还要去心理办公室做ppt的吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s		她微笑着回过头来回答着我，却没停下奔跑的脚步。
+h	x
+p	n	c	ss3	-	-	cloth:scs1
+s		我大喘着气使劲爬着楼才勉强跟上她的脚步。
+h	n
+b	staris
+s		眼见着熟悉的楼标已经出现了，七楼已经到了。
+s		然而她并没有在这里停下，而是继续向上，到了一扇铁栅栏门前。
+b	rot_m
+s		推开位于八楼的那扇铁栅栏门，一阵寒风从门后钻出，直扑向我的脸颊。
+s		那是一种干燥的感觉。
+s		深秋的风冷的刺骨，我不禁打了几个寒颤。
+s		小鑫带我来到了楼顶的天台上。
+s		四周空旷极了，除了远处的几根矮栏杆和几处电力设施之外便是大片的空地。
+s		前一天下过的雨还淤积在地板的几个凹洞里，在阳光的映照下显得有些耀眼。
+p	x	c	sf1	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	呼~今天的风真的好大啊，明明在操场上完全没有感觉呢。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	教室里是真的闷，到了这里就凉快啦~
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	不对吧，这...这里应该说，是太冷了吧...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s		我裹紧了校服正装的外套，不过冷风仍然从衣服缝中渗入，
+s		毛糙而又阴冷的感觉从浑身袭来，让我打了个哆嗦。
+s		早知道今天就穿运动服了...
+s		我再一次不禁有了这样的抱怨。
+s		突如其来的寒冷让我想念起温暖的心理咨询室，温馨的办公室跟这片荒芜的天台可真的称得上是天上和地下。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	小宁以前来过这里吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+s	宁桐雨	没...没有，我还当这里是禁区...
+s	宁桐雨	一般来说学校是不会开放天台的吧...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf10	-	-	cloth:scf1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	按道理上讲的话...确实是这样吧？
+s		说到这儿，她调皮地笑了笑。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf10	-	-	cloth:scf1
+s	余晓鑫	毕竟这里啊，可是很容易摔下去呐，
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf13	-	-	cloth:scf1
+s	余晓鑫	什么的，当然，刚才只是开玩笑的啦~
+p	x	l	sf10	-	-	cloth:scf1
+p	n	r	sf13	-	-	cloth:scf1
+s	余晓鑫	所以说，最后他们为了安全起见，就给这里上锁了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf13	-	-	cloth:scf1
+s	余晓鑫	可是啊，有一天或许是上楼检查的时候忘记把这里再锁上了，所以就成现在这个样子了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	所以说，兴许有一天这里会再次锁上？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	嗯，就是这样。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	至于现在的话，这里就成了半禁区啦~
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	所谓的，禁了，却又没完全禁，只存在校园传说里的禁地。
+h	x
+h	n
+b	rot_m
+s		谈话间，又一阵强风吹过，我们俩额头的刘海都被吹乱了。
+s		全身的鸡皮疙瘩又起来了，我忍不住往她身边靠了靠。
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	所，所以说，学...学校里的情侣真的会...会来这种地方...约，约会吗？
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	嗯，
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	感觉这里还不如教学楼旁边的林荫道啊...
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	而且要是冬天来的话，那简直是在豁出命来约会啊...
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	我感觉咱们也没必要替他们操心吧，
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	毕竟，他们会事先预料到这一点，然后穿运动服。
+s		说着她低头看向了我完全没有保护的腿。
+p	n	l	sf10	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	小宁怎么连保暖裤都没穿？
+p	n	l	ss14	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	哪个正常人会事先预知到现在的情况啦...
+p	n	l	ss14	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	今天不是已经够冷的了吗？
+p	n	l	ss14	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1

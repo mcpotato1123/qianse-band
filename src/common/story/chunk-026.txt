@@ -1,0 +1,128 @@
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	况且现在时间又不够，每天作业也多，干脆就放弃社交了。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs1
+s	杨老师	那可不好，不去尝试尝试怎么知道不行呢？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss1	-	-	cloth:scs1
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf20	-	-	cloth:scf1
+s	宁桐雨	可就算想去尝试也没有机会吧？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+s	杨老师	所以，问题的关键其实是没有机会吧？
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf10	-	-	cloth:scf1
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf10	-	-	cloth:scf1
+s		说着，老姐露出了狡猾的笑容。
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	怎么感觉像中了什么圈套一样...
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs1
+s		仅仅片刻之后，我的猜测就被证实了。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs1
+s	杨老师	给了小宁机会，小宁就会试着去动手做了吧~是这个意思吗？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs1
+s		紧接着，老姐一转身，从身后的书架上抽出了一份档案册。
+h	y
+h	n
+b	notbokblue
+s		那蓝色的封皮很像班主任手里的成绩单，心里不由得开始紧张了起来。
+s	杨老师	说起来啊，月考终于结束了呢...
+s		说着，老姐把那份档案册摊到了我面前。
+s		出乎我意料的是，这并不是月考的成绩单，
+s		而是一段手写的笔记，由于字迹过于潦草，我根本无法辨认出内容来...
+s		一般来说，如此潦草的字迹就是出于表姐本人之手了。
+b	off_m
+p	n	c	sf12	-	-	cloth:scf1
+s	宁桐雨	啊，嗯...
+p	n	c	sf10	-	-	cloth:scf1
+s		我支支吾吾地回答道。
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	怎么...突然讲起这个？
+p	n	c	ss4	-	-	cloth:scs1
+p	n	l	ss4	-	-	cloth:scs1
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	真的是，小宁不是考的很好的吗。
+p	n	l	ss4	-	-	cloth:scs1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	你看，年级第三，怎么垂着个脑袋像打了败仗一样嘛。
+s		当然不是因为我没什么朋友可以一起玩，所以只好每天自习课都往自习教室跑...
+s		我在心中无奈地为自己辩解道。
+p	n	l	ss4	-	-	cloth:scs1
+p	y	r	ss1	-	-	cloth:sc1
+s	杨老师	这件事上，你可真的是老姐的骄傲哦？
+p	n	l	ss4	-	-	cloth:scs1
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	毕竟老姐我在中学的时候可算是个学渣呢...一直到大学里才稍微用功了点，
+p	n	l	sf24	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	宁桐雨	嗯...我确实应该开心一点。
+p	n	l	sf10	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s		我木讷地回答道。
+p	n	l	sf10	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s		即使是面对不错的成绩，我也全然高兴不起来。
+s		毕竟成绩并不会带给我什么，只是为了让我不被班级上的同学遗忘。
+s		至少在看成绩单公示的时候还能想起有这么一个人。
+s		这就是成绩能带给我的唯一安慰了。
+p	n	l	sf10	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	杨老师	是这样的，年级里正在组织一个榜样学习的活动。
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss11	-	-	cloth:sc1
+s	杨老师	通俗地来说，就是年级大会啦~
+p	n	l	sf13	-	-	cloth:scf1
+p	y	r	ss11	-	-	cloth:sc1
+p	n	l	sf13	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s		说着，她抬起头来直视着我的眼睛。
+p	n	l	sf13	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	小宁有兴趣来参加吗？
+p	n	l	sf13	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	n	l	sf16	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s		年级大会？
+s		这种东西的名单和安排为什么会在老姐那里？
+s		她不是心理老师嘛...
+s		连课都没有的老师，管得这么宽？
+s		不过，当时的我也没多想这方面的事情。
+s		毕竟，就算问出了什么究竟，也只是满足了下我的好奇心而已。
+s		况且知道过多的事情往往只会让我感到更麻烦。
+s		最后，我还是就比较实际的问题作了些提问。
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	宁桐雨	可是，年级前五不都在我们班吗...要选人的也肯定是他们...
+p	n	l	sf13	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+p	n	l	sf13	-	-	cloth:scf1
+p	y	r	ss7	-	-	cloth:sc1
+s	杨老师	是这样的啦，班长他们人手不够，正巧啊，正巧就缺一个写文案和做ppt的。
+p	n	l	sf13	-	-	cloth:scf1
+p	y	r	ss1	-	-	cloth:sc1
+s	杨老师	我可是记得小宁你就恰好擅长这个~
+p	n	l	sf13	-	-	cloth:scf1
+p	y	r	ss4	-	-	cloth:sc1
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss4	-	-	cloth:sc1
+s	宁桐雨	班长...
+p	n	l	sf6	-	-	cloth:scf1
+p	y	r	ss4	-	-	cloth:sc1

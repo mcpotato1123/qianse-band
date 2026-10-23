@@ -1,0 +1,128 @@
+s		明明都被她作弄这么多次了，居然还没习惯这一切...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	切，我只是很普通地在和你搭话嘛~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	根本没有吓你的打算好吧~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	哪，哪有人搭话的时候突然会拍对面的肩膀的啊。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss9	-	-	cloth:scs1
+s	宁桐雨	明明知道自己的青梅竹马比较胆小敏感，还整天捉弄她。
+p	x	l	ss2	-	-	cloth:scs1
+p	n	r	ss9	-	-	cloth:scs1
+s	余晓鑫	嗐，我看小宁想心事都想得出神了，就想着提醒一下你来着。
+p	x	l	ss2	-	-	cloth:scs1
+p	n	r	ss9	-	-	cloth:scs1
+p	x	l	ss2	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	又没什么要紧的事情嘛...正常地和我搭话就行了。
+p	x	l	ss2	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	老是搞这一出，人也会审美疲劳的嘛...
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	说...说的也是...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那下次...会改掉的。
+h	x
+p	n	c	ss3	-	-	cloth:scs1
+s		这之后，我们俩间就陷入了长久的沉默。
+s		自从上周那件事情发生过后，和小鑫的闲聊总是显得有些不自然。
+s		那种不自然感出在我身上。
+s		总感觉...一言一行都得小心翼翼的，生怕再闹出那样的事故出来。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	...喜欢...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	宁桐雨	诶？诶诶？你...你说...说什么呐？
+p	x	l	sf3	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	余晓鑫	啊？我刚才问小宁喜欢哪种动物啊？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s		她一脸诧异地看着我，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	余晓鑫	难道刚才你没在听我讲话？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	宁桐雨	听...听了。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf17	-	-	cloth:scf1
+s	余晓鑫	那...难道这是什么说不得的事情吗？
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	啊...对...不起，其实是...我听错了...
+s		到底在干什么啊？我，
+s		真的丢死人了...
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	动...动物的话，可能更喜欢狗一点吧？
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	毕竟比较活泼嘛，我不太喜欢猫那样...过于懒惰的生物。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	sf10	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	我和小宁正好是相反的呐，我就喜欢猫咪。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	总感觉猫身上那种闲散、慵懒的感觉和小宁很像呐~
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	所以我才喜欢猫咪。
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	什...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	嗯，怎么啦？怎么小宁的表情这么不自然
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	什...什么都没有，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss9	-	-	cloth:scs1
+s	宁桐雨	随...随你怎么说好了。
+h	x
+p	n	c	ss9	-	-	cloth:scs1
+s		到最后，我还是把这件事儿这么糊弄过去了。
+s		但不知不觉间，我发觉她对我的态度似乎也在慢慢改变着。
+s		从以往字里行间的暗示...
+s		到现在几乎是明示...
+s		似乎她的心思已经跃然纸上了。
+s		然而，我还是装作从不知道这一切的样子，一如既往地混着日子。
+h	n
+b	black
+s		因为，懦弱的我，始终不敢跨越那最重要的一步...
+s		因为，我始终觉得，自己只能做她的后盾，在幕后注视着，帮助她的人，
+s		但这些实际上是我捏造出来的借口罢了，
+s		最重要的原因分明是，就算此刻的我俩真的通过告白成了恋人，
+s		接下来的日子就真的能随顺我们的心意吗？
+s		高三的一年我们在一起相处的时间也只会越来越少，甚至大学大概率也不会考上同一个，
+s		所以说，就算我就这么和她在一起，说不准也只会给她的生活添乱而已...
+s		如此种种的犹豫徘徊在我的心头，阻止我做出最终的决定。
+s		于是，每当大课间到来的时候，我还是像原先一样和她去天台上散心。
+s		只是每当打开那扇铁门的时候，冷风总会把我的头发吹得凌乱无比，
+s		当我好不容易重新理好了头发，把心思重新放回到和小鑫的闲聊上时，
+s		愈来愈深的寒意总是会让我的心头蒙着一丝苦恼。
+s		我披上原先就准备好的外套，可冷风却依旧从衣服的缝隙中使劲地往里钻着。
+s		天气一天一天地变冷，也正如我们俩之间相处的时间或许也会无可避免地缩短，
+s		今天或许就是未来最暖和的一天了吧？
+b	bsktg
+s		又到了周五的下午。
+s		离放假只差一天了。
+s		本应该感到高兴才对的...
+s		然而，下午的最后一节...
+s		是体育课！
+s		当然，对于擅长运动的大家来说，能上体育课无疑是令人高兴的一件事。
+s		然而，对于我这个重度宅女来说，这无疑是一道劫难。

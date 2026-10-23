@@ -1,0 +1,128 @@
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	嗐，其实是被我妈要求着去的啦，她总是希望我能多用功一点...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	班主任也是受我妈的委托才盯着我的，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	毕竟她们都是老师，以前甚至还是同事...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	不过也没事啦~
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	反正我平时也没啥事情啦，还要应付一大堆来找我的同学，还不如去那里，反倒清净些。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s		她说到这儿停顿了片刻。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	先别聊这个事啦，咱们还是来聊聊小宁为什么这么关注我在哪儿呢？
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	难不成，小宁下课的时候一直在找我吗？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	好像你也没啥来找我的理由吧？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	难不成是寂寞了？毕竟我看小宁在班里好像也挺孤单的，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s		刚咽到喉咙口的小蛋糕差点呛住了。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s		她...她是在...
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	没...我就是...好不容易又分到一个班里，却一直没时间找你，
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	我自己平时又...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s		本来我想说“又没什么人作伴，”
+s		可这样的话我实在说不出口，毕竟意图也太明显了，
+s		果然还是得找个借口掩饰过去...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	平时又没什么人跟我一起学习...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	我就想着，小鑫的成绩那么好...
+p	n	l	sf1	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	其实就是...这样，不对啦，我就是说，感觉想找个学伴之类的...
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	就是，咱俩可以组个学习小组，一起促进一下什么的，就像以前那样...
+p	n	l	sf7	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	毕竟嘛，你看，到老师办公室不是还要排好久的队吗。所以说...
+s		这时的我已经感到有些语无伦次了。
+p	n	l	sf7	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+h	n
+h	x
+b	r1
+s		而且，就算做了“掩饰”，我的目的也已经明白白地放到桌子上了嘛。
+s		这不就是在为寂寞的自己找个借口糊弄过去嘛！
+s		非要搞个学习小组的名头。
+s		当然，对陌生同学的话...这样子也算情有可原。
+s		可我们俩之间的话...直接说出来应该也行，
+s		这样是不是反倒显得有些不自然呢...
+p	x	c	ss1	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf7	-	-	cloth:scf1
+s		可就当我在胡思乱想的时候，小鑫却立马答应了下来。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf7	-	-	cloth:scf1
+s	余晓鑫	嗯，我倒觉得很不错，
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	那我待会就去跟班主任说一下，就说希望借一间空教室来跟小宁讨论题目...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf11	-	-	cloth:scf1
+s	宁桐雨	那个...刚才我讲的不是实话...其，其实，我就是想找个机会和小鑫聊聊天。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf11	-	-	cloth:scf1
+s	宁桐雨	完全没有...那个...组什么学习小组的兴趣...
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf11	-	-	cloth:scf1
+s	余晓鑫	你当我不是这个意思吗？学习小组什么的，只是为逃避现实找一个恰当的形式啦~
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	毕竟我的本意也只是想找个机会和小宁聊聊天，
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	就算是你把我一起带到心理办公室偷懒也可以啦~
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+h	x
+h	n
+b	r1
+s		可偏偏就在这时，窗外传来了铃声。
+s		有经验的学生总是能通过铃声来辨别时间，
+s		最后一节课下课后的第一次铃声代表着现在已经到六点十分了。
+s		糟糕，咱们俩现在肚子还饿着呢...
+s		听到铃声的她皱起了眉头，似乎在考虑着现在该怎么办，
+s		依我以往的经验来看，现在食堂里怕是什么也不剩了。

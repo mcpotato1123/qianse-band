@@ -1,0 +1,128 @@
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	威胁...
+h	x
+h	n
+b	album
+s		随着她手指的方向看过去，我立刻明白了她的意思
+s		几乎每一张照片上，小鑫笑得都很阳光。
+s		而站在她身旁的我却显得有些阴暗与不自信。
+b	sta
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	余晓鑫	明明小时候的小宁笑起来那么可爱...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我说，你就不能换些话术吗？这句话都已经听你唠叨了好几天...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+h	x
+p	n	c	sf12	-	-	cloth:scf2
+h	n
+b	black
+g	cg19
+s		可还没等我把话说完，她就把我搂了过来。
+s		一时间，我还没反应过来到底发生了什么，她就已经举起了手机，正对着我们俩的脸按下了小白圈。
+s		结果也很显然。
+s		留在手机上我的表情显得...
+s		怎么说呢，有种天然的、未被加工的慌乱感。
+b	sta
+p	x	c	ss21	-	-	cloth:scs2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf17	-	-	cloth:scf2
+s	余晓鑫	这样才对嘛~
+s		然而，身旁的她却对这张抓拍的照片非常满意。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	我可还记得，刚刚你不是说喜欢看我笑的样子吗？
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	可无论怎么看，这张照片上的我都不像在笑的样子吧？
+p	x	l	ss14	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	余晓鑫	唔嗯...
+s		然而，她却摇着头表示反对。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	现在我才明白了，我更喜欢的是小宁那种自然的表情。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	可一旦到了镜头前，你总是露出一副被迫营业的样子
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	所以，偷~袭~才是最好的解决方法嘛~
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+h	x
+h	n
+b	sta
+s		看着她那副诡计得逞的表情，一股无名火就在我内心积攒着。
+s		低头瞅了一眼手机，距离发车还剩下不到十分钟了。
+s		检票口前早已排出了长队，广播声也不停地提示着列车已经开始检票了。
+p	x	c	ss1	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	是时候该走了吧？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf16	-	-	cloth:scf2
+s	宁桐雨	早点上车了也正好规整一下行李，也方便一些。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	瞧你这语气，
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	简直就像是在催我走一样。
+s		说着，她不满地嘟起了嘴。
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	哪有，这可是我作为女友对你的关心啦~关心懂不懂~
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	我单纯是怕你的行李太多，到了上面不好收拾。
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	车不就在这里停三分钟吗？等你走到位置那里火车都要发动了...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	可咱的行李不是已经被小宁归好了吗？根本不用再花功夫了啊？
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	那...那倒也是啦...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	嗐，真的是，有时候真觉得小宁像我的妈妈一样呐~
+p	x	l	sf9	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	真的是，我可不要两个妈妈，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	小宁啊，明明表现得更像女朋友才是我所期望的~
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	好好听取意见啦~
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf17	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2

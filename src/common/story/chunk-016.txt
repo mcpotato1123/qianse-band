@@ -1,0 +1,128 @@
+s	宁桐雨	好了，快走吧，检票已经开始了哦。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+h	x
+h	n
+b	sta
+s		我装作不耐烦地催着她。
+s		然而，内心深处却在希望着她能多挽留一会。
+s		其实，刚刚的我一直在说着违心的话，
+s		我根本就不愿和她分开，如果能够选择的话，我更宁愿和她一起坐上那列火车。
+s		但现实却并不允许我这么做，毕竟我实在不愿给小鑫的外公外婆带来什么麻烦。
+s		所以，最后只能由我来当那个“成熟”的人，说些风凉话来减少分别时的感伤。
+s		或许就像她说的那样，其实我是个很不坦率的人。
+s		然而，我却无法改掉这种习惯。
+s		因为我们两个人中间总得有个理智的人来为事情踩一下刹车。
+p	n	c	sf14	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	余晓鑫	那...这样吧，要不要来一个临别的吻？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s		说着，她凑到了我面前。
+p	n	l	sf19	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf19	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s		然而我却用手轻轻地推开了她。
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+s	宁桐雨	没看见旁边这么多人看着呐，你可真是一点分寸感也没有...
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	sf1	-	-	cloth:scf2
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	诶，好冷淡，就和刚上高中那段时间一样。
+p	n	l	sf17	-	-	cloth:scf2
+p	x	r	ss11	-	-	cloth:scs2
+p	n	l	sf19	-	-	cloth:scf2
+p	x	r	ss11	-	-	cloth:scs2
+s	宁桐雨	那还不是因为之前分开了整整一个年头呐，每天又不在一起怎么会熟络呢？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss11	-	-	cloth:scs2
+s	宁桐雨	再说了，等你回来了咱们有的是时间亲热呐，总共也不差这一会。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss11	-	-	cloth:scs2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss12	-	-	cloth:scs2
+s		她虽然看上去有些委屈，但还是点了点头。
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	那一定要记得每天给我打电话哦？这可是小宁你亲口说的哦？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	嗯，肯定的。
+p	n	l	ss9	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	宁桐雨	我什么时候有骗过你嘛~
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+h	n
+h	x
+b	sta
+s		得到保证的她总算是拖起了行李，向着车站口走去，
+s		可刚走到半路，她却又折返了回来。
+p	x	c	sf1	-	-	cloth:scf2
+s	余晓鑫	啊，差点忘记了，我昨天说过要告诉你我拿那本相册要干什么用的吧。
+h	x
+b	notebok
+s		她说着伸手掏着身后的背包，最后拿出了一本封皮稍有些折起的笔记本，将它单手递到了我面前。
+s		我用手接过，仔细打量了起来。
+s		笔记本的封面少显得有些古朴单调，翻开之后，在扉页上还有一行小字。
+s		笔迹明显来自于她本人，只写了她的名字和一个我印象并不怎么深刻的日期。
+s		2024年7月17日
+s		我的视线自然而然地被这个日期吸引了。
+b	sta
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	啊，那个不重要，只是我拿到这本本子的日期罢了。
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	这么说，这本本子是高中的时候买的？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	算是吧。
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	小宁你也是懂我的，那时候我算是有收集癖的人，老是喜欢淘各种各样好看的笔记本。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	结果到了毕业都没用到，这些本子的结局大多都是在家里吃灰。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		她说到这里无奈地笑了笑。
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	所以，我就下了一个决定，
+s		她说到这儿还轻轻咳了一声，像是演说家在清嗓子。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	我，余晓鑫，现在准备捡起年少时的梦想，
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	那就是————成为小说家！
+p	x	l	ss18	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s		鸦雀无声。
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	喂，小宁，说点什么嘛。
+p	x	l	ss19	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	呜...
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	好疼...又弹我脑袋干嘛...
+p	x	l	sf5	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf5	-	-	cloth:scf2

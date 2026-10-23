@@ -1,0 +1,128 @@
+s		当着这么多同学的面，就这么拒绝别人也不好...
+s		而且，这也是...这也是跟小鑫做回好朋友的机会啊...
+s		可是，我从来就没在这么多人面前讲过话，到时候怯场了可怎么办...
+h	x
+p	n	c	sf12	-	-	cloth:scf1
+s		然而，思前想后的我最后还是准备答应下来。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	我觉得可以...试一试，吧，大概。
+h	n
+b	black
+p	y	c	ss10	-	-	cloth:sc1
+s	杨老师	要试着去拒绝别人...
+p	y	c	ss10	-	-	cloth:sc1
+s		不知为何，老姐的话突然在脑子里开始回响，
+h	y
+b	black
+s		可惜的是，这句提醒来的实在是太晚了。
+b	r1
+p	x	c	sf4	-	-	cloth:scf1
+p	x	c	sf1	-	-	cloth:scf1
+s	余晓鑫	好的，那这样，我和你一起改ppt吧。
+p	x	c	ss1	-	-	cloth:scs1
+s	余晓鑫	至于其他人，就写稿子吧，下周一之前交给我们就成。
+p	x	c	ss1	-	-	cloth:scs1
+s		接着，她拍了拍手，原本聊得很欢的团支书和数学课代表又抬起了头。
+p	x	c	sf1	-	-	cloth:scf1
+s	余晓鑫	这样子所有人的分工都明确啦，大家尽量在快点把自己的那一份准备好吧。
+p	x	c	sf11	-	-	cloth:scf1
+s	余晓鑫	现在的话，就不耽误大家了，先去吃饭吧。
+h	x
+b	r1
+s		就这样，这次小短会不到十分钟就结束了。
+b	black
+b	r1
+p	n	c	sf12	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	呜哇！谁，谁？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	班长	我啦~真的是，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	班长	至于这么敏感嘛，我感觉我明明下手很轻的来着...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	要是有人突然在路上冷不丁地拍你一下子，你也准得吓成这样吧。
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	要是想叫我的话就喊一声嘛，明明知道我怕这个...
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s		可面对我的责怪，小鑫却露出了狡猾的笑容，
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	班长	如果我说我就是冲准了你会吓一跳才去做的呢？
+p	n	l	ss5	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	那你就更是个性格卑劣的女人了...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	班长	嘛，我倒是很高兴，小宁毒舌的习惯是一点没变啊~
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s		说着她把原先推进去的凳子又拉开了。
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	班长	时间还早呐，咱们两个人再聊会吧，毕竟这事关一个礼拜后的演讲呐~
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	哦，对，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s		原来是有关演讲啊...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	班长	才怪啦~
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	班长	只是一直想找你聊聊天，却没有机会罢了...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	诶？班长...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf3	-	-	cloth:scf1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf3	-	-	cloth:scf1
+s	班长	别整天班长~班长~地叫啦，叫我小鑫就好啦。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf3	-	-	cloth:scf1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss2	-	-	cloth:scs1
+s	余晓鑫	班长什么的，听起来太疏远啦。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf11	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	毕竟，我们从小学就是好朋友了嘛。
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	嗯。是，是啊...
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	我看小宁你手里拎的袋子里还装着小点心呐，是你自己做的吗？
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf17	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1

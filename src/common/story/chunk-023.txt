@@ -1,0 +1,128 @@
+s		再说了，也不可能有老师那么无聊去关注那种东西...
+s		也就是说，有心理老师认识我吗？
+s		但是，我连心理课都没有上过，
+s		而且我记得学校里现在就只有一名在校的心理老师啊？
+s		两种可能性都被排除之后，我再度陷入了沉思。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	那究竟是什么原因...
+h	n
+b	offdor
+s		就这样，我一边这么胡思乱想着一边走到了心理办公室的门口，却依然想不出把我叫来的原因。
+s		没办法，还是走一步看一步吧...
+s		我轻叩门扉，试探性地打了声招呼。
+p	n	c	sf1	-	-	cloth:scf1
+s	宁桐雨	老师好，那个，我是...
+s	？？？	嗯，请进吧。
+s		连名字都不需要对就让我进来嘛...
+s		说明这个心理老师明明就是认识我嘛，
+s		不过这下子她的身份可就更加扑朔迷离了...
+h	n
+b	off_m
+s		我把门打开了一条缝，
+s		从缝中我看见一个年轻的女老师正满面笑容地等在那儿。
+p	y	c	ss1	-	-	cloth:sc1
+s		她留着乌黑的长发，银框眼镜的背后是一双闪亮的眼睛。
+s		上半身穿着白色的制服，胸前还别着一条黑色领带，一眼就能看出她老师的身份。
+s		嗯...这句话怎么听上去像什么刻板印象之类的...
+s		可端详久了，我总感觉她很眼熟。
+p	y	c	ss3	-	-	cloth:sc1
+s	杨老师	嗯，小宁？怎么还不进来啊？
+p	y	c	ss3	-	-	cloth:sc1
+s		小...小宁？
+s		为什么要用这种称呼？
+s		从小到大，家人一直都叫我桐雨，同学一般叫我的全名，
+s		只有两个人...
+s		不，那个并不重要，重要的是...
+s		难道...
+s		这时我仿佛想到了什么。
+s		当我再细细地端详了她一阵子之后，我的想法被证实了。
+p	y	c	ss3	-	-	cloth:sc1
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	表...表姐？
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf13	-	-	cloth:scf1
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf13	-	-	cloth:scf1
+s	杨老师	嘿诶？你居然现在才认出我吗？
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf13	-	-	cloth:scf1
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf13	-	-	cloth:scf1
+s	杨老师	我记得之前跟你说过毕业后我就会来你们这儿实习，有空的话就常来看看我啊。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf13	-	-	cloth:scf1
+s	杨老师	结果小宁连一次都没有来过！甚至连姐姐的脸都忘记了!
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf10	-	-	cloth:scf1
+s	宁桐雨	哦...对...对啊？
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf22	-	-	cloth:scf1
+s	宁桐雨	好...好像是有这么一回事而来着。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf20	-	-	cloth:scf1
+s		完了。
+s		我在心里却是这么想的。
+s		好像确实是有这么一回事，可我过了暑假就给忘记了...
+s		这下可麻烦了...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf20	-	-	cloth:scf1
+s	杨老师	怎么听上去好像把姐姐的话忘得一干二净了？
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf20	-	-	cloth:scf1
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	sf24	-	-	cloth:scf1
+s	宁桐雨	那...哪有嘛...
+s		没办法，为今之计，现在只好想办法先糊弄过去了...
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	可是，老姐你也知道，作为一名高中生嘛，一直都没什么空。
+p	y	l	ss6	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs1
+p	y	l	ss5	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs1
+s	杨老师	嗯？小宁是有什么很要好的朋友，所以才抽不开身吗？
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss4	-	-	cloth:scs1
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs1
+s		我看向老姐的眼睛，看起来她并不像在调侃我。
+s		不过，这痛点戳的可也太准了一点吧...或许她就是故意的。
+s		学心理学的难道都会算命和表情管理吗...
+s		当时我这么揣测着。
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf17	-	-	cloth:scf1
+s	宁桐雨	其实也没有这种事啦。
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf8	-	-	cloth:scf1
+s	宁桐雨	就是，我比较喜欢学习！
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf2	-	-	cloth:scf1
+s	宁桐雨	每天中午啦，都往老师的办公室跑，去...那个...提问题！
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf17	-	-	cloth:scf1
+s	宁桐雨	而且啦，没事干的时候，也就一直在做作业，毕竟作业...那么多嘛...
+p	y	l	ss2	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+s		我伸出手去蹩脚地笔画着，到最后我自己都觉得有些尴尬了。
+s		只是为了掩盖小透明的事实，我才这么说了这么多违心的话来逞强。
+s		然而，那时的我却不知道，这招实乃下策中的下策。
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+s	杨老师	诶，那小宁为啥没带点作业过来写啊？
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf4	-	-	cloth:scf1
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf1
+p	y	l	ss8	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf1
+s	杨老师	作为一个好学生，按理说小宁不应该放弃任何学习的机会才对。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf1
+s		这时候，我的大脑开始飞速地运转起来。
+p	y	l	ss1	-	-	cloth:sc1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	因为，我认为您找我有什么急事。
+p	y	l	ss1	-	-	cloth:sc1

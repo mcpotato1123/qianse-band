@@ -1,0 +1,128 @@
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	说起来啊，我以前好像认识过一个叫余晓鑫的女人。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	她以前成绩特别好，说话做事都很有教养。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	嗯嗯，那个人现在还是你女朋友呐，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	甚至远在天边近在眼前呐。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	怎么样，高兴吧？
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	跟仰慕的人面对面的感觉~
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	可惜，她现在总是会...呜...总是会间歇性地会犯傻，就像是痴呆症一样...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	你说啊，我该怎么办，才能让她变回来...
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	不然的话，我就再也...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	好...好恶心...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	你怎么能说出这么过分的话...三十六度的体温怎么能有这么一颗冰冷的心...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		小鑫脸上的表情已经把她的心思展露无余了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		但为了掩饰尴尬的氛围，她还是强行挤出了一个笑容，接着解释道，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	我...我也知道啦，我写不出啥有意思的故事，
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	所以我就挑了些我擅长的啦！
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	在这本书里面，我写了些关于我小学和高中时期的回忆。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	当然，通俗地来说...就是我俩的私事啦~
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	所以我才需要你的那本相册来为我的小说提供素材，嗯事实真就是这样。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	已经写完的部分也希望你能看看，顺便帮我修改修改。
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	宁桐雨	也就是俗称的，黑历史大全集？
+p	x	l	ss15	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	呜额...怎么会有这么不懂风趣的女人。
+p	x	l	ss15	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	在我看来应该是很浪漫的纪念方式的说...
+p	x	l	ss15	-	-	cloth:scs2
+p	n	r	sf6	-	-	cloth:scf2
+s	余晓鑫	这下我是真的有被小宁的话伤到...
+s		从她的表情来看，似乎这回她是真的受了很大的冲击。
+s		实在是于心不忍的我只好实话实说了。
+p	x	l	ss15	-	-	cloth:scs2
+p	n	r	sf1	-	-	cloth:scf2
+s	宁桐雨	好啦，刚才是开玩笑的话啦，既然是你送给我的礼物，我当然会好好珍惜的。
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	余晓鑫	不要把它像我送给你的其他礼物一样塞到玻璃柜子里慢慢发霉哦。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf1	-	-	cloth:scf2
+s	余晓鑫	我写出来是让小宁看的，可不是让你收藏的。
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	喂，说什么呢...
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	余晓鑫	我今年生日送给你的巧克力就被你放化掉了...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	嗐，我知道了啦，总行了吧？
+p	x	l	ss10	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	真的是啊，小宁还整天说我不会规整东西，明明自己也...
+s		G831次列车即将停止...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	呀，不好...
+p	x	l	sf10	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	那就拜拜啦~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+h	x
+p	n	c	sf25	-	-	cloth:scf2
+s		听到报站的声音，她立马慌张地拎起了包，朝着检票口奔去。
+s		果然已经被调侃习惯了，所以也不把我的话放在心上了吗...
+s		刚才的表情，果然也是演出来的...
+p	n	c	ss1	-	-	cloth:scs2
+s	宁桐雨	走路当心点，小心撞到别人啊~
+s		我冲着远去的她这么喊道。
+s		可我话音刚落，她已经在向队伍中的散客道歉了...
+s		嗐，看来，咱俩都让彼此放不下心啊...
+s		当我再度看向进站口的时候，她跟我的目光恰好对上了。
+s		在一众的黑发中间，她米黄的发色显得尤为亮眼。
+s		她冲我笑了笑，接着摆了摆手。
+s		跨过了入站口的闸门，她的身影就这样消失在了人群中。
+s		喧嚣散尽，我又再度变成孤身一人。
+s		然而，此刻我手里拿着她留下的那本小册子。
+h	n
+b	skidk
+s		把以前的事情写成了小说吗...
+s		还是小学和高中时候的事情...
+s		这倒确实是个值得信服的理由，
+s		可我却总觉得其中有什么不自然的地方，
+s		为什么她会突然想到去写这样一本类似回忆录一样的小说呢？
+s		单纯地送给我当礼物？

@@ -1,0 +1,128 @@
+b	stagst
+p	l	c	ss1	-	-	cloth:default
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss4	-	-	cloth:scs3
+s	宁桐雨	那如果我帮了你的忙的话，你会带我走出这里吗？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	嗯，这个倒简单，我当然可以办到。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	怎么证明呢？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf10	-	-	cloth:scf3
+p	l	l	ss1	-	-	cloth:default
+p	n	r	sf10	-	-	cloth:scf3
+s	凌	我根本不需要证明这一切，宁，因为这个问题的答案是显而易见的，
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf10	-	-	cloth:scf3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	因为现在你根本没有第二种选择~
+s	凌	而没有我的帮助，你甚至无法在这里移动哪怕一步，
+s	凌	你没发现你走了这么久，周遭的景色从未改变，甚至舞台还是离你那么遥远吗？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	所以说，要么困死在这里，要么答应我的条件。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs3
+s		说着，她露出了一个温暖的微笑。
+s		尽管就在刚才，她却在逼迫我答应一个完全不平等的协议。
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss1	-	-	cloth:scs3
+s	宁桐雨	...
+s	宁桐雨	好吧，你需要我帮什么忙？
+p	l	l	ss1	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	我需要你帮我完成一幕戏，或者说，这是一幕只有你才能完成的戏。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	至于道具和剧本什么的，你根本不用过多担心，
+p	l	l	ss14	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	嗯，如你所见，演剧所需的场地与工具我们一应俱全。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	关于这点，我想我是不会质疑太多的。
+s	宁桐雨	只是我还有个搞不明白的地方，
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	宁桐雨	开在这种荒岛上的剧院，真的会有人来看戏吗？
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+p	l	l	ss12	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	哈哈，你可真幽默。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	对于这个问题嘛，我只能这么回答：
+p	l	l	ss7	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+s	凌	当你考虑到这一点的时候，心里就应该有这个问题的答案了，不是么？
+p	l	l	ss6	-	-	cloth:default
+p	n	r	ss3	-	-	cloth:scs3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s		说到这儿，对面的她还故意卖了一会关子。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf10	-	-	cloth:scf3
+s		看见我茫然的神情，她嘴角的上扬也越发明显起来。
+p	l	l	ss5	-	-	cloth:default
+p	n	r	sf10	-	-	cloth:scf3
+s	凌	那就是说——
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf10	-	-	cloth:scf3
+s	凌	盈利并不是它存在的目的。
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf12	-	-	cloth:scf3
+s	凌	它的目的就是存在本身。
+p	l	l	ss2	-	-	cloth:default
+p	n	r	sf10	-	-	cloth:scf3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf10	-	-	cloth:scf3
+p	l	l	ss6	-	-	cloth:default
+p	n	r	sf6	-	-	cloth:scf3
+s		困惑让我皱起了眉，可对面的她似乎并没有进一步解释的打算。
+h	l
+h	n
+b	cinmst
+s		我长叹了一口气，最终决定听从她的安排。
+s		尽管我仍然一知半解，可我还是跟着她的脚步一起走向走廊的另一端。
+p	n	c	ss4	-	-	cloth:scs3
+s	宁桐雨	那么，你是想让我演道具还是打杂？
+p	n	c	ss3	-	-	cloth:scs3
+s	宁桐雨	就算是让我当一天苦力也能接受...
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss3	-	-	cloth:default
+s	凌	见外了，我可是想让你当主演。
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss1	-	-	cloth:default
+p	n	l	ss1	-	-	cloth:scs3
+p	l	r	ss1	-	-	cloth:default
+s	宁桐雨	可我从来没有演过戏。
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss1	-	-	cloth:default
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss2	-	-	cloth:default
+s	凌	你不需要学会演戏，你只需要当今天的一切都未曾发生过就好了。
+p	n	l	ss3	-	-	cloth:scs3
+p	l	r	ss6	-	-	cloth:default
+s		当她说完这句话后，我跟她一起看向了视野的正前方。
+h	n
+h	l
+b	stagr
+s		原先那似乎永远走不到头的走廊居然在一瞬间就走完了。
+s		而剧院的尽头就和我刚才在远处看到的一样。
+s		一座巨大的舞台矗立于此，两侧的两扇小门紧紧地关着，门上还上了锁。

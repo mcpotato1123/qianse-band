@@ -1,0 +1,812 @@
+<template>
+  <div class="page" onclick="onTap" onlongpress="onLongPress"
+       ontouchstart="onTouchStart" ontouchend="onTouchEnd" ontouchcancel="onTouchEnd"
+       onswipe="onSwipe">
+
+    <!-- 背景：672 宽的长图塞进裁剪窗，定时推进 left 做全景播放 -->
+    <div class="bgclip" onswipe="onSwipe">
+      <image class="bgwide" style="{{bgStyle}}" src="{{bgSrc}}" if="{{bgSrc}}" onswipe="onSwipe"></image>
+    </div>
+    <div class="solid" if="{{showBlack}}"></div>
+
+    <!-- 立绘：3 个槽位，每槽 base + 脸 + 红晕三层；位置与缩放按同台人数算 -->
+    <image class="sp" style="{{spLStyle}}" src="{{spL}}" if="{{spL}}" onswipe="onSwipe"></image>
+    <image class="sp" style="{{spLfStyle}}" src="{{spLf}}" if="{{spLf}}" onswipe="onSwipe"></image>
+    <image class="sp" style="{{spLbStyle}}" src="{{spLb}}" if="{{spLb}}" onswipe="onSwipe"></image>
+
+    <image class="sp" style="{{spCStyle}}" src="{{spC}}" if="{{spC}}" onswipe="onSwipe"></image>
+    <image class="sp" style="{{spCfStyle}}" src="{{spCf}}" if="{{spCf}}" onswipe="onSwipe"></image>
+    <image class="sp" style="{{spCbStyle}}" src="{{spCb}}" if="{{spCb}}" onswipe="onSwipe"></image>
+
+    <image class="sp" style="{{spRStyle}}" src="{{spR}}" if="{{spR}}" onswipe="onSwipe"></image>
+    <image class="sp" style="{{spRfStyle}}" src="{{spRf}}" if="{{spRf}}" onswipe="onSwipe"></image>
+    <image class="sp" style="{{spRbStyle}}" src="{{spRb}}" if="{{spRb}}" onswipe="onSwipe"></image>
+
+    <!-- CG 层：和背景一样做 576 宽全景平移 -->
+    <div class="cgclip" if="{{cgSrc}}" onswipe="onSwipe">
+      <image class="cgwide" style="{{cgStyle}}" src="{{cgSrc}}" if="{{cgSrc}}" onswipe="onSwipe"></image>
+    </div>
+
+    <!-- 顶部信息 -->
+    <div class="hud" if="{{!uiHidden && !menu && !endText}}">
+      <text class="hud-t">{{chapterTitle}}</text>
+      <text class="hud-d" if="{{dateText}}">{{dateText}}</text>
+    </div>
+
+    <!-- 对白板：board.png 贴底 -->
+    <image class="board" src="/common/img/ui/board.png"
+           if="{{!uiHidden && !menu && !endText && !choices.length}}" onswipe="onSwipe"></image>
+    <text class="name" if="{{!uiHidden && !menu && !endText && !choices.length && speaker}}" onswipe="onSwipe">{{speaker}}</text>
+
+    <text class="ln" style="{{s0}}" if="{{!uiHidden && !menu && !endText && !choices.length}}">{{l0}}</text>
+    <text class="ln" style="{{s1}}" if="{{!uiHidden && !menu && !endText && !choices.length}}">{{l1}}</text>
+    <text class="ln" style="{{s2}}" if="{{!uiHidden && !menu && !endText && !choices.length}}">{{l2}}</text>
+    <text class="ln" style="{{s3}}" if="{{!uiHidden && !menu && !endText && !choices.length}}">{{l3}}</text>
+    <text class="ln" style="{{s4}}" if="{{!uiHidden && !menu && !endText && !choices.length}}">{{l4}}</text>
+    <text class="ln" style="{{s5}}" if="{{!uiHidden && !menu && !endText && !choices.length}}">{{l5}}</text>
+
+    <text class="more" if="{{!uiHidden && !menu && !endText && !choices.length && canTap}}">▼</text>
+
+    <!-- 选项 -->
+    <div class="choices" if="{{!menu && !endText && choices.length}}">
+      <text class="choice" for="{{choices}}" tid="cid" onclick="pickChoice($idx)"
+            onswipe="onSwipe">{{$item.x}}</text>
+    </div>
+
+    <!-- 运行时状态（加载/出错），只在异常时出现 -->
+    <text class="badge" if="{{badge}}">{{badge}}</text>
+
+    <!-- 结局 -->
+    <div class="ending" if="{{endText}}">
+      <text class="end-title">{{endText}}</text>
+      <text class="end-tip">点击返回主页</text>
+    </div>
+
+    <!-- 菜单 -->
+    <div class="menu" if="{{menu}}">
+      <text class="menu-title">菜单</text>
+      <text class="menu-sub">{{chapterTitle}} · {{progress}}</text>
+
+      <div class="mbtn mbtn-main" onclick="closeMenu"><text class="mbtn-t">继续阅读</text></div>
+      <div class="mbtn" onclick="saveSlot"><text class="mbtn-t">保存进度</text></div>
+      <div class="mbtn" onclick="goSaves"><text class="mbtn-t">读取存档</text></div>
+      <div class="mrow">
+        <div class="mbtn mbtn-half" onclick="toggleAuto">
+          <text class="mbtn-t">{{autoLabel}}</text>
+        </div>
+        <div class="mbtn mbtn-half" onclick="toggleFast">
+          <text class="mbtn-t">{{fastLabel}}</text>
+        </div>
+      </div>
+      <div class="mrow">
+        <div class="mbtn mbtn-half" onclick="rewind"><text class="mbtn-t">回退一句</text></div>
+        <div class="mbtn mbtn-half" onclick="goChapters"><text class="mbtn-t">章节</text></div>
+      </div>
+      <div class="mrow">
+        <div class="mbtn mbtn-half" onclick="goCg"><text class="mbtn-t">CG 鉴赏</text></div>
+        <div class="mbtn mbtn-half" onclick="goSettings"><text class="mbtn-t">设置</text></div>
+      </div>
+      <div class="mrow">
+        <div class="mbtn mbtn-half mbtn-quit" onclick="goHome"><text class="mbtn-t">返回主页</text></div>
+        <div class="mbtn mbtn-half mbtn-quit" onclick="exitApp"><text class="mbtn-t">退出应用</text></div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<style>
+  .page { width: 336px; height: 480px; background-color: #ffffff; position: relative;
+          overflow: hidden; }
+  .bgclip { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
+            overflow: hidden; }
+  /* 544×480 原图按 1:1 铺开，只挪 left；不要加 transition（真机会画出接缝） */
+  .bgwide { position: absolute; top: 0px; left: 0px; width: 544px; height: 480px;
+            object-fit: fill; }
+  .solid { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
+           background-color: #ffffff; }
+  .cgclip { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
+            overflow: hidden; }
+  .cgwide { position: absolute; top: 0px; left: 0px; width: 576px; height: 480px;
+            object-fit: fill; }
+  .sp { position: absolute; object-fit: contain; }
+
+  /* 顶部只留一行小字 */
+  .hud { position: absolute; top: 10px; left: 12px; height: 28px; padding-left: 12px;
+         padding-right: 12px; border-radius: 14px; background-color: rgba(0, 0, 0, 0.42);
+         flex-direction: row; align-items: center; }
+  .hud-t { font-size: 15px; color: #ffffff; }
+  .hud-d { font-size: 12px; color: #e6e6ea; margin-left: 8px; }
+
+  .board { position: absolute; top: 300px; left: 0px; width: 336px; height: 180px; }
+  .name { position: absolute; top: 300px; left: 18px; font-size: 24px; color: #ffffff;
+          font-weight: bold; background-color: rgba(14, 16, 24, 0.62);
+          padding-left: 12px; padding-right: 12px; padding-top: 3px; padding-bottom: 3px;
+          border-radius: 14px; }
+  .ln { position: absolute; left: 18px; width: 300px; color: #ffffff; font-size: 20px;
+        line-height: 24px; lines: 1; }
+  .more { position: absolute; top: 454px; left: 306px; font-size: 16px; color: #ffd166; }
+  .badge { position: absolute; top: 46px; left: 14px; width: 308px; font-size: 13px;
+           line-height: 18px; color: #ea6c6c; lines: 3; }
+
+  /* 选项：白色卡片 + 黑字 */
+  .choices { position: absolute; top: 186px; left: 18px; width: 300px;
+             flex-direction: column; }
+  .choice { width: 300px; min-height: 52px; margin-bottom: 10px; padding: 10px;
+            border-radius: 14px; background-color: rgba(255, 255, 255, 0.94);
+            color: #111111; font-size: 24px; line-height: 32px; }
+
+  .ending { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
+            background-color: #f5f5f7; flex-direction: column; align-items: center;
+            justify-content: center; }
+  .end-title { font-size: 34px; color: #333333; text-align: center; width: 280px;
+               line-height: 44px; font-weight: bold; }
+  .end-tip { font-size: 20px; color: #999999; margin-top: 26px; }
+
+  /* 控制中心：浅色底 + 淡黄条 + 黑色大字（照参考工程） */
+  .menu { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
+          background-color: #f5f5f7; flex-direction: column; align-items: center;
+          padding-top: 8px; }
+  .menu-title { font-size: 32px; color: #333333; font-weight: bold; }
+  .menu-sub { font-size: 15px; color: #888888; margin-top: 2px; margin-bottom: 8px; }
+  .mbtn { width: 290px; height: 40px; background-color: rgba(226, 216, 120, 0.267);
+          align-items: center; justify-content: center; margin-bottom: 6px; }
+  .mbtn-main { background-color: rgba(226, 216, 120, 0.6); }
+  .mbtn-quit { background-color: rgba(234, 108, 108, 0.16); }
+  .mbtn-t { font-size: 24px; color: #000000; font-weight: 800; }
+  .mrow { width: 290px; flex-direction: row; justify-content: space-between; }
+  .mbtn-half { width: 142px; }
+</style>
+
+<script>
+import router from '@system.router'
+import prompt from '@system.prompt'
+import file from '@system.file'
+import brightness from '@system.brightness'
+import { CG, CG_WIDE, SPRITES, bgPath, cgPath, spritePath, hasSprite } from '../../common/assets.js'
+import {
+  DEFAULT_SETTINGS, autoDelay, layout, paginateText,
+  loadSettings, saveSettings, loadSaves, saveSaves, loadAutoSave, saveAutoSave,
+  loadSeen, saveSeen, MAX_SLOTS,
+} from '../../common/reader.js'
+import { createReader, slotChars } from '../../common/vm.js'
+
+const SLOT_LEFT = { l: 10, c: 96, r: 182 }
+const BG_W = 544
+const BG_STEP = 4
+const BG_TICK = 100
+const HOLD_MS = 450
+const SWIPE_MIN = 36
+const SWIPE_MS = 800
+const AUTO_DEFAULT = 90
+const TOP = 100
+
+function readNum(e, name) {
+  if (!e) return null
+  let p = null
+  if (e.touches && e.touches.length) p = e.touches[0]
+  else if (e.changedTouches && e.changedTouches.length) p = e.changedTouches[0]
+  else p = e
+  if (!p) return null
+  const v = p[name] !== undefined ? p[name] : (name === 'clientY' ? p.pageY : p.pageX)
+  return typeof v === 'number' ? v : null
+}
+
+function readDir(e) {
+  if (!e) return ''
+  if (typeof e.direction === 'string') return e.direction
+  if (e.detail && typeof e.detail.direction === 'string') return e.detail.direction
+  return ''
+}
+
+export default {
+  // Vela 规定 data 不能与 public/protected/private 共存，这里统一用 protected
+  protected: {
+    at: '',          // 章节 id
+    load: '',        // 存档槽位
+    auto: '',        // '1' = 从自动存档继续
+
+    chapterTitle: '——',
+    dateText: '',
+    progress: '0%',
+    bgSrc: '',
+    bgStyle: 'left: 0px;',
+    showBlack: true,
+    spL: '', spLf: '', spLb: '', spLStyle: '', spLfStyle: '', spLbStyle: '',
+    spCStyle: '', spRStyle: '',
+    spC: '', spCf: '', spCb: '', spCfStyle: '', spCbStyle: '',
+    spR: '', spRf: '', spRb: '', spRfStyle: '', spRbStyle: '',
+    cgSrc: '',
+    cgStyle: 'left: 0px;',
+    speaker: '',
+    l0: '', l1: '', l2: '', l3: '', l4: '', l5: '',
+    s0: '', s1: '', s2: '', s3: '', s4: '', s5: '',
+    canTap: false,
+    choices: [],
+    menu: false,
+    endText: '',
+    badge: '',
+    autoOn: false,
+    fastOn: false,
+    autoLabel: '自动 关',
+    fastLabel: '快进 关',
+    uiHidden: false,
+  },
+
+  onInit() {
+    this.reader = createReader((path, cb) => {
+      file.readText({
+        uri: path,
+        success: (d) => cb(null, d.text),
+        fail: (d, code) => cb('读取失败 ' + path + ' (' + code + ')'),
+      })
+    })
+    this.settings = DEFAULT_SETTINGS
+    this.frame = null
+    this.pages = [['']]
+    this.pageIdx = 0
+    this.pageText = ''
+    this.rawText = ''
+    this.typing = 0
+    this.typingToken = 0
+    this.typingAt = 0
+    this.timer = null
+    this.autoTimer = null
+    this.bgTimer = null
+    this.bgOffset = 0
+    this.bgDir = 1
+    this.cgTimer = null
+    this.cgOffset = 0
+    this.cgDir = 1
+    this.cgId = ''
+    this.advanceCount = 0
+    this.hist = []
+    this.seen = {}
+    this.touchY0 = 0
+    this.touchX0 = 0
+    this.touchT0 = 0
+    this.holdTimer = null
+    this.holdFast = false
+    this.saveTimer = null
+    this.lockTap = 0
+
+    loadSeen((list) => {
+      this.seenList = list.slice()
+      for (let i = 0; i < this.seenList.length; i++) this.seen[this.seenList[i]] = 1
+    })
+
+    loadSettings((s) => {
+      this.settings = s
+      this.autoOn = s.autoMs > 0
+      this.fastOn = !!s.fast
+      this.applyFont()
+      this.applyKeepOn()
+      this.boot()
+    })
+  },
+
+  onShow() {
+    loadSettings((s) => {
+      this.settings = s
+      this.autoOn = s.autoMs > 0
+      this.fastOn = !!s.fast
+      this.applyFont()
+      this.applyKeepOn()
+    })
+  },
+
+  onBackPress() {
+    if (this.menu) { this.closeMenu() } else { this.openMenu() }
+    return true          // 系统返回永远不退出阅读
+  },
+
+  onHide() { this.stopAll() },
+  onDestroy() { this.stopAll() },
+
+  stopAll() {
+    if (this.timer) { clearTimeout(this.timer); this.timer = null }
+    if (this.autoTimer) { clearTimeout(this.autoTimer); this.autoTimer = null }
+    if (this.bgTimer) { clearInterval(this.bgTimer); this.bgTimer = null }
+    if (this.cgTimer) { clearInterval(this.cgTimer); this.cgTimer = null }
+    if (this.holdTimer) { clearTimeout(this.holdTimer); this.holdTimer = null }
+    this.typingToken++
+  },
+
+  // ---------------------------------------------------------------- 启动
+  boot() {
+    this.reader.init((err) => {
+      if (err) { this.badge = String(err); return }
+      if (this.auto === '1') {
+        loadAutoSave((d) => {
+          if (!d || !d.state) { this.startAt('prolugue_1'); return }
+          this.restore(d)
+        })
+        return
+      }
+      if (this.load !== '') {
+        loadSaves((list) => {
+          const slot = Number(this.load)
+          const data = list[slot]
+          if (!data) { this.startAt('prolugue_1'); return }
+          this.restore(data)
+        })
+        return
+      }
+      this.startAt(this.at !== '' ? String(this.at) : 'prolugue_1')
+    })
+  },
+
+  startAt(chapterId) {
+    this.hist = []
+    this.reader.start(chapterId, (err, frame) => {
+      if (err) { this.badge = String(err); return }
+      this.onFrame(frame)
+      this.writeAuto()
+    })
+  },
+
+  restore(data) {
+    this.hist = []
+    this.reader.resume(data, (err, frame) => {
+      if (err) { this.badge = String(err); return }
+      this.reader.state.vars = data.vars || {}
+      this.onFrame(frame)
+      this.writeAuto()
+    })
+  },
+
+  // ---------------------------------------------------------------- 渲染
+  layoutOf() {
+    return layout(this.settings)
+  },
+
+  applyFont() {
+    const L = this.layoutOf()
+    for (let i = 0; i < 6; i++) {
+      this['s' + i] = 'top: ' + (338 + i * L.lineH) + 'px; font-size: ' + L.size +
+        'px; line-height: ' + L.lineH + 'px;'
+    }
+    if (this.rawText) this.reflow()
+  },
+
+  reflow() {
+    const L = this.layoutOf()
+    this.pages = paginateText(this.rawText, L.cpl, L.lpp)
+    this.pageIdx = 0
+    this.pageText = (this.pages[0] || ['']).join('\n')
+    this.typingToken++
+    this.renderTyping(this.pageText.length)
+  },
+
+  onFrame(frame) {
+    if (!frame) return
+    if (frame.kind === 'menu') { this.showMenu(frame); return }
+    if (frame.kind === 'end') {
+      this.choices = []
+      this.endText = '本章 · 完'
+      this.stopAll()
+      this.writeAuto()
+      return
+    }
+    this.endText = ''
+    this.choices = []
+    this.frame = frame
+    this.applyStage()
+    this.speaker = frame.who || ''
+    this.rawText = frame.text || ''
+    const L = this.layoutOf()
+    this.pages = paginateText(this.rawText, L.cpl, L.lpp)
+    this.pageIdx = 0
+    this.playPage()
+    this.updateHud()
+    this.pushHist()
+    this.reader.prefetch(this.reader.state.pc + 1)
+    this.advanceCount++
+    if (this.advanceCount % 8 === 0) this.writeAuto()
+  },
+
+  applyStage() {
+    const s = this.reader.state
+    const nextBg = s.bg && s.bg !== 'black' ? bgPath(s.bg) : ''
+    if (nextBg !== this.bgSrc) {
+      this.bgOffset = 0
+      this.bgDir = 1
+      this.bgStyle = 'left: 0px;'
+    }
+    this.bgSrc = nextBg
+    this.showBlack = !this.bgSrc
+    if (this.bgSrc) this.startPan()
+    this.cgSrc = s.fg ? cgPath(s.fg) : ''
+    if (s.fg) {
+      this.markSeen(s.fg)
+      if (s.fg !== this.cgId) {
+        this.cgId = s.fg
+        this.cgOffset = 0
+        this.cgDir = 1
+        this.cgStyle = 'left: 0px; width: ' + (CG_WIDE[s.fg] || 336) + 'px;'
+        this.startCgPan()
+      }
+    } else {
+      this.cgId = ''
+      this.stopCgPan()
+    }
+
+    const slots = slotChars(s.chars)
+    const cast = (slots.l ? 1 : 0) + (slots.c ? 1 : 0) + (slots.r ? 1 : 0)
+    const order = []
+    if (slots.l) order.push('L')
+    if (slots.c) order.push('C')
+    if (slots.r) order.push('R')
+    this.paintSlot('L', slots.l, cast, order.indexOf('L'))
+    this.paintSlot('C', slots.c, cast, order.indexOf('C'))
+    this.paintSlot('R', slots.r, cast, order.indexOf('R'))
+  },
+
+  // ---------------------------------------------------------------- 全景背景
+  startPan() {
+    if (this.bgTimer) return
+    const STEP = 4          // 每帧 4px
+    const TICK = 100        // 100ms 一帧 → 40px/s，336px 走完约 8.4 秒
+    this.bgTimer = setInterval(() => {
+      let off = this.bgOffset + this.bgDir * STEP
+      if (off <= -(BG_W - 336)) { off = -(BG_W - 336); this.bgDir = 1 }
+      if (off >= 0) { off = 0; this.bgDir = -1 }
+      this.bgOffset = off
+      this.bgStyle = 'left: ' + off + 'px;'
+    }, TICK)
+  },
+
+  stopPan() {
+    if (this.bgTimer) { clearInterval(this.bgTimer); this.bgTimer = null }
+  },
+
+  // ---------------------------------------------------------------- 全景 CG
+  startCgPan() {
+    this.stopCgPan()
+    const w = CG_WIDE[this.cgId] || 336
+    const max = w - 336
+    if (max <= 0) return
+    const STEP = 3
+    const TICK = 100
+    this.cgTimer = setInterval(() => {
+      let off = this.cgOffset + this.cgDir * STEP
+      if (off <= -max) { off = -max; this.cgDir = 1 }
+      if (off >= 0) { off = 0; this.cgDir = -1 }
+      this.cgOffset = off
+      this.cgStyle = 'left: ' + off + 'px; width: ' + w + 'px;'
+    }, TICK)
+  },
+
+  stopCgPan() {
+    if (this.cgTimer) { clearInterval(this.cgTimer); this.cgTimer = null }
+  },
+
+  paintSlot(slot, ch, cast, slotIndex) {
+    const pre = 'sp' + slot
+    if (!ch) {
+      this[pre] = ''
+      this[pre + 'f'] = ''
+      this[pre + 'b'] = ''
+      return
+    }
+    const tag = ch.tag
+    /* 同台人数决定尺寸：一个人时放大居中，两个人左右错开，三个以上缩小并排 */
+    const sizes = { 1: [200, 400, 80], 2: [168, 336, 144], 3: [110, 220, 260] }
+    const spec = sizes[Math.min(3, Math.max(1, cast))] || sizes[3]
+    const w = spec[0]
+    const h = spec[1]
+    const top = spec[2]
+    const k = w / 210
+    let left = 0
+    if (cast <= 1) left = Math.round((336 - w) / 2)
+    else if (cast === 2) left = slotIndex === 0 ? 0 : 336 - w
+    else left = slotIndex === 0 ? 2 : (slotIndex === 1 ? Math.round((336 - w) / 2) : 336 - w - 2)
+    this[pre + 'Style'] = 'left: ' + left + 'px; top: ' + top + 'px; width: ' + w + 'px; height: ' + h + 'px;'
+    /* 茜色移植：整身底图按服装分文件，表情是叠在同一张 210x420 画布上的透明层。
+       ch.extra 形如 "cloth:scf1"；没有服装时用 default。 */
+    let outfit = 'default'
+    const ex = ch.extra || ''
+    const at = ex.indexOf('cloth:')
+    if (at >= 0) outfit = ex.slice(at + 6).split(',')[0]
+    const baseFile = 'base_' + outfit + '.png'
+    this[pre] = hasSprite(tag, baseFile) ? spritePath(tag, baseFile) : ''
+    const faceFile = 'face_' + outfit + '_' + (ch.eye || 'default') + '.png'
+    if (hasSprite(tag, faceFile)) {
+      this[pre + 'f'] = spritePath(tag, faceFile)
+      this[pre + 'fStyle'] = this[pre + 'Style']
+    } else {
+      this[pre + 'f'] = ''
+    }
+    this[pre + 'b'] = ''
+  },
+
+  showMenu(frame) {
+    this.choices = []
+    this.frame = frame
+    this.options = frame.options
+    const items = []
+    for (let i = 0; i < frame.options.length; i++) items.push({ x: frame.options[i].text })
+    this.choices = items
+    this.stopTyping()
+  },
+
+  pickChoice(idx) {
+    if (!this.choices.length) return
+    this.choices = []
+    this.reader.choose(idx, (err, frame) => {
+      if (err) { this.badge = String(err); return }
+      this.onFrame(frame)
+    })
+  },
+
+  // ---------------------------------------------------------------- 打字机
+  playPage() {
+    this.clearAuto()
+    this.pageText = (this.pages[this.pageIdx] || ['']).join('\n')
+    this.typing = 0
+    this.renderTyping(0)
+    const speed = this.settings.fast ? 0 : this.settings.speed
+    if (!speed) { this.finishTyping(); return }
+    this.typingToken++
+    this.typingAt = Date.now()
+    this.tickTyping(this.typingToken)
+  },
+
+  tickTyping(token) {
+    if (token !== this.typingToken) return
+    const speed = this.settings.fast ? 0 : this.settings.speed
+    if (!speed) { this.finishTyping(); return }
+    const full = this.pageText.length
+    const n = Math.max(this.typing + 1, Math.floor((Date.now() - this.typingAt) / speed) + 1)
+    if (n >= full) { this.typing = full; this.renderTyping(full); this.finishTyping(); return }
+    this.typing = n
+    this.renderTyping(n)
+    this.timer = setTimeout(() => this.tickTyping(token), 50)
+  },
+
+  renderTyping(n) {
+    const full = this.pageText || ''
+    const seg = (n >= full.length ? full : full.slice(0, n)).split('\n')
+    this.l0 = seg[0] || ''
+    this.l1 = seg[1] || ''
+    this.l2 = seg[2] || ''
+    this.l3 = seg[3] || ''
+    this.l4 = seg[4] || ''
+    this.l5 = seg[5] || ''
+    this.canTap = n >= full.length
+  },
+
+  finishTyping() {
+    this.typingToken++
+    if (this.timer) { clearTimeout(this.timer); this.timer = null }
+    this.typing = (this.pageText || '').length
+    this.renderTyping(this.typing)
+    this.scheduleAuto()
+  },
+
+  stopTyping() {
+    this.typingToken++
+    if (this.timer) { clearTimeout(this.timer); this.timer = null }
+    this.canTap = true
+  },
+
+  scheduleAuto() {
+    this.clearAuto()
+    if (this.choices.length || this.endText || this.menu) return
+    if (this.settings.fast) {
+      this.autoTimer = setTimeout(() => { this.autoTimer = null; this.advance() }, 220)
+      return
+    }
+    if (!this.settings.autoMs) return
+    const wait = autoDelay(this.pageText, this.settings.autoMs)
+    this.autoTimer = setTimeout(() => { this.autoTimer = null; this.advance() }, wait)
+  },
+
+  clearAuto() {
+    if (this.autoTimer) { clearTimeout(this.autoTimer); this.autoTimer = null }
+  },
+
+  // ---------------------------------------------------------------- 推进
+  advance() {
+    if (this.menu) return
+    if (this.choices.length) return
+    if (this.endText) { router.replace({ uri: 'pages/index' }); return }
+    if (this.typing < (this.pageText || '').length) { this.finishTyping(); return }
+    if (this.pageIdx < this.pages.length - 1) {
+      this.pageIdx++
+      this.playPage()
+      return
+    }
+    this.reader.next((err, frame) => {
+      if (err) { this.badge = String(err); return }
+      this.onFrame(frame)
+    })
+  },
+
+  onTap() {
+    if (Date.now() - (this.lockTap || 0) < 400) return
+    this.lockTap = Date.now()
+    if (this.menu) { this.closeMenu(); return }
+    if (this.choices.length) return
+    if (this.endText) { router.replace({ uri: 'pages/index' }); return }
+    this.advance()
+  },
+
+  onTouchStart(e) {
+    this.touchY0 = readNum(e, 'clientY') || 0
+    this.touchX0 = readNum(e, 'clientX') || 0
+    this.touchT0 = Date.now()
+    if (this.settings.longpress !== 'fast') return
+    this.holdFast = false
+    this.holdTimer = setTimeout(() => {
+      this.holdFast = true
+      this.settings = Object.assign({}, this.settings, { fast: true })
+      this.advance()
+    }, HOLD_MS)
+  },
+
+  onTouchEnd(e) {
+    if (this.holdTimer) { clearTimeout(this.holdTimer); this.holdTimer = null }
+    if (this.holdFast) {
+      this.holdFast = false
+      this.settings = Object.assign({}, this.settings, { fast: false })
+      this.scheduleAuto()
+      this.lockTap = Date.now()
+      return
+    }
+    // 自行判定滑动：系统 onswipe 在部分固件上不触发
+    if (!this.touchT0 || Date.now() - this.touchT0 > SWIPE_MS) return
+    const y1 = readNum(e, 'clientY')
+    const x1 = readNum(e, 'clientX')
+    if (y1 === null) return
+    const dy = y1 - this.touchY0
+    const dx = (x1 === null ? 0 : x1 - this.touchX0)
+    if (dy >= SWIPE_MIN && dy >= Math.abs(dx) && !this.choices.length) {
+      this.lockTap = Date.now()
+      this.openMenu()
+    } else if (dx >= SWIPE_MIN && dx > Math.abs(dy)) {
+      this.lockTap = Date.now()
+      this.rewind()
+    }
+  },
+
+  onSwipe(e) {
+    if (this.menu || this.choices.length) return
+    if (readDir(e) === 'down') this.openMenu()
+  },
+
+  onLongPress() {
+    const mode = this.settings.longpress
+    if (mode === 'hide') this.uiHidden = !this.uiHidden
+  },
+
+  // ---------------------------------------------------------------- 菜单动作
+  openMenu() {
+    this.menu = true
+    this.clearAuto()
+    this.stopTyping()
+    this.finishTyping()
+  },
+
+  closeMenu() {
+    this.menu = false
+    this.scheduleAuto()
+  },
+
+  saveSlot() {
+    const list = this.saves || []
+    loadSaves((saved) => {
+      const data = this.reader.snapshot()
+      const next = saved.slice()
+      let slot = 0
+      for (; slot < MAX_SLOTS; slot++) if (!next[slot]) break
+      if (slot >= MAX_SLOTS) slot = MAX_SLOTS - 1
+      next[slot] = data
+      next[slot].slot = slot
+      saveSaves(next, () => {
+        this.saves = next
+        prompt.showToast({ message: '已保存到 ' + (slot + 1) + ' 号存档' })
+      })
+    })
+  },
+
+  goSaves() {
+    router.push({ uri: 'pages/saves', params: { from: 'game' } })
+  },
+
+  goChapters() { router.push({ uri: 'pages/chapters', params: { from: 'game' } }) },
+  goCg() { router.push({ uri: 'pages/cg' }) },
+  goSettings() { router.push({ uri: 'pages/settings' }) },
+  goHome() { router.replace({ uri: 'pages/index' }) },
+
+  exitApp() {
+    try { this.$app.exit() } catch (e) { router.replace({ uri: 'pages/index' }) }
+  },
+
+  toggleAuto() {
+    const s = Object.assign({}, this.settings)
+    s.autoMs = s.autoMs > 0 ? 0 : AUTO_DEFAULT
+    if (s.autoMs > 0) s.fast = false
+    this.settings = s
+    this.autoOn = s.autoMs > 0
+    this.fastOn = false
+    this.autoLabel = s.autoMs > 0 ? '自动 开' : '自动 关'
+    this.fastLabel = '快进 关'
+    saveSettings(s)
+    this.scheduleAuto()
+    this.menu = false
+  },
+
+  toggleFast() {
+    const s = Object.assign({}, this.settings)
+    s.fast = !s.fast
+    if (s.fast) s.autoMs = 0
+    this.settings = s
+    this.fastOn = s.fast
+    this.autoOn = s.autoMs > 0
+    this.fastLabel = s.fast ? '快进 开' : '快进 关'
+    this.autoLabel = s.autoMs > 0 ? '自动 开' : '自动 关'
+    this.menu = false
+    this.advance()
+  },
+
+  rewind() {
+    this.menu = false
+    if (this.hist.length < 2) { prompt.showToast({ message: '已经是最早的一句了' }); return }
+    this.hist.pop()
+    const prev = this.hist.pop()
+    this.hist.push(prev)
+    this.menu = false
+    this.reader.resume(prev, (err, frame) => {
+      if (err) { this.badge = String(err); return }
+      this.onFrame(frame)
+    })
+  },
+
+  pushHist() {
+    try {
+      this.hist.push(this.reader.snapshot())
+      if (this.hist.length > 60) this.hist.shift()
+    } catch (e) { /* 记录失败不影响阅读 */ }
+  },
+
+  writeAuto() {
+    const data = this.reader.snapshot()
+    if (!data) return
+    saveAutoSave(data)
+  },
+
+  markSeen(id) {
+    const idx = CG.indexOf(id)
+    if (idx < 0 || this.seen[id]) return
+    this.seen[id] = 1
+    this.seenList.push(id)
+    if (this.seenTimer) clearTimeout(this.seenTimer)
+    this.seenTimer = setTimeout(() => saveSeen(this.seenList), 500)
+  },
+
+  updateHud() {
+    const s = this.reader.state
+    this.chapterTitle = s.chapterTitle || '——'
+    this.dateText = s.date || ''
+    const list = this.reader.index.chapters
+    let i = 0
+    for (; i < list.length; i++) {
+      const next = list[i + 1]
+      const end = next ? next.start : this.reader.index.total
+      if (s.pc >= list[i].start && s.pc < end) break
+    }
+    const ch = list[Math.min(i, list.length - 1)]
+    const nextCh = list[i + 1]
+    const span = Math.max(1, (nextCh ? nextCh.start : this.reader.index.total) - ch.start)
+    this.progress = Math.min(99, Math.round((s.pc - ch.start) * 100 / span)) + '%'
+  },
+
+  // ---------------------------------------------------------------- 背景平移
+  // ---------------------------------------------------------------- 屏幕常亮
+  applyKeepOn() {
+    try {
+      brightness.setKeepScreenOn({ keepScreenOn: !!this.settings.keepOn })
+    } catch (e) { /* 部分固件没有该接口，忽略 */ }
+  },
+}
+</script>

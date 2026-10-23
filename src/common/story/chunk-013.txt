@@ -1,0 +1,128 @@
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	跟你这种每天闲着没事干就往桌球室跑的人比起来，我连个菜鸟都算不上好吧...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	唉呀，小宁你想到哪里去了？
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	我肯定让着你的啊，就跟以前一样~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	如果是和以前一样的让二追三的话，还是算了，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	我先提前谢谢您的怜悯。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	余晓鑫	这次一局一局地放水啦~
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	结果不还是你赢嘛，有什么意义...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	唔...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	那...那小宁你也一起来练就好了嘛~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	练到水平跟我差不多的时候，我就不用特意给你放水了。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	嗯...好吧，那就这样，今晚咱们就来练习，不计输赢。
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	嗯，好~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s		最终我们俩达成了共识，她的脸上也露出了满意的微笑，
+h	x
+h	n
+b	skidk
+s		而败者惩罚的事情，也就这么不了了之了，
+p	n	c	ss6	-	-	cloth:scs2
+s	宁桐雨	哼，你啊，可真是个好搞定的女人~
+s		跟在她身后的我这么小声地嘀咕着，
+s		虽然她大概早就把那茬子事给忘的干干净净就是了，
+s		毕竟自从上了大学之后，我们俩就一直奉行着随波逐流，得过且过的生活态度，
+s		看来她把这条规矩遵守的格外好。
+h	n
+b	dour1_c
+s		打完球，回到宿舍的我们俩已经困得睁不开眼睛了，
+p	x	c	sf6	-	-	cloth:scf2
+p	x	c	sf6	-	-	cloth:scf2
+s	余晓鑫	呼...怎么打个桌球也能这么累人啊...
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	那是自然嘛，毕竟咱们归了一下午的行李，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	况且打桌球是一项废精力的运动，打到两眼昏花都是有可能的，
+p	x	l	ss3	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	余晓鑫	诶？小宁你不会是在不懂装懂吧？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	这都是我爸告诉我的，这是他的亲身经历好不好...
+s		面对着铁证如山，一向喜欢反驳我的的她也不再说什么了。
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	陪我去洗澡吧，累死了，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	你先等会，等我先去拿一下换洗的衣服，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf10	-	-	cloth:scf2
+s	宁桐雨	虽然天气暖和了，可光着身子出来拿衣服还是容易着凉的，
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	sf10	-	-	cloth:scf2
+s	余晓鑫	好，好，谢谢啦，宁妈妈~
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf10	-	-	cloth:scf2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	不要用那么奇怪的称呼叫我...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	诶？但话说回来，小宁也是个很奇怪的称呼吧？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	为什么小宁就从来没对这个称呼感到奇怪呢？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss6	-	-	cloth:scs2
+s	宁桐雨	我搞不懂在姓氏面前加个“小”字又有哪里奇怪了，
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss6	-	-	cloth:scs2
+s	余晓鑫	感觉就像公司里的职员一样，比如说什么小张小李什么的，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss6	-	-	cloth:scs2
+s	余晓鑫	你想象一下这个场景吧，
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss6	-	-	cloth:scs2
+s	余晓鑫	“余总，诶，我这就叫办公室的小宁帮你把资料找过来，”
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss6	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	弱智的电视剧少看点，
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	哪有，
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	这是...我记得是哪个小品里的吧？
+p	x	l	ss12	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2

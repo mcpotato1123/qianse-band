@@ -1,0 +1,20 @@
+{
+  "name": "qianse-band",
+  "private": true,
+  "version": "1.0.0",
+  "description": "《茜色》小米手环 9 Pro 快应用：参照 galgod-band 的剧本引擎与 limelight 浅色 UI",
+  "scripts": {
+    "build": "node tools/build.js",
+    "release": "node tools/build.js release",
+    "story": "python tools/build_story.py",
+    "assets": "python tools/build_assets.py",
+    "check": "python tools/check_story.py"
+  },
+  "devDependencies": {
+    "aiot-toolkit": "2.0.5",
+    "@aiot-toolkit/jsc": "^1.0.9"
+  },
+  "browserslist": [
+    "chrome 65"
+  ]
+}

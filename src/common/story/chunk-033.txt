@@ -1,0 +1,128 @@
+s		自从那次短会之后，她突然无缝从优等生状态切换到了我过去认识的那个她。
+s		每天中午她都会像一只蚊子一样紧紧地跟在我身后，“护送”着我到心理教室。
+b	stai_m
+p	x	c	ss12	-	-	cloth:scs1
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf9	-	-	cloth:scf1
+s	宁桐雨	别老是跟在我后面啦，明明你走的要更快些，
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf17	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	余晓鑫	可是我要是走在前面的话，小宁你可要撞上我的...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss2	-	-	cloth:scs1
+s	宁桐雨	诶？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	我可是知道的，小宁从小走路就从来不看道，我停下来你还不停地往前走，
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	要说走也就算了，我待会追上就好，
+p	x	l	sf12	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	最要命的是你总把我的鞋给踩掉。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf7	-	-	cloth:scf1
+s	宁桐雨	那，那都是什么时候的老黄历了，小学时候的吧？至少，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	再，再说，我记得这种事情一般都发生在春游的时候吧，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	那时队伍太紧了了嘛，完全是没办法的事情嘛，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	嗯嗯~
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss2	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss2	-	-	cloth:scs1
+s	宁桐雨	怎么还在笑？真的是，
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	我想起了高兴的事情~
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf7	-	-	cloth:scf1
+s	宁桐雨	真的是枉费了我对你的期待啊...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	我看到你开学时候那副样子，本来还对你有所改观的，
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss2	-	-	cloth:scs1
+s	宁桐雨	现在看来你从来就没试着改过你那恶劣的性格，
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	小宁也从来没变过，不是么？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	日常说话用词都那么正式，还是像个书呆子一样呐~
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	宁桐雨	随，随你怎么说好了。
+h	x
+h	n
+b	lib_m
+s		就这样，每天我们都要经历这样一段毫无营养的对话才能到心理办公室门口。
+s		一开始我还发愁怎么向老姐解释她的存在，结果她们两人却好像是事先就认识的一样，倒也省去了我的许多麻烦。
+s		总而言之，ppt制作的那几天，她一直都坐在我身边，打着监督工作的名号，像初中和小学一样一边扯淡，一边做着工作。
+s		但也不得不说，拜她所赐，明明本应该是烦人的任务，在她的陪伴下也变得有趣了起来。
+b	black
+s		当然，这指的不是她这个人让我感到有趣啦，
+s		只是有个人聊天能让我感到有趣罢了，
+s		对，仅此而已。
+b	classroom1
+s		当然，要想度过这么一段惬意的时光，还得忍受住一上午无聊的课程。
+s		现在是第三节课下课，离午饭还差两节课了。
+s		换句话说，离午休也只差两节课了。
+s		如果把上午的课程比作一场马拉松的话，那现在毫无疑问就是刚跑到半路上。
+s		胜利尚且遥不可及，疲倦却在心头不断地积蓄。
+s		抱着这样心态的我垂下了脑袋去，准备闭上眼睛休息个一两分钟。
+b	black
+b	black
+g	cg5_2
+s	余晓鑫	在、想、什、么、呢？
+p	n	c	sf12	-	-	cloth:scf1
+s	宁桐雨	呜哇...吓，吓死我了...
+h	n
+b	black
+g	cg5_3
+s		正当我迷迷糊糊地快要睡着的时候，小鑫却突然走到了我身边，低下头来这么问我。
+s		她的脸凑得很近，以至于我抬头的一瞬间几乎差点和她的头碰到一起。
+s		尽管她稍微避开了一点，发丝还是轻轻拂过了我的前额。
+s		那是一种痒痒的感觉。
+s		我自然而然地露出了厌恶的表情。
+p	n	c	sf6	-	-	cloth:scf1
+s	宁桐雨	我刚想眯一会，就被你给吵醒了。
+h	n
+b	black
+g	cg5_4
+s	余晓鑫	诶？下课就几分钟还想睡觉吗？
+b	black
+g	cg5_3
+p	n	c	ss1	-	-	cloth:scs1
+s	宁桐雨	谁说两分钟的休息就不算休息了？
+s	余晓鑫	那样的话，一觉醒来反倒会更困吧~
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	那...那倒也是...
+h	n
+b	black
+g	cg5_6

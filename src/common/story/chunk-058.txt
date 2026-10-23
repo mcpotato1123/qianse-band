@@ -1,0 +1,128 @@
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那小宁不应该抢的更积极一些吗？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	你脑袋里装的都是浆糊吗？
+s		听了这话，她居然还露出了一脸不可思议的表情。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	余晓鑫	这是什么意思？我怎么听不懂呢？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	嗐，我真不知道你是在装傻还是真傻，
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	我的黑历史，不就是你的黑历史嘛！！！
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	哦，突然想起来了，
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	原来我是有青梅竹马的人。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	如果有得失忆症的风险的话要早发现早治疗...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	先别贫啦，要不你也一起来看看？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	当面处刑未免也太残忍了些...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那...
+s		她说着清了清嗓子，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	在那个阳光明媚的中午，我们排着整齐的队伍...
+s		接着她居然就这么一本正经地捧起本子读了起来。
+s		幸亏心理办公室里除了我们两人之外就只有表姐一人，
+s		不然我大概就就要和美好的高中生活说再见了吧...
+s		虽然说是这么说的，不过硬要较真的话高中生活可能本来就不怎么美好。
+s		但那毕竟也是要好过社死的结局。
+h	x
+h	n
+b	lib_m
+p	x	c	sf12	-	-	cloth:scf1
+s	余晓鑫	唔...别捂我嘴啦？
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	那你先别读啦~
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	咳咳咳...我答应你，答应你总行了吧~
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s		到了这种地步，我才将信将疑地收回了手。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	啊，重新呼吸的感觉真好啊~
+h	x
+h	n
+b	readng
+p	x	c	ss12	-	-	cloth:scs1
+s	余晓鑫	啊，这张照片，我记得很清楚呐~
+s		她说着指向了其中的一张照片。
+p	x	c	sf11	-	-	cloth:scf1
+s	余晓鑫	这是当时故事分享会上拍的，对吧？
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	算是吧。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	小宁~你看看照片上你的表情，哈哈哈，逊毙了耶~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	我真要揍人了。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	对...对不起...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	虚情假意的道歉我可不要。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	不过话说回来啊，你知道我为什么对这一天印象尤为深刻吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	不知道啊...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	余晓鑫	因为，那一天啊，好像加作业了呢。
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	sf25	-	-	cloth:scf1
+s	余晓鑫	到底是因为谁的原因呢？好奇怪啊？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	余晓鑫	好疼！说好了不弹脑壳呢！？
+p	x	l	ss3	-	-	cloth:scs1
+p	n	r	sf25	-	-	cloth:scf1
+s	宁桐雨	抱歉，没忍住，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf25	-	-	cloth:scf1
+s	余晓鑫	这根本不算是道歉！
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	好了，你不会就只是为了说这个事儿吧？
+h	x
+h	n
+b	lib_m
+p	x	c	sf4	-	-	cloth:scf1
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	唔，那倒确实，
+p	x	c	sf5	-	-	cloth:scf1
+s	余晓鑫	主要是，那个故事我还蛮喜欢的，
+p	x	c	ss2	-	-	cloth:scs1
+s	余晓鑫	于是啊，当时不是要写个结局什么的吗？
+p	x	c	ss1	-	-	cloth:scs1
+s	余晓鑫	小宁的话，写了个什么样的结局啊？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	那个的话，我想想...
+h	x
+h	n
+b	black
+s		推开门之后，奴隶面对的是？
+m	老虎7552宫女7574忘记了7598

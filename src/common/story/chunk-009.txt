@@ -1,0 +1,128 @@
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	你整天就想着吃饭啊睡觉啊这些事，好好的一个女孩子都要腐烂掉了...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	你想想你高中的时候，再想想现在，不就完全是两个人吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	人才不会腐烂的啦...
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s		我冷冷地瞟了她一眼，没有回答，
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	宁桐雨	你再好好想想，没有什么忘带的东西了吧？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	哦，忘带的东西嘛...
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+s	余晓鑫	我突然想起来了，倒确实有一个，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss14	-	-	cloth:scs2
+s	宁桐雨	那就快点去找吧，你不是还吵着要去吃饭吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	可那个东西可在小宁身上哦~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？在我身上？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+h	x
+h	n
+b	dour1_a
+s		我诧异地回过头去，却发现她的脸缓缓地凑了过来，
+s		我赶忙闭上了眼睛，
+b	black
+b	black
+g	cg4
+s	宁桐雨	唔...
+s		或许是跟我扯皮了一个下午的缘故，她的嘴唇稍微有些干燥...
+s		那触感与以往所体会到的不大一样...
+s		可心跳却依旧如过去一样躁动不安。
+s		果然，我还是没能彻底习惯这种事情...
+b	black
+b	dour1_a
+p	x	c	sf4	-	-	cloth:scf2
+s		在睁开双眼之后，她的脸上仍然挂着有些欠揍的表情，
+p	x	c	sf4	-	-	cloth:scf2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf17	-	-	cloth:scf2
+s	余晓鑫	现在终于拿回来了哦~小宁还是跟以前一样纯情。
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf17	-	-	cloth:scf2
+s	余晓鑫	明明连正事都干了这么多次了，却还会因为kiss而脸红~
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	好好好，拿回来了就赶紧吃饭去吧...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	跟你这种人我没什么好说的...
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf11	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	好的~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+h	x
+h	n
+b	dour1_a
+b	skidk
+s		满血复活的她总算是乖乖地遵照着我的指示跟我下了楼。
+s		看着一脸满足的她，我的脸上一如既往地露出了厌恶的表情。
+s		虽然很不愿意承认，现在的她确实不仅仅是我舍友那么简单...，
+s		而且是...我的恋人，
+b	skidk
+s		硬要说的话，跟她在一起的经历倒更像是一段孽缘。
+s		我们俩是在小学相识的，由于在一起的时间久了，自然而然地就处的越来越熟。
+s		从初中一直到大学，她都跟我在同一个学校里。
+s		除了高一那一年因为分在对楼的班里导致关系有些冷淡之外，她一直都是我关系最好的“朋友”，
+s		而目前，我们作为同一项目组里厮混的伙伴，就连日常的上课研究也是形影不离。
+s		到了读研的时候为了不打扰到别的同学，我们一块在学校旁边租了一个单间公寓。
+s		虽然一开始被她称不上健康的生活习惯骚扰了许久，但最终，我还是半被迫地适应了这样的生活。
+s		从两年前一直到现在，我也养成了与她一样的熬夜追剧的陋习。
+s		除了依旧看不惯恐怖电影之外，我感觉我都快被她给同化了。
+b	str_e
+p	n	c	ss4	-	-	cloth:scs2
+s	宁桐雨	明明高中的时候这个女人还是模范学生代表来着，怎么一到了大学和读研的时候...
+p	n	c	ss3	-	-	cloth:scs2
+s		我转过脸去看着一脸傻笑的她，陷入了沉思。
+h	n
+b	skidk
+s		最后，我还是决定撇过脸去，不再去看她了。
+s		尽管她说着明天就会告诉我她拿那本相册的目的，但我还是止不住内心对她真实想法的猜测，
+s		难不成是哪个同学想要这个？
+s		不会吧...她除了我之外就没和任何同学有过比较深的来往，哪怕是女同学，
+s		而且除了她之外也不会有人对我感兴趣吧...
+s		那就是说，是她本人对这本日记本感兴趣嘛...
+s		嗯，这倒像是个比较合理的解释...
+s		说起来，她好像一直对这些诸如儿时相册之类的物件格外地珍视。
+s		她的手机屏保，直到现在还是我俩小学春游时候拍的双人照。
+s		嗯...不过从另一个角度想嘛...
+s		这让我不得不怀疑她是不是萝莉控...
+s		不过，当我真的当面问过她之后...
+b	black
+p	x	c	sf8	-	-	cloth:scf2
+s	余晓鑫	说谁萝莉控呐，我是“小宁控”。
+p	x	c	sf8	-	-	cloth:scf2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	那为什么不珍惜眼前人呢？
+p	x	l	sf8	-	-	cloth:scf2

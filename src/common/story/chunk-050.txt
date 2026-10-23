@@ -1,0 +1,128 @@
+s		本来不应该感到慌乱的...
+s		但是，问题是，那两个人都是...
+s		女孩子...
+p	n	c	sf12	-	-	cloth:scf1
+s	宁桐雨	？？？？？？？？？？？？？？？？？？？？？？？？？？
+s		然后，小鑫居然若无其事地向后翻了一页...
+s		在那里，前一页在接吻的那两个女孩子...
+s		不知不觉间，我的脸已经涨得通红了。
+s		或许是为了平复激动的心情，或许是因为不愿意接受荒诞的现实，
+h	n
+b	black
+s		总之我闭上了眼睛，然后捏了捏自己的脸。
+b	black
+b	lib_m
+s		啊，这该死的真实感...
+s		这时我多希望这一切只是一场梦...
+s		我明明记得我递给她的只是一本普普通通的少女漫画啊？
+b	boksh
+s		我无助地看向书柜，那里...
+p	n	c	sf28	-	-	cloth:scf1
+s	宁桐雨	完了，把两本书给搞反了...
+s		为了不让表姐发现我难以启齿的爱好，我把自己看的漫画的封皮换成了其他漫画的...
+h	n
+b	lib_m
+s		脸颊在不知不觉间变得越来越烫，我的手也开始发抖了。
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	那个...小鑫...
+p	n	c	ss9	-	-	cloth:scs1
+s	宁桐雨	漫画呢，刚刚拿错了...
+p	n	c	sf28	-	-	cloth:scf1
+s	宁桐雨	所以，
+p	n	c	sf22	-	-	cloth:scf1
+s	宁桐雨	对不起！
+p	n	c	sf12	-	-	cloth:scf1
+s	宁桐雨	请把它还给我，我再给你拿一本！
+s		说完这句话，我以迅雷不及掩耳之势（自认为）伸出手去，试图从她手里夺回那本漫画。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s		可那一头，一股强大的力量却把它死死地抓牢了。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	小宁...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	这个是...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		看着她诧异的表情，我知道现在才开始装死的话大概已经没什么用了。
+s		或许，得编个理由来糊弄过去了。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	对...对不起，果然我是个变态吧，那个，我这个人嘛，平时就喜欢看一些这种东西的，那个怎么说呢，就是这种东西之类的吧，
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	当然，我绝对，绝对，绝对并不是觉得它好看什么的，只是说，额，那个，因为...因为这种漫画一般画工比较好嘛！
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	对对...因为画工比较好，所以我...那个，我平时喜欢画画！你知道的吧，所以说，所以说...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	那个，这个...我平时一直拿这种东西作参考...当然，这么说也不准确，我会看这些主要是因为...
+s		编到最后词穷了！
+s		书到用时方恨少的感觉...我现在是总算体会到了。
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	你是故意给我看这些书的吗？
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	怎，怎么会的呢？啊哈哈哈...单纯是因为拿错了而已...
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	这...这样啊。
+h	n
+h	x
+b	lib_m
+p	x	c	ss12	-	-	cloth:scs1
+p	x	c	ss13	-	-	cloth:scs1
+s	余晓鑫	那小宁啊...我还是想问一下...
+p	x	c	ss13	-	-	cloth:scs1
+s	余晓鑫	你...为什么会喜欢看这种漫画呢？
+s		我的心猛地一沉。
+s		她提的问题可真是一个比一个重量级。
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	诶...这...这个嘛，刚才我也说过了嘛，
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	因为我单纯的是什么都看的啊，像什么少女漫，耽美还有...这种的，
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	单纯...单纯就是碰巧罢了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s		可就在谈话间，她又走到了书柜前，随手取下了一本漫画书...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	啊，那一本...
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+h	x
+p	n	c	sf12	-	-	cloth:scf1
+s		但她无视了我的话，果断地翻开了...
+s		而那本漫画的内容，不出意外的也是...
+s		我无助地看着她翻过了一页又一页，之后若无其事地把那本书递给了我。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	小宁，你不是说你也会看其他类型的漫画吗？
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	诶，那个，
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	其实啦...
+s		完了，这下属于是跳进黄河洗不清了...
+s		这下该怎么和她解释呢？
+s		应该说，都到了这种地步了，一般的解释是无法让她信服的吧...
+s		快想想啊，宁桐雨...生死存亡的时刻到了...
+h	x
+p	n	c	ss3	-	-	cloth:scs1
+h	n
+b	lib_m
+b	black
+s		可是...
+s		有没有一种可能，我本身就是这样的人呢？

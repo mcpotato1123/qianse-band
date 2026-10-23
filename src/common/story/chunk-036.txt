@@ -1,0 +1,128 @@
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss12	-	-	cloth:scs1
+s	宁桐雨	行吧行吧，那我就姑且再信你一次吧...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s		实在是受不了她的骚扰的我最后还是同意了。
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	这次我找的地方准保你满意啦，
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	毕竟我已经打听过了，那个地方以前还是校园传说里情侣约会的地方，
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	所以，绝对不会有其他人来打扰的啦~
+s		说到这儿，她向我跟前凑了一步。
+h	x
+h	n
+b	scoexim
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	小宁一直都喜欢清静的地方，不是吗？
+p	x	c	sf1	-	-	cloth:scf1
+s		她的脸几乎要和我碰到了一起，我几乎可以清楚地从她的眸子里看到我的倒影。
+s		外套靠近腰部的纽扣与拉链相撞，发出叮叮的声响，听起来好像是风铃一般。
+p	x	c	sf1	-	-	cloth:scf1
+h	x
+b	scoexim
+s		我感觉脸颊有些燥热，便向后稍稍退后了一步。
+p	n	c	ss4	-	-	cloth:scs1
+s	宁桐雨	所以，为什么要特意提及情侣这两个字...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	诶？难道学校不是禁止恋爱的吗？
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	既然情侣都会去那里，说明那里肯定很安全啊？
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	当这个传言传开的时候那个地方不就不安全了吗...
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	毕竟这就说明老师也知道了啊？
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	哦对，也是啊~
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	你给我早点察觉啦~
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	不过咱们不是情侣也就不用顾念那么多啦~
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf1	-	-	cloth:scf1
+s	宁桐雨	啊...嗯，说，说的也是呢...
+s		对啊，咱们本来就不是情侣啦，根本不用顾念那么多...
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	诶？我突然想到了一个好主意，
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	要不咱们假装成情侣怎么样？
+s	宁桐雨	嘿诶诶？你...你这是又犯了哪门子病了？
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	你想想，要是搞出这种设定来的话，咱们不是会感到更刺激吗？
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	无法理解...
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss13	-	-	cloth:scs1
+s	余晓鑫	你就只要想啦，你如果考前没复习，考试的时候是不是会很慌？
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	看着每道题都会害怕下一道做不出来？
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	那倒确实，
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	你把那一种心情代入一下就好了，
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	偷尝禁果的感觉，果然很棒吧？
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	别无视我嘛...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	小宁，现在就给个答复吧？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	...
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	算了，我还是陪你玩玩吧...
+p	n	l	ss9	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	当然，我提前说一下，我只是因为拒绝了你肯定要缠着我才同意的，
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	好啦，我明白啦~
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	那事不宜迟，咱们现在就走吧~
+h	x
+p	n	c	ss4	-	-	cloth:scs1
+h	n
+b	stai_m
+s		她没等我应答，就拉起了我的手，脱离人群，拐进了大楼的转角。
+s		由于事情发生的实在太突然，没有准备的我险些摔了一跤。
+s		然而，她的手腕却牢牢地撑住了我，
+s		那可靠的感觉一如既往。
+p	n	c	sf12	-	-	cloth:scf1
+s	宁桐雨	喂，小心撞到别人啦！
+s		尽管，在嘴上我还是这么抱怨着。

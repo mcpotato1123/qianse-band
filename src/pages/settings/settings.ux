@@ -1,0 +1,193 @@
+<template>
+  <div class="page" onswipe="ban">
+    <image class="headbar" src="/common/img/ui/headbar.png"></image>
+    <text class="title">设置</text>
+
+    <scroll id="set-scroll" class="scroll" scroll-y="{{true}}" bounces="true">
+      <!-- 字号 -->
+      <div class="sec">
+        <text class="st">字体大小</text>
+        <div class="row">
+          <div class="step" onclick="sizeDown" onswipe="ban"><text class="stp">−</text></div>
+          <text class="val">{{size}} px</text>
+          <div class="step" onclick="sizeUp" onswipe="ban"><text class="stp">＋</text></div>
+        </div>
+        <div class="row2"><text class="lb">小</text><text class="lb">大</text></div>
+      </div>
+
+      <!-- 打字速度 -->
+      <div class="sec">
+        <text class="st">文本播放速度</text>
+        <div class="row">
+          <div class="step" onclick="speedDown" onswipe="ban"><text class="stp">−</text></div>
+          <text class="val">{{speedText}}</text>
+          <div class="step" onclick="speedUp" onswipe="ban"><text class="stp">＋</text></div>
+        </div>
+        <div class="row2"><text class="lb">快</text><text class="lb">慢</text></div>
+      </div>
+
+      <!-- 自动播放 -->
+      <div class="sec">
+        <text class="st">自动播放</text>
+        <div class="row">
+          <div class="step" onclick="autoDown" onswipe="ban"><text class="stp">−</text></div>
+          <text class="val">{{autoText}}</text>
+          <div class="step" onclick="autoUp" onswipe="ban"><text class="stp">＋</text></div>
+        </div>
+        <div class="row2"><text class="lb">快</text><text class="lb">慢</text></div>
+      </div>
+
+      <!-- 开关 -->
+      <div class="sec">
+        <div class="swrow" onclick="toggleKeep" onswipe="ban">
+          <text class="sl">屏幕常亮</text>
+          <div class="sw {{keepOn ? 'sw-on' : ''}}"><text class="swt">{{keepText}}</text></div>
+        </div>
+        <div class="swrow" onclick="cyclePress" onswipe="ban">
+          <text class="sl">长按画面</text>
+          <div class="sw sw-wide"><text class="swt">{{pressText}}</text></div>
+        </div>
+      </div>
+
+      <!-- 预览 -->
+      <div class="sec">
+        <text class="st">预览</text>
+        <div class="preview">
+          <text class="pv" style="{{previewStyle}}">月幕下，清辉洒落。</text>
+        </div>
+      </div>
+
+      <div class="gap"></div>
+    </scroll>
+
+    <div class="back" onclick="back" onswipe="ban"><text class="btn-t">返回</text></div>
+  </div>
+</template>
+
+<style>
+  .page { width: 336px; height: 480px; background-color: #f5f5f7; position: relative; }
+  .headbar { position: absolute; top: 0px; left: 0px; width: 336px; height: 72px; }
+  .title { position: absolute; top: 10px; left: 0px; width: 336px; text-align: center;
+           font-size: 30px; color: #f2f2f4; font-weight: bold; }
+
+  .scroll { position: absolute; top: 88px; left: 0px; width: 336px; height: 330px;
+            flex-direction: column; align-items: center; }
+
+  .sec { width: 312px; margin-bottom: 8px; border-radius: 12px;
+         background-color: rgba(255, 255, 255, 0.92); border: 1px solid #e0e0e0;
+         flex-direction: column; align-items: center; padding-top: 8px; padding-bottom: 4px; }
+  .st { font-size: 22px; color: #333333; font-weight: bold; margin-bottom: 2px; }
+
+  .row { flex-direction: row; align-items: center; justify-content: space-between;
+         width: 280px; }
+  .step { width: 46px; height: 46px; border-radius: 23px;
+          background-color: rgba(226, 216, 120, 0.55); align-items: center;
+          justify-content: center; }
+  .stp { font-size: 26px; color: #333333; font-weight: bold; }
+  .val { font-size: 24px; color: #222222; font-weight: bold; width: 170px; text-align: center; }
+  .row2 { flex-direction: row; justify-content: space-between; width: 264px; margin-top: 2px; }
+  .lb { font-size: 16px; color: #999999; }
+
+  .swrow { flex-direction: row; align-items: center; justify-content: space-between;
+           width: 280px; height: 46px; }
+  .sl { font-size: 22px; color: #333333; font-weight: bold; }
+  .sw { width: 86px; height: 36px; border-radius: 18px; background-color: #e2e2e6;
+        align-items: center; justify-content: center; }
+  .sw-on { background-color: rgba(226, 216, 120, 0.9); }
+  .sw-wide { width: 130px; }
+  .swt { font-size: 18px; color: #333333; font-weight: bold; }
+
+  .preview { width: 280px; min-height: 62px; margin-top: 4px; border-radius: 8px;
+             background-color: rgba(0, 0, 0, 0.05); border: 1px solid #e0e0e0;
+             justify-content: center; align-items: center; padding: 8px; }
+  .pv { color: #333333; text-align: center; }
+
+    .gap { height: 8px; }
+
+  .back { position: absolute; top: 428px; left: 50px; width: 236px; height: 44px;
+          border-radius: 22px; background-color: #ffffff; border: 1px solid #e0e0e0;
+          align-items: center; justify-content: center; }
+  .btn-t { font-size: 24px; color: #333333; font-weight: bold; }
+</style>
+
+<script>
+import router from '@system.router'
+import brightness from '@system.brightness'
+import {
+  SIZE_MIN, SIZE_MAX, SPEED_MIN, SPEED_MAX, AUTO_MIN, AUTO_MAX,
+  loadSettings, saveSettings, normalizeSettings,
+} from '../../common/reader.js'
+
+const PRESS = ['off', 'hide', 'fast']
+const PRESS_TEXT = { off: '关', hide: '隐藏界面', fast: '按住快进' }
+
+function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)) }
+
+export default {
+  protected: {
+    size: 20,
+    speed: 28,
+    autoMs: 0,
+    keepOn: true,
+    longpress: 'off',
+    speedText: '28ms/字',
+    autoText: '关',
+    keepText: '开',
+    pressText: '关',
+    previewStyle: 'font-size: 20px; line-height: 28px;',
+  },
+
+  onInit() {
+    this.lock = 0
+    loadSettings((s) => this.apply(s))
+  },
+
+  apply(s) {
+    this.size = s.size
+    this.speed = s.speed
+    this.autoMs = s.autoMs
+    this.keepOn = s.keepOn
+    this.longpress = s.longpress
+    this.speedText = s.speed === 0 ? '瞬间' : s.speed + 'ms/字'
+    this.autoText = s.autoMs === 0 ? '关' : s.autoMs + 'ms'
+    this.keepText = s.keepOn ? '开' : '关'
+    this.pressText = PRESS_TEXT[s.longpress] || '关'
+    this.previewStyle = 'font-size: ' + s.size + 'px; line-height: ' + (s.size + 8) + 'px;'
+    try { brightness.setKeepScreenOn({ keepScreenOn: !!s.keepOn }) } catch (e) { /* ignore */ }
+  },
+
+  persist(patch) {
+    const s = normalizeSettings(Object.assign({
+      size: this.size,
+      speed: this.speed,
+      autoMs: this.autoMs,
+      keepOn: this.keepOn,
+      longpress: this.longpress,
+    }, patch || {}))
+    this.apply(s)
+    saveSettings(s)
+  },
+
+  guard() {
+    if (Date.now() - this.lock < 240) return false
+    this.lock = Date.now()
+    return true
+  },
+
+  sizeUp() { if (this.guard()) this.persist({ size: clamp(this.size + 2, SIZE_MIN, SIZE_MAX) }) },
+  sizeDown() { if (this.guard()) this.persist({ size: clamp(this.size - 2, SIZE_MIN, SIZE_MAX) }) },
+  speedUp() { if (this.guard()) this.persist({ speed: clamp(this.speed + 4, SPEED_MIN, SPEED_MAX) }) },
+  speedDown() { if (this.guard()) this.persist({ speed: clamp(this.speed - 4, SPEED_MIN, SPEED_MAX) }) },
+  autoUp() { if (this.guard()) this.persist({ autoMs: clamp(this.autoMs + 20, AUTO_MIN, AUTO_MAX) }) },
+  autoDown() { if (this.guard()) this.persist({ autoMs: clamp(this.autoMs - 20, AUTO_MIN, AUTO_MAX) }) },
+  toggleKeep() { if (this.guard()) this.persist({ keepOn: !this.keepOn }) },
+  cyclePress() {
+    if (!this.guard()) return
+    const at = PRESS.indexOf(this.longpress)
+    this.persist({ longpress: PRESS[(at + 1) % PRESS.length] })
+  },
+
+  ban() {},
+  back() { router.back() },
+}
+</script>

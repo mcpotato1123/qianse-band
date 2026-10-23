@@ -1,0 +1,128 @@
+s	宁桐雨	还真是金鱼呢，我一点也没说错。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	You can say that again!
+h	x
+h	n
+b	lib_m
+p	x	c	ss12	-	-	cloth:scs1
+s	余晓鑫	怎么不说话啊？
+p	x	c	ss11	-	-	cloth:scs1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	其实我忘记了...
+s		我稍有些不好意思地这么说着。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	这样啊，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	其实，我也忘记啦！
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	果然，什么水平的人就会有什么水平的青梅竹马呐~
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf21	-	-	cloth:scf1
+s	宁桐雨	随你怎么说吧~
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	其实我觉得忘记了也不是啥坏事。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	毕竟脑袋里就不该装那些乱七八糟的东西的。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	这算是我少有的能和你达成共识的点...
+h	x
+h	n
+b	black
+s	？？？	真的，是忘记了吗？
+b	lib_m
+s		一个奇怪的念头突然冒了出来，可我没没有把它放在心上。
+s		平静的每一天仍然在持续着。
+s		似乎永远不会有什么改变。
+b	classroom1
+s		转眼间，高二上学期就这么结束了。
+s		在家里过完年，还没等到过完元宵节呢，就又匆匆忙忙地被拽回回到了学校。
+s		对我来说，不能每天躺在床上看小说刷漫画实乃一件憾事，但也就仅此而已，
+s		但对于班上其他喜欢周末组团出去玩的现充来说，开学就仿佛是世界末日来临了一般。
+s		一进到教室，我的耳边立刻便被无边的抱怨声给填满了...
+s		小鑫的身边自然围满了问她抄作业的同学，而她自然也用惯常的营业微笑予以回绝。
+s		这样子想来，莫非在其他同学眼里，她还是个异常称职公正的班干部？
+s		稍加细想的话，我发现确实是这么回事。
+s		寒假里，由于小鑫家里管得比较严格，她不太能拿不到手机，
+s		也正是因此，我们一个寒假都没怎么联系。
+s		在其他人看来，这是不是她寒假里还要认真学习的表现呢...
+p	x	c	sf4	-	-	cloth:scf1
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	嗨，小宁啊，还在发呆呢？
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	呜哇~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	哼哼，还是像以前一样敏感呢~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	哪，哪有，还不是你...
+h	x
+h	n
+b	classroom1
+s		就这样，我和她又陷入到了与原先一样的毫无意义的争吵中。
+s		直到班主任走进教室，她才和其他同学一道回到自己的位置上。
+s		可神奇的是，原先我因为开学而感到的些许烦躁也随之消失得无影无踪了。
+s		我想大概是跟她胡闹了一阵后，感觉日常生活又再度回到了正轨上。
+s		我不禁有了一丝安心感。
+b	dinh_m
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	那个，说起来啊，马上就要毕业旅行了。
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	好像就在四月底的时候，或者说正好是五一放假之前。
+s		就在这一天的中午，原本吃着午饭的小鑫突然提起了这个话题。
+p	x	c	ss1	-	-	cloth:scs1
+s	余晓鑫	是不是咱还要去附近的某个城市啊？那不是已经算是长途旅行了吗？
+p	x	c	ss1	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	我觉得我们对“马上”和“长途”的定义大概有些区别...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	不过再怎么说嘛，一个月也算是很近了吧？而且就算是没出大市，也算是“长途”旅行了吧？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	毕竟每天过得都一样，所以总感觉时间过得飞快啊~
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	所、以、说、啦，还是很值得期待的，不是吗？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	说到头，那就只是个大号春游罢了。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	别嘛，好歹人家两年的希望全在这儿了，总是想借这个机会好好玩一玩的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	小宁你可要想想啊，爬毕业墙，野炊什么的，多有意思啊。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	我们以前可是只能去人造景区里面拍拍合照顺便聚个餐而已，这回活动可丰富多了啊？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	唉，你是小学生吗？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	说到底不还跟春游差不多。
+s		这次，面对我的调侃，她难得地露出了不满的神情。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	不过，就算小宁再怎么嘴贫，这也是最近最值得期待的事件NO.1了吧。
+s		当然，言外之意就是，除了这个事情之外就没有任何有趣的事情了。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	这话说的真的好悲哀啊...
+p	x	l	sf10	-	-	cloth:scf1

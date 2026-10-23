@@ -1,0 +1,128 @@
+p	x	c	sf16	-	-	cloth:scf1
+s		在飞速上下楼之后，她气喘吁吁地把卷子交到了妈妈的手里。
+p	x	c	sf4	-	-	cloth:scf1
+s		幸好我考得还算得上凑合。
+s		不然又要被妈妈当着小鑫的面数落一番了...
+p	x	c	ss11	-	-	cloth:scs1
+s	余晓鑫	那么再见了呐~晚上要记得好好休息啊！
+p	x	c	ss21	-	-	cloth:scs1
+s		她在楼梯口对着我这么远远地喊道。
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	嗯，快去上晚自习吧，时间不早了，你还是值日班长呐。
+h	x
+p	n	c	ss1	-	-	cloth:scs1
+s		听完我的话后，她迈着轻快的步伐上了楼。
+s	小宁的妈妈	桐雨你啊，真的是交了一个好朋友啊。
+s		母亲看着她的背影这么说道。
+p	n	c	sf28	-	-	cloth:scf1
+s	宁桐雨	嗯。
+s		而我也这么肯定地回应道。
+h	n
+b	lib_m
+s		慢慢地，我的日常生活又再度被小鑫填满了。
+s		事实证明，增进亲近感，最靠谱的方法还是夜以继日的陪伴。
+s		每天一下课就一起去走廊上闲逛，一到了中午饭时间就再聚到一起，
+s		每到午休的时候，就一同跑到心理办公室里去蹭吃蹭喝。
+s		平淡的生活固然少了一些青春的悸动感，不过所谓青春对我来说本来就是不存在的。
+s		所以说，这样就好。
+p	x	c	ss7	-	-	cloth:scs1
+p	x	l	ss7	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	话说，你不需要忙自己的事情吗？
+p	x	l	ss7	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	你可是班长耶？
+p	x	l	ss2	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	嗯？小宁是在撵我走吗？
+p	x	l	ss2	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	没啦，我就是觉得，你事情总比我这个人要多些吧...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	嗐，都是高中生，除了学习还是学习，能有多少学习之外的事情呐~
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	唉，卿言甚善啊...
+s		回想起来，或许这一段时光也算是一天中少有的慰藉了。
+p	x	l	sf10	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	小宁，小宁~
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	别用那么恶心的语气叫我。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	偶尔抖S的一面也好棒！
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	这不是更恶心了嘛！
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	没有、哦~没有、哦~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	ss7	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	说起来啊，书都看完了，就只剩下...
+p	x	l	ss7	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	嘿咻，
+p	x	l	ss7	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s		说着她从书架上取下一本没有封皮的笔记本。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	等等，那个...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	诶？难不成我又中奖了吗？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	那是我的...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	不会又是小薄本吧？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	你把我看成什么人了？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	把少儿不宜的东西带到学校里，任供大家阅读的变态。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	信不信我一拳锤死你？
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	暴力女好可怕，嘤嘤嘤...
+h	x
+h	n
+b	readng
+s		说着她翻开了那本笔记本。
+s		里面贴满了以前拍的照片。
+s		在某些照片旁，还有我的笔迹。
+s		从日期可以看得出来，那些都是小学时候的事情了。
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	这难不成是，
+p	x	c	sf8	-	-	cloth:scf1
+s	余晓鑫	黑历史全集？？？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	差...差不多吧？

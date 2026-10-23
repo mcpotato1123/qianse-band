@@ -1,0 +1,128 @@
+p	x	c	ss21	-	-	cloth:scs1
+p	x	l	ss21	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	小宁，咱们一块去吃饭吧？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+s	余晓鑫	就我们两个人，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	诶？不用去等其他同学吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf1	-	-	cloth:scf1
+s	余晓鑫	嗐，她们这段时间早就吃完了，也就小宁肯陪我啦~
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf1	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+s	余晓鑫	小宁想吃什么？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf1	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	要是早半个小时问我的话我可能会告诉你我想点碗拌面，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	但现在我只能说有什么吃什么了...
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	小宁你可真逗，拌面不是想什么时候吃都行，生面又不会卖光的，
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那咱们俩走吧，一起去吃碗拌面吧~
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s		说罢，她自顾自地拉起了我的手，下了楼，朝着食堂走去。
+h	x
+h	n
+b	classroom1
+s		就这样，我不仅揽下了ppt和文案的工作，还兼任了代表班级的发言人。
+s		虽然每当下课铃响起时，我还是照常端坐在座位上，为上节课讲过的几道练习题或是即将到来的考试发着愁。
+s		只不过，到下课时我不再会一个人出去散步了。
+s		如果小鑫有空的话就叫上她，如果她去办公室了就趴在桌上写作业。
+s		虽然我也不明白为何来找她的人少了这么多，不过这对我来说也确实是件好事。
+b	classroom1
+p	x	c	sf1	-	-	cloth:scf1
+s	余晓鑫	其实这很容易理解啊？
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	大家刚升上高二，一开始都想去交几个新朋友，
+p	x	c	sf11	-	-	cloth:scf1
+s	余晓鑫	等到过了一个月，大概的人际关系确定了之后大家自然就不互相打扰了啊？
+h	x
+b	classroom1
+s		虽然她是这么解释的来着，不过我总感觉同学前后对待小鑫的变化也太大了一点
+s		不过我得出的结论还是一样的，这反而对我是件好事。
+s		毕竟到最后，小鑫身边那些麻烦的人也逐渐离开了，
+s		我们俩的生活也在一点一点地回归到过去的正轨中。
+s		具体来说嘛...
+s		早读，午休，晚自习，
+s		调休，补课，不放假，
+s		周考，月考，阶段考，
+s		这就是高中生活的一切。
+p	n	c	ss12	-	-	cloth:scs1
+s	宁桐雨	嗐...无论是那一句顺口溜都很令人生厌啊...
+s		而这其中最重要的就是，
+s		一年半之后的...高考。
+s		高三就像是压过来的一道海浪，而我们都只是小小的帆船上的一位普通的乘客。
+s		所能做的只是祈祷着风浪能小一些，能晚一些。
+s		而在终将到来的巨浪面前，仿佛我们所做的一切减压尝试都是无力的。
+s		作业如我们所料地变得越来越多，难度也越来越大。
+s		开学初原本能在晚自习剩下一整节课摸鱼的我，也得被逼着利用午休的时间来写作业了。
+h	n
+b	lib_m
+s		只不过，在课余的时间，我总算是找到了一些能够减压的事。
+s		每天吃饭过后的一小段时间，我会去表姐办公室，借她的电脑做一会ppt。
+s		尽管班主任办公室也有电脑，但我还是更情愿爬个六层楼来心理办公室。
+s		因为在班主任的眼皮底子下可不敢干什么偷懒的事，
+s		再说了，我问表姐借电脑的原因是ppt制作需要，但她可没禁止我干什么啦~
+s		就算是最坏的情况，被发现了之后顶多被告到妈妈那里，比什么通报全校批评还是轻松得多~
+s		嗐，想到这里，都忍不住要为聪明的自己颁个奖了！
+s		只是我的如意算盘却因为一件小事的发生而彻底落空了，
+s		至于具体的原因嘛...
+p	x	c	ss1	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf13	-	-	cloth:scf1
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf13	-	-	cloth:scf1
+s	余晓鑫	呼嗯？小宁？怎么老回过头来看我啊？
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	明明这里的字还没打完呐...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	打字的时候可不要分神哦，一句话的灵感过去了就再难追回来了...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf9	-	-	cloth:scf1
+s	宁桐雨	好烦啊！我看看你又怎么了，要你管...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf17	-	-	cloth:scf1
+s	余晓鑫	唔...害羞了，害羞了~
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf8	-	-	cloth:scf1
+s	宁桐雨	才没有害羞！
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	哼，真是个不坦率的女人~
+h	x
+h	n
+b	lib_m
+s		不坦率个鬼啊！你个烦人鬼...
+s		我差一点把心里想说的话给喊了出来。
+s		要不是小鑫在一边看着的话，我早就开始摸鱼了...
+s		没想到仅仅开学了一个多月，我们俩的角色居然就这样突然转换了过来。

@@ -1,0 +1,128 @@
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	况且，这是跟小宁你一起去的旅行哦？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	老师还搞了小组呐！
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	咱们就和团支书和数学课代表他们几个一组啦~
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	不过，最重要的是，在外面还能和小宁每天待在一块儿~
+p	x	l	sf1	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	所以说，现在就赶快准备起来吧？
+p	x	l	sf10	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	毕业旅行！
+p	x	l	sf10	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	能准备啥啊，明明什么都不让带吧。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	当然是私藏喽，诶嘿，
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	小宁该不会连这种点子也想不到吧？
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	这就是班主任所说的，班级榜样的“带头作用”嘛...
+s		我无奈地感慨道，可她却只是毫不在意地笑了笑，把聊天转到了别的话题上。
+h	x
+h	n
+b	dawnsky
+p	x	c	ss1	-	-	cloth:scs1
+s	余晓鑫	今天过得真的很开心呐。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf21	-	-	cloth:scf1
+s	宁桐雨	嗯，
+s		然而浮现在我脑海里的记忆却让我完全高兴不起来。
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss9	-	-	cloth:scs1
+s	宁桐雨	就是打牌被抓还真算不上什么宝贵的回忆。
+p	x	l	sf10	-	-	cloth:scf1
+p	n	r	ss9	-	-	cloth:scs1
+s	余晓鑫	哈哈...下次我会小心的啦...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss9	-	-	cloth:scs1
+s		她稍不好意思地道歉道。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	话说班长带头违纪算是什么操作？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	以身试法吗？
+p	x	l	sf9	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	啊哈哈哈，我可要提醒你一下哦，学习委员。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	在这一点上，你可是共犯!
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那副牌可有一半在你那儿！
+h	x
+p	n	c	ss3	-	-	cloth:scs1
+h	n
+b	chairpla
+s		当然啦，我肯定是不会理会她的，随她怎么狡辩好了...
+s		今天是毕业旅行的第三天傍晚，学校安排了一场微型的运动会，在社会实践基地的体育馆里举行。
+s		比赛场地的四周围满了绿色塑料做成的凳子，那种材质与布局想起了海洋公园或者马戏团。
+s		实际上，顶棚上投下的灯光以及半凹陷的罗马斗兽场般的舞台设计让我更加坚定了这一想法。
+s		座位上满是零食的包装袋和同学们脱下的外套，校服。
+s		这种场景让我产生了一种既视感，
+s		我感觉我仿佛回到了小学的那几次秋游，
+s		那时同样地我坐在小鑫的旁边，地点也同样地是在一个类似马戏团的地方。
+s		只是她的马尾辫还没那么长，我的头发也才留到脖颈处。
+s		于是我把这种想法告诉了她。
+b	dawnsky
+p	x	c	ss12	-	-	cloth:scs1
+s	余晓鑫	诶？真的吗？我记不得了！
+p	x	c	ss11	-	-	cloth:scs1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	你是金鱼吗？
+h	x
+p	n	c	ss3	-	-	cloth:scs1
+s		真的是，坏了我一片大好的心情。
+s		要是我早点认清她的真面目就好了嘛，免得一开始还被她迷得死去活来的，
+s		说起来我一开始对她产生好感的原因...
+s		我重新转过头去看着她的脸，她一脸不解地和我对视着。
+s		果然，还是因为她长得比较符合我的审美吧...
+s		最后，我还是得出了这样无奈的结论，
+h	n
+b	chairpla
+s		突然间，视野快速闪烁了几下，
+s		旁边负责摄影的同学向我们比了个大拇指，我们这才知道刚才被偷拍了。
+s		我们身后几个好事的男生立刻挥着拳头冲了过去，
+s		接着，他们半开玩笑般地用物理方式表示着“抗议”。
+s		瞬间，同学们分成好几派开始“友好交流”了起来。
+s		观众席上热闹了起来，一天中同学们的心情在此刻到达了最高潮。
+s	班主任	大家闹归闹，别忘了一会留下来排练哦。
+s		班主任的话充当了一剂镇定剂，把同学们的刚起来的兴头又很快压了下去，
+s		紧接着，爆发而出的抱怨声立刻溢满了体育馆的每一个角落，
+s		原先最喧嚷的同学也一改往日的笑脸，开始低头和身旁的同学咒骂了起来。
+s		讨论声大概持续了半分钟的样子，这之后，声音又重新变得零散了起来。
+s		毕竟形式主义也是校园生活的重要组成部分嘛，大家抱怨归抱怨，心里也肯定早就做了准备的。
+s		或者说，要是有哪次出游没有集体活动才算是太阳从西边出来了吧？
+b	dawnsky
+p	x	c	sf6	-	-	cloth:scf1
+s	余晓鑫	切，排练什么的，真的烦死了。
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	这种形式主义的玩意怎么无论哪里都喜欢搞啊~
+p	x	c	ss12	-	-	cloth:scs1
+s	余晓鑫	好不容易出来一次。
+p	x	c	ss12	-	-	cloth:scs1
+s	余晓鑫	真是扫兴啊~
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	嘛，放心好了，我还有一套飞行棋没被收走呐，等明天...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	真的？
+p	x	l	sf10	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	小宁，我爱死你啦...
+p	x	l	sf1	-	-	cloth:scf1

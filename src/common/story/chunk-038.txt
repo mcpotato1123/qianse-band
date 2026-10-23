@@ -1,0 +1,128 @@
+p	n	l	ss6	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	好啦，我承认是我的失算总行了吧...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	那个...小鑫，我们还是快点去老姐那里吧...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	这种地方哪里好了，什么东西也没有...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	既冷又受罪...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s		说这话的同时，我有些犹豫地看着她，揣测着刚才的话是不是有些太直接了，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	而且，这里也没有其他人会来吧。
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	最后的那句话在我眼里可是优点哦，毕竟如果只有我们两个人才找得到这里...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s		她风轻云淡地说着，边整理着脸颊旁的刘海，脸色稍稍显得有些苍白。
+s		今天的她依然留着单马尾的发型，搭配着裙子与西装校服，让人感觉元气满满。
+p	n	l	ss14	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	但说到底，想独处的话地方有的是嘛...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	比如说...心理咨询室旁边的那个小黑屋什么的。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	我倒是更喜欢空气好点儿的地方，这样的话我心情会更好一些。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s		仿佛是为了印证自己的说法一般，她跟我聊天时，视线一直朝着远方的天空。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	因为坐在小房间里的话，总是会想起些事情...
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	诶？
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	没事啦，只是小房间里的环境老是让我觉得有些压抑罢了。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s	余晓鑫	只是些无关紧要的小事罢了，你想，以前补习班的教室就挺小挺压抑的嘛，哈哈~
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf11	-	-	cloth:scf1
+s		似乎是意识到了刚才的话把聊天引向了另一个意外的方向，她很快把话题岔开了。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	余晓鑫	不过嘛，既然小宁觉得冷的话，咱们下次还是去旁边的教室里吧。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	没...没有啦，我现在改变想法了，你喜欢就好...
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	就是你下次要来的时候一定要提前跟我打声招呼，我也正好换身运动服，
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	穿条保暖裤就行了嘛...
+p	n	l	sf28	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss1	-	-	cloth:scs1
+s	宁桐雨	裙子下面穿裤子...你可真没品...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	我是叫你穿自己的衣服过来啦...我可相信小宁的衣品哦？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	那还是等会吧，毕竟这个礼拜是开放周，我可不想被抓典型...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	再说，每个人都穿校服，就我一个人穿自己的衣服...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	果然，还是太引人注目了点，
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	考虑得很周全呢，真不愧是有将近十年小透明史的小宁啊~
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	信不信我揍死你...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	话说回来，我先给你打计预防针哦
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	以后就算你跟我独处的时候，我也只会看看书、写写作业什么的，
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	宁桐雨	要是我懒得理你，你可别来跟我哭惨...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss10	-	-	cloth:scs1
+s	余晓鑫	嗯？我也是啊？难道两个人独处的时候就不能看书写作业吗？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	ss12	-	-	cloth:scs1
+s	余晓鑫	还是说...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	小宁觉得独处...意味着必须干些什么其他的事儿？
+s		诶诶诶诶诶诶诶诶诶诶诶？？？
+s		她说的难不成...
+s		不不不，怎么可能呐...哈哈...
+s		别拿自己看过的漫画内容去揣测现实中的同学啊，宁桐雨！
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	哪...哪有，都说了，我就是给你打计预防针罢了。
+p	n	l	ss6	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	我只是依据现实做出的预测，倒是你，想到哪里去了...
+s		被她反将了一军的我，只得这样无力地辩解道。
+p	n	l	ss6	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+s	余晓鑫	其实小宁啊，你老是担心这儿，又担心那儿的，根本没有什么必要嘛。
+p	n	l	ss6	-	-	cloth:scs1

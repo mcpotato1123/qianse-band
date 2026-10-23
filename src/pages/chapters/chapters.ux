@@ -1,0 +1,82 @@
+<template>
+  <div class="page" onswipe="ban">
+    <image class="headbar" src="/common/img/ui/headbar.png"></image>
+    <text class="title">章节选择</text>
+    <text class="sub">共 {{count}} 章 · 上下滑动 · 点按进入</text>
+
+    <list id="chap-list" class="lst" bounces="true" onswipe="ban">
+      <list-item class="item" for="{{rows}}" tid="cid" onclick="pick($idx)" onswipe="ban">
+        <div class="card">
+          <text class="no">{{$item.no}}</text>
+          <text class="nm">{{$item.name}}</text>
+        </div>
+      </list-item>
+    </list>
+
+    <div class="back" onclick="back" onswipe="ban"><text class="btn-t">返回</text></div>
+  </div>
+</template>
+
+<style>
+  .page { width: 336px; height: 480px; background-color: #f5f5f7; position: relative; }
+  .headbar { position: absolute; top: 0px; left: 0px; width: 336px; height: 72px; }
+  .title { position: absolute; top: 10px; left: 0px; width: 336px; text-align: center;
+           font-size: 30px; color: #f2f2f4; font-weight: bold; }
+  .sub { position: absolute; top: 44px; left: 0px; width: 336px; text-align: center;
+         font-size: 14px; color: #d6d6da; }
+
+  .lst { position: absolute; top: 88px; left: 0px; width: 336px; height: 330px; }
+  .item { width: 336px; height: 66px; }
+  .card { width: 312px; height: 58px; margin-left: 12px; margin-top: 8px; border-radius: 12px;
+          background-color: rgba(255, 255, 255, 0.92); border: 1px solid #e0e0e0;
+          flex-direction: row; align-items: center; padding-left: 14px; padding-right: 14px; }
+  .no { font-size: 20px; color: #999999; width: 40px; }
+  .nm { font-size: 24px; color: #222222; width: 240px; lines: 1; font-weight: bold; }
+
+  .back { position: absolute; top: 428px; left: 50px; width: 236px; height: 44px;
+          border-radius: 22px; background-color: #ffffff; border: 1px solid #e0e0e0;
+          align-items: center; justify-content: center; }
+  .btn-t { font-size: 24px; color: #333333; font-weight: bold; }
+</style>
+
+<script>
+import router from '@system.router'
+import file from '@system.file'
+
+export default {
+  protected: {
+    rows: [],
+    count: 0,
+  },
+
+  onInit() { this.load() },
+
+  load() {
+    file.readText({
+      uri: '/common/story/index.txt',
+      success: (d) => {
+        let idx = null
+        try { idx = JSON.parse(d.text) } catch (e) { idx = null }
+        if (!idx) { this.count = 0; return }
+        const rows = []
+        for (let i = 0; i < idx.chapters.length; i++) {
+          const c = idx.chapters[i]
+          rows.push({ no: (i < 9 ? '0' : '') + (i + 1), name: c.title, id: c.id })
+        }
+        this.rows = rows
+        this.count = rows.length
+      },
+      fail: () => { this.count = 0 },
+    })
+  },
+
+  pick(i) {
+    const row = this.rows[i]
+    if (!row) return
+    router.replace({ uri: 'pages/game', params: { at: row.id } })
+  },
+
+  ban() {},
+  back() { router.back() },
+}
+</script>

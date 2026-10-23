@@ -1,0 +1,128 @@
+p	x	r	ss13	-	-	cloth:scs1
+s	宁桐雨	个宗桑!看我不掐死你...
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf16	-	-	cloth:scf1
+s	余晓鑫	唔...很疼的啦，小宁...
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	这是你应受的惩罚！
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	自作自受！
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf16	-	-	cloth:scf1
+s	余晓鑫	可是啊，小宁你可要想清楚，
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf1	-	-	cloth:scf1
+s	余晓鑫	凡事都是比出来的...
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	余晓鑫	要是跟以前比的话...
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	宁桐雨	住口，住口，余晓鑫，你给我住口！
+h	n
+h	x
+b	classroom2
+s		我实在是忍受不了了，直接伸手捏住了她的脸蛋。
+p	n	c	ss3	-	-	cloth:scs1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	有你这么安慰别人的嘛，
+p	n	l	sf4	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	更何况你面前面对的还是你唯一的青梅竹马，一个陪伴了你将近十二年的青梅竹马...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf16	-	-	cloth:scf1
+s	余晓鑫	放唔咔唔...
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	sf16	-	-	cloth:scf1
+s	余晓鑫	堵补齐辣...
+s		可就在我放开她之后，她却全然没停下对我的调侃。
+p	n	l	sf6	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+s	余晓鑫	唉，真的是，对你刚才说的话，我都不知道该怎么吐槽才好。
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+s	余晓鑫	毕竟只有这个时候，小宁才表现得像个少女...
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	ss11	-	-	cloth:scs1
+p	n	l	sf8	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	我的小宁从小学到现在到底发生了什么...
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	sf16	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	平时的小宁什么时候才能变回以前那副可爱的模样呐...
+p	n	l	sf12	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	那平时的我像什么？
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf6	-	-	cloth:scf1
+s		见我的表情稍有些生气了，她立马打了个激灵，随即陷入了沉思。
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	ss13	-	-	cloth:scs1
+s	余晓鑫	emmmmm
+s		她装模作样地思考了一会。
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	果然，想了想，把内心的想法说出来的话小宁准会大发雷霆，
+p	n	l	sf13	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	所以还是先不说了。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	呵，你倒还算真的有点自知之明。
+p	n	l	ss4	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	现在知道以后该怎么说话了吧...
+p	n	l	ss1	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	余晓鑫	暴力女好可怕...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+s	宁桐雨	嗯？
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf6	-	-	cloth:scf1
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	没有没有，我刚才只是在感叹，小宁真可爱...
+p	n	l	ss3	-	-	cloth:scs1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+s	宁桐雨	那就好...
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf8	-	-	cloth:scf1
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	ss5	-	-	cloth:scs1
+s		我得意地笑了，相比之下，她的表情却显得有些胆怯。
+p	n	l	sf2	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	余晓鑫	那...现在陪我去上个厕所吧？
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+s	宁桐雨	好好好，只要你别在半路上给我突发恶疾了就成。
+p	n	l	sf14	-	-	cloth:scf1
+p	x	r	sf4	-	-	cloth:scf1
+h	n
+h	x
+b	off_m
+s		周一的午休，一如既往地去表姐那里度过。
+s		只不过，现在的心理办公室里多了一位不速之客。
+p	x	c	ss1	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1

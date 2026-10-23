@@ -1,0 +1,128 @@
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf2	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	唔...因为长大的小宁看腻了。
+p	x	l	sf2	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	...
+p	x	l	sf2	-	-	cloth:scf2
+p	n	r	sf14	-	-	cloth:scf2
+h	x
+h	n
+b	skidk
+p	n	c	ss6	-	-	cloth:scs2
+s	宁桐雨	果然，跟她讲道理没什么好结果...
+h	n
+s		我不禁这样感慨道。
+s		可明明之前不是这样的...
+s		每当我想到这里的时候，我总会怀念起过去那个作为优等生的她。
+s		讲起来，那都是我高二再次与她相遇的时候发生的事儿了。
+s		也就是...七年？
+s		七年啊，七年...
+s		不仅如此，我们俩正式交往也是在高二，
+s		也就是说，我已经为了她浪费了整整七个年头了...
+s		事后回想起来啊，我怎么会迷上她这样的人了呢？
+s		可真是，没有当即看穿她的真面目，导致我现在还要遭罪啊...
+s		最后，我脑内的每一次复盘以这样的一如既往结论而告一段落。
+b	skidk
+s		不过，如此风平浪静的生活中仍然有小插曲的存在。
+s		我们下午这么忙着规整行李的原因便是，两天后，小鑫就要回老家去探望外公外婆了。
+s		虽然我们在同一座江南城市的大学读研，但小鑫的老家却在北方，她的外公外婆也住在那里。
+s		小鑫的家庭条件比较特殊。
+s		从小父母就离异了，所以对她来说家人只有妈妈和...嗯，按她的说法的话吗，加上我，一共两个。
+s		每年寒暑假她都会和妈妈回去一趟，这也是我们为数不多的分居两地的时光。
+s		尽管只有一共也就几天的时间，她却总搞得好像要几年见不着我一样，
+s		又是拉着我出去看电影，又是时不时地借着送别宴这个幌子骗我出去吃烧烤...
+s		以至于我都怀疑这是不是她想出来敲诈我的手段了...
+s		不，根本不用怀疑，事实本来就是这样吧？
+s		嗐，希望下次她能换个不容易被我一眼看出来的理由啊...
+s		然而，说实话，我对这样的习惯也说不上排斥，
+s		毕竟一年到头，除了节日之外也很难有什么理由能让我有理由出去好好玩一阵子了，
+s		久而久之，这就成了我们俩之间的一种小默契，
+s		也就是：每年小鑫回家之前，我们在那个晚上都要好好出来玩一阵。
+b	str_e
+p	x	c	sf4	-	-	cloth:scf2
+s		看着跟在我身后的她，我先开了腔，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	今晚准备去哪儿？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	唔，没准备去哪儿，小宁你来提个意见吧~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf28	-	-	cloth:scf2
+s	宁桐雨	切，又来这套吗？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss7	-	-	cloth:scs2
+s	宁桐雨	其实你早就想好了目的地，就是想要否定我提出的每一个点子对吧？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	那还不如早点告诉我，省得我被你给气到。
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	那既然小宁也拿不定主意，今年咱俩就在学校里吃点吧？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	诶？学校里，那还能吃点啥？
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	ss21	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	就食堂里的饭啊~
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s		她说这话时却是一脸无所谓的样子，仿佛刚才得出的结论是如此地自然合理。
+s		可说到底，咱们一年到头都没去食堂里吃过几顿...
+s		于是我凑到她面前，轻轻抚了抚她的额头，
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s		温热的感觉从手心传来，她的脸也红了起来。
+s		所幸的是，她的额头并没有发烧时的滚烫感，
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	没有不舒服吧...
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	ss7	-	-	cloth:scs2
+s	宁桐雨	我真的好担心，
+p	x	l	sf16	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	余晓鑫	真的是，小宁啊，我可正常得很呐~
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+s	宁桐雨	那为什么刚才...
+p	x	l	sf8	-	-	cloth:scf2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	难道是小宁不愿意去食堂吃饭吗？
+p	x	l	ss11	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+s	余晓鑫	还是说你觉得只有外面饭店里的菜才合你口味？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf12	-	-	cloth:scf2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+s	宁桐雨	那倒完全不是啦，只要你喜欢的话，我跟你去哪里吃饭都一样，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss7	-	-	cloth:scs2
+s	宁桐雨	就是，“去食堂”...到底是为什么？
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss1	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	你看啊，今年是我们作为学生在这里的最后一年了，
+p	x	l	sf6	-	-	cloth:scf2

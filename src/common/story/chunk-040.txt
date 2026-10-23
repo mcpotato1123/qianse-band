@@ -1,0 +1,128 @@
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	毕竟都不知道多少次了。
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	不过我还是得跟你讲一下，如果兑现不了承诺的话就别随便答应别人啊...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	还害的我跟不认识的人拼桌，差点把我尬死。
+h	x
+p	n	c	ss3	-	-	cloth:scs1
+s		不知不觉间，我居然把内心的想法不加修饰地说了出来。
+s		甚至都没给她解释的余地。
+s		看着她有些不好意思的表情，我开始后悔刚才的语气是不是有些太冲了。
+p	x	l	ss17	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	嗐，我明白啦，明白啦，下次会在那个靠窗的地方等你的。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	那里不是人最少吗？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	所以，消消气行吗？
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	本来就没生气好吧...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	你的心思可是都写在脸上呐~
+s		说着她露出难得的成熟笑容，终于不是原先的一脸痞子气了。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	先...先不聊这个了，今天中午...是有什么事情吗？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	余晓鑫	啊，我妈妈来学校了，所以，她把饭带给我的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	小鑫的妈妈...为什么...
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	啊，她么，整天找老杨讲话呢，聊我的成绩，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	她啊比我上心多了，还一直怪我不重视，最后就也把我叫到办公室里一起聊了会儿。
+s		为什么，小鑫明明是考了年级第二的...
+s		我本想再这么追问的，但话到喉咙口还是憋了回去。
+s		因为那是小鑫家里的私事。
+s		仿佛看出了我的心思一般，她淡淡地笑了笑。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	我想我还是得向你道个歉的...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	余晓鑫	高一一整年都没怎么来找小宁，我真的很抱歉...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	不，没事，我知道...小鑫这么做...肯定是...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s		然而，小鑫却打断了我的话。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	其实呢，自从上了初中之后，我就改变了...或者说，是被迫改变了许多呢。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	因为我想成为一个更加耀眼的人嘛，于是我自然而然地去往班级的中央靠。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	无论什么时候都装作很阳光的样子，无论什么时候都要拼尽全力去保住优等生的位子。
+s		从她口中说出的这番话，既像是对我的倾诉，也像是对蓝天的独白。
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	小宁，我感觉大家从来没有真正地想要去接近我，平常跟我和和气气的，只是借由我这个平台来倾泻责任而已。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	文艺晚会也要我来编排，期中考试总结会也要我来讲话，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	当然，这也是我妈妈所期望的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	或许，也是以前的我期望的...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	因为，我是...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	但是，这样小鑫就...
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	嗯，当然很累啊，直到开学的那时候也是的，
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s		所以我才说，我终于想明白了，其实我并不想当那样的事事都最耀眼的班长，
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	现在的我，想要的是一个能注视着我，激励着我的好朋友。
+p	x	l	sf11	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	一个能和我一起逃避现实的朋友啊~
+h	n
+h	x
+b	black
+g	cg6_1
+s		抬起头，与她的视线对碰，她的脸上仍然带着笑容。
+s		深秋的风很冷，但我却感觉我的脸颊有些发烫。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	所...所以...
+s		难道说...
+s		正当我在这么考虑的时候，她点了点头。
+s	余晓鑫	我找到的这个朋友，就是小宁你啊~
+s		那一刻，我的心脏停跳了一拍。
+h	n
+b	black
+s		唯一的...朋友。
+s		这是很早以前，小鑫跟我说过的话，
+s		而如今，这个词语又回到了我们俩中间。
+s		我该感到高兴吗？
+s		其实，那一刻的我的心头还涌现出了一种熟悉的感觉。
+s		一种自从小学相识就一直维持在我的心头的情感。
+s		也就是在那一刻，我终于彻底放下了开学至今对她的抱怨。
+s		或许，正如她曾经说的那样，
+b	black

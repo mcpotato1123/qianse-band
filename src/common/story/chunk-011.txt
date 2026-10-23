@@ -1,0 +1,128 @@
+p	n	r	ss1	-	-	cloth:scs2
+s	余晓鑫	七年了啊，从大学入学到考上硕士，再到研究生毕业...
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	可现在可不是感慨这感叹那的时候了，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss3	-	-	cloth:scs2
+s	宁桐雨	如果你准备去食堂的话，就得步子快点了，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	不然的话，菜都要被抢光了，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	余晓鑫	别老是打岔嘛，小宁，可真没有女友的样子，你简直就是我雇的佣人，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	我反倒是觉得你是我领养的妹妹，事事都要我来为你操心，
+p	x	l	sf6	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s	余晓鑫	明明我还比你大几个月~
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	sf25	-	-	cloth:scf2
+s	宁桐雨	我是说精神上的年龄啦，精神上的，
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s	余晓鑫	切，小宁你高中时候干出来的事情我可都记着呢~
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	sf25	-	-	cloth:scf2
+s		额...她刚才说的话似乎就可以作为我的绝佳证据...
+s		不过，现在还是暂且把这个话题给打住吧，
+p	x	l	ss2	-	-	cloth:scs2
+p	n	r	ss4	-	-	cloth:scs2
+s	宁桐雨	好了，有话慢慢说，咱们边走边聊吧，
+p	x	l	sf4	-	-	cloth:scf2
+p	n	r	ss4	-	-	cloth:scs2
+s		说着，我引着她走到了马路上。
+h	x
+h	n
+b	strc_a
+p	n	c	ss1	-	-	cloth:scs2
+s	宁桐雨	先来说说你怎么突然想去食堂吃饭了？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	我明明刚准备说的，就是被你打断了，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	唔，是这样的啦，就是想在最后一个年头在学校里留点回忆什么的呢...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf11	-	-	cloth:scf2
+s	余晓鑫	况且，外面的饭店什么时候都能再去，
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	sf8	-	-	cloth:scf2
+s	余晓鑫	可学校的食堂却很难再来了哦？说不定饭都绝版了来着...
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	我这样说小宁肯定能理解的吧？
+p	n	l	ss1	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	完全就是意义不明的理由...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	而且槽点已经多到吐槽两天两夜都讲不完的程度了...
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	且不说说到底我们学校的食堂不也是外包给餐饮公司的，
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	ss1	-	-	cloth:scs2
+s	宁桐雨	就算你真的想吃一模一样的菜就去找同一个牌子的饭馆不就行了...
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+s	余晓鑫	但在学校食堂里吃饭可很有氛围哦？
+p	n	l	sf14	-	-	cloth:scf2
+p	x	r	sf4	-	-	cloth:scf2
+p	n	l	ss4	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	你以后上了班，到公司里有的是时间体验这种氛围的，
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf4	-	-	cloth:scf2
+s	宁桐雨	所以根本用不着现在逼着自己坐牢...
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	好过分！就算是装也要装的好像很理解我吧！
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	sf6	-	-	cloth:scf2
+s	宁桐雨	你不觉得连舍友兼女朋友兼青梅竹马都敢不对你说真话是世界上最悲哀的事情吗？
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss1	-	-	cloth:scs2
+s	余晓鑫	一点都不悲哀，我倒是觉得有个人能哄哄我，陪我偶尔犯犯傻蛮好的。
+p	n	l	ss3	-	-	cloth:scs2
+p	x	r	ss2	-	-	cloth:scs2
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	ss2	-	-	cloth:scs2
+s	宁桐雨	好啦，我收到你的意见啦，会慢慢改正的。
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+s	余晓鑫	你总是拿这些套话来敷衍我，结果你就从来没改过...
+p	n	l	sf25	-	-	cloth:scf2
+p	x	r	sf6	-	-	cloth:scf2
+h	n
+h	x
+b	skidk
+s		...
+s		就这样，我们俩一边拌着嘴一边向着食堂的方向走着，
+s		终于，在一栋建筑前，我停下了脚步，
+b	strc_a
+p	x	c	ss2	-	-	cloth:scs2
+s	余晓鑫	所以啊，小宁你...
+p	x	c	ss1	-	-	cloth:scs2
+p	x	l	ss1	-	-	cloth:scs2
+p	n	r	ss12	-	-	cloth:scs2
+s	宁桐雨	好啦好啦，别来烦我了，你看前面是什么？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2
+s	余晓鑫	诶？
+p	x	l	sf1	-	-	cloth:scf2
+p	n	r	ss12	-	-	cloth:scs2

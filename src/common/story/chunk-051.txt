@@ -1,0 +1,128 @@
+b	lib_m
+s		片刻的沉思之后，我却得出了一个异常正确却又无法说出口的结论...
+s		但总之，现在还是至少得装装样子的...
+p	x	c	ss2	-	-	cloth:scs1
+s	余晓鑫	还是说，刚才的也是巧合吗？
+p	x	c	ss2	-	-	cloth:scs1
+s	宁桐雨	不...不是啦，只...只是因为我暂时没把它们带过来嘛，其他的漫画...嗯，都放在家里呐。
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	那就举几个例子来看看？这样我才能信服嘛~
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	除了这种漫画，你还看过其他的什么？
+s		之后我陷入了沉思。
+s		可沉默的时间越长，我心里就越慌张，
+s		不仅如此，一旁的她还装作一脸天真的样子等着我的回复。
+s		加油啊，宁桐雨，生死攸关的时候又来了。
+s		只要报点菜名就算胜利了！
+s		然而，事实便是，我从没看过我说的那些东西！
+s		要么，就直接编几本...
+s		不对，她要是去查证的话就更麻烦了...
+p	x	c	sf6	-	-	cloth:scf1
+s	余晓鑫	果然...
+p	x	c	sf6	-	-	cloth:scf1
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	宁桐雨	不，不是这样的！我真的，我真的，不是那样...
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	没...没事啦，不用这么着急着否定，我从来就没觉得看这种东西很不正常。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	不如说，当知道小宁其实喜欢这样的东西，我还很...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	算了，先不提这个了，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	我就是想问问，你平时看这些漫画的时候，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf28	-	-	cloth:scf1
+s	余晓鑫	有没有脑补...唔...就是脑补过一些剧情呢？
+s		大脑要停机了！
+s		我也曾经猜想过她可能会说的话，
+s		可...这，这算是什么问题嘛！
+s		看她的表情也不像是在戏弄我的样子。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	脑...脑补什么？
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	就是脑补这样的故事发生在自己身边，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	或者说，拿身边的人来脑补什么的。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	比如说，和其他人干和漫画里的那些女孩子一样的事情。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	我...我又没有那种倾向。
+p	x	l	ss13	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s		听到这话后，她的表情看上去却有些失落。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	我不会嘲笑你的啦，所以说，不用那么紧张也好，说实话也行。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss3	-	-	cloth:scs1
+s	余晓鑫	毕竟咱们都是很开明的人嘛。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf6	-	-	cloth:scf1
+s	宁桐雨	嗯...
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf14	-	-	cloth:scf1
+s	宁桐雨	真的没有。
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+s	余晓鑫	真的？
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	sf14	-	-	cloth:scf1
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	绝对！
+p	x	l	ss17	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	真的是，白高兴了一场...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s		她听到之后只说了这么句意义不明的话。
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	当...当然，其实刚才说的有点不对...
+p	x	l	ss10	-	-	cloth:scs1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	我对这些东西也不抵触啦，如果...
+p	x	l	sf6	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	余晓鑫	如果什么？
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf15	-	-	cloth:scf1
+s	宁桐雨	唉，刚才说错了嘛，根本没有如果的情况！
+s		就这样，这件事情就这样不了了之了。
+s		真的是，今天倒霉透顶了！
+h	x
+h	n
+b	classroom1
+s		回到教室的小鑫似乎已经忘掉了这件事。
+s		我们俩之间又回到了原来的状态，
+s		无所不聊，无所不谈。
+s		仿佛先前的一切都没发生过一样。
+s		然而，我的心头却久久无法忘却这件事情。
+s		我仔细回忆着当时她的表情，试图从中揣摩出她对我的态度。
+s		或许...小鑫真的是那样看我的？
+s		毕竟话里这么多明显的暗示，几乎等于是明说了吧...
+s		不不，那样也太自负了。
+s		像我这样的人，怎么会...
+s		突然，肩膀被重重地拍了一下。
+p	x	c	ss21	-	-	cloth:scs1
+s	余晓鑫	在~想~什~么~呢？
+p	x	c	ss1	-	-	cloth:scs1
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	sf12	-	-	cloth:scf1
+s	宁桐雨	呜哇！
+p	x	l	ss1	-	-	cloth:scs1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	别...别整天吓我嘛。
+s		她果然说的没错，我平常确实是个很神经大条的人。

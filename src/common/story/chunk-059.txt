@@ -1,0 +1,128 @@
+b	lib_m
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	诶，是写了这个吗？
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	那还能怎么写嘛，难道你写的不是这个嘛？
+p	x	l	ss8	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	我的话嘛...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	早就忘记了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	宁桐雨	还真是金鱼呢，我一点也没说错。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	You can say that again!
+j	7640
+h	x
+h	n
+b	lib_m
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	诶，是写了这个吗？
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	那还能怎么写嘛，难道你写的不是这个嘛？
+p	x	l	ss8	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	我的话嘛...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	早就忘记了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	宁桐雨	还真是金鱼呢，我一点也没说错。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	You can say that again!
+j	7640
+h	x
+h	n
+b	lib_m
+p	x	c	ss12	-	-	cloth:scs1
+s	余晓鑫	怎么不说话啊？
+p	x	c	ss11	-	-	cloth:scs1
+p	x	l	ss11	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	其实我忘记了...
+s		我稍有些不好意思地这么说着。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	这样啊，
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	其实，我也忘记啦！
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	果然，什么水平的人就会有什么水平的青梅竹马呐~
+p	x	l	ss12	-	-	cloth:scs1
+p	n	r	sf21	-	-	cloth:scf1
+s	宁桐雨	随你怎么说吧~
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	其实我觉得忘记了也不是啥坏事。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	毕竟脑袋里就不该装那些乱七八糟的东西的。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss1	-	-	cloth:scs1
+s	宁桐雨	这算是我少有的能和你达成共识的点...
+h	x
+h	n
+b	black
+s	？？？	真的，是忘记了吗？
+b	lib_m
+s		一个奇怪的念头突然冒了出来，可我没没有把它放在心上。
+s		平静的每一天仍然在持续着。
+s		似乎永远不会有什么改变。
+j	7640
+b	lib_m
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	诶，是写了这个吗？
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	那还能怎么写嘛，难道你写的不是这个嘛？
+p	x	l	ss8	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	我的话嘛...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	早就忘记了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	宁桐雨	还真是金鱼呢，我一点也没说错。
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1
+s	余晓鑫	You can say that again!
+h	x
+h	n
+b	lib_m
+p	x	c	sf4	-	-	cloth:scf1
+s	余晓鑫	诶，是写了这个吗？
+p	x	c	sf4	-	-	cloth:scf1
+p	x	l	sf4	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	宁桐雨	那还能怎么写嘛，难道你写的不是这个嘛？
+p	x	l	ss8	-	-	cloth:scs1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	我的话嘛...
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+s	余晓鑫	早就忘记了。
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	ss4	-	-	cloth:scs1
+p	x	l	sf8	-	-	cloth:scf1
+p	n	r	sf21	-	-	cloth:scf1

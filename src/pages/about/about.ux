@@ -1,0 +1,259 @@
+<template>
+  <div class="page" onswipe="ban">
+    <image class="headbar" src="/common/img/ui/headbar.png"></image>
+    <text class="title" onclick="titleTap">关于</text>
+    <text class="sub">{{verText}}</text>
+
+    <list id="about-list" class="lst" bounces="true" onswipe="ban">
+      <list-item class="row" for="{{rows}}" tid="rid" onswipe="ban">
+        <text class="cell" style="{{$item.s}}">{{$item.t}}</text>
+      </list-item>
+    </list>
+
+    <!-- 结局捷径 -->
+    <div class="mini" style="left: 20px;" onclick="toEndingC" onswipe="ban">
+      <text class="mini-t">序章</text>
+    </div>
+    <div class="mini" style="left: 178px;" onclick="toEndingK" onswipe="ban">
+      <text class="mini-t">第二章</text>
+    </div>
+
+    <div class="back" onclick="back" onswipe="ban"><text class="btn-t">返回</text></div>
+
+    <!-- 连点标题 7 下唤出的解锁面板 -->
+    <div class="scrim" if="{{panel}}" onclick="closePanel" onswipe="ban"></div>
+    <div class="sheet" if="{{panel}}">
+      <text class="sheet-t">解 锁</text>
+      <text class="sheet-sub">CG {{seenCount}} / {{total}}　通关 {{clearedText}}</text>
+
+      <div class="sbtn sbtn-main" onclick="unlockCg" onswipe="ban"><text class="sbtn-t">解锁全部 CG</text></div>
+      <div class="sbtn" onclick="markClearedNow" onswipe="ban"><text class="sbtn-t">标记已通关</text></div>
+      <div class="sbtn" onclick="resetCg" onswipe="ban"><text class="sbtn-t">清空 CG 记录</text></div>
+      <div class="sbtn sbtn-quit" onclick="closePanel" onswipe="ban"><text class="sbtn-t">关闭</text></div>
+    </div>
+  </div>
+</template>
+
+<style>
+  .page { width: 336px; height: 480px; background-color: #f5f5f7; position: relative; }
+  .headbar { position: absolute; top: 0px; left: 0px; width: 336px; height: 72px; }
+  .title { position: absolute; top: 10px; left: 0px; width: 336px; text-align: center;
+           font-size: 30px; color: #f2f2f4; font-weight: bold; }
+  .sub { position: absolute; top: 42px; left: 0px; width: 336px; text-align: center;
+         font-size: 14px; color: #d6d6da; }
+
+  .lst { position: absolute; top: 80px; left: 12px; width: 312px; height: 302px;
+         border-radius: 12px; background-color: rgba(255, 255, 255, 0.92);
+         border: 1px solid #e0e0e0; }
+  .row { width: 308px; height: 20px; }
+  .cell { width: 292px; margin-left: 10px; font-size: 15px; line-height: 20px;
+          color: #333333; lines: 1; }
+
+  .mini { position: absolute; top: 390px; width: 138px; height: 40px; border-radius: 20px;
+          background-color: #ffffff; border: 1px solid #e0e0e0;
+          align-items: center; justify-content: center; }
+  .mini-t { font-size: 20px; color: #333333; font-weight: bold; }
+
+  .back { position: absolute; top: 436px; left: 50px; width: 236px; height: 40px;
+          border-radius: 20px; background-color: #ffffff; border: 1px solid #e0e0e0;
+          align-items: center; justify-content: center; }
+  .btn-t { font-size: 24px; color: #333333; font-weight: bold; }
+
+  .scrim { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
+           background-color: rgba(0, 0, 0, 0.42); }
+  .sheet { position: absolute; top: 84px; left: 20px; width: 296px; height: 312px;
+           border-radius: 16px; background-color: #ffffff;
+           flex-direction: column; align-items: center; padding-top: 16px; }
+  .sheet-t { font-size: 28px; color: #333333; font-weight: bold; }
+  .sheet-sub { font-size: 16px; color: #999999; margin-top: 6px; margin-bottom: 14px; }
+  .sbtn { width: 250px; height: 44px; background-color: rgba(226, 216, 120, 0.267);
+          align-items: center; justify-content: center; margin-bottom: 8px; }
+  .sbtn-main { background-color: rgba(226, 216, 120, 0.66); }
+  .sbtn-quit { background-color: #f2f2f4; }
+  .sbtn-t { font-size: 22px; color: #111111; font-weight: 800; }
+</style>
+
+<script>
+import router from '@system.router'
+import prompt from '@system.prompt'
+import { CG } from '../../common/assets.js'
+import { loadSeen, saveSeen, loadCleared, markCleared } from '../../common/reader.js'
+
+// 版本号写死一份，构建脚本会校验它和 manifest 一致
+const APP_VERSION = '1.0'
+
+// 每行最多多少"半角单位"：312px 宽、13px 字号，一个汉字算 2，一个西文字符算 1
+const MAXU = 38
+const BREAK_AFTER = '，。！？；：、）」』…—'
+const TAPS_TO_OPEN = 7
+
+const BODY = 'font-size: 15px; line-height: 20px; color: #4a4a4a;'
+const HEAD = 'font-size: 17px; line-height: 20px; color: #1a1a1a; font-weight: bold;'
+const GAP = 'font-size: 6px; line-height: 20px; color: #ffffff;'
+
+function unit(ch) { return ch.codePointAt(0) < 128 ? 1 : 2 }
+
+// 按"半角单位"折行：西文单词不拆开，标点不落行首
+function wrap(text) {
+  const out = []
+  const paras = String(text).split('\n')
+  for (let i = 0; i < paras.length; i++) {
+    const para = paras[i]
+    if (para === '') { out.push(''); continue }
+    const toks = []
+    let word = ''
+    for (const ch of para) {
+      if (ch.codePointAt(0) < 128 && /[A-Za-z0-9'’._-]/.test(ch)) { word += ch; continue }
+      if (word) { toks.push(word); word = '' }
+      toks.push(ch)
+    }
+    if (word) toks.push(word)
+
+    let line = ''
+    let w = 0
+    for (let k = 0; k < toks.length; k++) {
+      const tk = toks[k]
+      let tw = 0
+      for (const c of tk) tw += unit(c)
+      const punct = tk.length === 1 && BREAK_AFTER.indexOf(tk) >= 0
+      if (line && w + tw > MAXU && !punct) {
+        out.push(line.replace(/ +$/, ''))
+        line = tk
+        w = tw
+      } else {
+        line += tk
+        w += tw
+      }
+    }
+    if (line) out.push(line)
+  }
+  return out
+}
+
+const ABOUT = [
+  ['故事', '黄昏的客车上，宁桐雨靠着「我」的肩膀睡得正香。醒来后的闲谈、开学的分班、年级大会上的演讲——一段从傍晚开始、又在黄昏结束的夏日物语。\n\n本作收录《茜色》序盘三章，保留原作的旁白、对白与选项。'],
+  ['原作', '《茜色》 QianSe\nRen\'Py 8.4 视觉小说'],
+  ['移植', '小米手环 9 Pro（336×480）Vela 快应用，引擎与界面参照 galgod-band / limelight 的结构重写。'],
+  ['素材', '立绘、背景、CG 与剧本均取自 PC 版解包；主界面背景、标题与图标取自原作 main_menu。'],
+  ['操作', '点屏幕：下一句／立即显示整句\n下滑：菜单　右滑：回退一句\n长按：按「设置」里的选项'],
+  ['解锁', '连点标题「关于」7 下，会弹出解锁面板：可一次点亮全部 CG、标记通关或清空记录。'],
+  ['声明', '非官方同人移植，仅供个人学习交流，请勿用于商业用途。原作版权归原作者所有。'],
+]
+
+export default {
+  protected: {
+    rows: [],
+    verText: '',
+    panel: false,
+    taps: 0,
+    tapAt: 0,
+    lockUntil: 0,
+    openAt: 0,
+    seenCount: 0,
+    total: 0,
+    clearedText: '否',
+  },
+
+  onInit() {
+    this.verText = 'v' + APP_VERSION + ' · 手环移植版'
+    this.buildRows()
+    this.refreshState()
+  },
+
+  onShow() { this.refreshState() },
+
+  buildRows() {
+    const rows = [{ t: ' ', s: GAP }]
+    for (let i = 0; i < ABOUT.length; i++) {
+      if (i > 0) rows.push({ t: ' ', s: GAP })
+      rows.push({ t: ABOUT[i][0], s: HEAD })
+      const lines = wrap(ABOUT[i][1])
+      for (let k = 0; k < lines.length; k++) rows.push({ t: lines[k], s: BODY })
+    }
+    rows.push({ t: ' ', s: GAP })
+    rows.push({ t: ' ', s: GAP })
+    this.rows = rows
+  },
+
+  refreshState() {
+    this.total = CG.length
+    loadSeen((list) => { this.seenCount = list.length })
+    loadCleared((ok) => { this.clearedText = ok ? '是' : '否' })
+  },
+
+  // 连点标题 7 下打开面板。两次间隔超过 1.5 秒重新计数；
+  // 面板开关后有一小段冷却，免得手快的人一停不下来把面板反复开关、
+  // 甚至被系统手势判成「返回」把页面带走。
+  titleTap() {
+    const now = Date.now()
+    if (now < this.lockUntil) return
+    if (now - this.tapAt > 1500) this.taps = 0
+    this.tapAt = now
+    this.taps += 1
+    const left = TAPS_TO_OPEN - this.taps
+    if (left <= 0) {
+      this.taps = 0
+      this.openPanel()
+    } else if (left === 3) {
+      prompt.showToast({ message: '再点 3 下' })
+    }
+  },
+
+  openPanel() {
+    /* 打开后 900ms 内不再接受点击，避免同一下触摸既开又关 */
+    this.lockUntil = Date.now() + 900
+    this.openAt = Date.now()
+    this.refreshState()
+    this.panel = true
+  },
+
+  closePanel() {
+    /* 刚打开的 400ms 内忽略（那一下可能还在同一串连点里） */
+    if (Date.now() - this.openAt < 400) return
+    this.panel = false
+    this.taps = 0
+    this.lockUntil = Date.now() + 500
+  },
+
+  // 系统返回/右滑返回：面板开着就先收面板；刚点过标题的 1.5 秒内当成误触吞掉，
+  // 其余情况正常返回，避免连点被手势判成返回把页面带走。
+  onBackPress() {
+    if (this.panel) {
+      this.panel = false
+      this.taps = 0
+      this.lockUntil = Date.now() + 500
+      return true
+    }
+    if (Date.now() - this.tapAt < 1500) return true
+    router.back()
+    return true
+  },
+
+  unlockCg() {
+    saveSeen(CG.slice(), () => {
+      this.refreshState()
+      prompt.showToast({ message: '已解锁全部 ' + CG.length + ' 张 CG' })
+    })
+  },
+
+  markClearedNow() {
+    markCleared(() => {
+      this.refreshState()
+      prompt.showToast({ message: '已标记通关' })
+    })
+  },
+
+  resetCg() {
+    saveSeen([], () => {
+      this.refreshState()
+      prompt.showToast({ message: 'CG 记录已清空' })
+    })
+  },
+
+  toEndingC() { router.replace({ uri: 'pages/game', params: { at: 'Chapter_0' } }) },
+  toEndingK() { router.replace({ uri: 'pages/game', params: { at: 'Chapter_2' } }) },
+
+  ban() {},
+  back() { router.back() },
+}
+</script>

@@ -1,0 +1,128 @@
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss2	-	-	cloth:scs3
+s	宁桐雨	所以说...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss1	-	-	cloth:scs3
+p	n	l	sf16	-	-	cloth:scf5
+p	x	r	ss1	-	-	cloth:scs3
+p	n	l	sf16	-	-	cloth:scf5
+p	x	r	ss12	-	-	cloth:scs3
+s	余晓鑫	小宁，明明是你忽视了我的话，怎么又变成了针对我的批斗了...
+p	n	l	sf16	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	真的是，我又不是小孩子了，
+p	n	l	sf16	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	余晓鑫	有必要整天这么管着我嘛...
+p	n	l	ss5	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	在我眼里，你就是个没长大的孩子...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	这不明显就是一般家庭里的妈妈会说的话嘛...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss12	-	-	cloth:scs3
+s	余晓鑫	说你像老妈子你还不信...
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf6	-	-	cloth:scf3
+s		说着，她露出了无可奈何的表情。
+h	n
+h	x
+b	dour1_a
+s		接着，她停下了跟我的打趣，从身后掏出了一本有些年代感的相册，
+p	x	c	sf4	-	-	cloth:scf3
+p	x	c	sf4	-	-	cloth:scf3
+s	余晓鑫	算了，咱们还是先来说下正事吧？
+p	x	c	sf6	-	-	cloth:scf3
+s	余晓鑫	可以的话，我能把这本本子带着一起回家吗？
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	这是哪里找来的？
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	切，刚刚小宁不是不搭理咱嘛，我只好擦擦柜子桌子咯。
+p	x	l	ss10	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	顺便翻一翻咱俩的杂物看看有没有什么遗漏的东西。
+p	x	l	ss10	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	话说这不就应该是你今天下午的本职工作嘛...
+p	x	l	ss10	-	-	cloth:scs3
+p	n	r	sf25	-	-	cloth:scf5
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf25	-	-	cloth:scf5
+s	宁桐雨	还有，什么叫不搭理你“才”去干的...感情你把摸鱼当做主业了是吧...
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf15	-	-	cloth:scf5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf15	-	-	cloth:scf5
+s	余晓鑫	都说啦真的是，先别批斗我了，
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf15	-	-	cloth:scf5
+s	余晓鑫	先告诉我可不可以啦。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf15	-	-	cloth:scf5
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss1	-	-	cloth:scs5
+s	宁桐雨	可以是可以啦，
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	宁桐雨	不过，这本破相册有什么吸引力啊？
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s		面对我的提问，她露出了狡猾的微笑，
+s		刚才怯懦的神态顿时无影无踪了。
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	因为啊，你看，
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s		说着她翻开了那本相册，
+h	x
+h	n
+b	album
+s		我凑过去看向那本相册，却被第一页上的头一张照片吓了一跳。
+s		那是我小学一年级的时候上台分享故事时班主任拍的，
+s		在旁边还有一段潦草的字迹，那是班主任的评语，
+s		再往后翻的时候，我逐渐开始后悔为何当初要这么轻易答应她了。
+s		相册里大多数是我的单人照，当然也有部分和她一块拍的。
+s		时间大抵都是小学，而地点则显得五花八门，从公园到餐馆到处都有。
+s		春游时候拍的合照，集体志愿活动的留影，
+s		如果仅仅是这些照片还则罢了，但偏偏里面还夹杂了不少妈妈拍的照片...
+s		不如说，在这个几乎完全数字化的时代，成天整理相册的也只有她了吧。
+s		那些照片上的我不仅样貌与一贯“文静内敛”的我大相径庭，
+s		就连发型都是我妈妈强迫我绑的双马尾...
+s		毫无疑问...这就是我的...
+s		黑历史大全集...
+b	dour1_a
+p	x	c	sf4	-	-	cloth:scf3
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	一开始找到的时候我纳闷极了呐，
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	没想到小宁居然还有整理相册的习惯啊~
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s		面对着她不怀好意的称赞，我完全高兴不起来，
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss2	-	-	cloth:scs5
+s	宁桐雨	啊...是，是啊，所以你也要好好归东西才是...
+p	x	l	sf4	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	那我就把它拿走咯~
+p	x	l	ss21	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5
+s	宁桐雨	等下！
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf16	-	-	cloth:scf5

@@ -1,0 +1,145 @@
+<template>
+  <div class="page" onswipe="ban">
+    <image class="headbar" src="/common/img/ui/headbar.png"></image>
+    <text class="title">存档</text>
+    <text class="sub">点按读取 · 长按删除</text>
+
+    <list id="save-list" class="lst" bounces="true" onswipe="ban">
+      <list-item class="item" for="{{rows}}" tid="cid" onclick="pick($idx)" onlongpress="askDelete($idx)" onswipe="ban">
+        <div class="card">
+          <text class="no">{{$item.no}}</text>
+          <text class="nm">{{$item.name}}</text>
+          <text class="tm">{{$item.time}}</text>
+        </div>
+      </list-item>
+    </list>
+
+    <div class="back" onclick="back" onswipe="ban"><text class="btn-t">返回</text></div>
+
+    <div class="scrim" if="{{asking}}" onclick="cancelDelete" onswipe="ban"></div>
+    <div class="dialog" if="{{asking}}">
+      <text class="dg-t">删除存档 {{askSlot + 1}}？</text>
+      <text class="dg-sub">删除后无法恢复</text>
+      <div class="dg-row">
+        <div class="dg-btn" onclick="cancelDelete" onswipe="ban"><text class="dg-bt">取消</text></div>
+        <div class="dg-btn dg-danger" onclick="doDelete" onswipe="ban"><text class="dg-bt">删除</text></div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<style>
+  .page { width: 336px; height: 480px; background-color: #f5f5f7; position: relative; }
+  .headbar { position: absolute; top: 0px; left: 0px; width: 336px; height: 72px; }
+  .title { position: absolute; top: 10px; left: 0px; width: 336px; text-align: center;
+           font-size: 30px; color: #f2f2f4; font-weight: bold; }
+  .sub { position: absolute; top: 44px; left: 0px; width: 336px; text-align: center;
+         font-size: 14px; color: #d6d6da; }
+
+  .lst { position: absolute; top: 88px; left: 0px; width: 336px; height: 330px; }
+  .item { width: 336px; height: 62px; }
+  .card { width: 312px; height: 54px; margin-left: 12px; margin-top: 8px; border-radius: 12px;
+          background-color: rgba(255, 255, 255, 0.92); border: 1px solid #e0e0e0;
+          flex-direction: row; align-items: center; padding-left: 14px; padding-right: 14px; }
+  .no { font-size: 20px; color: #999999; width: 30px; }
+  .nm { font-size: 23px; color: #222222; width: 190px; lines: 1; font-weight: bold; }
+  .tm { font-size: 16px; color: #999999; width: 66px; text-align: right; }
+
+  .back { position: absolute; top: 428px; left: 50px; width: 236px; height: 44px;
+          border-radius: 22px; background-color: #ffffff; border: 1px solid #e0e0e0;
+          align-items: center; justify-content: center; }
+  .btn-t { font-size: 24px; color: #333333; font-weight: bold; }
+
+  .scrim { position: absolute; top: 0px; left: 0px; width: 336px; height: 480px;
+           background-color: rgba(0, 0, 0, 0.42); }
+  .dialog { position: absolute; top: 150px; left: 28px; width: 280px; height: 180px;
+            border-radius: 16px; background-color: #ffffff; flex-direction: column;
+            align-items: center; padding-top: 22px; }
+  .dg-t { font-size: 26px; color: #222222; font-weight: bold; }
+  .dg-sub { font-size: 17px; color: #999999; margin-top: 8px; margin-bottom: 22px; }
+  .dg-row { width: 220px; flex-direction: row; justify-content: space-between; }
+  .dg-btn { width: 100px; height: 44px; border-radius: 22px; background-color: #f0f0f0;
+            align-items: center; justify-content: center; }
+  .dg-danger { background-color: #ea6c6c; }
+  .dg-bt { font-size: 22px; color: #333333; }
+  .dialog .dg-danger .dg-bt { color: #ffffff; }
+</style>
+
+<script>
+import router from '@system.router'
+import prompt from '@system.prompt'
+import { loadSaves, saveSaves, MAX_SLOTS } from '../../common/reader.js'
+
+function stamp(ts) {
+  if (!ts) return ''
+  const d = new Date(ts)
+  const hh = d.getHours()
+  const mi = d.getMinutes()
+  return (d.getMonth() + 1) + '/' + d.getDate() + ' ' + (hh < 10 ? '0' : '') + hh + ':' + (mi < 10 ? '0' : '') + mi
+}
+
+export default {
+  protected: {
+    mode: 'load',
+    rows: [],
+    asking: false,
+    askSlot: 0,
+  },
+
+  onInit() {
+    this.lock = 0
+    this.refresh()
+  },
+  onShow() { this.refresh() },
+
+  refresh() {
+    loadSaves((list) => {
+      const rows = []
+      for (let i = 0; i < MAX_SLOTS; i++) {
+        const d = list[i]
+        rows.push({
+          no: String(i + 1),
+          name: d ? (d.chapterTitle || d.tail || '存档') : '空',
+          time: d ? stamp(d.at) : '',
+          slot: i,
+          used: !!d,
+        })
+      }
+      this.rows = rows
+    })
+  },
+
+  pick(i) {
+    if (Date.now() - this.lock < 400) return
+    this.lock = Date.now()
+    const row = this.rows[i]
+    if (!row) return
+    if (!row.used) { prompt.showToast({ message: '这个存档位还是空的' }); return }
+    router.replace({ uri: 'pages/game', params: { load: String(row.slot) } })
+  },
+
+  askDelete(i) {
+    const row = this.rows[i]
+    if (!row || !row.used) return
+    this.askSlot = row.slot
+    this.asking = true
+  },
+
+  cancelDelete() { this.asking = false },
+
+  doDelete() {
+    loadSaves((list) => {
+      const next = list.slice()
+      next[this.askSlot] = null
+      saveSaves(next, () => {
+        this.asking = false
+        this.refresh()
+        prompt.showToast({ message: '已删除' })
+      })
+    })
+  },
+
+  ban() {},
+  back() { router.back() },
+}
+</script>

@@ -1,0 +1,128 @@
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	你记起来了没有，就是咱俩在景区门口排队用的？
+p	x	l	ss19	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	那时候小宁你成天抱怨着没个坐的地方，所以我就特地跑去帮你买的~
+p	x	l	ss12	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	余晓鑫	不过这玩意想起来还是个景区价...
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss4	-	-	cloth:scs5
+s	宁桐雨	那为什么现在看起来像被肢解了一样？
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss4	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	起因是有一次我要取一个摆在柜子顶上的物件啦，我想着就拿它来垫垫脚吧，
+p	x	l	sf12	-	-	cloth:scf3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	没想到我刚一踩上去，它突然“啪嚓”一下，就断开了。
+p	x	l	ss8	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+s	余晓鑫	我是真没想到啊，它的质量...
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss3	-	-	cloth:scs5
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss12	-	-	cloth:scs5
+s	宁桐雨	好了，具体情况我有数了，是你该减肥了。
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	ss6	-	-	cloth:scs5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	ss6	-	-	cloth:scs5
+s	余晓鑫	明明只是因为我个子比较高而已，论单位质量，咱俩可是差不多的。
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	ss6	-	-	cloth:scs5
+p	x	l	sf8	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	行行行，你说得都对，但拜托您安静一会，耳朵都要出老茧了。
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf28	-	-	cloth:scf5
+s	宁桐雨	至于这个破板凳，扔了吧，放在柜子里纯粹是占地方，
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	我下次给你买个新的，质量好一点的，
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+s	宁桐雨	反正总共也要不了多少钱，
+p	x	l	sf6	-	-	cloth:scf3
+p	n	r	sf14	-	-	cloth:scf5
+p	x	l	ss1	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+s	余晓鑫	嗯，好，好的，
+p	x	l	ss2	-	-	cloth:scs3
+p	n	r	sf14	-	-	cloth:scf5
+h	x
+h	n
+b	dour1_m
+s		自那之后，她终于彻底闭上了嘴巴，不再来烦我了。
+s		对我来说，这自然是天大的好事，毕竟不需要应付无聊对话的我工作效率可谓是翻了几倍。
+s		更令我意外的是，在这之后，她居然真的乖乖地去干活了。
+s		虽然确实如她所说，她干的活与我相比确实只能算是边角料，但也总算是没帮倒忙。
+s		又或者说，她对经手我的东西还是有心理阴影，
+s		毕竟前不久刚刚因为不小心拆掉了妈妈留给我的刺绣扇子的线头而挨了好一顿骂...
+s		所以说，干干擦玻璃扫垃圾的杂活也不错。
+s		手上忙个不停的我脑子里也全是这样不着调的胡思乱想，
+s		毕竟日子每一天过得太过枯燥，偶尔这么想想也算是有了一些事情去做。
+b	black
+b	dour1_a
+s		终于，在饭点之前，我们总算是把所有的行李规整完毕了。
+s		我长叹了一口气，用尽力气合上了鼓起的旅行包，
+s		看着那三个堆叠在一旁的小提箱，我的心头充满了成就感。
+p	n	c	sf14	-	-	cloth:scf5
+s	宁桐雨	呼...总算是把你这一堆垃圾给归完了。
+s		可看着一旁满脸委屈的她，我突然间感到有些于心不忍了。
+s		好吧，那今天的报复就到此结束吧...
+p	n	c	ss3	-	-	cloth:scs5
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss12	-	-	cloth:scs3
+s	宁桐雨	好啦，姑娘哦，冷战已经结束啦，可以停止扮演哑巴了哦~
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	ss12	-	-	cloth:scs3
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	ss2	-	-	cloth:scs3
+s	余晓鑫	小宁的脸变得简直比翻书还要快...
+p	n	l	ss1	-	-	cloth:scs5
+p	x	r	ss12	-	-	cloth:scs3
+p	n	l	ss4	-	-	cloth:scs5
+p	x	r	ss12	-	-	cloth:scs3
+s	宁桐雨	哪有，你也不先看看你自己办的事情，
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss12	-	-	cloth:scs3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+s	余晓鑫	我干的事情？
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+s	宁桐雨	自从你闭上嘴巴之后，咱们办事的效率可就快多了~
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf1	-	-	cloth:scf3
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf8	-	-	cloth:scf3
+s	余晓鑫	嗐，可我刚才明明一直在向你搭话，你却没理我，
+p	n	l	sf14	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+s	宁桐雨	诶？这样吗？
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf6	-	-	cloth:scf3
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	原来真不是装出来没听见啊...
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	sf4	-	-	cloth:scf3
+s	余晓鑫	你一直自顾自地忙着往箱子里装东西，完全没听我讲话，
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	ss1	-	-	cloth:scs3
+s	余晓鑫	我是没想到有的人能洁癖到这种程度的...
+p	n	l	sf12	-	-	cloth:scf5
+p	x	r	ss2	-	-	cloth:scs3
+p	n	l	ss3	-	-	cloth:scs5
+p	x	r	ss2	-	-	cloth:scs3
+s	宁桐雨	呵，但凡你要是能有点自理能力的话，也不至于一点自理能力也没有啊...

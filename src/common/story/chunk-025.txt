@@ -1,0 +1,128 @@
+p	n	l	ss3	-	-	cloth:scs1
+p	y	r	ss10	-	-	cloth:sc1
+p	n	l	sf16	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s	宁桐雨	唉...
+p	n	l	sf16	-	-	cloth:scf1
+p	y	r	ss10	-	-	cloth:sc1
+s		我无奈地叹了口气。
+h	n
+h	y
+b	off_m
+b	scor_m
+s		我推开门，面对着我的是一如既往的空旷走廊。
+s		冷风扑面而来，我不禁打了个寒颤。
+s		由于再不抓紧就要迟到了，我加快了脚步。
+b	classroom1
+s		可是，回去，回到了教室能怎样呢？
+s		光是做完每天的作业就已经筋疲力竭，同学们谈论的话题我也完全插不进去。
+s		每到下课时间，同学们就在我旁边的座位聚成了几个小圈子。
+s		远远看过去，每个人都有所归属，而只有我一个人趴在桌子上写着作业。
+s		那种感觉...就像是被孤立了一样...
+s		尽管大概率没人会在乎这件事，可我自从升上高二之后改掉了下课写作业的习惯。
+s		相对应地，我会到走廊里去转转。
+s		虽然仍然是形单影只，不过总比一个人写作业要强。
+p	n	c	sf25	-	-	cloth:scf1
+s	宁桐雨	再这样下去的话，会被人当成阴沉的书呆子的...
+s		虽然我也并不是没做过加入那些小圈子的尝试。
+s		但他们所讨论的小说，电视剧，游戏，我都不了解。
+s		而专门为了聊天去入坑又让我感到得不偿失。
+s		结果，插入话题的尝试最终大多都转为了尬聊。
+s		社团，学生组织什么的，对我来说就更是遥不可及了。
+s		一方面是实在没有那种闲工夫，另一方面则是因为学校里本身也不太允许这些元素的存在。
+s		每年一度的元旦文艺汇演已经是学校所能容纳的最大限度的娱乐了。
+s		动画里和青春剧里的那种生活离我太远，太远了。
+s		甚至过上和班级里其他同学一样充实的高中生活对我来说都是一种奢望。
+s		结果到头来，去老姐那里度过的午休反倒成了一天中最愉快的时光。
+s		毕竟坐在与我毫无关系的教室简直就是酷刑。
+s		话说啊...
+h	n
+b	classroom1
+s		我在心头默念着她的名字，身体已不知不觉地转了过去，
+s		她的座位上仍然空空如也。
+s		椅背上搭着秋季校服的外套，桌子上整整齐齐地摆着一摞摞的练习册。
+s		一到了下课就见不着她的人影...
+b	black
+s		她到底是去了哪里呢？
+s		就算再怎么忙，也不至于每天下课都不在吧...
+b	classroom1
+p	n	c	ss12	-	-	cloth:scs1
+s	宁桐雨	切，谁会在乎啦，真的是。
+p	n	c	ss3	-	-	cloth:scs1
+s	宁桐雨	那种小心眼的女人，就随她去好了。
+s		最后，我只能这么安慰着自己。
+h	n
+b	black
+b	off_m
+s		就这样，一天，两天，三天，过完了周末之后已经到了新的一周。
+s		夏天的最后一抹尾巴渐渐淡去，空气中已经可以隐约感受到秋日的寒意。
+s		心理办公室里养的菊花从青青的花苞转变成了盛开的笑脸，
+s		一边书架上我带来的漫画也被我来来回回翻了好几遍，
+s		甚至老姐每天中午带过来的点心也开始重复了，
+s		于是，我渐渐地开始对中午的这段时光感到腻味了。
+p	n	c	ss1	-	-	cloth:scs1
+p	n	l	ss1	-	-	cloth:scs1
+p	y	r	ss4	-	-	cloth:sc1
+p	n	l	ss1	-	-	cloth:scs1
+p	y	r	ss4	-	-	cloth:sc1
+s	杨老师	小宁，我觉得你还是去交几个朋友比较好。
+p	n	l	ss1	-	-	cloth:scs1
+p	y	r	ss4	-	-	cloth:sc1
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss4	-	-	cloth:sc1
+s		这一天，老姐突然这么说道。
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss4	-	-	cloth:sc1
+s	宁桐雨	嗯，怎么突然没头没尾地聊起这个了？
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss4	-	-	cloth:sc1
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss3	-	-	cloth:sc1
+s	杨老师	因为小宁一直都在说，自己在班级里挺没存在感的。
+p	n	l	sf12	-	-	cloth:scf1
+p	y	r	ss6	-	-	cloth:sc1
+s	杨老师	老姐我真的好担心哦~
+p	n	l	ss3	-	-	cloth:scs1
+p	y	r	ss6	-	-	cloth:sc1
+s		我抬起头瞟了老姐一眼。
+s		果然，她看向我的还是那种不怀好意的眼神。
+p	n	l	ss3	-	-	cloth:scs1
+p	y	r	ss10	-	-	cloth:sc1
+s	杨老师	所以我想，小宁你啊...是不是加入别人的小圈子里会更好一些呢？
+p	n	l	ss3	-	-	cloth:scs1
+p	y	r	ss10	-	-	cloth:sc1
+p	n	l	ss12	-	-	cloth:scs1
+p	y	r	ss10	-	-	cloth:sc1
+s	宁桐雨	嗐...
+p	n	l	ss3	-	-	cloth:scs1
+p	y	r	ss10	-	-	cloth:sc1
+h	n
+h	y
+b	off_m
+s		我轻轻地叹了口气。
+s		也不知道老姐是在演戏，还是真的不了解我。
+s		但依据我对她品性的了解，还是前者的可能性比较大。
+p	y	c	ss10	-	-	cloth:sc1
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf10	-	-	cloth:scf1
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf10	-	-	cloth:scf1
+s	宁桐雨	老姐，你刚才的话，本末倒置了。
+p	y	l	ss10	-	-	cloth:sc1
+p	n	r	sf10	-	-	cloth:scf1
+p	y	l	ss4	-	-	cloth:sc1
+p	n	r	sf10	-	-	cloth:scf1
+s	杨老师	嗯？
+p	y	l	ss4	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+s	宁桐雨	就是因为我交不到朋友，在班级里才会没什么存在感的啊。
+p	y	l	ss4	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+s	杨老师	那为什么交不到朋友呢？
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	sf16	-	-	cloth:scf1
+p	y	l	ss3	-	-	cloth:sc1
+p	n	r	ss3	-	-	cloth:scs1
+s	宁桐雨	我跟他们都没什么可聊的，他们聊的东西我又不熟。
